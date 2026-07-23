@@ -1,0 +1,20 @@
+numpy
+pandas
+scikit-learn
+statsmodels
+fg-data-profiling
+pyclustertend
+xgboost
+dotenv
+category_encoders
+setuptools < 81
+boto3
+kneed
+snowflake-connector-python
+onnxruntime 
+transformers
+pyarrow
+wordcloud
+matplotlib
+umap-learn
+yake

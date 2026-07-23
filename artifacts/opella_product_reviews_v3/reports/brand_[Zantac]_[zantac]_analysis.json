@@ -1,0 +1,1244 @@
+{
+    "product": {
+        "report_type": "brand",
+        "group_by": "BRAND_NAME",
+        "identifier": "Zantac",
+        "brand_name": "Zantac",
+        "products": 8,
+        "asin": [
+            "B0BVBRDYPM",
+            "B09GK77FMV",
+            "B0FTT5N9XL",
+            "B091BH175S",
+            "B091BH3NWG",
+            "B091BL16Y4",
+            "B0DWHHSSK2",
+            "B0DP3BG4V7"
+        ],
+        "reviews": 502,
+        "average_rating": 4.27,
+        "average_sentiment": 0.819
+    },
+    "macro_personas": [
+        {
+            "cluster": 0,
+            "universal_persona": {
+                "population": 11231,
+                "population_pct": 20.6,
+                "certainty": 0.997,
+                "positive_pct": 86.88,
+                "neutral_pct": 4.03,
+                "negative_pct": 9.08,
+                "avg_rating": 4.49,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 3735,
+                        "share": 33.26
+                    },
+                    "Dulcolax": {
+                        "reviews": 1768,
+                        "share": 15.74
+                    },
+                    "Cortizone 10": {
+                        "reviews": 1000,
+                        "share": 8.9
+                    },
+                    "Icy Hot": {
+                        "reviews": 985,
+                        "share": 8.77
+                    },
+                    "ACT": {
+                        "reviews": 904,
+                        "share": 8.05
+                    },
+                    "Allegra": {
+                        "reviews": 743,
+                        "share": 6.62
+                    },
+                    "Aspercreme": {
+                        "reviews": 657,
+                        "share": 5.85
+                    },
+                    "Selsun Blue": {
+                        "reviews": 403,
+                        "share": 3.59
+                    },
+                    "Nasacort": {
+                        "reviews": 293,
+                        "share": 2.61
+                    },
+                    "Xyzal": {
+                        "reviews": 253,
+                        "share": 2.25
+                    },
+                    "Unisom": {
+                        "reviews": 215,
+                        "share": 1.91
+                    },
+                    "Zantac": {
+                        "reviews": 215,
+                        "share": 1.91
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 27,
+                        "share": 0.24
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 22,
+                        "share": 0.2
+                    },
+                    "Buscapina": {
+                        "reviews": 11,
+                        "share": 0.1
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Daily Wellness Maintainers",
+                    "summary": "Customers seeking reliable products to support everyday health routines and prevention.",
+                    "decision_drivers": [
+                        "Effectiveness",
+                        "Quality",
+                        "Trusted brand",
+                        "Ease of use"
+                    ],
+                    "satisfaction_drivers": [
+                        "Long-lasting relief",
+                        "Meets daily needs",
+                        "Minimal side effects",
+                        "Trusted solution"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short duration",
+                        "Unpleasant side effects",
+                        "Poor value"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 0,
+                "share": 0.428,
+                "certainty": 0.993,
+                "reviews": 215,
+                "average_rating": 4.65,
+                "average_sentiment": 0.912
+            },
+            "comparison": {
+                "share_lift": 2.08,
+                "rating_delta": 0.16
+            }
+        },
+        {
+            "cluster": 6,
+            "universal_persona": {
+                "population": 5088,
+                "population_pct": 9.33,
+                "certainty": 0.995,
+                "positive_pct": 78.3,
+                "neutral_pct": 5.76,
+                "negative_pct": 15.94,
+                "avg_rating": 4.2,
+                "brand_distribution": {
+                    "Dulcolax": {
+                        "reviews": 1835,
+                        "share": 36.07
+                    },
+                    "Allegra": {
+                        "reviews": 1028,
+                        "share": 20.2
+                    },
+                    "Unisom": {
+                        "reviews": 743,
+                        "share": 14.6
+                    },
+                    "Xyzal": {
+                        "reviews": 443,
+                        "share": 8.71
+                    },
+                    "Nasacort": {
+                        "reviews": 324,
+                        "share": 6.37
+                    },
+                    "Zantac": {
+                        "reviews": 179,
+                        "share": 3.52
+                    },
+                    "Gold Bond": {
+                        "reviews": 159,
+                        "share": 3.12
+                    },
+                    "ACT": {
+                        "reviews": 116,
+                        "share": 2.28
+                    },
+                    "Cortizone 10": {
+                        "reviews": 75,
+                        "share": 1.47
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 66,
+                        "share": 1.3
+                    },
+                    "Icy Hot": {
+                        "reviews": 48,
+                        "share": 0.94
+                    },
+                    "Aspercreme": {
+                        "reviews": 25,
+                        "share": 0.49
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 23,
+                        "share": 0.45
+                    },
+                    "Selsun Blue": {
+                        "reviews": 12,
+                        "share": 0.24
+                    },
+                    "Buscapina": {
+                        "reviews": 11,
+                        "share": 0.22
+                    },
+                    "Magne B6": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Symptom Relief Seekers",
+                    "summary": "Customers looking for fast, effective relief from acute symptoms.",
+                    "decision_drivers": [
+                        "Fast-acting",
+                        "Proven effectiveness",
+                        "Long-lasting relief",
+                        "Minimal side effects"
+                    ],
+                    "satisfaction_drivers": [
+                        "Quickly alleviates symptoms",
+                        "Long duration of effects",
+                        "No harsh side effects",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short-lived effects",
+                        "Unpleasant side effects",
+                        "Inconvenient usage"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 6,
+                "share": 0.357,
+                "certainty": 0.996,
+                "reviews": 179,
+                "average_rating": 4.53,
+                "average_sentiment": 0.883
+            },
+            "comparison": {
+                "share_lift": 3.83,
+                "rating_delta": 0.33
+            }
+        },
+        {
+            "cluster": 5,
+            "universal_persona": {
+                "population": 4604,
+                "population_pct": 8.45,
+                "certainty": 0.995,
+                "positive_pct": 22.26,
+                "neutral_pct": 13.66,
+                "negative_pct": 64.07,
+                "avg_rating": 2.21,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 3046,
+                        "share": 66.16
+                    },
+                    "Cortizone 10": {
+                        "reviews": 312,
+                        "share": 6.78
+                    },
+                    "Icy Hot": {
+                        "reviews": 242,
+                        "share": 5.26
+                    },
+                    "Aspercreme": {
+                        "reviews": 216,
+                        "share": 4.69
+                    },
+                    "ACT": {
+                        "reviews": 211,
+                        "share": 4.58
+                    },
+                    "Dulcolax": {
+                        "reviews": 157,
+                        "share": 3.41
+                    },
+                    "Allegra": {
+                        "reviews": 139,
+                        "share": 3.02
+                    },
+                    "Nasacort": {
+                        "reviews": 87,
+                        "share": 1.89
+                    },
+                    "Xyzal": {
+                        "reviews": 68,
+                        "share": 1.48
+                    },
+                    "Zantac": {
+                        "reviews": 58,
+                        "share": 1.26
+                    },
+                    "Selsun Blue": {
+                        "reviews": 42,
+                        "share": 0.91
+                    },
+                    "Unisom": {
+                        "reviews": 17,
+                        "share": 0.37
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 3,
+                        "share": 0.07
+                    },
+                    "Buscapina": {
+                        "reviews": 3,
+                        "share": 0.07
+                    },
+                    "Magne B6": {
+                        "reviews": 2,
+                        "share": 0.04
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Product Experience Critics",
+                    "summary": "Customers focused on product usability and delivery mechanisms over ingredients.",
+                    "decision_drivers": [
+                        "Ease of application",
+                        "Convenient packaging",
+                        "Innovative delivery"
+                    ],
+                    "satisfaction_drivers": [
+                        "Hassle-free usage",
+                        "Precise application",
+                        "Portable packaging"
+                    ],
+                    "frustration_drivers": [
+                        "Difficult application",
+                        "Faulty packaging/sprayers",
+                        "Messy or wasteful"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 5,
+                "share": 0.116,
+                "certainty": 0.999,
+                "reviews": 58,
+                "average_rating": 1.84,
+                "average_sentiment": 0.211
+            },
+            "comparison": {
+                "share_lift": 1.37,
+                "rating_delta": -0.37
+            }
+        },
+        {
+            "cluster": 2,
+            "universal_persona": {
+                "population": 2128,
+                "population_pct": 3.9,
+                "certainty": 1.0,
+                "positive_pct": 91.92,
+                "neutral_pct": 2.11,
+                "negative_pct": 5.97,
+                "avg_rating": 4.67,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 556,
+                        "share": 26.13
+                    },
+                    "Icy Hot": {
+                        "reviews": 272,
+                        "share": 12.78
+                    },
+                    "Selsun Blue": {
+                        "reviews": 258,
+                        "share": 12.12
+                    },
+                    "Cortizone 10": {
+                        "reviews": 222,
+                        "share": 10.43
+                    },
+                    "Dulcolax": {
+                        "reviews": 199,
+                        "share": 9.35
+                    },
+                    "Allegra": {
+                        "reviews": 143,
+                        "share": 6.72
+                    },
+                    "ACT": {
+                        "reviews": 136,
+                        "share": 6.39
+                    },
+                    "Aspercreme": {
+                        "reviews": 123,
+                        "share": 5.78
+                    },
+                    "Buscapina": {
+                        "reviews": 97,
+                        "share": 4.56
+                    },
+                    "Unisom": {
+                        "reviews": 50,
+                        "share": 2.35
+                    },
+                    "Xyzal": {
+                        "reviews": 38,
+                        "share": 1.79
+                    },
+                    "Zantac": {
+                        "reviews": 16,
+                        "share": 0.75
+                    },
+                    "Nasacort": {
+                        "reviews": 13,
+                        "share": 0.61
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 4,
+                        "share": 0.19
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.05
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Oral Hygiene Prioritizers",
+                    "summary": "Customers focused on maintaining good oral health through daily routines.",
+                    "decision_drivers": [
+                        "Dentist recommended",
+                        "Proven effectiveness",
+                        "Kid-friendly options",
+                        "Convenient usage"
+                    ],
+                    "satisfaction_drivers": [
+                        "Fresh breath",
+                        "Prevents cavities/gum issues",
+                        "Easy to use",
+                        "Pleasant taste/scent"
+                    ],
+                    "frustration_drivers": [
+                        "Unpleasant taste/smell",
+                        "Ineffective results",
+                        "Difficult to use",
+                        "Harsh ingredients"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 2,
+                "share": 0.032,
+                "certainty": 1.0,
+                "reviews": 16,
+                "average_rating": 4.0,
+                "average_sentiment": 0.75
+            },
+            "comparison": {
+                "share_lift": 0.82,
+                "rating_delta": -0.67
+            }
+        },
+        {
+            "cluster": 3,
+            "universal_persona": {
+                "population": 6176,
+                "population_pct": 11.33,
+                "certainty": 0.999,
+                "positive_pct": 84.5,
+                "neutral_pct": 5.04,
+                "negative_pct": 10.46,
+                "avg_rating": 4.42,
+                "brand_distribution": {
+                    "ACT": {
+                        "reviews": 5502,
+                        "share": 89.09
+                    },
+                    "Dulcolax": {
+                        "reviews": 324,
+                        "share": 5.25
+                    },
+                    "Xyzal": {
+                        "reviews": 104,
+                        "share": 1.68
+                    },
+                    "Allegra": {
+                        "reviews": 78,
+                        "share": 1.26
+                    },
+                    "Gold Bond": {
+                        "reviews": 74,
+                        "share": 1.2
+                    },
+                    "Icy Hot": {
+                        "reviews": 24,
+                        "share": 0.39
+                    },
+                    "Cortizone 10": {
+                        "reviews": 21,
+                        "share": 0.34
+                    },
+                    "Zantac": {
+                        "reviews": 14,
+                        "share": 0.23
+                    },
+                    "Unisom": {
+                        "reviews": 13,
+                        "share": 0.21
+                    },
+                    "Aspercreme": {
+                        "reviews": 10,
+                        "share": 0.16
+                    },
+                    "Selsun Blue": {
+                        "reviews": 9,
+                        "share": 0.15
+                    },
+                    "Buscapina": {
+                        "reviews": 1,
+                        "share": 0.02
+                    },
+                    "Nasacort": {
+                        "reviews": 1,
+                        "share": 0.02
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Pediatric Care Facilitators",
+                    "summary": "Parents/caregivers seeking safe, effective solutions for children's health needs.",
+                    "decision_drivers": [
+                        "Kid-friendly formulations",
+                        "Gentle ingredients",
+                        "Proven effectiveness",
+                        "Pediatrician recommended"
+                    ],
+                    "satisfaction_drivers": [
+                        "Easy administration",
+                        "Fast-acting relief",
+                        "No harsh side effects",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Unpleasant taste/smell",
+                        "Difficulty administering",
+                        "Lack of results",
+                        "Harsh side effects"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 3,
+                "share": 0.028,
+                "certainty": 0.994,
+                "reviews": 14,
+                "average_rating": 4.86,
+                "average_sentiment": 0.964
+            },
+            "comparison": {
+                "share_lift": 0.25,
+                "rating_delta": 0.44
+            }
+        },
+        {
+            "cluster": 7,
+            "universal_persona": {
+                "population": 4657,
+                "population_pct": 8.54,
+                "certainty": 0.995,
+                "positive_pct": 74.38,
+                "neutral_pct": 6.81,
+                "negative_pct": 18.81,
+                "avg_rating": 4.07,
+                "brand_distribution": {
+                    "Icy Hot": {
+                        "reviews": 2496,
+                        "share": 53.6
+                    },
+                    "Aspercreme": {
+                        "reviews": 1197,
+                        "share": 25.7
+                    },
+                    "Gold Bond": {
+                        "reviews": 548,
+                        "share": 11.77
+                    },
+                    "Cortizone 10": {
+                        "reviews": 190,
+                        "share": 4.08
+                    },
+                    "Dulcolax": {
+                        "reviews": 120,
+                        "share": 2.58
+                    },
+                    "Magne B6": {
+                        "reviews": 24,
+                        "share": 0.52
+                    },
+                    "Allegra": {
+                        "reviews": 22,
+                        "share": 0.47
+                    },
+                    "ACT": {
+                        "reviews": 19,
+                        "share": 0.41
+                    },
+                    "Zantac": {
+                        "reviews": 12,
+                        "share": 0.26
+                    },
+                    "Xyzal": {
+                        "reviews": 7,
+                        "share": 0.15
+                    },
+                    "Buscapina": {
+                        "reviews": 7,
+                        "share": 0.15
+                    },
+                    "Selsun Blue": {
+                        "reviews": 6,
+                        "share": 0.13
+                    },
+                    "Unisom": {
+                        "reviews": 4,
+                        "share": 0.09
+                    },
+                    "Nasacort": {
+                        "reviews": 3,
+                        "share": 0.06
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 2,
+                        "share": 0.04
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Pain Relief Prioritizers",
+                    "summary": "Customers seeking effective, targeted relief from muscle/joint pains.",
+                    "decision_drivers": [
+                        "Fast pain relief",
+                        "Long-lasting effects",
+                        "Targeted application",
+                        "Ease of use"
+                    ],
+                    "satisfaction_drivers": [
+                        "Quickly reduces pain",
+                        "Long duration of effects",
+                        "Convenient application",
+                        "No mess or residue"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective results",
+                        "Short-lived relief",
+                        "Difficult application",
+                        "Unpleasant smell/feel"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 7,
+                "share": 0.024,
+                "certainty": 0.999,
+                "reviews": 12,
+                "average_rating": 4.75,
+                "average_sentiment": 0.938
+            },
+            "comparison": {
+                "share_lift": 0.28,
+                "rating_delta": 0.68
+            }
+        },
+        {
+            "cluster": 4,
+            "universal_persona": {
+                "population": 339,
+                "population_pct": 0.62,
+                "certainty": 1.0,
+                "positive_pct": 97.94,
+                "neutral_pct": 1.47,
+                "negative_pct": 0.59,
+                "avg_rating": 4.81,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 132,
+                        "share": 38.94
+                    },
+                    "Cortizone 10": {
+                        "reviews": 42,
+                        "share": 12.39
+                    },
+                    "Dulcolax": {
+                        "reviews": 30,
+                        "share": 8.85
+                    },
+                    "Allegra": {
+                        "reviews": 28,
+                        "share": 8.26
+                    },
+                    "Selsun Blue": {
+                        "reviews": 26,
+                        "share": 7.67
+                    },
+                    "ACT": {
+                        "reviews": 25,
+                        "share": 7.37
+                    },
+                    "Aspercreme": {
+                        "reviews": 17,
+                        "share": 5.01
+                    },
+                    "Icy Hot": {
+                        "reviews": 14,
+                        "share": 4.13
+                    },
+                    "Zantac": {
+                        "reviews": 8,
+                        "share": 2.36
+                    },
+                    "Nasacort": {
+                        "reviews": 7,
+                        "share": 2.06
+                    },
+                    "Xyzal": {
+                        "reviews": 7,
+                        "share": 2.06
+                    },
+                    "Buscapina": {
+                        "reviews": 1,
+                        "share": 0.29
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 1,
+                        "share": 0.29
+                    },
+                    "Unisom": {
+                        "reviews": 1,
+                        "share": 0.29
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Trusted Solution Seekers",
+                    "summary": "Customers prioritizing proven, reliable products from trusted brands.",
+                    "decision_drivers": [
+                        "Trusted brand reputation",
+                        "Proven effectiveness",
+                        "Quality ingredients",
+                        "Good value"
+                    ],
+                    "satisfaction_drivers": [
+                        "Delivers expected results",
+                        "Long-lasting effects",
+                        "Minimal side effects",
+                        "Worth the cost"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short duration of effects",
+                        "Unpleasant side effects",
+                        "Poor value for money"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 4,
+                "share": 0.016,
+                "certainty": 1.0,
+                "reviews": 8,
+                "average_rating": 5.0,
+                "average_sentiment": 1.0
+            },
+            "comparison": {
+                "share_lift": 2.58,
+                "rating_delta": 0.19
+            }
+        }
+    ],
+    "trend_analysis": {
+        "timeline": [
+            {
+                "period": "2024-12",
+                "reviews": 73,
+                "average_rating": 3.356,
+                "average_sentiment": 0.589,
+                "cluster_distribution": {
+                    "0": 0.521,
+                    "5": 0.274,
+                    "6": 0.164,
+                    "2": 0.041
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "They donât carry these in the store anymore so I order them off Amazon itâs definitely cheaper and subscribe and save helps me remember to take it and re-order when needed",
+                        "I used this before it was off the shelf so I tried it again but it did not work for me, so I went back to Prilosec",
+                        "I reviewed my list of medicationâs with my doctor at Mayo Clinic today. He had me remove Zantac From my list of medicationâs because That s they have found that It contains filler that is a known carcinogen. They no longer prescribe or recommend Zantac at Mayo Clinic.",
+                        "Love the product but I don't love receiving 2 boxes that will expire in 2 months (which means I'll end up throwing out at least half). I'll go back to buying OTC pharmaceuticals in the store where I can see the pull date.",
+                        "I occasionally use acid reducer about three times a month.. I donât like that the Zantac tablets I received have expiry date 04/2024. I will use about 6 tablets during next1.5 months because today itâs 2/25/2024 and the rest will go into garbage."
+                    ],
+                    "negative_reviews": [
+                        "I reviewed my list of medicationâs with my doctor at Mayo Clinic today. He had me remove Zantac From my list of medicationâs because That s they have found that It contains filler that is a known carcinogen. They no longer prescribe or recommend Zantac at Mayo Clinic.",
+                        "Love the product but I don't love receiving 2 boxes that will expire in 2 months (which means I'll end up throwing out at least half). I'll go back to buying OTC pharmaceuticals in the store where I can see the pull date.",
+                        "I occasionally use acid reducer about three times a month.. I donât like that the Zantac tablets I received have expiry date 04/2024. I will use about 6 tablets during next1.5 months because today itâs 2/25/2024 and the rest will go into garbage.",
+                        "Very disappointedâ¦ both boxes have an expiration date of 4/20/24 which will not allow me to use all the pills before that date!",
+                        "I used this before it was off the shelf so I tried it again but it did not work for me, so I went back to Prilosec"
+                    ]
+                }
+            },
+            {
+                "period": "2025-01",
+                "reviews": 4,
+                "average_rating": 5.0,
+                "average_sentiment": 1.0,
+                "cluster_distribution": {
+                    "0": 1.0
+                },
+                "representative_reviews": {
+                    "positive_reviews": [],
+                    "negative_reviews": []
+                }
+            },
+            {
+                "period": "2025-02",
+                "reviews": 8,
+                "average_rating": 5.0,
+                "average_sentiment": 1.0,
+                "cluster_distribution": {
+                    "6": 0.5,
+                    "0": 0.5
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Zantac helps better than any other over the counter product I have ever used. The size of the pill is small and easy to swallow."
+                    ],
+                    "negative_reviews": [
+                        "Zantac helps better than any other over the counter product I have ever used. The size of the pill is small and easy to swallow."
+                    ]
+                }
+            },
+            {
+                "period": "2025-03",
+                "reviews": 8,
+                "average_rating": 5.0,
+                "average_sentiment": 1.0,
+                "cluster_distribution": {
+                    "6": 0.5,
+                    "0": 0.5
+                },
+                "representative_reviews": {
+                    "positive_reviews": [],
+                    "negative_reviews": []
+                }
+            },
+            {
+                "period": "2025-04",
+                "reviews": 12,
+                "average_rating": 2.667,
+                "average_sentiment": 0.417,
+                "cluster_distribution": {
+                    "5": 0.667,
+                    "0": 0.333
+                },
+                "representative_reviews": {
+                    "positive_reviews": [],
+                    "negative_reviews": []
+                }
+            },
+            {
+                "period": "2025-06",
+                "reviews": 8,
+                "average_rating": 5.0,
+                "average_sentiment": 1.0,
+                "cluster_distribution": {
+                    "0": 0.5,
+                    "6": 0.5
+                },
+                "representative_reviews": {
+                    "positive_reviews": [],
+                    "negative_reviews": []
+                }
+            },
+            {
+                "period": "2025-07",
+                "reviews": 8,
+                "average_rating": 3.0,
+                "average_sentiment": 0.5,
+                "cluster_distribution": {
+                    "6": 1.0
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Beware: This is not the same as the old Zantac that was recalled! Amazon refuses to take it back! It has ingredients similar to Pepcid. Why not just buy Pepcid?"
+                    ],
+                    "negative_reviews": [
+                        "Beware: This is not the same as the old Zantac that was recalled! Amazon refuses to take it back! It has ingredients similar to Pepcid. Why not just buy Pepcid?"
+                    ]
+                }
+            },
+            {
+                "period": "2025-08",
+                "reviews": 26,
+                "average_rating": 3.5,
+                "average_sentiment": 0.625,
+                "cluster_distribution": {
+                    "6": 0.538,
+                    "5": 0.231,
+                    "7": 0.154,
+                    "0": 0.038,
+                    "3": 0.038
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I was so excited to see such as good price on Zantac, but when it arrived I saw the expiration date was just 3 months away. That was disappointing",
+                        "First, it's cheap because the expiration date is 04/2024. Second, the product is ineffective. I took 1 tablet 4 hours ago and I am still feeling heartburn. Going back to Pepcid AC"
+                    ],
+                    "negative_reviews": [
+                        "I was so excited to see such as good price on Zantac, but when it arrived I saw the expiration date was just 3 months away. That was disappointing",
+                        "First, it's cheap because the expiration date is 04/2024. Second, the product is ineffective. I took 1 tablet 4 hours ago and I am still feeling heartburn. Going back to Pepcid AC"
+                    ]
+                }
+            },
+            {
+                "period": "2025-09",
+                "reviews": 12,
+                "average_rating": 5.0,
+                "average_sentiment": 1.0,
+                "cluster_distribution": {
+                    "0": 0.667,
+                    "6": 0.333
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Great for just before heartburn causing meals. I take this as directed before meals or even after I forget and it still works within 20 min. For reference I would say my heartburn is moderate."
+                    ],
+                    "negative_reviews": [
+                        "Great for just before heartburn causing meals. I take this as directed before meals or even after I forget and it still works within 20 min. For reference I would say my heartburn is moderate."
+                    ]
+                }
+            },
+            {
+                "period": "2025-10",
+                "reviews": 40,
+                "average_rating": 4.2,
+                "average_sentiment": 0.8,
+                "cluster_distribution": {
+                    "0": 0.5,
+                    "6": 0.4,
+                    "4": 0.1
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Iâve been taking Zantac along with my daily Zyrtec, and it really helps the allergy relief work more effectively for me. Itâs easy to take, gentle on the stomach, and has become a regular part of my routine. â What I like: -Works well in combination with Zyrtec -Easy to take daily -Provides dependable relief â ï¸ Cons: -None for me â itâs been very reliable Overall, this is a great product that adds noticeable support to my allergy routine.",
+                        "i had been trying a lot of acid reflux/ heartburn otc they didnt work i finally found something that works thank you zantac."
+                    ],
+                    "negative_reviews": [
+                        "Iâve been taking Zantac along with my daily Zyrtec, and it really helps the allergy relief work more effectively for me. Itâs easy to take, gentle on the stomach, and has become a regular part of my routine. â What I like: -Works well in combination with Zyrtec -Easy to take daily -Provides dependable relief â ï¸ Cons: -None for me â itâs been very reliable Overall, this is a great product that adds noticeable support to my allergy routine.",
+                        "i had been trying a lot of acid reflux/ heartburn otc they didnt work i finally found something that works thank you zantac."
+                    ]
+                }
+            },
+            {
+                "period": "2025-11",
+                "reviews": 21,
+                "average_rating": 5.0,
+                "average_sentiment": 1.0,
+                "cluster_distribution": {
+                    "0": 0.714,
+                    "6": 0.286
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I love it I've been using it for a while I'm glad I'm able to get it here from Amazon"
+                    ],
+                    "negative_reviews": [
+                        "I love it I've been using it for a while I'm glad I'm able to get it here from Amazon"
+                    ]
+                }
+            },
+            {
+                "period": "2025-12",
+                "reviews": 21,
+                "average_rating": 4.238,
+                "average_sentiment": 0.81,
+                "cluster_distribution": {
+                    "6": 0.571,
+                    "4": 0.19,
+                    "5": 0.19,
+                    "0": 0.048
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Very very good ... I take one in the morning and one at night to control acid reflux which periodically bothers me for no explainable reason.",
+                        "A friend told be about the pill for my bad stomach pain and let me tell u they way it worked in seconds I couldnât ask for believe it itâs so small u wouldnât know itâs a pill but the pain relief was immediately great value for money I love it"
+                    ],
+                    "negative_reviews": [
+                        "Very very good ... I take one in the morning and one at night to control acid reflux which periodically bothers me for no explainable reason.",
+                        "A friend told be about the pill for my bad stomach pain and let me tell u they way it worked in seconds I couldnât ask for believe it itâs so small u wouldnât know itâs a pill but the pain relief was immediately great value for money I love it"
+                    ]
+                }
+            },
+            {
+                "period": "2026-01",
+                "reviews": 33,
+                "average_rating": 4.667,
+                "average_sentiment": 0.917,
+                "cluster_distribution": {
+                    "0": 0.485,
+                    "6": 0.364,
+                    "2": 0.121,
+                    "5": 0.03
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Lo compro regularmente para mi esposo que siempre anda con sus malestares estomacales y lo alivia mucho. La verdad que nunca me falta en botiquin",
+                        "So thankful for these pills. I just take one a day and it gets the job done. I was experiencing terrible heart burn and tums is not as effective as these pills. Small pill and very easy to follow.",
+                        "Well packaged, secure, on time. Expiration dates are also much within timeline so NOT to expire before completion. Value for money impressive. Zantac has always the go to for indigestion."
+                    ],
+                    "negative_reviews": [
+                        "Well packaged, secure, on time. Expiration dates are also much within timeline so NOT to expire before completion. Value for money impressive. Zantac has always the go to for indigestion.",
+                        "Lo compro regularmente para mi esposo que siempre anda con sus malestares estomacales y lo alivia mucho. La verdad que nunca me falta en botiquin",
+                        "So thankful for these pills. I just take one a day and it gets the job done. I was experiencing terrible heart burn and tums is not as effective as these pills. Small pill and very easy to follow."
+                    ]
+                }
+            },
+            {
+                "period": "2026-02",
+                "reviews": 79,
+                "average_rating": 3.848,
+                "average_sentiment": 0.712,
+                "cluster_distribution": {
+                    "0": 0.316,
+                    "5": 0.228,
+                    "6": 0.215,
+                    "3": 0.139,
+                    "7": 0.089,
+                    "2": 0.013
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "The cool mint flavor is wonderful and really does taste very good. It has a very cool minty flavor that makes it a joy to take. People who are used to taking things like zantac and have taken it for a long time like me are weary of trying new things that might come out like I was. Don't be it has an awesome flavor and it actually makes swallowing a much more pleasant much easier experience. You now don't have to taste it when putting it in your mouth you just have this wonderful mint flavor. I had absolutely no physical change in response to the cool mint flavor whatsoever. it did what zantac always does work incredibly well. I will be buying cool mint flavor zantac and only cool mint flavor zantac from now on. It was packaged perfectly and I received it a week earlier than expected awesome product awesome!!!!!!! Awesome seller awesome!!!!!! Thank you for an amazing experience thank you!!!!!!!",
+                        "Decided to give them a try and worked great so I decided to get more to not be near running out anytime soon. I usually only take 1 time in the day, prior to evening time and I feel good throughout the night and no issues to sleep nor issues of heartburn at wakeup. Buying with a discount was a an awesome buy to keep myself away from heartburns",
+                        "These work as they're supposed to as far as I can tell. You can't really taste the mint, but you can smell it when you open the bottle...which kind of makes me want to chew them like a mint lol, but I haven't actually done that.",
+                        "I suffer from GERD. Tried different medications and non seem to work well. These have been amazing. Can't say enough of how well they work. Highly recommend to anyone who suffers from heartburn. Really works in 15 min or less. Glad I found these.",
+                        "It can be hard to find the mint flavor in stores sometimes so love that I can easily order here. Not sure if the formula is even different than the regular one but I swear it works better and quicker!"
+                    ],
+                    "negative_reviews": [
+                        "La medicina me llegÃ³ con fecha de vencimiento, mayo de 2025, pedÃ­ una devoluciÃ³n o cambio del medicamento, hasta ahora no he recibido respuesta, no se merece ni una estrella",
+                        "Im back to update my review. I purchased these on 11/03/2024. I was really concerned that they weren't working. I have never had a situation where the name brand Zantac or the generic omperarazole did not work. I bout a new bottle from the cvs and they are working perfectly. Part1-I've been taking this medication since the first week in November. These are not working. I will update after purchasing from a different seller.",
+                        "I liked it and I was going to double check to see how many pills I should take and I saw it is not suppose to sell in USA because you might get cancer ? Is that different Zantac or Iâm confused",
+                        "This ZANTAC 360 is old medicine. This package expires in a month and a half. The shelf life is usually 2 to 3 years ahead. The expiration date would typically be 2027 or 2028 which means this medicine has been sitting around, somewhere for at least a couple of years.",
+                        "BUYER BEWARE!! The expiration date on this medication was 15 days after it was delivered. It can't be returned. I'm stuck with an expensive product that I can't use."
+                    ]
+                }
+            },
+            {
+                "period": "2026-03",
+                "reviews": 27,
+                "average_rating": 4.852,
+                "average_sentiment": 0.963,
+                "cluster_distribution": {
+                    "0": 0.481,
+                    "6": 0.444,
+                    "5": 0.037,
+                    "3": 0.037
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "What a great product, I use them when I know I'm going to eat spicy or very rich food. Life changer, price is right too."
+                    ],
+                    "negative_reviews": [
+                        "What a great product, I use them when I know I'm going to eat spicy or very rich food. Life changer, price is right too."
+                    ]
+                }
+            },
+            {
+                "period": "2026-04",
+                "reviews": 39,
+                "average_rating": 5.0,
+                "average_sentiment": 1.0,
+                "cluster_distribution": {
+                    "0": 0.744,
+                    "6": 0.256
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Be sure to give it 30 - 40 minutes to kick in and reduce the discomfort if you are in a reactive situation and be sure not to lay down. You need to sit upright to have it do the task at hand as quickly as possible. I would say that it is always best to be protective and take two right before or after dinner but well before bedtime. Again, stay sitting up for 30-60 Minutes is what I have found is the best practice.",
+                        "It has worked for me. I take one per day or every other day. I take it wherever I go. Before and during meal throughout the day, I drink sips of water.",
+                        "This is a lifesaver. If I don't have it, it gets so bad I throw up. Can't go a day without it."
+                    ],
+                    "negative_reviews": [
+                        "Be sure to give it 30 - 40 minutes to kick in and reduce the discomfort if you are in a reactive situation and be sure not to lay down. You need to sit upright to have it do the task at hand as quickly as possible. I would say that it is always best to be protective and take two right before or after dinner but well before bedtime. Again, stay sitting up for 30-60 Minutes is what I have found is the best practice.",
+                        "It has worked for me. I take one per day or every other day. I take it wherever I go. Before and during meal throughout the day, I drink sips of water.",
+                        "This is a lifesaver. If I don't have it, it gets so bad I throw up. Can't go a day without it."
+                    ]
+                }
+            },
+            {
+                "period": "2026-05",
+                "reviews": 48,
+                "average_rating": 4.896,
+                "average_sentiment": 0.974,
+                "cluster_distribution": {
+                    "6": 0.438,
+                    "0": 0.375,
+                    "2": 0.167,
+                    "3": 0.021
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I have serious allergies. When I need extra immune support. It helps boost my Benadryl. I donât use everyday. I do use off label. Many with MCAS will use this along with two other meds. Generic may work for some but when you need all the help you can get buy the brand name. Itâs not undercut like unbranded generic.",
+                        "This stuff works. Period. I can take it before I eat spicy food or after and it takes away the heartburn. Great!",
+                        "Zantac works every time to soothe burning sensations, gerd, heartburn and ulcers. I've taken it for years. Thank you Zantac with famotidine."
+                    ],
+                    "negative_reviews": [
+                        "I have serious allergies. When I need extra immune support. It helps boost my Benadryl. I donât use everyday. I do use off label. Many with MCAS will use this along with two other meds. Generic may work for some but when you need all the help you can get buy the brand name. Itâs not undercut like unbranded generic.",
+                        "This stuff works. Period. I can take it before I eat spicy food or after and it takes away the heartburn. Great!",
+                        "Zantac works every time to soothe burning sensations, gerd, heartburn and ulcers. I've taken it for years. Thank you Zantac with famotidine."
+                    ]
+                }
+            },
+            {
+                "period": "2026-06",
+                "reviews": 28,
+                "average_rating": 4.964,
+                "average_sentiment": 0.991,
+                "cluster_distribution": {
+                    "6": 0.75,
+                    "0": 0.25
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "This product is magical (highly effective). I started on a GLP1 recently and I get heartburn sometimes. Gee, Zantac is majorly helpful in providing relief within a few minutes.",
+                        "I have been using Zantac for many years.. because I have acid reflux and it helps .. it's number 1 for me",
+                        "You sometimes need a lil' help from your friends. They chose not to bail you out: zantac is the next best choice. User approved",
+                        "Works perfectly and very quickly! Keeps for a long time and no side effects! Easy to drink and the price is more than excellent!"
+                    ],
+                    "negative_reviews": [
+                        "This product is magical (highly effective). I started on a GLP1 recently and I get heartburn sometimes. Gee, Zantac is majorly helpful in providing relief within a few minutes.",
+                        "I have been using Zantac for many years.. because I have acid reflux and it helps .. it's number 1 for me",
+                        "You sometimes need a lil' help from your friends. They chose not to bail you out: zantac is the next best choice. User approved",
+                        "Works perfectly and very quickly! Keeps for a long time and no side effects! Easy to drink and the price is more than excellent!"
+                    ]
+                }
+            },
+            {
+                "period": "2026-07",
+                "reviews": 7,
+                "average_rating": 4.857,
+                "average_sentiment": 0.964,
+                "cluster_distribution": {
+                    "0": 0.571,
+                    "6": 0.286,
+                    "7": 0.143
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "This is my go to product when I have stomach problems.They consistently deliver quickly.The packaging is not smooshed.They never taste like chalk.Dissolve easily and work rapidly.The price is reasonable.",
+                        "I have tried other OTC acid reducers and this is the only one that provides consistent relief. I canât seem to find it in the pharmacies so order from Amazon.",
+                        "Product is effective and economical with updated formula equivalent to Pepsid extra strength. My 89 year old mother found the cubical shape catches in her throat. We've switched back to Pepsid."
+                    ],
+                    "negative_reviews": [
+                        "Product is effective and economical with updated formula equivalent to Pepsid extra strength. My 89 year old mother found the cubical shape catches in her throat. We've switched back to Pepsid.",
+                        "This is my go to product when I have stomach problems.They consistently deliver quickly.The packaging is not smooshed.They never taste like chalk.Dissolve easily and work rapidly.The price is reasonable.",
+                        "I have tried other OTC acid reducers and this is the only one that provides consistent relief. I canât seem to find it in the pharmacies so order from Amazon."
+                    ]
+                }
+            }
+        ],
+        "review_volume": {
+            "current": 35,
+            "previous": 87,
+            "change_pct": -59.77
+        },
+        "rating": {
+            "current": 4.943,
+            "previous": 4.943,
+            "change": -0.0
+        },
+        "sentiment": {
+            "current": 0.986,
+            "previous": 0.986,
+            "change": -0.0
+        },
+        "emerging_clusters": [
+            {
+                "cluster": 6,
+                "share": 0.518,
+                "change": 0.171
+            },
+            {
+                "cluster": 7,
+                "share": 0.071,
+                "change": 0.071
+            },
+            {
+                "cluster": 3,
+                "share": 0,
+                "change": -0.01
+            },
+            {
+                "cluster": 2,
+                "share": 0,
+                "change": -0.083
+            },
+            {
+                "cluster": 0,
+                "share": 0.41,
+                "change": -0.149
+            }
+        ],
+        "declining_clusters": [
+            {
+                "cluster": 0,
+                "share": 0.41,
+                "change": -0.149
+            },
+            {
+                "cluster": 2,
+                "share": 0,
+                "change": -0.083
+            },
+            {
+                "cluster": 3,
+                "share": 0,
+                "change": -0.01
+            },
+            {
+                "cluster": 7,
+                "share": 0.071,
+                "change": 0.071
+            },
+            {
+                "cluster": 6,
+                "share": 0.518,
+                "change": 0.171
+            }
+        ]
+    }
+}

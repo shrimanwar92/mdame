@@ -1,0 +1,1749 @@
+{
+    "product": {
+        "report_type": "brand",
+        "group_by": "BRAND_NAME",
+        "identifier": "Dulcolax",
+        "brand_name": "Dulcolax",
+        "products": 74,
+        "asin": [
+            "B0D14XJJ5G",
+            "B00007MII0",
+            "B07R81ZR5H",
+            "B0D182JVQH",
+            "B000063XTO",
+            "B0009STCGG",
+            "B012VC8BD2",
+            "B000YM85X8",
+            "B07G43YFCC",
+            "B0FRGR3NRB",
+            "B0FRNJMLXZ",
+            "B000063XTP",
+            "B002GU6DM6",
+            "B0088W8AD6",
+            "B002GU6DMQ",
+            "B00HA7OT6W",
+            "B01IAIIVOK",
+            "B073SY5TBQ",
+            "B084W9YBXD",
+            "B084WB3YV5",
+            "B00007MII1",
+            "B002GU6DNA",
+            "B00E4MJH40",
+            "B01GW61I56",
+            "B0FCYZQ9MY",
+            "B00099E904",
+            "B001KYCKWQ",
+            "B0025ZWF42",
+            "B00OBL3SYE",
+            "B074NCB85Z",
+            "B0792QPTCX",
+            "B07GRGF2Q1",
+            "B07QH2S1VJ",
+            "B0D14YB7S8",
+            "B0G9BW6FMM",
+            "B0G9C9WWZG",
+            "B08YNJVRBV",
+            "B0D1863G79",
+            "B002X55OJM",
+            "B09T4BNKLC",
+            "B09T4XP1L8",
+            "B0D14XFZLH",
+            "B00C9W3T2I",
+            "B00AR6KKPM",
+            "B0DQXCBS7Z",
+            "B0FWKH6PSW",
+            "B09T4S3C3P",
+            "B0D14YRJZT",
+            "B00099E8GO",
+            "B074NBT2RL",
+            "B0DP3D61T7",
+            "B002GU6DNU",
+            "B00C5RGQAY",
+            "B00E4MJCJU",
+            "B00142K2UG",
+            "B007GEV8D6",
+            "B0DP3C3K5S",
+            "B01MFDQS6E",
+            "B06XKD3917",
+            "B073SYPRFS",
+            "B0D14XK6MW",
+            "B00HA6BKNI",
+            "B00HA75PL0",
+            "B01LB2HP2G",
+            "B00EEEIRDU",
+            "B00EEEJLUI",
+            "B01IAIIXB6",
+            "B07FQYPBYY",
+            "B0CXF7R9YX",
+            "B0CXF7WSSZ",
+            "B0D1QKLP4Q",
+            "B0D1QYRKLG",
+            "B0D2CYHTH7",
+            "B0DP3DCQFQ"
+        ],
+        "reviews": 4520,
+        "average_rating": 4.17,
+        "average_sentiment": 0.793
+    },
+    "macro_personas": [
+        {
+            "cluster": 6,
+            "universal_persona": {
+                "population": 5088,
+                "population_pct": 9.33,
+                "certainty": 0.995,
+                "positive_pct": 78.3,
+                "neutral_pct": 5.76,
+                "negative_pct": 15.94,
+                "avg_rating": 4.2,
+                "brand_distribution": {
+                    "Dulcolax": {
+                        "reviews": 1835,
+                        "share": 36.07
+                    },
+                    "Allegra": {
+                        "reviews": 1028,
+                        "share": 20.2
+                    },
+                    "Unisom": {
+                        "reviews": 743,
+                        "share": 14.6
+                    },
+                    "Xyzal": {
+                        "reviews": 443,
+                        "share": 8.71
+                    },
+                    "Nasacort": {
+                        "reviews": 324,
+                        "share": 6.37
+                    },
+                    "Zantac": {
+                        "reviews": 179,
+                        "share": 3.52
+                    },
+                    "Gold Bond": {
+                        "reviews": 159,
+                        "share": 3.12
+                    },
+                    "ACT": {
+                        "reviews": 116,
+                        "share": 2.28
+                    },
+                    "Cortizone 10": {
+                        "reviews": 75,
+                        "share": 1.47
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 66,
+                        "share": 1.3
+                    },
+                    "Icy Hot": {
+                        "reviews": 48,
+                        "share": 0.94
+                    },
+                    "Aspercreme": {
+                        "reviews": 25,
+                        "share": 0.49
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 23,
+                        "share": 0.45
+                    },
+                    "Selsun Blue": {
+                        "reviews": 12,
+                        "share": 0.24
+                    },
+                    "Buscapina": {
+                        "reviews": 11,
+                        "share": 0.22
+                    },
+                    "Magne B6": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Symptom Relief Seekers",
+                    "summary": "Customers looking for fast, effective relief from acute symptoms.",
+                    "decision_drivers": [
+                        "Fast-acting",
+                        "Proven effectiveness",
+                        "Long-lasting relief",
+                        "Minimal side effects"
+                    ],
+                    "satisfaction_drivers": [
+                        "Quickly alleviates symptoms",
+                        "Long duration of effects",
+                        "No harsh side effects",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short-lived effects",
+                        "Unpleasant side effects",
+                        "Inconvenient usage"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 6,
+                "share": 0.406,
+                "certainty": 0.996,
+                "reviews": 1835,
+                "average_rating": 4.09,
+                "average_sentiment": 0.773
+            },
+            "comparison": {
+                "share_lift": 4.35,
+                "rating_delta": -0.11
+            }
+        },
+        {
+            "cluster": 0,
+            "universal_persona": {
+                "population": 11231,
+                "population_pct": 20.6,
+                "certainty": 0.997,
+                "positive_pct": 86.88,
+                "neutral_pct": 4.03,
+                "negative_pct": 9.08,
+                "avg_rating": 4.49,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 3735,
+                        "share": 33.26
+                    },
+                    "Dulcolax": {
+                        "reviews": 1768,
+                        "share": 15.74
+                    },
+                    "Cortizone 10": {
+                        "reviews": 1000,
+                        "share": 8.9
+                    },
+                    "Icy Hot": {
+                        "reviews": 985,
+                        "share": 8.77
+                    },
+                    "ACT": {
+                        "reviews": 904,
+                        "share": 8.05
+                    },
+                    "Allegra": {
+                        "reviews": 743,
+                        "share": 6.62
+                    },
+                    "Aspercreme": {
+                        "reviews": 657,
+                        "share": 5.85
+                    },
+                    "Selsun Blue": {
+                        "reviews": 403,
+                        "share": 3.59
+                    },
+                    "Nasacort": {
+                        "reviews": 293,
+                        "share": 2.61
+                    },
+                    "Xyzal": {
+                        "reviews": 253,
+                        "share": 2.25
+                    },
+                    "Unisom": {
+                        "reviews": 215,
+                        "share": 1.91
+                    },
+                    "Zantac": {
+                        "reviews": 215,
+                        "share": 1.91
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 27,
+                        "share": 0.24
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 22,
+                        "share": 0.2
+                    },
+                    "Buscapina": {
+                        "reviews": 11,
+                        "share": 0.1
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Daily Wellness Maintainers",
+                    "summary": "Customers seeking reliable products to support everyday health routines and prevention.",
+                    "decision_drivers": [
+                        "Effectiveness",
+                        "Quality",
+                        "Trusted brand",
+                        "Ease of use"
+                    ],
+                    "satisfaction_drivers": [
+                        "Long-lasting relief",
+                        "Meets daily needs",
+                        "Minimal side effects",
+                        "Trusted solution"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short duration",
+                        "Unpleasant side effects",
+                        "Poor value"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 0,
+                "share": 0.391,
+                "certainty": 0.998,
+                "reviews": 1768,
+                "average_rating": 4.48,
+                "average_sentiment": 0.871
+            },
+            "comparison": {
+                "share_lift": 1.9,
+                "rating_delta": -0.01
+            }
+        },
+        {
+            "cluster": 3,
+            "universal_persona": {
+                "population": 6176,
+                "population_pct": 11.33,
+                "certainty": 0.999,
+                "positive_pct": 84.5,
+                "neutral_pct": 5.04,
+                "negative_pct": 10.46,
+                "avg_rating": 4.42,
+                "brand_distribution": {
+                    "ACT": {
+                        "reviews": 5502,
+                        "share": 89.09
+                    },
+                    "Dulcolax": {
+                        "reviews": 324,
+                        "share": 5.25
+                    },
+                    "Xyzal": {
+                        "reviews": 104,
+                        "share": 1.68
+                    },
+                    "Allegra": {
+                        "reviews": 78,
+                        "share": 1.26
+                    },
+                    "Gold Bond": {
+                        "reviews": 74,
+                        "share": 1.2
+                    },
+                    "Icy Hot": {
+                        "reviews": 24,
+                        "share": 0.39
+                    },
+                    "Cortizone 10": {
+                        "reviews": 21,
+                        "share": 0.34
+                    },
+                    "Zantac": {
+                        "reviews": 14,
+                        "share": 0.23
+                    },
+                    "Unisom": {
+                        "reviews": 13,
+                        "share": 0.21
+                    },
+                    "Aspercreme": {
+                        "reviews": 10,
+                        "share": 0.16
+                    },
+                    "Selsun Blue": {
+                        "reviews": 9,
+                        "share": 0.15
+                    },
+                    "Buscapina": {
+                        "reviews": 1,
+                        "share": 0.02
+                    },
+                    "Nasacort": {
+                        "reviews": 1,
+                        "share": 0.02
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Pediatric Care Facilitators",
+                    "summary": "Parents/caregivers seeking safe, effective solutions for children's health needs.",
+                    "decision_drivers": [
+                        "Kid-friendly formulations",
+                        "Gentle ingredients",
+                        "Proven effectiveness",
+                        "Pediatrician recommended"
+                    ],
+                    "satisfaction_drivers": [
+                        "Easy administration",
+                        "Fast-acting relief",
+                        "No harsh side effects",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Unpleasant taste/smell",
+                        "Difficulty administering",
+                        "Lack of results",
+                        "Harsh side effects"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 3,
+                "share": 0.072,
+                "certainty": 0.997,
+                "reviews": 324,
+                "average_rating": 3.66,
+                "average_sentiment": 0.664
+            },
+            "comparison": {
+                "share_lift": 0.64,
+                "rating_delta": -0.76
+            }
+        },
+        {
+            "cluster": 2,
+            "universal_persona": {
+                "population": 2128,
+                "population_pct": 3.9,
+                "certainty": 1.0,
+                "positive_pct": 91.92,
+                "neutral_pct": 2.11,
+                "negative_pct": 5.97,
+                "avg_rating": 4.67,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 556,
+                        "share": 26.13
+                    },
+                    "Icy Hot": {
+                        "reviews": 272,
+                        "share": 12.78
+                    },
+                    "Selsun Blue": {
+                        "reviews": 258,
+                        "share": 12.12
+                    },
+                    "Cortizone 10": {
+                        "reviews": 222,
+                        "share": 10.43
+                    },
+                    "Dulcolax": {
+                        "reviews": 199,
+                        "share": 9.35
+                    },
+                    "Allegra": {
+                        "reviews": 143,
+                        "share": 6.72
+                    },
+                    "ACT": {
+                        "reviews": 136,
+                        "share": 6.39
+                    },
+                    "Aspercreme": {
+                        "reviews": 123,
+                        "share": 5.78
+                    },
+                    "Buscapina": {
+                        "reviews": 97,
+                        "share": 4.56
+                    },
+                    "Unisom": {
+                        "reviews": 50,
+                        "share": 2.35
+                    },
+                    "Xyzal": {
+                        "reviews": 38,
+                        "share": 1.79
+                    },
+                    "Zantac": {
+                        "reviews": 16,
+                        "share": 0.75
+                    },
+                    "Nasacort": {
+                        "reviews": 13,
+                        "share": 0.61
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 4,
+                        "share": 0.19
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.05
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Oral Hygiene Prioritizers",
+                    "summary": "Customers focused on maintaining good oral health through daily routines.",
+                    "decision_drivers": [
+                        "Dentist recommended",
+                        "Proven effectiveness",
+                        "Kid-friendly options",
+                        "Convenient usage"
+                    ],
+                    "satisfaction_drivers": [
+                        "Fresh breath",
+                        "Prevents cavities/gum issues",
+                        "Easy to use",
+                        "Pleasant taste/scent"
+                    ],
+                    "frustration_drivers": [
+                        "Unpleasant taste/smell",
+                        "Ineffective results",
+                        "Difficult to use",
+                        "Harsh ingredients"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 2,
+                "share": 0.044,
+                "certainty": 1.0,
+                "reviews": 199,
+                "average_rating": 4.76,
+                "average_sentiment": 0.941
+            },
+            "comparison": {
+                "share_lift": 1.13,
+                "rating_delta": 0.09
+            }
+        },
+        {
+            "cluster": 5,
+            "universal_persona": {
+                "population": 4604,
+                "population_pct": 8.45,
+                "certainty": 0.995,
+                "positive_pct": 22.26,
+                "neutral_pct": 13.66,
+                "negative_pct": 64.07,
+                "avg_rating": 2.21,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 3046,
+                        "share": 66.16
+                    },
+                    "Cortizone 10": {
+                        "reviews": 312,
+                        "share": 6.78
+                    },
+                    "Icy Hot": {
+                        "reviews": 242,
+                        "share": 5.26
+                    },
+                    "Aspercreme": {
+                        "reviews": 216,
+                        "share": 4.69
+                    },
+                    "ACT": {
+                        "reviews": 211,
+                        "share": 4.58
+                    },
+                    "Dulcolax": {
+                        "reviews": 157,
+                        "share": 3.41
+                    },
+                    "Allegra": {
+                        "reviews": 139,
+                        "share": 3.02
+                    },
+                    "Nasacort": {
+                        "reviews": 87,
+                        "share": 1.89
+                    },
+                    "Xyzal": {
+                        "reviews": 68,
+                        "share": 1.48
+                    },
+                    "Zantac": {
+                        "reviews": 58,
+                        "share": 1.26
+                    },
+                    "Selsun Blue": {
+                        "reviews": 42,
+                        "share": 0.91
+                    },
+                    "Unisom": {
+                        "reviews": 17,
+                        "share": 0.37
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 3,
+                        "share": 0.07
+                    },
+                    "Buscapina": {
+                        "reviews": 3,
+                        "share": 0.07
+                    },
+                    "Magne B6": {
+                        "reviews": 2,
+                        "share": 0.04
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Product Experience Critics",
+                    "summary": "Customers focused on product usability and delivery mechanisms over ingredients.",
+                    "decision_drivers": [
+                        "Ease of application",
+                        "Convenient packaging",
+                        "Innovative delivery"
+                    ],
+                    "satisfaction_drivers": [
+                        "Hassle-free usage",
+                        "Precise application",
+                        "Portable packaging"
+                    ],
+                    "frustration_drivers": [
+                        "Difficult application",
+                        "Faulty packaging/sprayers",
+                        "Messy or wasteful"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 5,
+                "share": 0.035,
+                "certainty": 0.991,
+                "reviews": 157,
+                "average_rating": 1.99,
+                "average_sentiment": 0.247
+            },
+            "comparison": {
+                "share_lift": 0.41,
+                "rating_delta": -0.22
+            }
+        },
+        {
+            "cluster": 7,
+            "universal_persona": {
+                "population": 4657,
+                "population_pct": 8.54,
+                "certainty": 0.995,
+                "positive_pct": 74.38,
+                "neutral_pct": 6.81,
+                "negative_pct": 18.81,
+                "avg_rating": 4.07,
+                "brand_distribution": {
+                    "Icy Hot": {
+                        "reviews": 2496,
+                        "share": 53.6
+                    },
+                    "Aspercreme": {
+                        "reviews": 1197,
+                        "share": 25.7
+                    },
+                    "Gold Bond": {
+                        "reviews": 548,
+                        "share": 11.77
+                    },
+                    "Cortizone 10": {
+                        "reviews": 190,
+                        "share": 4.08
+                    },
+                    "Dulcolax": {
+                        "reviews": 120,
+                        "share": 2.58
+                    },
+                    "Magne B6": {
+                        "reviews": 24,
+                        "share": 0.52
+                    },
+                    "Allegra": {
+                        "reviews": 22,
+                        "share": 0.47
+                    },
+                    "ACT": {
+                        "reviews": 19,
+                        "share": 0.41
+                    },
+                    "Zantac": {
+                        "reviews": 12,
+                        "share": 0.26
+                    },
+                    "Xyzal": {
+                        "reviews": 7,
+                        "share": 0.15
+                    },
+                    "Buscapina": {
+                        "reviews": 7,
+                        "share": 0.15
+                    },
+                    "Selsun Blue": {
+                        "reviews": 6,
+                        "share": 0.13
+                    },
+                    "Unisom": {
+                        "reviews": 4,
+                        "share": 0.09
+                    },
+                    "Nasacort": {
+                        "reviews": 3,
+                        "share": 0.06
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 2,
+                        "share": 0.04
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Pain Relief Prioritizers",
+                    "summary": "Customers seeking effective, targeted relief from muscle/joint pains.",
+                    "decision_drivers": [
+                        "Fast pain relief",
+                        "Long-lasting effects",
+                        "Targeted application",
+                        "Ease of use"
+                    ],
+                    "satisfaction_drivers": [
+                        "Quickly reduces pain",
+                        "Long duration of effects",
+                        "Convenient application",
+                        "No mess or residue"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective results",
+                        "Short-lived relief",
+                        "Difficult application",
+                        "Unpleasant smell/feel"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 7,
+                "share": 0.027,
+                "certainty": 0.998,
+                "reviews": 120,
+                "average_rating": 4.3,
+                "average_sentiment": 0.825
+            },
+            "comparison": {
+                "share_lift": 0.32,
+                "rating_delta": 0.23
+            }
+        },
+        {
+            "cluster": 8,
+            "universal_persona": {
+                "population": 6837,
+                "population_pct": 12.54,
+                "certainty": 0.99,
+                "positive_pct": 85.61,
+                "neutral_pct": 3.89,
+                "negative_pct": 10.5,
+                "avg_rating": 4.44,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 6144,
+                        "share": 89.86
+                    },
+                    "Aspercreme": {
+                        "reviews": 242,
+                        "share": 3.54
+                    },
+                    "Icy Hot": {
+                        "reviews": 161,
+                        "share": 2.35
+                    },
+                    "Selsun Blue": {
+                        "reviews": 96,
+                        "share": 1.4
+                    },
+                    "Cortizone 10": {
+                        "reviews": 72,
+                        "share": 1.05
+                    },
+                    "Dulcolax": {
+                        "reviews": 48,
+                        "share": 0.7
+                    },
+                    "ACT": {
+                        "reviews": 41,
+                        "share": 0.6
+                    },
+                    "Allegra": {
+                        "reviews": 13,
+                        "share": 0.19
+                    },
+                    "Nasacort": {
+                        "reviews": 7,
+                        "share": 0.1
+                    },
+                    "Unisom": {
+                        "reviews": 5,
+                        "share": 0.07
+                    },
+                    "Magne B6": {
+                        "reviews": 5,
+                        "share": 0.07
+                    },
+                    "Xyzal": {
+                        "reviews": 2,
+                        "share": 0.03
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.01
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Comfort First Consumers",
+                    "summary": "Customers focused on products that provide comfort, freshness and prevent irritation.",
+                    "decision_drivers": [
+                        "Prevents chafing/irritation",
+                        "Absorbs moisture/sweat",
+                        "Long-lasting freshness",
+                        "Gentle formulation"
+                    ],
+                    "satisfaction_drivers": [
+                        "Stays dry and fresh",
+                        "Soothes irritated skin",
+                        "Easy to apply",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective absorption",
+                        "Short duration of effects",
+                        "Unpleasant smell/residue",
+                        "Causes further irritation"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 8,
+                "share": 0.011,
+                "certainty": 0.961,
+                "reviews": 48,
+                "average_rating": 4.25,
+                "average_sentiment": 0.812
+            },
+            "comparison": {
+                "share_lift": 0.09,
+                "rating_delta": -0.19
+            }
+        },
+        {
+            "cluster": 1,
+            "universal_persona": {
+                "population": 12457,
+                "population_pct": 22.85,
+                "certainty": 0.994,
+                "positive_pct": 84.42,
+                "neutral_pct": 5.59,
+                "negative_pct": 9.99,
+                "avg_rating": 4.43,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 9823,
+                        "share": 78.86
+                    },
+                    "Cortizone 10": {
+                        "reviews": 1986,
+                        "share": 15.94
+                    },
+                    "Icy Hot": {
+                        "reviews": 180,
+                        "share": 1.44
+                    },
+                    "Aspercreme": {
+                        "reviews": 177,
+                        "share": 1.42
+                    },
+                    "Selsun Blue": {
+                        "reviews": 102,
+                        "share": 0.82
+                    },
+                    "Allegra": {
+                        "reviews": 75,
+                        "share": 0.6
+                    },
+                    "ACT": {
+                        "reviews": 50,
+                        "share": 0.4
+                    },
+                    "Dulcolax": {
+                        "reviews": 39,
+                        "share": 0.31
+                    },
+                    "Xyzal": {
+                        "reviews": 10,
+                        "share": 0.08
+                    },
+                    "Magne B6": {
+                        "reviews": 8,
+                        "share": 0.06
+                    },
+                    "Nasacort": {
+                        "reviews": 6,
+                        "share": 0.05
+                    },
+                    "Unisom": {
+                        "reviews": 1,
+                        "share": 0.01
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Skin Condition Soothers",
+                    "summary": "Customers looking for effective relief from persistent skin irritations and conditions.",
+                    "decision_drivers": [
+                        "Fast-acting",
+                        "Gentle formulation",
+                        "Proven ingredients",
+                        "Dermatologist recommended"
+                    ],
+                    "satisfaction_drivers": [
+                        "Reduces itching/irritation",
+                        "Promotes healing",
+                        "Long-lasting effects",
+                        "Safe for sensitive skin"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective results",
+                        "Further irritation",
+                        "Short-lived relief",
+                        "Harsh ingredients"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 1,
+                "share": 0.009,
+                "certainty": 0.999,
+                "reviews": 39,
+                "average_rating": 2.92,
+                "average_sentiment": 0.481
+            },
+            "comparison": {
+                "share_lift": 0.04,
+                "rating_delta": -1.51
+            }
+        },
+        {
+            "cluster": 4,
+            "universal_persona": {
+                "population": 339,
+                "population_pct": 0.62,
+                "certainty": 1.0,
+                "positive_pct": 97.94,
+                "neutral_pct": 1.47,
+                "negative_pct": 0.59,
+                "avg_rating": 4.81,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 132,
+                        "share": 38.94
+                    },
+                    "Cortizone 10": {
+                        "reviews": 42,
+                        "share": 12.39
+                    },
+                    "Dulcolax": {
+                        "reviews": 30,
+                        "share": 8.85
+                    },
+                    "Allegra": {
+                        "reviews": 28,
+                        "share": 8.26
+                    },
+                    "Selsun Blue": {
+                        "reviews": 26,
+                        "share": 7.67
+                    },
+                    "ACT": {
+                        "reviews": 25,
+                        "share": 7.37
+                    },
+                    "Aspercreme": {
+                        "reviews": 17,
+                        "share": 5.01
+                    },
+                    "Icy Hot": {
+                        "reviews": 14,
+                        "share": 4.13
+                    },
+                    "Zantac": {
+                        "reviews": 8,
+                        "share": 2.36
+                    },
+                    "Nasacort": {
+                        "reviews": 7,
+                        "share": 2.06
+                    },
+                    "Xyzal": {
+                        "reviews": 7,
+                        "share": 2.06
+                    },
+                    "Buscapina": {
+                        "reviews": 1,
+                        "share": 0.29
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 1,
+                        "share": 0.29
+                    },
+                    "Unisom": {
+                        "reviews": 1,
+                        "share": 0.29
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Trusted Solution Seekers",
+                    "summary": "Customers prioritizing proven, reliable products from trusted brands.",
+                    "decision_drivers": [
+                        "Trusted brand reputation",
+                        "Proven effectiveness",
+                        "Quality ingredients",
+                        "Good value"
+                    ],
+                    "satisfaction_drivers": [
+                        "Delivers expected results",
+                        "Long-lasting effects",
+                        "Minimal side effects",
+                        "Worth the cost"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short duration of effects",
+                        "Unpleasant side effects",
+                        "Poor value for money"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 4,
+                "share": 0.007,
+                "certainty": 1.0,
+                "reviews": 30,
+                "average_rating": 4.77,
+                "average_sentiment": 0.942
+            },
+            "comparison": {
+                "share_lift": 1.13,
+                "rating_delta": -0.04
+            }
+        }
+    ],
+    "trend_analysis": {
+        "timeline": [
+            {
+                "period": "2024-12",
+                "reviews": 378,
+                "average_rating": 3.841,
+                "average_sentiment": 0.71,
+                "cluster_distribution": {
+                    "6": 0.378,
+                    "0": 0.339,
+                    "3": 0.161,
+                    "7": 0.037,
+                    "2": 0.034,
+                    "5": 0.029,
+                    "4": 0.011,
+                    "1": 0.008,
+                    "8": 0.003
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Iâve never taken this formulation but I figured it wouldnât be bad if in chew form. I was right. Word of caution: do not dose while watching a movie. I forgot how many I chewed so the next morning I was immediately regular. Good stuff and great value with the coupon. Easy to use: just thoroughly chew until itâs all dissolved. Youâll be swallowing the medicine as you chew, just like food. No cramps, no pain as with stimulants. This is osmotic so make sure you drink a full glass of water.",
+                        "I was going to buy these suppositories at CVS, but when I saw the price for 4 suppositories was almost $12. So I decided to check Amazon to see what the price was, and it was only $5!!! So of course I ordered from Amazon.",
+                        "iwhen i first found out about this product - i rushed out to buy it -- and then i found out that not only are these pills - but now dulcolax have soft chewables. i want to keep both around just in case.",
+                        "Dulcolax is very effective. It does what it says it will do on the package. Enough said on the efficacy of the product I would say. Also it arrived next day properly packaged and sealed. Bon Chance Ami!",
+                        "I took one chew with an 8 ounce glass of water, not even 10 mins later I went to the bathroom. Cramp free, completely gentle and normal. Highly recommend!"
+                    ],
+                    "negative_reviews": [
+                        "These smelled just like watermelon, however upon chewing the watermelon flavor quickly tasted into a horrible fish flavor. It was extremely odd. My little one did not like them at all and neither do I. They didnât seem to work all that well either. Iâm not sure if it was a bad batch or what but these things were absolutely disgusting after chewing a few times.",
+                        "I have terrible trouble âgoingâ so I took the max dose of 4. Not 30 min not even the next day!!!! So I took one moreâ¦ That night stuff came out of me from the 70âs!!!! Awful! Guess I needed it! lol they donât taste bad but 3 days later my stomach is KILLING me and I havenât Been able to go again!!",
+                        "36y.o. female. Took 2 before bed, woke up an hour later to terrible cramping and full body chills. Had diarrhea after 1/2hr and freezing cold with continued muscle contractions and spasms for another hour before finally falling asleep again. Still had intestinal issues the following morning. Never again will I take this stuff. I can't imagine this being used for kids!",
+                        "I don't know whether it works or not since I couldn't even open the suppository. Each suppository is individually wrapped in heavy white plastic that I tried to open with my teeth,fingers and finally scissors. When I finally did manage to get it open, my efforts broke the tablet. I threw the whole box out.",
+                        "How they think that any kid could CHEW this? Our kid was crying and absolutely rejecting this medicine so in the end we stopped using it. Waste of money!"
+                    ]
+                }
+            },
+            {
+                "period": "2025-01",
+                "reviews": 328,
+                "average_rating": 3.524,
+                "average_sentiment": 0.631,
+                "cluster_distribution": {
+                    "0": 0.46,
+                    "6": 0.363,
+                    "5": 0.076,
+                    "3": 0.04,
+                    "2": 0.027,
+                    "4": 0.024,
+                    "1": 0.006,
+                    "8": 0.003
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Thank you for this because Dulcolax tablets were great and worked very well for me. Delivered on time. I Recommend these tablets for taking and I liked taking them for release and they were very healthy for me, comfortable and work for me to get more comfort. I will continue to use Dulcolax, those tablets work I received the enclosed 4 count packages -100 small tablets like the reading said, and those tablets made me feel again much better. Yes, I recommend Dulcolax tablets because they work very well and also the chewable too. the stimulant -PERFECT. Very mild for taking to feel better. Try them!!!!!",
+                        "I am Spinal Cord injury and these are hands down the best suppositories on the market. They are reliable and they work pretty quick, make sure you are hydrated when using them. They can be difficult to open but I cannot recommend them any higher they are great and work. Amazon has the best price but it's getting more expensive to buy these because the price keeps going up here on Amazon. It used to be 23.00 for these and now as of January 10, 2025 it's 31.25! They are the best but getting very expensive!",
+                        "I ate one. I pooped. I ate one the next day, and nothing happened, so I ate another. Then I pooped a lot. I learned my lesson, and now I only take one so a poop just the right amount. A Goldilocks poo, you might say. 5/5 they do exactly what they say they will.",
+                        "Best!! Using a suppository isnât much fun but in this case it works every time in just 10 mins. No days of diarrhea after. Just get it out and itâs over. My condtipation is severe most pills donât work or I still âgive birthâ. Not with this product.",
+                        "I hate writing reviews but an hour ago I was doubled over with a pillow against my stomach. Right now I feel like I'm ready for the day. I highly recommend Dulcolax Chewy Fruit Bites, taken as directed. Happy trails."
+                    ],
+                    "negative_reviews": [
+                        "Used this product at 6:30 was on my bathroom floor pinned between my toilet and wall by 10:00. I got extremely dizzy and passed out while trying to have a bowel movement as a direct result of taking these. I am on sertraline and read that it can interact with dulcolax. I have never used dulcolax before and didnât think anything different than if it were a laxative chewable. Maybe that was naive of me idk but this event scared me half to death. Thankfully, I managed to call my girlfriend who lives 6 mins away and she helped get me off the floor. Drink a ton of water, jog around the block, do tummy massages do ANYTHING before taking this.",
+                        "For some reason it seems the manufacturer thinks it is acceptable to sell suppositories that are missing most of the center connecting both ends. They are all defective and unusable and have been for months but they keep selling them and I keep returning them. This is a manufacturer problem not an Amazon problem. This issue needs to be resolved as this is a health and safety issue. These have thin edges connecting the edges and if you insert them like that daily I suspect it could cause damage. Until this is cleared up I will keep buying them and returning them when they are defective.",
+                        "I ordered one box of these and received three boxes. I sampled several suppositories from each box and they were all the same as the photo above. They don't melt like a normal suppository so needless to say they don't work. I wonder if they are an off brand that was made to look like a Dulcolax product. Very disappointed.",
+                        "This product does not work. No directions on the bottle so it doesnât give a dosage. I guess you just need to keep taking additional chews until you find the correct dose. Even with that, it still doesnât work.",
+                        "I have tried other Dulcolax products in the past and they have worked well. This one does not work at all, which is especially frustrating when I am halfway around the world."
+                    ]
+                }
+            },
+            {
+                "period": "2025-02",
+                "reviews": 217,
+                "average_rating": 3.677,
+                "average_sentiment": 0.669,
+                "cluster_distribution": {
+                    "0": 0.452,
+                    "6": 0.359,
+                    "5": 0.092,
+                    "3": 0.041,
+                    "7": 0.041,
+                    "2": 0.014
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I was skeptical about trying a laxative in chewable form, but Dulcolax Saline Laxative Soft Chews completely exceeded my expectations. First off, the mixed berry flavor is actually pleasant, no weird medicinal aftertaste. The chews are soft and easy to take, making them a convenient alternative to pills or powders. As for effectiveness, they work gently yet reliably. Within a few hours, I felt relief without any harsh cramping or discomfort. I appreciate that they contain magnesium hydroxide, which helps things move along naturally. If youâre looking for a gentle and effective laxative that doesnât taste awful, this is a great choice!",
+                        "I'm a quadriplegic who eats healthy, but is still in need of Digital Stem for bowel. One Dulcolax cut into eight pieces allows me eight digital stem bowel movements. It has been very helpful during rehabilitation and some mornings, I'm able to go on my own as I progress. In combination with Dulcolax, I drink homemade hot bone broth which increases bone density and assists the bowel simultaneously!",
+                        "These taste so good and they are so much easier to take versus swallowing the small tablets as they always leave an aftertaste despite how they are - so these are perfect! They also do not cause cramping the way the tablets do.",
+                        "Dediquen un tiempo a leer todo lo que contiene este medicamento y busquen informaciÃ³n yo lo hice despuÃ©s que lo ingerÃ­ ni modo .1 Methacrylic acid ethyl , busquen cada unos .",
+                        "These are so great for whenever I feel super stuffed up. They work in a couple hours, and omgâ¦I feel like a new person after"
+                    ],
+                    "negative_reviews": [
+                        "PLEASE PLEASE whatever you do, take anything else but this. This is NOT GENTLE. I took 2 around 9pm before bed. I woke up at 1 am with SEVERE STOMACH CRAMPS, Iâve vomited about 6 times. Did I have a BM? Sure did while holding the trash can and vomiting at the same time. Iâve never been so sick in my life. Literally anything else would be better than this. Do NOT recommend. I had sweats, chills, vomiting, severe stomach cramps, worst 6 hours of my life.",
+                        "Iâve used Dulcolax before with great results, but I was disappointed with this formula. It just didnât seem to work as well as previous times when I purchased it. I followed the instructions, but I didnât experience the same level of effectiveness Iâve had in the past. While it did provide some relief, it wasnât as predictable or effective as I expected. Iâm not sure if itâs a batch issue, but Iâll be trying something else next time.",
+                        "The product is very well advertised, the tablets are beautifully packaged, the price is reasonable, but why doesn't this drug work exactly the same as the drug Bisacodyl? You need to ask those who produce it. I highly recommend against taking it. It's just a real scam.",
+                        "Iâve tried taking one, then two at a time and I even tried three. In the past I bought the overnight pills and they worked much better.",
+                        "Very difficult to get pills out of the aluminum packing. To get the pill, I continued to cut with scissors to surround the pill"
+                    ]
+                }
+            },
+            {
+                "period": "2025-03",
+                "reviews": 119,
+                "average_rating": 3.765,
+                "average_sentiment": 0.691,
+                "cluster_distribution": {
+                    "6": 0.445,
+                    "0": 0.311,
+                    "3": 0.134,
+                    "2": 0.034,
+                    "5": 0.034,
+                    "8": 0.017,
+                    "4": 0.017,
+                    "7": 0.008
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I fortunately have an opioid pain medicine. My quality of life would not be tolerable without some relief. After 30 years I have acclimated to most laxatives and the ones that are strong cause such cramping that I hesitate to take them. Also like me many people have irritable bowel syndrome and anything that works by forming stools forms hard impassable stools for me. Dulcolax works well with minimal cramping. I try to not take them unless necessary and I plan to have a full day the next day. They hit fast and for me keep working for hours while my intestines clean out. As said in other reviews start out with one and two only if that doesnât work and please, until you know how they work for you donât take them unless you will be home and near a bathroom until you see how they work. I most likely have a longer time having to run to the bathroom than a healthy person.",
+                        "These are the only things that work for me. I have tried miralax, but I bloat a ton. I have tried Metamucil, but it stops me up worse. I have tried adding fiber and drinking more water (for years), didnât work for me. I even tried off brand of this in chewable tablets, didnât work. Just make sure you drink water with it. I do it at night and drink water. This and the kids are the same ingredients, but this one tastes better.",
+                        "These were crucial for me post-surgery when I was on pain killers. They definitely do the job. The taste is fine. That said, I donât understand why they are colored, shaped and wrapped just like bubblegum. Not a complaint, but just felt weird actually chewing up and swallowing what seemed like shouldâve been gum!",
+                        "Dulcolax is a brand that i can always count on. These are easy to use and work pretty quickly. These will always be a staple in my medicine cabinet due to the brand name and effectiveness",
+                        "These worked well for me. I needed 3, drinking plenty of water. I chose to have mine before bed (didnât want an emergency poop sneaking up on me while working or driving). Worked good."
+                    ],
+                    "negative_reviews": [
+                        "This product had my toddler crying and shaking from cramps. I was hoping it would pass and it just got worse and worse. At midnight we made a run to CVS to get a suppository to hopefully help her ASAP. Thankfully that worked and reversed whatever these chews caused. I would not recommend them at all. I know suppositories stink but it help within minutes over this product. It also has red dye in it",
+                        "It makes me dizzy, like I am drunk. An internet search reveals that this may happen because of pushing too hard and not the medication itself. I assure you, it's the medication. This medication makes me sick, makes me dizzy. This has happened twice. No more for me.",
+                        "I bought this thinking that because of its name, Dulcolax, it would contain bisacoydl. It did not! It was magnesium. I already take daily magnesium.",
+                        "Just took 2 lil nervous about 4 so shall wait and see I got the cherry berry flavor tastes nothing like cherry Canât even describe the taste other than yucky",
+                        "The website did not indicate that this product has a very dangerous side effect - it causes high heart rate. I almost called an ambulance - my heart rate rose to 175 instead of the normal 60."
+                    ]
+                }
+            },
+            {
+                "period": "2025-04",
+                "reviews": 146,
+                "average_rating": 3.842,
+                "average_sentiment": 0.711,
+                "cluster_distribution": {
+                    "6": 0.342,
+                    "0": 0.342,
+                    "3": 0.164,
+                    "2": 0.041,
+                    "8": 0.034,
+                    "1": 0.027,
+                    "5": 0.027,
+                    "7": 0.021
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I'm never going back to the liquid milk of magnesia!! I couldn't drink it down anymore no matter the flavor-even tried mixing it with chocolate milk. But these chews are as effective as the liquid. They are individually wrapped (1 chew = 15 ml m.o.m.) & great to take with you when traveling. It's like chewing a soft piece of gum that disintegrates.",
+                        "Dulcolax is hands down the best laxative out there. It actually worksâfast, predictable, and gentle when taken as directed. If youâre backed up and nothing else is cutting it, Dulcolax gets the job done. A staple in the medicine cabinet.",
+                        "I'm glad I started with only 1! I am navigating an ever evolving list of foods that cause me gastric distress, and tried these for the first time after being sabotaged by a newly incompatible food for me. It took about 2.5 hours to work. I drank 1l of water when I took it in order to give my body plenty of hydration to work with. Nice to have these as a defense if I find myself in a bind because of something that my gut now dislikes. I don't plan on making it a habit to take them since that seems like it would be a problem, but for acute situations, they'll come in handy. They taste fine, chew up easily, and get the job done for me.",
+                        "My surgeon suggested I have these pills on hand as a gentle laxative after major abdominal surgery. They dissolve easily and were easy to swallow.",
+                        "These are gentle on your stomach and easy to take. I take 2 at night and wake up relieved. It doesnât last all day just one time to the bathroom. No extra gas"
+                    ],
+                    "negative_reviews": [
+                        "TOTAL RIP OFF!! READ AND BELIEVE ONE STAR REVIEWS! Every single one of these has the bisacodyl (active ingredient) missing from the hard fat casing. So, basically you're only getting the waxy part of the suppository without the actual medicine that helps move the bowels. Complete rip off...I should have believed all the negative reviews.",
+                        "Unfortunately for me, I didnât have the great experiences mentioned in many reviews. I took it an hour before bed, and woke up in the middle of the night to terrible cramping. Full body sweats, shaking and discomfort over my commode. Would not recommend if you have a low pain tolerance.",
+                        "Expired item delivered. This is disappointing that no one would check the expiry date of the items on the shelf. ordered 4/5/2025, item expiry date is Jan 2025.",
+                        "My daughter is constantly constipated, and so I thought a light stool softer would help. This product was only taken twice, last week, and mu daughter has had diarrhea several times since then. I'm throwing this away, it is absolutely awful on her tummy and should be removed from the market.",
+                        "The box I buy out of the store works great. These do not work that great. I donât know what the difference is but I donât like it."
+                    ]
+                }
+            },
+            {
+                "period": "2025-05",
+                "reviews": 35,
+                "average_rating": 3.4,
+                "average_sentiment": 0.6,
+                "cluster_distribution": {
+                    "6": 0.429,
+                    "0": 0.343,
+                    "3": 0.143,
+                    "5": 0.086
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Dulcolax Saline Laxative Chewy Fruit Bites are a great product to keep on hand for those moments when you need gentle and fast relief. The cherry berry flavor makes them easy to take â they actually taste pretty good! And when they say fast-acting, they mean it; for me, relief usually comes within about an hour. It's a convenient and effective option when you need it most.",
+                        "Took one tablet before bed and by morning... wow. My brains nearly blasted out. Super effective, no cramping, just powerful relief. If you're backed up and need a guaranteed reset, this gets the job done. Handle with respect!",
+                        "This chocolate is delicious followed by some peanut taste and a slight hint of salt. Definitely recommend buying 2 lbs anyway for starters. I bought 2 lbs for close to $10.00 per pound.",
+                        "Recommended!!! Especially if youâre having a hard time going. My daughter (8years old) doesnât like going to the bathroom when she knows sheâs going to be constipated. I used only a half of one. She laid on her side and waited. At 14 minutes she was ready to use the bathroom without any problems!! No cramping!! Quick relief!!! Highly recommend.",
+                        "Worked within 12 hours and was easy on my system. This isn't an issue I have often & was relieved at the pain relief."
+                    ],
+                    "negative_reviews": [
+                        "There is NOTHONG gentle about this product! Took it at midnight, woke up doubled down in pain at 4.30 am, 6.30, and 9.30am. Finally got up and felt like I was in labor. Seriously. Had a few bowel movements until 1.30 pm with horrible cramping, and didn't even feel like I completely emptied myself out. In the afternoon I blew up like a balloon even though I was drinking plenty of water to avoid dehydration. NEVER AGAIN!!!",
+                        "Dulcolax Saline Laxative Chewy Fruit Bites are a great product to keep on hand for those moments when you need gentle and fast relief. The cherry berry flavor makes them easy to take â they actually taste pretty good! And when they say fast-acting, they mean it; for me, relief usually comes within about an hour. It's a convenient and effective option when you need it most.",
+                        "Took one tablet before bed and by morning... wow. My brains nearly blasted out. Super effective, no cramping, just powerful relief. If you're backed up and need a guaranteed reset, this gets the job done. Handle with respect!",
+                        "This chocolate is delicious followed by some peanut taste and a slight hint of salt. Definitely recommend buying 2 lbs anyway for starters. I bought 2 lbs for close to $10.00 per pound.",
+                        "Recommended!!! Especially if youâre having a hard time going. My daughter (8years old) doesnât like going to the bathroom when she knows sheâs going to be constipated. I used only a half of one. She laid on her side and waited. At 14 minutes she was ready to use the bathroom without any problems!! No cramping!! Quick relief!!! Highly recommend."
+                    ]
+                }
+            },
+            {
+                "period": "2025-06",
+                "reviews": 145,
+                "average_rating": 3.517,
+                "average_sentiment": 0.629,
+                "cluster_distribution": {
+                    "6": 0.441,
+                    "0": 0.359,
+                    "5": 0.131,
+                    "3": 0.028,
+                    "2": 0.028,
+                    "1": 0.007,
+                    "7": 0.007
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Let me just start by saying, Dulcolax Stimulant Laxative Tablets are no joke. I took one, and within hours, I felt like I had been summoned by the ancient gods of plumbing. Iâve never experienced such a forceful encounter with my toilet. It was like the gates of the underworld were opening, but in a good way. For anyone whoâs wondering, it works. FAST. You might want to make sure your bathroom is prepared. I think my bathroom now has PTSD. On the plus side, I finally feel lighter, both physically and emotionally, after my spiritual cleansing. Bottom line: This is the hero we donât deserve but absolutely need. Highly recommend, but maybe keep the bathroom door locked if you value privacy.",
+                        "Dulcolax Medicated Laxative Suppositories, Bisacodyl 10 mg. 28 to a box. Covered in a plastic case. Need a scissors to open. I take darolutamide for prostrate cancer and it causes occasional constipation so I have to rely on these laxatives.",
+                        "Dulcolax woks faster and more completely than knockoff products that I have been using. Might as well pay a little more.Also the individual suppositories can be opened by hand unlike others that require scissors.",
+                        "Buen producto me facilitaron la hora de ir mi niÃ±o al baÃ±o se las recomiendo son sÃºper buenas en minutos hacen efecto",
+                        "I usually take a pic/video, but I think I'll pass this time, for your sake and mine. It's a tiny orangeish pill, what more do you want. I had to take it as part of prep for a colonoscopy. Per orders I took 4. So I can't attest to how well it works with just 1 or 2. It worked just fine with 4 though, it softened what it needed to soften, without making things... worse. That's what the followup actual laxative was for. But as a stool softener, this worked just fine with no side effects, so I'm happy with it, and I'll keep the remainder around just in case. 5/5"
+                    ],
+                    "negative_reviews": [
+                        "Everyone is a different, so I'll share my experience About 2 hours after taking, I got hideously nauseous, tried to vomit for some relief, was sweating like crazy, and was suddenly exhausted beyond anything I've experienced. I also felt a very impending need to need to defecate, but nothing came of it. I looked up side effects. Yep, all there. 3.5 hours later, I'm slightly nauseous, can at least communicate again, and my bowels have gone back to nada. Absolutely horrible experience, and it's better, but definitely not over. Oh yeah, big time dry mouth. Fun.",
+                        "OK, I agree with the lady with the video, these things do not work. If anything they stop you up. I donât know whatâs up Dulcolax usually has a good product, but these do not work waste of money and you canât send them back",
+                        "previous purchases of these suppositories have been malformed. material is missing on the front tip of the product . please be sure to ship properly formed product. i pay a premium price for this product and i want a properly formed product.",
+                        "I know everyone is different, but as someone who is very susceptible to laxatives, I'm very surprised that 3 of these chews did nothing. You can tell something is kind of moving but it won't empty you out. These seem better suited for constipation maintenance and not an immediate solution. They're pretty weak in efficiency. I recommend magnesium citrate instead.",
+                        "I gave it a try but regreted it in the very first five minutes. It almost instantly caused diarrea and consequet hemorrhoid flare. Not sure if it was an individual alergy or what but result is the same and terrible. Never again not only for this product but never again for any of its components."
+                    ]
+                }
+            },
+            {
+                "period": "2025-07",
+                "reviews": 273,
+                "average_rating": 4.158,
+                "average_sentiment": 0.789,
+                "cluster_distribution": {
+                    "6": 0.399,
+                    "0": 0.363,
+                    "3": 0.088,
+                    "2": 0.073,
+                    "7": 0.026,
+                    "1": 0.022,
+                    "8": 0.022,
+                    "5": 0.007
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Due to half paralyzed voice box that lasted 8 months, I was not able to eat a lot of different foods. I started having stomach issues. My doctor said I could take Dulcolax stool softener occasionally but Miralax was a safer and better option for me for a longer term. Follow directions on the boxes or prescribed by your doctor. For my system the Miralax is effective in 8-12 hours & the Durcolax is effective in less than 4 hours. You may not have the same results as I do because everybody's system is different. Neither one of these products caused any stomach discomfort but very effective. The Dulcolax is a small gel pill which is very easy to swallow. I recommend either product.",
+                        "Dulcolax ha sido una gran ayuda en esos momentos en los que me siento demasiado pesada o con estreÃ±imiento. Lo tomo solo cuando es necesario y siempre me ha funcionado bien. Suelo tomar una tableta antes de dormir y en la maÃ±ana siguiente ya siento el efecto. Es suave pero efectivo, y no me causa dolor fuerte ni malestar si lo uso correctamente. Me gusta porque es confiable y actÃºa sin ser agresivo con mi cuerpo. Eso sÃ­, siempre tomo mucha agua para que funcione mejor. Lo recomiendo si necesitas algo seguro y rÃ¡pido para regularte de vez en cuando.",
+                        "I donât usually write reviews for health products, but Dulcolax Overnight truly deserves one. It works exactly as advertised and has been a dependable option whenever Iâve needed fast, gentle relief. Pros: Works Overnight: I take it before bed, and by morningâlike clockworkâitâs effective. It's really helpful if you're feeling backed up or dealing with occasional constipation. Gentle on the Stomach: I was worried it might cause cramping or discomfort, but itâs surprisingly gentle. Everyone's body is different, but Iâve had a consistently good experience.",
+                        "Why did you pick this product vs others?: These work great. I have tried regular laxatives, but they cause alot of pain. I tried 3 of these and they work great. It doesn't take long to work and there is no pain. These aldo taste good. This is my 2d purchase and I'll be ordering more.",
+                        "I donât have a lot of experience with laxatives, but recently I had a need. I was miserable for about five days. The Dulolax arrived today and about six hours later, it worked!! I feel like a new person. This product worked so well for me that I highly recommend it."
+                    ],
+                    "negative_reviews": [
+                        "Took 2 pills at 8PM. By midnight I started feeling bad abdominal pain. Made it to the bathroom. The pain persisted and then I started feeling nausea and like I was going to faint. Pain was worse when I moved but I made it back to bed. Didn't want to faint on the bathroom floor. It never did what it was supposed to. After awhile the pain stopped and I was able to go back to sleep thank God! I'll never use it again.",
+                        "I worked way up to three but the pain is too much to bear. I took at 9:30pm and woke up at 2:55 in excruciating stomach pains. Iâve had two kids and would compare them to contractions, they were breathtaking and painful. Iâve taken otc items like this but pain wasnât this bad and didnât impact my sleep.",
+                        "I've used Ducolax numerous times. My major complaint is that my poo was turned into swamp mud and there wasn't much warning before it decided it's coming out NOW. I had taken 1 pill around 5am. The first time the explosive swamp mud wanted out, I had JUST made it to the bathroom in time. That was sometime in the afternoon. My second time the explosive swamp mud insisted out I did NOT make it to the bathroom in time. What a mess! It took me hours to clean up me AND the floors between me and the bathroom. Thanking God we no longer have carpet in the living room. This fun event happened around midnight. I'm never taking this stuff again. There just isn't enough warning!!! At least, not for me and I only took ONE pill! Shame. Sorry to give a poor review but I'm being honest.",
+                        "Dangerous inert ingredients, for ppl allergic reaction to chem sweeteners, yello #6, Red #40 and others. The sales pitch is why i never looked for more info. Worse is that it can take 12-72 hrs to work and 3 pills per day. The terrible ingredients are for taste only so could be eliminated but must be so to be so children will like it...",
+                        "They smell and taste awful. My children went couldnât even eat a whole one. I had to throw the bag away."
+                    ]
+                }
+            },
+            {
+                "period": "2025-08",
+                "reviews": 188,
+                "average_rating": 3.761,
+                "average_sentiment": 0.69,
+                "cluster_distribution": {
+                    "0": 0.394,
+                    "6": 0.351,
+                    "3": 0.08,
+                    "2": 0.048,
+                    "5": 0.037,
+                    "7": 0.037,
+                    "8": 0.027,
+                    "1": 0.016,
+                    "4": 0.011
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "First thing to know, buy these from Amazon. I needed them immediately, so I got them from my local grocery store. And I paid $2 more for the exact same item. Which is crazy for such a small bottle whose dose is 4-8 chews. The good news is they work fast. I tried 4 to start, to see how they would work for me. I drank most of a liter bottle of water with them. Within 2 hours, they were working. Just slow and gentle, no diarrhea. I still have a way to go, but this is great. No cramping, and no worries about loss of control. Just be sure you drink enough water. I really like the taste and texture. Iâll definitely order from Amazon in the future.",
+                        "Iâve tried others but this works like no other. Took it last night and my stomach has been in horrible knots today. Finally relief. Finally",
+                        "I had been having some trouble over the course of 4-5 days and needed some help. I took 3 chews at 6 PM along with a bottle of Gatorade and could feel it begin to work. I continued to drink Gatorade and water throughout the next 4 hours with some minor stomach gurgling. I did not have a BM that evening and took 1 more chew at 9:30 PM before bed, along with a big glass of water. I woke up the next morning and finally had a solid movement without cramps or nausea. This was well worth the money I spent. I would highly recommend taking an electrolyte drink with the chews to keep hydrated while the medicine is doing its job.",
+                        "Wow I started injection for weight loss. It mess me up. I haven't done ð© in 5 days when I go everyday. I took this and loved it . It works same day. I had 0 stomach's cramps. Recommend, I. Also took 2 pills instead of 1.",
+                        "Easy to insert and theyâre just the right size. They work quickly. Iâve used these and Iâve never felt anything unusual. They just help move the bowel."
+                    ],
+                    "negative_reviews": [
+                        "My order I received on July 20th (Dulcolax) was defective. When I opened the individual packaging for the suppository, I noticed half of the product was missing. I continued to open all of them, and the suppository was definitely defective (missing some of the laxative). VERY disappointing. I Want A Replacement Order Sent To Me. I have submitted a negative review two times before this one. Send the replacement now. Thank you",
+                        "Suppositories are all deformed! Half of it is carved out, giving it appearance of a canoe used by the Amazon natives. The efficacity would be reduced by half I assume. What should I do with these? Can't sell them again. Return or discard?",
+                        "I only took 1 of them, and I was in extreme pain for hours and was nauseous. Had to stay home all day because of this.",
+                        "Ordered first bag and it was fine. My 6 year old liked it. Ordered again, and he wouldnât eat it. Said it tasted bad. Sure enough, the package and product wreaked of a fishy smell. Iâm afraid it was bad, especially since the first bag was fine.",
+                        "I cancelled my subscription because I was receiving nearly expired that had a foul taste. I bought this product from another retailer and it was fresh and tasted fresh."
+                    ]
+                }
+            },
+            {
+                "period": "2025-09",
+                "reviews": 94,
+                "average_rating": 4.011,
+                "average_sentiment": 0.753,
+                "cluster_distribution": {
+                    "0": 0.457,
+                    "6": 0.319,
+                    "5": 0.064,
+                    "2": 0.053,
+                    "3": 0.043,
+                    "4": 0.021,
+                    "7": 0.021,
+                    "8": 0.021
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Easy to chew and swallow, gentle but works fast, tastes like a regular chew but dissolves fast. Smells fruity, not sticky when taken out of wrapper. Can take easily with you. Took me 7 hours for a very blocked bowel. Prefer these over other laxatives with bad aftertaste like chalky or grainy. Itâs like having a small piece of very soft candy. The texture is slightly grainy once dissolved but you just swallow it down with water. Itâs not major not taste bad. This is my new favorite go to. Worth every penny",
+                        "I have purchased these many times as my husbands diabetic medications can have him struggling at times. These do exactly what they are supposed to do, they taste great, texture is almost like a chewy candy and definitely cheaper than some in store options. Will continue to purchase.",
+                        "Very effective, works within a few hours and the taste is pleasant. The best part is that itâs chewable like candy, no water needed. A big help in moments of constipation.",
+                        "This product has always helped me when I needed it. I received my order the next day. It came well packaged and as described in the Ad.",
+                        "They work very well. I started with two and did just fine. I would not take four at once unless you already know you can deal with it. They taste good to me, and I like the texture."
+                    ],
+                    "negative_reviews": [
+                        "The worst abdominal pain Iâve been in since my children were born!. I threw the rest of the package away! It said to take 1-3 pills; I took 2 and I developed a severe migraine then started cramping, which were just exactly like labor pains. This lasted over an hour until I finally had a bowel movement. Then I felt nauseous. Never again!!!",
+                        "Unfortunately, these were no help. I think I would have to eat the whole bag for it to have any effect as they do not anything for me.",
+                        "So Iâve been constipated for the last 6 days, I took 1 pill last night after 12 hrs I decided to take another 2 since I didnât have an effect. This second time worked a little better but I was still really constipated. Anyway I gave up and drank a rose milk tea from ChaTraMue and it worked instantly ð¤£ instant relief",
+                        "The pills in the bottle are stuck together because the manufacturer did not put any sort of moisture absorbent pad in the bottle.",
+                        "Did not like this product - As it did NOT accomplish why I purchased it for. I was disappointed and threw the remaining in the trash."
+                    ]
+                }
+            },
+            {
+                "period": "2025-10",
+                "reviews": 230,
+                "average_rating": 4.078,
+                "average_sentiment": 0.77,
+                "cluster_distribution": {
+                    "0": 0.439,
+                    "6": 0.365,
+                    "2": 0.07,
+                    "3": 0.057,
+                    "5": 0.035,
+                    "1": 0.017,
+                    "8": 0.009,
+                    "7": 0.009
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Make sure you take at least one full cup of water with this pill. This laxative takes a while usually 4-6 hours, but is very effective and gentle, without the cramping and violent explosions of so many laxatives. . I find the more liquid I drink while Iâm waiting, the faster the results. Sorry not going to share a video!",
+                        "Se los recomiendo ya que en vez de andar chapando cualquier dulce, chupas uno a diario a diario, te ma tiene libre tu sistema digestivo, bueno en lo personal me ha ayudado mucho mucho.",
+                        "Imma be very honest so now is your chance to look away. Start with JUST ONE. I tried 2 last night for the first time and wellâ¦.turned out I only needed one. Or half of one (jk bc you canât cut them in half.) But reallyâ¦â¦if you need to pass gasâ¦.. donât. You arenât safe if you are not in the bathroom, on the toilet.",
+                        "I like these alot. They taste very good. They are Made with Magnesium which is the only thing i can take for health reasons. Very little discomfort in the tummy. Took about 6 to 7 hours for relief. I took only 2. I'm taking another 2 today to keep things moving. I've suffered with constipation all my life and Magnesium is about the only thing I can take but I absolutely can not stomach the horrible liquid so to me these are a blessing. I've just discovered the chewies so I'll see if they continue to work.",
+                        "I take 2 or 3 tablets almost every day ever since I learned that I was COMPLETELY impacted with fecal material!!! I even ended up at the ER two days in a row!!!"
+                    ],
+                    "negative_reviews": [
+                        "Update to add: doesn't work. Product box arrived open, so i don't know if it was tampered with, and the suppositories have melted and resolidified and hollowed out in the middle, so they're harder to use. Not very happy with this. The other brand i usually purchase never arrives melted.",
+                        "I took 4, drank the required amount of water, and even after 24 hours absolutely nothing happened, not even a stomach gurgle. Completely useless. I'll stick with Exlax. The item is not even returnable, Complete waste of money.",
+                        "These do not give me a flushed result and it does not soften stool it just give me extreme upset stomach and harsh constipation for DAYS, after taking I feel like this product give more problems than solves.",
+                        "These are stale and I can tell they are older regardless of the date. Normally they are fine. I order these on a regular basis",
+                        "Bought it for my medicine cabinet just in case. Turns out when I needed it, it didn't do anything! Not 30 minutes later, not 1 day later, and I had chewed 4. Also it's sickeningly sweet. Would not recommend or repurchase."
+                    ]
+                }
+            },
+            {
+                "period": "2025-11",
+                "reviews": 548,
+                "average_rating": 4.403,
+                "average_sentiment": 0.851,
+                "cluster_distribution": {
+                    "0": 0.453,
+                    "6": 0.369,
+                    "2": 0.071,
+                    "5": 0.042,
+                    "7": 0.024,
+                    "3": 0.016,
+                    "8": 0.013,
+                    "1": 0.007,
+                    "4": 0.005
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Letâs be honest: when your digestive system decides to go on strike, Dulcolax is the union negotiator that gets things moving again. This 2-pack of 10-count tablets is like having 20 tiny superheroes in your medicine cabinet, each armed with a cape and a plunger. Effectiveness: Pop one of these bad boys before bed and prepare for a morning meeting with destiny. Itâs gentle enough not to cause a bathroom panic, but powerful enough to make your intestines whisper, âWeâre back, baby.â Works in 6â12 hours, which is just enough time to cancel your brunch plans and emotionally prepare. Design & Delivery: Enteric-Coated: Because your stomach doesnât need dramaâitâs your colon that signed up for the action. Compact Packaging: Small enough to hide in your purse, glove box, or emergency poop kit. Reliable Results: Like clockwork, but with less ticking and more flushing. Pro Tips: Donât take it before a road trip, a first date, or any event where bathroom access is limited. This is not a drill. Also, hydrateâyour bodyâs about to do a full evacuation. Final Verdict: Dulcolax isnât just a laxativeâitâs a life coach for your lower GI tract. When nature calls but your bowels hit âignore,â this little tablet says, âI got this.â Highly recommend for anyone whoâs tired of playing emotional chess with their colon.",
+                        "The Dulcolax laxative powder works just as expected. We have been using Dulcolax for years now whenever we need some additional assistance for relief. I found the powder to be gentle, which is really all you can ask for when you have to take an additional supplement for number two. I thought that it was really easy to mix and to drink and it didn't end up being chunky or chalky. I know some other powders can end up tasting chalky and actually ruin the taste of drink, but I didn't really experience that here. In terms of value for money, I think that this is decent value for the performance that you get. You do get a fair amount of powder, and it is effective. So overall, a good product and price.",
+                        "I recently tried Dulcolax Laxative Powder, and I have to say, it delivered as promised. First off, the 27oz bottle is huge. Forty-five doses in one container will last a long time, especially since you shouldn't be taking this regularly. The instructions are very clear. You only need to put enough powder to fill the white part of the cap. Mix it into 4â8 oz of any beverage, stir until dissolved, and youâre good to go. Itâs unflavored and dissolves easily, so taking it is simple. Effectiveness-wise, it worked gently. There were no cramps or harsh side effects. It says that relief can come within 1â3 days, but I had to \"go\" within a day. If youâre looking for a reliable, stimulant-free option, this oneâs worth considering.",
+                        "Dulcolax is something that we need to have on hand constantly, and this is a great sized container for those who need to use this consistently. This powder is unflavored so it can be mixed into any drink. The size of the bottle is very generous and it's a good value for what you get. This is about a month and a half's worth of daily doses. This mixes well and doesn't seem to have too horrible of a texture (which is good because I'm sensitive to gritty textures). I like that this provides gentle relief without a lot of side effects. This is much more preferable than some of the ones that cause abdominal pain and other side effects. Overall, we are happy with this.",
+                        "Normally, not one to need these bodily movement relaxers, but I have reached that age when the doctor needs things checked that need your entire digestive track clear...oh the fun of mixing these with a whole bottle of Miralax and 64 oz of apple juice. These bad boys right here allowed me to thoroughly examine every perfection and imperfection of all my bathroom decorations. After an evening with these pills you will be free of all the extra weight you have been holding on to and have your daily exercise of wind sprints complete."
+                    ],
+                    "negative_reviews": [
+                        "Beware! This is the second time I've tried this. I took one both times about a year apart and had the same reaction to this both times. Severe dry heaves and vomiting.. major cramping for hours.. sweating and curled up on the floor of the bathroom. Once this came out of me I'm about 90% better. Yeah I know what you're thinking.. why did he take it again? I still had it in my cabinet and I thought it couldn't have been that that caused all that pain.. well it was. I seriously thought i might have to go to the hospital. Tomorrow morning I'm going to add this to the list of medications, at my doctor's office, that I can't take. What is wrong with this stuff!!?? Seriously. Try another product!",
+                        "How a company can continue to sell suppositories that are missing the entire center of the suppository and stay in business is beyond me. For months they have been selling these broken and incomplete product which dries out and causes problems with insertion due to the space in the packaging. have written directly to Dulcolax but they continue to sell these. No others work as well. Looing for another source.",
+                        "This is my go to laxative. I have purchased the smaller package many times. This larger package was defective. All the suppositories had the middle carved out. Missing the middle. They broke when trying to handle them. I didnât return them because they are individually wrapped. I didnât think they were all damaged, but they were. The entire package was damaged and i wa.t a refund!",
+                        "Horrible. I took in the evening one tablet. At 3 am woke up with pain in lower stomach. PAIN was unbearable. After stool, repeated again. Diarrhea started, whole night was destroyed. Don.t recommend.",
+                        "I ordered this item based on what is shown in the photo. However, what I received was not what is shown in the photo. be careful before you buy this."
+                    ]
+                }
+            },
+            {
+                "period": "2025-12",
+                "reviews": 421,
+                "average_rating": 4.071,
+                "average_sentiment": 0.768,
+                "cluster_distribution": {
+                    "0": 0.409,
+                    "6": 0.394,
+                    "7": 0.052,
+                    "3": 0.05,
+                    "2": 0.05,
+                    "5": 0.031,
+                    "1": 0.01,
+                    "4": 0.005
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I am Spinal Cord injury and these are hands down the best suppositories on the market. They are reliable and they work pretty quick, make sure you are hydrated when using them. They can be difficult to open but I cannot recommend them any higher they are great and work. Amazon has the best price but it's getting more expensive to buy these because the price keeps going up here on Amazon. It used to be 23.00 for these and now as of January 10, 2025 it's 31.25! They are the best but getting very expensive!",
+                        "I have to do a colonoscopy every year and this is part of my general routine. Dulcolax is polyethylene glycol, which is a gentle laxative that helps loosen your stools. I mix this with a bottle of Gatorade and while it doesn't have any flavor, it does thicken the liquid a little if you are using large amounts. I didn't experience any bloating, cramping or gas while using this so that is a win in my book.",
+                        "I had a few issues, so I decided to get this laxative and see if it would help me out. Dulcolax has done wonders for me. It worked quickly and cleared all of the intestinal issues I was experiencing. I highly recommend this laxative for people who are experiencing all forms of constipation. It's a great product to own for people who are prone to these kinds of problems.",
+                        "I got this because I struggle swallowing pills always have. My daughter has texture issues (recommended by pediatrician) and this is a life saver for us and has become a stable on our home. It is easy to use, works great and relieves gastrict issues and constipation. Great price and no taste",
+                        "Best!! Using a suppository isnât much fun but in this case it works every time in just 10 mins. No days of diarrhea after. Just get it out and itâs over. My condtipation is severe most pills donât work or I still âgive birthâ. Not with this product."
+                    ],
+                    "negative_reviews": [
+                        "I had been feeling a little backed up and bloated, so I just bought the first thing that came up when I searched for laxatives. Little did I know, I'd be making the worst mistake of my life. I took 2 pills around 9pm and then at 3am I had the worst stomach cramping ever. Like if I didn't know I had taken the pills, I would've gone to the ER. Then I vomited and that helped a little but the pain was still unbearable. Then I had the worst diarrhea of my life. (At some points, felt like I was peeing but from my butt. I never knew diarrhea could get that bad.) I was seriously on the toilet for an hour and a half (not exagerating even a little, i didn't go back to bed until around 5am). I didn't even know I could have that much poop inside me. Then the next day, I was just constantly running to the bathroom like I had a stomach bug or something. I was scared to fart. I seriously wouldn't give this stuff to my worst enemy. It's like someone discovered a poison then decided to market it as a laxative. DO NOT BUY. I'd only consider this if I hadn't pooped for like a month. At least I wasn't bloated anymore the morning after...",
+                        "For some reason it seems the manufacturer thinks it is acceptable to sell suppositories that are missing most of the center connecting both ends. They are all defective and unusable and have been for months but they keep selling them and I keep returning them. This is a manufacturer problem not an Amazon problem. This issue needs to be resolved as this is a health and safety issue. These have thin edges connecting the edges and if you insert them like that daily I suspect it could cause damage. Until this is cleared up I will keep buying them and returning them when they are defective.",
+                        "My order I received on July 20th (Dulcolax) was defective. When I opened the individual packaging for the suppository, I noticed half of the product was missing. I continued to open all of them, and the suppository was definitely defective (missing some of the laxative). VERY disappointing. I Want A Replacement Order Sent To Me. I have submitted a negative review two times before this one. Send the replacement now. Thank you",
+                        "This is my go to laxative. I have purchased the smaller package many times. This larger package was defective. All the suppositories had the middle carved out. Missing the middle. They broke when trying to handle them. I didnât return them because they are individually wrapped. I didnât think they were all damaged, but they were. The entire package was damaged and i wa.t a refund!",
+                        "I ordered one box of these and received three boxes. I sampled several suppositories from each box and they were all the same as the photo above. They don't melt like a normal suppository so needless to say they don't work. I wonder if they are an off brand that was made to look like a Dulcolax product. Very disappointed."
+                    ]
+                }
+            },
+            {
+                "period": "2026-01",
+                "reviews": 90,
+                "average_rating": 4.833,
+                "average_sentiment": 0.958,
+                "cluster_distribution": {
+                    "6": 0.489,
+                    "0": 0.322,
+                    "3": 0.1,
+                    "2": 0.067,
+                    "7": 0.022
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Of all the ex laxatives I have had to use in life, I find that the Ducolax pills work very well, better than others. Theyâre very effective and work very quickly. There is some discomfort at times, but that goes without saying when using a laxative. I find them to be of good quality and a very good value for the money. I experience relief fairly quickly after taking.",
+                        "I bought this because my doctor recommended it to me since Iâm always dealing with constipation. Dulcolax works when other things donât. Itâs predictable, so I know what to expect, and it usually helps by the next morning. It can cause mild cramping, but the relief is worth it. I always keep this on hand now.",
+                        "Alivio rÃ¡pido y efectivo cuando mÃ¡s lo necesitas Este paquete de supositorios Dulcolax con 10 mg de bisacodilo me salvÃ³ cuando mÃ¡s lo necesitaba. ActÃºa en tan solo unos minutos y me proporcionÃ³ un alivio cÃ³modo y predecible del estreÃ±imiento sin efectos molestos. Perfecto para dÃ­as en los que el cuerpo simplemente no responde.",
+                        "Estos Dulcolax masticables me sorprendieron. Tienen buen sabor, son fÃ¡ciles de tomar y realmente funcionan en poco tiempo sin causar malestar fuerte. Son prÃ¡cticos para llevar en el bolso y usar cuando se necesita un alivio rÃ¡pido. Los recomiendo",
+                        "I used these when I was pregnant due to constipation and they worked really well for me and tasted really good too. Easy to take, no chalky taste."
+                    ],
+                    "negative_reviews": [
+                        "Itâs not for sensitive stomachs itâs worst then the original one. I woke up vomiting and seeing stars and being dizzy. Took the life out of me.",
+                        "These chews would be a lot easier to get kids to eat if: 1. They actually tasted like watermelon; 2. They had a little bit of sweetness to them. These are pretty bad, and there was no way my grandson would eat one.",
+                        "Of all the ex laxatives I have had to use in life, I find that the Ducolax pills work very well, better than others. Theyâre very effective and work very quickly. There is some discomfort at times, but that goes without saying when using a laxative. I find them to be of good quality and a very good value for the money. I experience relief fairly quickly after taking.",
+                        "I bought this because my doctor recommended it to me since Iâm always dealing with constipation. Dulcolax works when other things donât. Itâs predictable, so I know what to expect, and it usually helps by the next morning. It can cause mild cramping, but the relief is worth it. I always keep this on hand now.",
+                        "Alivio rÃ¡pido y efectivo cuando mÃ¡s lo necesitas Este paquete de supositorios Dulcolax con 10 mg de bisacodilo me salvÃ³ cuando mÃ¡s lo necesitaba. ActÃºa en tan solo unos minutos y me proporcionÃ³ un alivio cÃ³modo y predecible del estreÃ±imiento sin efectos molestos. Perfecto para dÃ­as en los que el cuerpo simplemente no responde."
+                    ]
+                }
+            },
+            {
+                "period": "2026-02",
+                "reviews": 463,
+                "average_rating": 4.562,
+                "average_sentiment": 0.89,
+                "cluster_distribution": {
+                    "6": 0.43,
+                    "0": 0.361,
+                    "3": 0.104,
+                    "2": 0.06,
+                    "7": 0.017,
+                    "5": 0.013,
+                    "8": 0.011,
+                    "1": 0.004
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Ok.. im goin to be a 100% transparent on this one. I've having problems with constipation for quite a while and i've been trying EVERYTHING and nothing works until today. I receive the dulcolax yesterday afternoon and since the instruction said to take it at night, i wait until 8:30ich. I took one since again, the instructions say it, right. I went to sleep and i was a little concern that i may havr to wake up in the midle of the night, but no.. nothing happend. So i took another one around 10:30am since the next day, since was my day off work... well..... around 12:30pm i start feeling something on my stomach i RUN!!!! to the bathroom as fast as i could and when i tell you my life in front of me, im not lying. That was rough. It didnt give me horrible cramps at all, i could handle the desconfort, but when i said this product will clean you, it will CLEAN YOU. I think it take out the gum i swallowed when i was 10 y/o and all the stuff i ate that i didnt suppose to when i was a kid. If you are thinking on buying this stuff, just hear me out, make sure you are at home, DON'T PLAN TO GO ANYWHERE. Stay home for that day, i warn you, if you go out it wont be pretty. It take sometime to work, but when it does, it does. Your toilet and you will be best friends. All i want to say is this product work wonders, take from someone that suffer from constipation regulary. Good luck, you will need it!",
+                        "Since I started perimenopause a little over two years ago, my already not-so-regular self became even less so. Over the past three months it's become to the point where I pretty much can't go at all without daily Miralax-type aid, and even with that I end up looking about 8 months pregnant after two to three days...for reference, I'm 5'6 and 135-140lbs, so looking 8-MO pregnant on a regular basis stands out like a sore thumb. And at that point I'm past miserably uncomfortable and can't fit in any of my clothes, so I turn to Dolcolax. And let me clarify...Dolcolax the liquid. I tried the pill form...not the same results sadly. The liquid works amazing. I take the full cap dosage and within anywhere from 30 minutes to two hours my backlog is rapidly working its way out. Nothing else I've tried has this level of success. My doctor is doing every test under the sun to try to figure out why my GI tract stopped working on its own, but so far no luck. Until they figure it out and my body starts working peoperly again...Dulcolax is about the only thing helping me! It doesn't cause me any cramping either which is a bonus. If I weren't on conference calls from early morning until late afternoon I'd take it daily to avoid the two to three days of misery. Highly recommended!!!",
+                        "I'm a lifelong sufferer (yes, I'm under a doctor's care) who takes a laxative daily, but will also need \"instant\" relief once in a while. My go-to had been the dreaded milk of magnesia, which still took a bit to the longer side of time to work, but that horrible flavor that coats your mouth and tongue for the rest of the day is utterly disgusting! Just this year, I discovered that the clear magnesium citrate comes in a non-carbonated variety, as this product does work fast, but both the cherry & lemon flavors don't mask the unbelievably \"sour\" nature of its ingredients. This Liquid Dulcolax popped up in a search for my normal type of medication, and I did not know of its existence before that moment... but I wish I had!! There's NO AFTERTASTE, NO RESIDUE, and almost no medication even coating its dosing cup! Took the lowest adult dose of 30ml with a glass of water, and had results within one hour! If I could rate it more stars than 5, I would!!",
+                        "It's better than the pills, the pills hurts my stomach cramps wise... My first time taking the liquid...it doesn't hurt my stomach with cramps, no bad side effects, the taste isn't bad neither, it's not a chalk taste very smooth. Take it an hour or two hours before or after eating. Have to take on an empty stomach well you don't have to but it's best to. I noticed I'd have a sick feeling taking the pills on a full stomach, and no that's not why i had cramps with the pills. I will purchase the liquid again. Oh and it does make you go to the toilet at least three times maybe four. Your poop will be coming out watery...well atleast mine did.",
+                        "Every single time I buy these from the grocery store or local, it takes roughly 6-12 hours for them to work. When I order them from Amazonâ¦bam, at least 3 hours and itâs over with. They must be âfreshâ lolð¤£ I normally have âissuesâ with my stomach due to medication I take. It gets really really bad. But Dulcolax Pink is always good. ð Iâve tried the green and eh, they work (kind of ) but not like the pink. Theyâre really small, and easy to swallow. Iâm 36, 5â5 and 150 pounds and can take 3 at one time. I believe the dose instructions say 2-3? Nonetheless, theyâre always delivered next day and packaged well."
+                    ],
+                    "negative_reviews": [
+                        "I had to stop buying the mint because about 75% of the time it was a watery liquid instead of the creamy liquid it was supposed to be. I was able to return them 3 at a time to Dulcolax parent corporation, but you're unable to return them through Amazon since it's a health item. Stick with the cherry flavor. It's way too sweet, but I've never had a problem with it. It definitely works, but stick with the cherry.",
+                        "Due to allergies, I have to read ingredients very closely. The description here did not list and/or misrepresented ingredients, and I am going to have to throw the whole bottle away unopened.",
+                        "I don't know how this even happens, but the entire underside of the freshness seal and the measuring cup were coated with sticky medicine on arrival, including parts of the bottle. Did the machine just overflow at the factory while packing?",
+                        "Received product on time. I opened the package to see the cap was open but the wrap was on it with product everywhere.",
+                        "I took 40mL and nothing happened for 6 hours. That entire 6 hours I was nauseated & bloated & had cramping... Even when something finally did happen, it wasnât a complete clear out (if you know what I mean). It was just a normal event. Now 3 days after taking it, Iâm still having major bloating and gas. Also, taste is terrible and made me gag."
+                    ]
+                }
+            },
+            {
+                "period": "2026-03",
+                "reviews": 101,
+                "average_rating": 4.752,
+                "average_sentiment": 0.938,
+                "cluster_distribution": {
+                    "6": 0.465,
+                    "0": 0.386,
+                    "3": 0.099,
+                    "7": 0.02,
+                    "2": 0.02,
+                    "4": 0.01
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Works as advertised. I am diabetic and take Mounjaro to maintain blood sugar. Typically these drugs constipate you and you will find yourself straining which is not good and leads to stomach problems. Not with Dulcolax. I take it at bedtime. In the morning, I have no trouble. My doctor recommended it and it is safe to take one daily.",
+                        "I take iron pills and these gummies donât give me cramps. Which is a biggie for me. The taste is great, and works like a charm. I will continue buying these!!",
+                        "This is a very mild laxative. I take mine at bedtime and have very little to no cramping. Works by morning and is very gentle.",
+                        "I got these to use before my colonoscopy and they did their job. Tho Iâm not sure if it was this or the liquid I had taken a few hours before but 2 hours after taking 3 of these I was getting some pretty bad cramping. I believe it was these as the other had already been working previously. Regardless they did their job! Super tiny pills and easy to swallow. No taste. Stated working quickly.",
+                        "If anyone looking for something that gets the plugged unplugged? This it ðð¤£ Iâm that person who refuses to take any laxative with stimulants, no time for cramping stomach. The flavor is pretty decent, easy to sallow and my second purchase it works so well. Be certain to read the instructions, take too much youâll be sleeping in the bathroom lol. Half cup and a glass of water behind it at bedtime, next day itâs a relief big time. For the price I sure didnât think it works this good. Now I keep a bottle in my closet or medicine cabinet. As needed base. Anyone needs stimulate free, buy one or two. Be sure to follow the instructions."
+                    ],
+                    "negative_reviews": [
+                        "I think these are better for kids two take and it did nothing I had to take the pill form the next day. It doesn't taste bad at all and it doesn't give you cramps.",
+                        "There were chunks missing from every suppository in the same place and size. Obviously a QC issue which results in a lower dose. There are better suppositories out there.",
+                        "I had to purchase these for a medical test. They are a good value and easy to use. There of course was no pain involved.",
+                        "I like that they are individually wrapped and I had high hopes for these on vacation, as my system tends to move slow. They do taste chalky, yes, but they are not bad. I just found that they didn't work with my system. I'll keep searching for something that is gentle and effective.",
+                        "Works as advertised. I am diabetic and take Mounjaro to maintain blood sugar. Typically these drugs constipate you and you will find yourself straining which is not good and leads to stomach problems. Not with Dulcolax. I take it at bedtime. In the morning, I have no trouble. My doctor recommended it and it is safe to take one daily."
+                    ]
+                }
+            },
+            {
+                "period": "2026-04",
+                "reviews": 314,
+                "average_rating": 4.643,
+                "average_sentiment": 0.911,
+                "cluster_distribution": {
+                    "6": 0.545,
+                    "0": 0.328,
+                    "7": 0.038,
+                    "3": 0.035,
+                    "8": 0.019,
+                    "1": 0.013,
+                    "2": 0.013,
+                    "5": 0.006,
+                    "4": 0.003
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I ordered these gummies because I was looking for a gentle way to support regularity without harsh stimulants. The gummies are easy to chew and have a mild orange flavor that isnât overly sweet or artificial. The bottle is a good size and lasts for a while if you take the recommended three gummies a day with plenty of water. According to the packaging, they contain magnesium citrate, which is meant to work naturally with the body to help hydrate and soften stool and keep the digestive system moving.ï¿½ Target In my experience, taking them consistently did seem to help make bowel movements a bit more regular compared with before, and I didnât notice the cramping or discomfort that can come with stronger laxatives. They feel much gentler than some traditional options Iâve tried, and I didnât experience any harsh side effects. I also appreciate that they are stimulant-free and free from common allergens like gluten and dairy, which matters for my daily routine.ï¿½ Target A couple of things to keep in mind: since these are a daily support product rather than a fast-acting laxative, they arenât designed to provide immediate relief if youâre already very constipated. They work more gradually as part of your routine rather than knocking out occasional constipation within hours. I also found that you really do need to drink a full glass of water with them to get the most benefit; without enough fluid, they didnât seem as effective.ï¿½ Target Overall, these gummies are a pleasant and easy way to support gut function on a daily basis. Theyâre convenient to take, taste acceptable for a supplement, and have helped me feel more balanced in terms of digestion without the unwanted effects of more aggressive products. Iâd recommend them for someone who wants a gentle, consistent approach rather than a quick fix.",
+                        "I've tried Dulcolax chewable before and it was somewhat unpredictable. You don't know when it's really going to kick in so you have time time it correctly. It can also be a bit too much with lot of pain. Unlike the chewable, I found this new liquid gel much better. At least for me, it took longer for it to be effective but it felt lot more natural. This new liquid gel also has minimal amount of ingredient other than the active ingredient which is a plus. It is bit pricier than their regular offerings though but I feel like it's worth the money for the results I got. I took the advice from my pharmacist friend and only took these before going to bed. The liquid gel pills are tiny - super easy to swallow. It did not work right away. I took it every night for 3 nights before it worked. But when it did work, it just felt natural. It didn't feel forced at all. Obviously the initial go was somewhat difficult after that initial relief, I felt like the gels actually helped me reset my normal pattern of going to the bathroom right after my morning coffee. It's hard to know how valuable having a regular pattern until you lose it - and I'm really glad these Dulcolax gels helped me get my daily routine back.",
+                        "Iâve been taking these Dulcolax magnesium gummies and theyâre honestly one of the easiest supplements to stick withâgreat taste, soft chewy texture, and no weird side effects. Theyâre easy on the stomach, donât leave a strange aftertaste or dry mouth, and deliver solid magnesium content that feels like it actually makes a difference. â What shoppers might like (1â10): 1- Taste is genuinely good, more like a treat than a typical supplement. â 2- Soft, chewy texture makes them easy to take, even if you hate swallowing pills. â 3- No weird aftertaste hanging around after youâre done. â 4 - Easy on the stomach, with no upset or heaviness after taking them. â 5 - No dry mouth or chalky feel like some tablets can cause. â 6- Delivers a strong magnesium content so it doesnât feel like a token dose. â 7 - Simple to work into a nightly routineâno water or meal timing needed. â 8 - The texture and flavor make it easier to stay consistent long term. â 9 - Great option if youâve struggled with other magnesium forms being harsh or hard to swallow. â Bottom line: they taste good, feel gentle, and they work, which is why theyâre an easy 5âstar pick.",
+                        "After taking glucosamine with Chondroitin 1500mg I was in serious trouble. I did 1 salt enema two days in a row, and a coffee enema on the third day in the morning -- nothing softened the stools and it was distressing. The same day that I did the coffee enema I took 4 Dulcolax chews around lunch and drank at least 32 oz of water with it. That evening I finally had a BM. It was soft and gentle. No cramps. No urgency. Without needing to take more chews, the positive gentle BMs has lasted for the past 4 days. I'm so grateful!!!! The only tip I would give is -- if you think you have to pass gas, do it on the toilet. The Dulcolax chews are so gentle on my system that there were 3 times that I didn't even know that I needed to have a BM, and I was glad that I had decided to sit on the toilet. The flavor is fine -- not yummy, not bad. The texture is a tiny bit gritty, but manageable. I appreciate that each one is wrapped individually. This formula is the best laxative I have ever tried. So grateful for this product. April 2026 Formula",
+                        "This is the best thing ever for pregnancy constipation. Even better and faster then the pill. Not the worst taste at all but a little hard to keep down initially with pregnancy nausea. I recommend taking it with nausea medicine if you struggle with that just so you can keep it down long enough to work. Once your stomach settles you should drink some water or electrolytes to help. For me it took about two hours and I took the 30ml dose and it honestly felt like the best cleanse of my life after suffering from slowed digestion during my pregnancy. Honestly one of the most relieving days in months. 1000/10 would recommend if you are dealing with this or any other difficult constipation. It does keep working for about 6-8 hours esp after you eat or drink so I would use this on a day off at home. It caused much less cramping and pain then the pill and although 30 minutes is unlikely you will likely see relief in 1-3 hours. Good luck out there lol"
+                    ],
+                    "negative_reviews": [
+                        "I purchased these as an alternative to the regular pill form, but they didnât have the same effect or strength. Unfortunately, they didnât work for me at all, and since theyâre non-returnable, I wasnât able to use the",
+                        "I've taken four in five days and I'm still waiting for action. I checked to see if the capsules had expired. Nope. They're just not working.",
+                        "Worked for a few days. Only need 1 pill. Then stopped working. Then needed 3 pills to go. Not cost effective just stick with the generic original.",
+                        "This product cause a whole lot of allergy reaction I tried it once I tried it twice, and it has been giving a whole lot of allergy reaction big bumps coming up on my face and my skin Very bad product",
+                        "These work okay but I donât like the smell of them or the after taste it leaves in my mouth Iâd rather take the kids ones that have better type of flavors but I love this idea!"
+                    ]
+                }
+            },
+            {
+                "period": "2026-05",
+                "reviews": 164,
+                "average_rating": 4.909,
+                "average_sentiment": 0.977,
+                "cluster_distribution": {
+                    "6": 0.476,
+                    "0": 0.323,
+                    "3": 0.079,
+                    "2": 0.043,
+                    "7": 0.043,
+                    "8": 0.024,
+                    "4": 0.012
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I have been using Dulcolax laxatives for almost three years now. As you know, the Dulcolax Pink only came out recently. The regular orange tablets were extremely painful for me and would cause extreme stomach pain. It was so painful that when I first started using them, I would be laying on the floor crying. But it was the only thing that worked for me, otherwise I would be stuck up to five days. When I first started using the Pink, I noticed a significant change. I wasn't experiencing extreme cramping anymore. It's really good for people who suffer with chronic constipation and need a laxative to take on a daily basis. However, if you've been stuck for several days, it will be painful when it moves all that hard stool. I've had a few incidents like this and I woke up crying one time. Now, the tricky part is figuring out how much you should take. One tablet is usually enough for me, I weigh 105 lbs. But, when I eat an excessive amount of bread and pasta that day, I go ahead and take two tablets. Beware! If you accidentally misjudge how much you need you can either remain uncomfortably constipated for another day or have the runs all day. My friend calls it \"explosive diarrhea.\" If you ever had to prep for a colonoscopy, you know what I mean. If your stool is just hard, you may want to try a stool softener first. But if you are like me and have a slow colon and gastrointestinal problems and nothing seems to work, then I highly recommend it. Just start with one tablet first or you might be in for the world of pain. ______________________________________________________________________________ February 15, 2015 Product Update: I thought I would add some additional information. -The active ingredient in each tablet is Bisacodyl USP 5 mg to stimulate the laxative. -Inactive Ingredients: acacia gum, ammonium hydroxide! beeswax, carnauba wax, corn starch, D&C Red #27 aluminum lake, ethanol, FD&C Blue #2 aluminum lake, FD&C Yellow #6 aluminum lake, glycerol 85%, glyceryl monostearate, iron oxide, lactose monohydrate, magnesium stearate, methacrylic acid - ethyl acrylate copolymer (1:1) type A (Eudragit L 30 D-55), methyl paraben, modified starch, polyethylene glycol 6000, polysorbate 8, povidone, propylene glycol, propyl paraben, shellac, sodium benzoate, sucrose, talc, titanium dioxide, triethyl citrate -It generally rakes about 6-12 hours to produce a bowel movement -If you take 2 tablets (10 mg) it will not be excreted into your breast milk -Adults and children over 12 years of age can take 1-3 tablets, -Children 6 to 12 years of age can take one tablet in a single dose -Swallow the tablet whole and do not take within an hour of consuming dairy or antacids such as milk of magnesia, alka setzer, pepto bismal, etc. -You can take a dulcolax tablet either before or after meals. One hour before bed time is usually preferred. How does it work? The way my doctor explained it to me is that the laxatives signal your body to draw water to your intestines, allowing your bowel to soften. This is because if a bowel sits too long in your intestines, it will increasingly become dry.",
+                        "The pill form of Dulcolax gives me horrible cramps and is unpredictable to when itâs going to start working. This liquid form is great, it comes with a cup so you can measure a half or full serving depending on what you are trying to do. I buy the cherry flavor, which I am not fond of, but itâs better than the mint and the flavor and it goes away right after I drink a glass of water. The bottle lasts a long time as I only use this for occasional relief. With this laxative, feel the effect within a few hours and have no cramping pain. I drink lots of water when taking this and usually take it in the evenings.",
+                        "You pay more for these, but what a difference in the ease of taking them. The other chews Dulcolax makes are natural and effective (and gentle) but taking them is the biggest pain. It's almost impossible to completely remove the wax/aluminum wrap on them so frequently I would end up with a little wax in my teeth or just cutting off part of the chew. These are so easy, just shake one out of the bottle and boom ready, with same gentle and natural effectiveness. I am so pleased to have found this product so I can get relief when I need it without a bunch of fuss or taking drugs.",
+                        "I've needed some laxatives due to being on Wegovy and now Zepbound (Zep is a lot better than Wegovy for me, so I haven't needed the Dulcolax as much). Just be aware if you take a full dose you can't leave the house for 24 hours, as you'll have SODDs (Sudden Onset Dulco Dumps) several times over that period of time. This stuff clears me out really well and gets everything moving again without feeling like a large dose of Mag Citrate where it feels like I dropped a nuclear bomb on my system.",
+                        "Dulcolax okay what can I say about this product well it seems to work very well if you're constipated it is not harsh like other brands it's very gentle on your system take it using the next day you'll clean out and you'll feel much better highly recommend this product have been using it for years. Don't have a big problem with constipation but what I do it's nice to have this product to take and know that it's not going to be very harsh on my system. Good name brand."
+                    ],
+                    "negative_reviews": [
+                        "El producto es bueno y a mi por lo menos no me causa dolor, es un laxante suave. Llego en el tiempo estimado, solo que trae fecha de vencimiento muy corta ya que yo lo compre en abril/26 y vence en noviembre/26. Generalmente vienen por lo menos con 2 aÃ±os antes que caduque . Eso lo encontre mal.",
+                        "After taking close to half a bottle, I don't think that this has done much for me. The gummies do taste good, and have a chewy enough texture. But it has not been effective at helping me with my stomach. And had a weird side effect of making me bloated for the first few days. Easy to take though since it's a gummy and not a pill. Good value if they had worked, but I reacted poorly with it. Did not finish the bottle",
+                        "If you wanna use the bathroom this product is for you. The side effects for me where, terrible nausea and stomach pain. So in conclusion never again",
+                        "You'll likely not have to buy anything other laxative for a good while. This stuff should last you a long time. It works, and doesn't have a bad aftertaste or anything. It's expensive, but it should last you a very long time.",
+                        "Pretty unpleasant to useâ¦.. burning and the like, but it worked better than dulcolax liquid and the expensive powder. Neither did anything for me. Must lay still for a while, doesnât feel good in there while waiting for things to happenð³"
+                    ]
+                }
+            },
+            {
+                "period": "2026-06",
+                "reviews": 135,
+                "average_rating": 4.659,
+                "average_sentiment": 0.915,
+                "cluster_distribution": {
+                    "6": 0.415,
+                    "0": 0.407,
+                    "3": 0.089,
+                    "7": 0.052,
+                    "2": 0.022,
+                    "8": 0.015
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Very good stool softener! This is a very effective product that is very easy to swallow, softens stools, and is gentle on your stomach. Dulcolax consistently does a good job with constipation and irregularity. These capsules have no taste and no after taste. My gastroenterologist recommended Dulcolax to me. The cost of these gel capsules are a very god value for the money (about .19 per capsule)! Don't go on vacation without Dulcolax.",
+                        "Since starting GLP-1 drugs two years ago I have suffered atomic constipation probably three times a year. Dulcolax stool softener/laxative liquid gel capsules work within 24 hours, effectively solve the problem reliably, and do not have any explosive, unexpected results. I think that's about all you could ask of from a product like this. The capsules are gentle on your stomach, have no unpleasant side effects, and work reliably.",
+                        "Couldn't have gone any better I took three chews with a glass of water still didn't have a bowel movement I took another chew when I got into bed with a glass of water and by morning by 6:00 that morning I had some wonderful relief this product did not give me any cramps which was important for me best laxative I've ever used",
+                        "They work. They may sometimes cause cramping but they do work, usually overnight. Youâre not going to have to run to the restroom or anything unless you take like 3 of them. MiraLAX is a better alternative for regulation because it doesnât mess with your electrolytes and is gentler. Be advised these are for occasional use only. May become physiologically dependent.",
+                        "No estaba tan convencida de pedir pero la verdad me sorprendiÃ³ esto estÃ¡ muy bueno sufro de estreÃ±imiento por mucho tiempo y la verdad este despuÃ©s de tomar literal una hora despuÃ©s me llevÃ³ al baÃ±o sin cÃ³licos"
+                    ],
+                    "negative_reviews": [
+                        "I have used the DulcoEase for some time and found it to be excellent. I have tried the Dulcolax , it does not give me the desired effect. I am not able to return or exchange the product. A waste of time and money. I do not recommend this site.",
+                        "Impression: Dissatisfying and Overpriced I purchased the Dulcolax Daily Gut Support Gummies, expecting a natural and stimulant-free solution to promote regular bowel movements and overall gut health. Unfortunately, my experience with these gummies has been disappointing. Firstly, the orange flavor is rather bland and unappealing. The taste is more citrusy than orangey, and the sweetness level is not sufficient to mask the chalky aftertaste. This made it difficult for me to enjoy the gummies as a regular supplement. Secondly, I didn't notice any significant improvement in my digestive system after consuming these gummies for several weeks. My bowel movements remained irregular, and I experienced occasional constipation. It's unclear if the magnesium formula was effective, as the product's claims seemed exaggerated. Furthermore, at $15 for a 60-count bottle, these gummies are quite overpriced for their perceived lack of efficacy. Other brands offer similar products at a lower cost point, making Dulcolax an uncompetitive option in the market. Lastly, the soft and chewy texture of the gummies is inviting, but this convenience factor alone cannot compensate for the product's shortcomings. In conclusion, based on my experience, I would not recommend the Dulcolax Daily Gut Support Gummies. The underwhelming flavor, unproven effectiveness, and high price point make them an unwise investment for anyone seeking reliable digestive support. I'll be exploring alternative options that better align with my expectations and budget for future gut health supplements.",
+                        "I was expecting these to work like the reviews said they would, but they do not. The pills are easy to swallow because they are so small, but thatâs the only good thing about them. These were a waste of money.",
+                        "It works but nowhere even close to 30 minutes. The taste is not great but not terrible. Itâs tolerable. It does work gentle just not quickly .",
+                        "Dulcolax Daily Gut Support Gummies feel more like a treat than a supplement, with magnesium that works gently without any urgency induced chaos. Theyâre not instant magic, but they show up consistently and get the job done. They are easy to eat and smell amazing ! Four stars for making gut care surprisingly pleasant and for being a little pricy ."
+                    ]
+                }
+            },
+            {
+                "period": "2026-07",
+                "reviews": 131,
+                "average_rating": 4.656,
+                "average_sentiment": 0.914,
+                "cluster_distribution": {
+                    "6": 0.466,
+                    "0": 0.435,
+                    "5": 0.031,
+                    "3": 0.023,
+                    "4": 0.023,
+                    "1": 0.015,
+                    "7": 0.008
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I have a strange body that needs this type of laxative on hand at all times. As a result, I attempt to purchase this laxative in its larger package. Dulcolax is fantastic. My system will NOT function without it. If you NEED it as I do, you will be pleased. After you use it a few times, you can clock its activity and know it is reliable.",
+                        "Works as advertised. I am diabetic and take Mounjaro to maintain blood sugar. Typically these drugs constipate you and you will find yourself straining which is not good and leads to stomach problems. Not with Dulcolax. I take it at bedtime. In the morning, I have no trouble. My doctor recommended it and it is safe to take one daily.",
+                        "IT WORKS! I was first introduced to Dulcolax when I was prepping for a Colonoscopy. Since then, I have used this for occasional constipation and it works PERFECTLY every time! Personally I do not experience stomach cramps, but I know people react differently to the same product. It works for me and I keep some at home at all times.",
+                        "These gummies taste good and are easy to take every day. I like that they combine gut support with magnesium, and they fit well into my daily routine. Theyâre gentle on my stomach and helped me feel more regular without being harsh. A convenient and effective option that Iâd happily purchase again. â­ð¿",
+                        "Dulcolax actually does work. Better than all the others. It works faster, it's more comfortable and it's cheaper. This stuff is something wonderful. I am now a loyal customer. ð"
+                    ],
+                    "negative_reviews": [
+                        "I used the medication due to being constipated around 8pm. I went to bed about 11pm and around 1:45pm I began to have severe stomach cramps/pains to the point I almost passed out several times was very nauseous and sweating. This continued until around 4:20am when I finally was able to have a bowel movement. I will not be taking this ever again and do not recommend.",
+                        "A few people suggested these to me after a surgery due to constipation from pain meds. These do get inserted in the butt so do not swallow! Insertion was easy, but no way i could keep inside for 15-20 mins. Within 10 mins I had to go and my stomach started griping :/ that pain is the only downside as itâs not a pleasant feeling.",
+                        "it does what it needs to do. but i bought this product because it said it was gentle and easy on the stomach. as one with already bad problems with my stomach, i chose this hoping it would be gentle on my stomach, the first time, no issue. the last two times iâve used this product, it has caused excruciating pains and cramps, my stomach felt like it was being ripped apart. not gentle at all. stomach pains so bad, i was crying. i agree with all the others when they say, last resort, if you want something gentle that wonât upset your stomach, stay far away from this. it definitely does the job, but it is anything but gentle. not to mention i took it at 7-8pm last night and didnât get the effects of it till about 5am. it is almost 10am and i am still feeling the effects of this product. it is good if you donât mind very bad cramping and very bad stomach pains. but otherwise the packaging is very misleading with the gentle part. because like i said, there is absolutely nothing gentle about this product.",
+                        "Sometimes it works, sometimes it doesnât. Not quite sure why. Iâve taken the maximum dose over several days and donât get results. The first time I used it, it did the job within 30mins",
+                        "I purchased due to the name brand and prior experience with other products. However, I find it no better than a cheaper competitor and the individually-wrapped product is a little harder to unwrap than others."
+                    ]
+                }
+            }
+        ],
+        "review_volume": {
+            "current": 266,
+            "previous": 478,
+            "change_pct": -44.35
+        },
+        "rating": {
+            "current": 4.658,
+            "previous": 4.734,
+            "change": -0.077
+        },
+        "sentiment": {
+            "current": 0.915,
+            "previous": 0.934,
+            "change": -0.019
+        },
+        "emerging_clusters": [
+            {
+                "cluster": 0,
+                "share": 0.421,
+                "change": 0.095
+            },
+            {
+                "cluster": 5,
+                "share": 0.015,
+                "change": 0.012
+            },
+            {
+                "cluster": 4,
+                "share": 0.011,
+                "change": 0.004
+            },
+            {
+                "cluster": 1,
+                "share": 0.007,
+                "change": 0.001
+            },
+            {
+                "cluster": 3,
+                "share": 0.056,
+                "change": -0.001
+            }
+        ],
+        "declining_clusters": [
+            {
+                "cluster": 6,
+                "share": 0.44,
+                "change": -0.07
+            },
+            {
+                "cluster": 2,
+                "share": 0.011,
+                "change": -0.017
+            },
+            {
+                "cluster": 8,
+                "share": 0.007,
+                "change": -0.014
+            },
+            {
+                "cluster": 7,
+                "share": 0.03,
+                "change": -0.011
+            },
+            {
+                "cluster": 3,
+                "share": 0.056,
+                "change": -0.001
+            }
+        ]
+    }
+}

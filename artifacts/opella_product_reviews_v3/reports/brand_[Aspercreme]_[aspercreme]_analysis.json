@@ -1,0 +1,1679 @@
+{
+    "product": {
+        "report_type": "brand",
+        "group_by": "BRAND_NAME",
+        "identifier": "Aspercreme",
+        "brand_name": "Aspercreme",
+        "products": 38,
+        "asin": [
+            "B01HC02KK8",
+            "B01N4NZ3UA",
+            "B06X6GZZQ2",
+            "B08WJ38D5N",
+            "B0FCZRN9BD",
+            "B07939274R",
+            "B07L4YQ4JQ",
+            "B0FCZDWHNB",
+            "B0FCZWNQ8C",
+            "B06W2KP6RF",
+            "B095Z7RMYB",
+            "B0BJLDKNZ3",
+            "B008OIJDNK",
+            "B00E4MOAJM",
+            "B00FQR6N0S",
+            "B07BQ6LSJL",
+            "B083XSLVB3",
+            "B06X3VZXVL",
+            "B08WHZY3V1",
+            "B0815H293N",
+            "B08TFMP5LX",
+            "B095Z8CRFT",
+            "B0791L9W76",
+            "B08WHLTGZN",
+            "B001G7QH6M",
+            "B0D4VVJKHZ",
+            "B08WHFMV1W",
+            "B0C3W9Y3VV",
+            "B0DP3F4QTF",
+            "B074N9F76P",
+            "B07LCXV6RH",
+            "B01IAI42HU",
+            "B01AUJ0M2G",
+            "B01F60PTTK",
+            "B0BVRR2S6C",
+            "B0C4BPC7KS",
+            "B0C4C1NYPC",
+            "B0CPL49TV2"
+        ],
+        "reviews": 2664,
+        "average_rating": 4.03,
+        "average_sentiment": 0.759
+    },
+    "macro_personas": [
+        {
+            "cluster": 7,
+            "universal_persona": {
+                "population": 4657,
+                "population_pct": 8.54,
+                "certainty": 0.995,
+                "positive_pct": 74.38,
+                "neutral_pct": 6.81,
+                "negative_pct": 18.81,
+                "avg_rating": 4.07,
+                "brand_distribution": {
+                    "Icy Hot": {
+                        "reviews": 2496,
+                        "share": 53.6
+                    },
+                    "Aspercreme": {
+                        "reviews": 1197,
+                        "share": 25.7
+                    },
+                    "Gold Bond": {
+                        "reviews": 548,
+                        "share": 11.77
+                    },
+                    "Cortizone 10": {
+                        "reviews": 190,
+                        "share": 4.08
+                    },
+                    "Dulcolax": {
+                        "reviews": 120,
+                        "share": 2.58
+                    },
+                    "Magne B6": {
+                        "reviews": 24,
+                        "share": 0.52
+                    },
+                    "Allegra": {
+                        "reviews": 22,
+                        "share": 0.47
+                    },
+                    "ACT": {
+                        "reviews": 19,
+                        "share": 0.41
+                    },
+                    "Zantac": {
+                        "reviews": 12,
+                        "share": 0.26
+                    },
+                    "Xyzal": {
+                        "reviews": 7,
+                        "share": 0.15
+                    },
+                    "Buscapina": {
+                        "reviews": 7,
+                        "share": 0.15
+                    },
+                    "Selsun Blue": {
+                        "reviews": 6,
+                        "share": 0.13
+                    },
+                    "Unisom": {
+                        "reviews": 4,
+                        "share": 0.09
+                    },
+                    "Nasacort": {
+                        "reviews": 3,
+                        "share": 0.06
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 2,
+                        "share": 0.04
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Pain Relief Prioritizers",
+                    "summary": "Customers seeking effective, targeted relief from muscle/joint pains.",
+                    "decision_drivers": [
+                        "Fast pain relief",
+                        "Long-lasting effects",
+                        "Targeted application",
+                        "Ease of use"
+                    ],
+                    "satisfaction_drivers": [
+                        "Quickly reduces pain",
+                        "Long duration of effects",
+                        "Convenient application",
+                        "No mess or residue"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective results",
+                        "Short-lived relief",
+                        "Difficult application",
+                        "Unpleasant smell/feel"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 7,
+                "share": 0.449,
+                "certainty": 0.997,
+                "reviews": 1197,
+                "average_rating": 4.2,
+                "average_sentiment": 0.799
+            },
+            "comparison": {
+                "share_lift": 5.26,
+                "rating_delta": 0.13
+            }
+        },
+        {
+            "cluster": 0,
+            "universal_persona": {
+                "population": 11231,
+                "population_pct": 20.6,
+                "certainty": 0.997,
+                "positive_pct": 86.88,
+                "neutral_pct": 4.03,
+                "negative_pct": 9.08,
+                "avg_rating": 4.49,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 3735,
+                        "share": 33.26
+                    },
+                    "Dulcolax": {
+                        "reviews": 1768,
+                        "share": 15.74
+                    },
+                    "Cortizone 10": {
+                        "reviews": 1000,
+                        "share": 8.9
+                    },
+                    "Icy Hot": {
+                        "reviews": 985,
+                        "share": 8.77
+                    },
+                    "ACT": {
+                        "reviews": 904,
+                        "share": 8.05
+                    },
+                    "Allegra": {
+                        "reviews": 743,
+                        "share": 6.62
+                    },
+                    "Aspercreme": {
+                        "reviews": 657,
+                        "share": 5.85
+                    },
+                    "Selsun Blue": {
+                        "reviews": 403,
+                        "share": 3.59
+                    },
+                    "Nasacort": {
+                        "reviews": 293,
+                        "share": 2.61
+                    },
+                    "Xyzal": {
+                        "reviews": 253,
+                        "share": 2.25
+                    },
+                    "Unisom": {
+                        "reviews": 215,
+                        "share": 1.91
+                    },
+                    "Zantac": {
+                        "reviews": 215,
+                        "share": 1.91
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 27,
+                        "share": 0.24
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 22,
+                        "share": 0.2
+                    },
+                    "Buscapina": {
+                        "reviews": 11,
+                        "share": 0.1
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Daily Wellness Maintainers",
+                    "summary": "Customers seeking reliable products to support everyday health routines and prevention.",
+                    "decision_drivers": [
+                        "Effectiveness",
+                        "Quality",
+                        "Trusted brand",
+                        "Ease of use"
+                    ],
+                    "satisfaction_drivers": [
+                        "Long-lasting relief",
+                        "Meets daily needs",
+                        "Minimal side effects",
+                        "Trusted solution"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short duration",
+                        "Unpleasant side effects",
+                        "Poor value"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 0,
+                "share": 0.247,
+                "certainty": 0.998,
+                "reviews": 657,
+                "average_rating": 4.2,
+                "average_sentiment": 0.8
+            },
+            "comparison": {
+                "share_lift": 1.2,
+                "rating_delta": -0.29
+            }
+        },
+        {
+            "cluster": 8,
+            "universal_persona": {
+                "population": 6837,
+                "population_pct": 12.54,
+                "certainty": 0.99,
+                "positive_pct": 85.61,
+                "neutral_pct": 3.89,
+                "negative_pct": 10.5,
+                "avg_rating": 4.44,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 6144,
+                        "share": 89.86
+                    },
+                    "Aspercreme": {
+                        "reviews": 242,
+                        "share": 3.54
+                    },
+                    "Icy Hot": {
+                        "reviews": 161,
+                        "share": 2.35
+                    },
+                    "Selsun Blue": {
+                        "reviews": 96,
+                        "share": 1.4
+                    },
+                    "Cortizone 10": {
+                        "reviews": 72,
+                        "share": 1.05
+                    },
+                    "Dulcolax": {
+                        "reviews": 48,
+                        "share": 0.7
+                    },
+                    "ACT": {
+                        "reviews": 41,
+                        "share": 0.6
+                    },
+                    "Allegra": {
+                        "reviews": 13,
+                        "share": 0.19
+                    },
+                    "Nasacort": {
+                        "reviews": 7,
+                        "share": 0.1
+                    },
+                    "Unisom": {
+                        "reviews": 5,
+                        "share": 0.07
+                    },
+                    "Magne B6": {
+                        "reviews": 5,
+                        "share": 0.07
+                    },
+                    "Xyzal": {
+                        "reviews": 2,
+                        "share": 0.03
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.01
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Comfort First Consumers",
+                    "summary": "Customers focused on products that provide comfort, freshness and prevent irritation.",
+                    "decision_drivers": [
+                        "Prevents chafing/irritation",
+                        "Absorbs moisture/sweat",
+                        "Long-lasting freshness",
+                        "Gentle formulation"
+                    ],
+                    "satisfaction_drivers": [
+                        "Stays dry and fresh",
+                        "Soothes irritated skin",
+                        "Easy to apply",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective absorption",
+                        "Short duration of effects",
+                        "Unpleasant smell/residue",
+                        "Causes further irritation"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 8,
+                "share": 0.091,
+                "certainty": 0.997,
+                "reviews": 242,
+                "average_rating": 4.21,
+                "average_sentiment": 0.803
+            },
+            "comparison": {
+                "share_lift": 0.73,
+                "rating_delta": -0.23
+            }
+        },
+        {
+            "cluster": 5,
+            "universal_persona": {
+                "population": 4604,
+                "population_pct": 8.45,
+                "certainty": 0.995,
+                "positive_pct": 22.26,
+                "neutral_pct": 13.66,
+                "negative_pct": 64.07,
+                "avg_rating": 2.21,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 3046,
+                        "share": 66.16
+                    },
+                    "Cortizone 10": {
+                        "reviews": 312,
+                        "share": 6.78
+                    },
+                    "Icy Hot": {
+                        "reviews": 242,
+                        "share": 5.26
+                    },
+                    "Aspercreme": {
+                        "reviews": 216,
+                        "share": 4.69
+                    },
+                    "ACT": {
+                        "reviews": 211,
+                        "share": 4.58
+                    },
+                    "Dulcolax": {
+                        "reviews": 157,
+                        "share": 3.41
+                    },
+                    "Allegra": {
+                        "reviews": 139,
+                        "share": 3.02
+                    },
+                    "Nasacort": {
+                        "reviews": 87,
+                        "share": 1.89
+                    },
+                    "Xyzal": {
+                        "reviews": 68,
+                        "share": 1.48
+                    },
+                    "Zantac": {
+                        "reviews": 58,
+                        "share": 1.26
+                    },
+                    "Selsun Blue": {
+                        "reviews": 42,
+                        "share": 0.91
+                    },
+                    "Unisom": {
+                        "reviews": 17,
+                        "share": 0.37
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 3,
+                        "share": 0.07
+                    },
+                    "Buscapina": {
+                        "reviews": 3,
+                        "share": 0.07
+                    },
+                    "Magne B6": {
+                        "reviews": 2,
+                        "share": 0.04
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Product Experience Critics",
+                    "summary": "Customers focused on product usability and delivery mechanisms over ingredients.",
+                    "decision_drivers": [
+                        "Ease of application",
+                        "Convenient packaging",
+                        "Innovative delivery"
+                    ],
+                    "satisfaction_drivers": [
+                        "Hassle-free usage",
+                        "Precise application",
+                        "Portable packaging"
+                    ],
+                    "frustration_drivers": [
+                        "Difficult application",
+                        "Faulty packaging/sprayers",
+                        "Messy or wasteful"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 5,
+                "share": 0.081,
+                "certainty": 0.996,
+                "reviews": 216,
+                "average_rating": 2.18,
+                "average_sentiment": 0.294
+            },
+            "comparison": {
+                "share_lift": 0.96,
+                "rating_delta": -0.03
+            }
+        },
+        {
+            "cluster": 1,
+            "universal_persona": {
+                "population": 12457,
+                "population_pct": 22.85,
+                "certainty": 0.994,
+                "positive_pct": 84.42,
+                "neutral_pct": 5.59,
+                "negative_pct": 9.99,
+                "avg_rating": 4.43,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 9823,
+                        "share": 78.86
+                    },
+                    "Cortizone 10": {
+                        "reviews": 1986,
+                        "share": 15.94
+                    },
+                    "Icy Hot": {
+                        "reviews": 180,
+                        "share": 1.44
+                    },
+                    "Aspercreme": {
+                        "reviews": 177,
+                        "share": 1.42
+                    },
+                    "Selsun Blue": {
+                        "reviews": 102,
+                        "share": 0.82
+                    },
+                    "Allegra": {
+                        "reviews": 75,
+                        "share": 0.6
+                    },
+                    "ACT": {
+                        "reviews": 50,
+                        "share": 0.4
+                    },
+                    "Dulcolax": {
+                        "reviews": 39,
+                        "share": 0.31
+                    },
+                    "Xyzal": {
+                        "reviews": 10,
+                        "share": 0.08
+                    },
+                    "Magne B6": {
+                        "reviews": 8,
+                        "share": 0.06
+                    },
+                    "Nasacort": {
+                        "reviews": 6,
+                        "share": 0.05
+                    },
+                    "Unisom": {
+                        "reviews": 1,
+                        "share": 0.01
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Skin Condition Soothers",
+                    "summary": "Customers looking for effective relief from persistent skin irritations and conditions.",
+                    "decision_drivers": [
+                        "Fast-acting",
+                        "Gentle formulation",
+                        "Proven ingredients",
+                        "Dermatologist recommended"
+                    ],
+                    "satisfaction_drivers": [
+                        "Reduces itching/irritation",
+                        "Promotes healing",
+                        "Long-lasting effects",
+                        "Safe for sensitive skin"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective results",
+                        "Further irritation",
+                        "Short-lived relief",
+                        "Harsh ingredients"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 1,
+                "share": 0.066,
+                "certainty": 0.982,
+                "reviews": 177,
+                "average_rating": 4.01,
+                "average_sentiment": 0.753
+            },
+            "comparison": {
+                "share_lift": 0.29,
+                "rating_delta": -0.42
+            }
+        },
+        {
+            "cluster": 2,
+            "universal_persona": {
+                "population": 2128,
+                "population_pct": 3.9,
+                "certainty": 1.0,
+                "positive_pct": 91.92,
+                "neutral_pct": 2.11,
+                "negative_pct": 5.97,
+                "avg_rating": 4.67,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 556,
+                        "share": 26.13
+                    },
+                    "Icy Hot": {
+                        "reviews": 272,
+                        "share": 12.78
+                    },
+                    "Selsun Blue": {
+                        "reviews": 258,
+                        "share": 12.12
+                    },
+                    "Cortizone 10": {
+                        "reviews": 222,
+                        "share": 10.43
+                    },
+                    "Dulcolax": {
+                        "reviews": 199,
+                        "share": 9.35
+                    },
+                    "Allegra": {
+                        "reviews": 143,
+                        "share": 6.72
+                    },
+                    "ACT": {
+                        "reviews": 136,
+                        "share": 6.39
+                    },
+                    "Aspercreme": {
+                        "reviews": 123,
+                        "share": 5.78
+                    },
+                    "Buscapina": {
+                        "reviews": 97,
+                        "share": 4.56
+                    },
+                    "Unisom": {
+                        "reviews": 50,
+                        "share": 2.35
+                    },
+                    "Xyzal": {
+                        "reviews": 38,
+                        "share": 1.79
+                    },
+                    "Zantac": {
+                        "reviews": 16,
+                        "share": 0.75
+                    },
+                    "Nasacort": {
+                        "reviews": 13,
+                        "share": 0.61
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 4,
+                        "share": 0.19
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.05
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Oral Hygiene Prioritizers",
+                    "summary": "Customers focused on maintaining good oral health through daily routines.",
+                    "decision_drivers": [
+                        "Dentist recommended",
+                        "Proven effectiveness",
+                        "Kid-friendly options",
+                        "Convenient usage"
+                    ],
+                    "satisfaction_drivers": [
+                        "Fresh breath",
+                        "Prevents cavities/gum issues",
+                        "Easy to use",
+                        "Pleasant taste/scent"
+                    ],
+                    "frustration_drivers": [
+                        "Unpleasant taste/smell",
+                        "Ineffective results",
+                        "Difficult to use",
+                        "Harsh ingredients"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 2,
+                "share": 0.046,
+                "certainty": 1.0,
+                "reviews": 123,
+                "average_rating": 4.46,
+                "average_sentiment": 0.866
+            },
+            "comparison": {
+                "share_lift": 1.18,
+                "rating_delta": -0.21
+            }
+        },
+        {
+            "cluster": 6,
+            "universal_persona": {
+                "population": 5088,
+                "population_pct": 9.33,
+                "certainty": 0.995,
+                "positive_pct": 78.3,
+                "neutral_pct": 5.76,
+                "negative_pct": 15.94,
+                "avg_rating": 4.2,
+                "brand_distribution": {
+                    "Dulcolax": {
+                        "reviews": 1835,
+                        "share": 36.07
+                    },
+                    "Allegra": {
+                        "reviews": 1028,
+                        "share": 20.2
+                    },
+                    "Unisom": {
+                        "reviews": 743,
+                        "share": 14.6
+                    },
+                    "Xyzal": {
+                        "reviews": 443,
+                        "share": 8.71
+                    },
+                    "Nasacort": {
+                        "reviews": 324,
+                        "share": 6.37
+                    },
+                    "Zantac": {
+                        "reviews": 179,
+                        "share": 3.52
+                    },
+                    "Gold Bond": {
+                        "reviews": 159,
+                        "share": 3.12
+                    },
+                    "ACT": {
+                        "reviews": 116,
+                        "share": 2.28
+                    },
+                    "Cortizone 10": {
+                        "reviews": 75,
+                        "share": 1.47
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 66,
+                        "share": 1.3
+                    },
+                    "Icy Hot": {
+                        "reviews": 48,
+                        "share": 0.94
+                    },
+                    "Aspercreme": {
+                        "reviews": 25,
+                        "share": 0.49
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 23,
+                        "share": 0.45
+                    },
+                    "Selsun Blue": {
+                        "reviews": 12,
+                        "share": 0.24
+                    },
+                    "Buscapina": {
+                        "reviews": 11,
+                        "share": 0.22
+                    },
+                    "Magne B6": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Symptom Relief Seekers",
+                    "summary": "Customers looking for fast, effective relief from acute symptoms.",
+                    "decision_drivers": [
+                        "Fast-acting",
+                        "Proven effectiveness",
+                        "Long-lasting relief",
+                        "Minimal side effects"
+                    ],
+                    "satisfaction_drivers": [
+                        "Quickly alleviates symptoms",
+                        "Long duration of effects",
+                        "No harsh side effects",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short-lived effects",
+                        "Unpleasant side effects",
+                        "Inconvenient usage"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 6,
+                "share": 0.009,
+                "certainty": 0.97,
+                "reviews": 25,
+                "average_rating": 3.64,
+                "average_sentiment": 0.66
+            },
+            "comparison": {
+                "share_lift": 0.1,
+                "rating_delta": -0.56
+            }
+        },
+        {
+            "cluster": 4,
+            "universal_persona": {
+                "population": 339,
+                "population_pct": 0.62,
+                "certainty": 1.0,
+                "positive_pct": 97.94,
+                "neutral_pct": 1.47,
+                "negative_pct": 0.59,
+                "avg_rating": 4.81,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 132,
+                        "share": 38.94
+                    },
+                    "Cortizone 10": {
+                        "reviews": 42,
+                        "share": 12.39
+                    },
+                    "Dulcolax": {
+                        "reviews": 30,
+                        "share": 8.85
+                    },
+                    "Allegra": {
+                        "reviews": 28,
+                        "share": 8.26
+                    },
+                    "Selsun Blue": {
+                        "reviews": 26,
+                        "share": 7.67
+                    },
+                    "ACT": {
+                        "reviews": 25,
+                        "share": 7.37
+                    },
+                    "Aspercreme": {
+                        "reviews": 17,
+                        "share": 5.01
+                    },
+                    "Icy Hot": {
+                        "reviews": 14,
+                        "share": 4.13
+                    },
+                    "Zantac": {
+                        "reviews": 8,
+                        "share": 2.36
+                    },
+                    "Nasacort": {
+                        "reviews": 7,
+                        "share": 2.06
+                    },
+                    "Xyzal": {
+                        "reviews": 7,
+                        "share": 2.06
+                    },
+                    "Buscapina": {
+                        "reviews": 1,
+                        "share": 0.29
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 1,
+                        "share": 0.29
+                    },
+                    "Unisom": {
+                        "reviews": 1,
+                        "share": 0.29
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Trusted Solution Seekers",
+                    "summary": "Customers prioritizing proven, reliable products from trusted brands.",
+                    "decision_drivers": [
+                        "Trusted brand reputation",
+                        "Proven effectiveness",
+                        "Quality ingredients",
+                        "Good value"
+                    ],
+                    "satisfaction_drivers": [
+                        "Delivers expected results",
+                        "Long-lasting effects",
+                        "Minimal side effects",
+                        "Worth the cost"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short duration of effects",
+                        "Unpleasant side effects",
+                        "Poor value for money"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 4,
+                "share": 0.006,
+                "certainty": 1.0,
+                "reviews": 17,
+                "average_rating": 4.94,
+                "average_sentiment": 0.985
+            },
+            "comparison": {
+                "share_lift": 0.97,
+                "rating_delta": 0.13
+            }
+        },
+        {
+            "cluster": 3,
+            "universal_persona": {
+                "population": 6176,
+                "population_pct": 11.33,
+                "certainty": 0.999,
+                "positive_pct": 84.5,
+                "neutral_pct": 5.04,
+                "negative_pct": 10.46,
+                "avg_rating": 4.42,
+                "brand_distribution": {
+                    "ACT": {
+                        "reviews": 5502,
+                        "share": 89.09
+                    },
+                    "Dulcolax": {
+                        "reviews": 324,
+                        "share": 5.25
+                    },
+                    "Xyzal": {
+                        "reviews": 104,
+                        "share": 1.68
+                    },
+                    "Allegra": {
+                        "reviews": 78,
+                        "share": 1.26
+                    },
+                    "Gold Bond": {
+                        "reviews": 74,
+                        "share": 1.2
+                    },
+                    "Icy Hot": {
+                        "reviews": 24,
+                        "share": 0.39
+                    },
+                    "Cortizone 10": {
+                        "reviews": 21,
+                        "share": 0.34
+                    },
+                    "Zantac": {
+                        "reviews": 14,
+                        "share": 0.23
+                    },
+                    "Unisom": {
+                        "reviews": 13,
+                        "share": 0.21
+                    },
+                    "Aspercreme": {
+                        "reviews": 10,
+                        "share": 0.16
+                    },
+                    "Selsun Blue": {
+                        "reviews": 9,
+                        "share": 0.15
+                    },
+                    "Buscapina": {
+                        "reviews": 1,
+                        "share": 0.02
+                    },
+                    "Nasacort": {
+                        "reviews": 1,
+                        "share": 0.02
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Pediatric Care Facilitators",
+                    "summary": "Parents/caregivers seeking safe, effective solutions for children's health needs.",
+                    "decision_drivers": [
+                        "Kid-friendly formulations",
+                        "Gentle ingredients",
+                        "Proven effectiveness",
+                        "Pediatrician recommended"
+                    ],
+                    "satisfaction_drivers": [
+                        "Easy administration",
+                        "Fast-acting relief",
+                        "No harsh side effects",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Unpleasant taste/smell",
+                        "Difficulty administering",
+                        "Lack of results",
+                        "Harsh side effects"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 3,
+                "share": 0.004,
+                "certainty": 1.0,
+                "reviews": 10,
+                "average_rating": 4.1,
+                "average_sentiment": 0.775
+            },
+            "comparison": {
+                "share_lift": 0.04,
+                "rating_delta": -0.32
+            }
+        }
+    ],
+    "trend_analysis": {
+        "timeline": [
+            {
+                "period": "2024-12",
+                "reviews": 156,
+                "average_rating": 3.654,
+                "average_sentiment": 0.663,
+                "cluster_distribution": {
+                    "7": 0.429,
+                    "0": 0.256,
+                    "8": 0.115,
+                    "1": 0.083,
+                    "5": 0.045,
+                    "6": 0.032,
+                    "2": 0.019,
+                    "3": 0.013,
+                    "4": 0.006
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I had an accident a while back and this was one of the only things which would provide some relief from the pain. They are easy to trim, apply, and even remove without pulling the hair out. I do wish the box indicated the approximate time they last, but we were able to sort out after a few uses.",
+                        "Both my husband and I use these patches when we get those common backaches. We like the size of these. They seem to stick better than some other patches that start to peel at the edges right away. I don't know how much the lidocaine medicine actually helps but the patch itself feels warm and comforting. We love them.",
+                        "I have purchased these patches multiple times over the past few years. I keep on going back to this size and brand. They have no smell and the larger size adhere way better than smaller sizes and other brands.",
+                        "I have a bad shoulder, and these patches work great at handling the pain. They are easy to apply and remove and can stay on the skin for up to 12 hours. I highly recommend them!",
+                        "This lidocaine patch is somewhat larger and more adhesive that any others I have tested. It gives relief for a solid 12 hours and doesnât hurt if you leave it in place even longer"
+                    ],
+                    "negative_reviews": [
+                        "Garbage pads. Does not stick to anything but itself and the ones you do get applied properly come off within 1-2 minutes... terrible adhesive. terrible application method. even with using medical tape to hold these down it doesn't help with pain whatsoever. this is the second box i bought (one from amazon and one from the store) and got the same results for both. yes, i cleaned area before application, even after shower then drying off. tried alcohol, allowed time to dry then apply. still comes off.",
+                        "I've bought these many times but no longer will. The elastic is weaker, yet the velcro is almost impossible to get it off. Wish it was the other way around.",
+                        "I had high hopes for this based on the reviews. But it did absolutely nothing to alleviate my foot pain. There wasnât even a slight easement of it. There was no ânumbnessâ attained either. Iâm sick of wasting my money on products that donât live up to their hype.",
+                        "Not able to remove cap from bottle. It just spins. The bottle is full, I tried numerous time. Been an avid user for years for my bad back. Now what? I rated tÄ¥e cap with 1 star.",
+                        "I purchased 2 aspercreme pain relief creams, the fragrance free annd opened one and Iâm very disappointed, it does not work, do NOT numbs at all. The label states has lidocaine 4% but does not relieves pain. The item description indicates âfree returnsâ but itâs not true, because when I tried to return the new unopened or the opened because the description was inaccurate you get a message that the product is not returnable. I would recommend doing to your favorite drug store and get your favorite cream. Be aware, they ask you to contact the Sanofi company support to request a refund or replacement."
+                    ]
+                }
+            },
+            {
+                "period": "2025-01",
+                "reviews": 80,
+                "average_rating": 3.95,
+                "average_sentiment": 0.738,
+                "cluster_distribution": {
+                    "7": 0.538,
+                    "0": 0.238,
+                    "1": 0.075,
+                    "8": 0.075,
+                    "5": 0.038,
+                    "2": 0.025,
+                    "4": 0.012
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Este producto me ayuda mucho a eliminar los dolores, por inflamaciÃ³n de rodillas, pies y musculos. De la espalda. No tiene olor. Y alivia en segundos, muy rapido su efecto.",
+                        "Delivered from the hell of those slimy lidocaine patches. This is very effective and I can apply as much a I need exactly where I need it. Goodbye patches.",
+                        "Lo volveria a comprar, tengonun dolor persistente en la espalda y nada me lo quitaba, y con esto me fue de maravilla ð",
+                        "This 4% lidocaine patch is an excellent buy. Itâs fairly priced and works well to relieve surface pain for up to 12 hours.",
+                        "As I was preparing for a trip to the Disney parks with kids aged 8 and 10, I remembered the foot pain at the end of the day and looked for options to ease it. Thatâs when I found a recommendation for this cream. At the end of the day, their feet were indeed sore, so I applied it before they went to sleep, and they woke up feeling brand new. It has also helped me with other exercise-related aches."
+                    ],
+                    "negative_reviews": [
+                        "Iâm not sure if I received a defective package or not. But only one patch actually stuck to my back. The other me fell off immediately. This has never happened to patches Iâve purchased directly from the store.",
+                        "I ordered these several times based on the size of the patch and always got the small size patches for the price of the large patches. Got refunds but wanted the patches because of bad back problems",
+                        "I had a tibia and fibula fracture and a rod was put in my leg to reset the bones. At 2 sites - I'm guessing the breakage sites - as the swelling went down, burning and sensitivity has set in, so that even touching the skin over these spots is painful. I tried Aspercreme because it is advertised for nerve pain. It didn't help at all. It is hard to get out of the bottle. If you squeeze it gently, just a bit comes out. but if you use a little more firmness, it gushes.",
+                        "I tried this aspercreme for my wrists that were hurting from using my hands outside cleaning up a shed and trimming trees. They both started hurting pretty good so i quit until next Spring. I used this Aspercreme on both hands under my gloves and it didn't have any effect at all on my pain. Totally useless for me.",
+                        "Iâve tried this product on a finger, back, neck and an armpit. This cream never relieved any pain nor did it numb anything. All instructions followed, easy stuff. I do not understand how this many people could say itâs amazing and it did nothing for me anywhere in my body. Hmm"
+                    ]
+                }
+            },
+            {
+                "period": "2025-02",
+                "reviews": 20,
+                "average_rating": 4.3,
+                "average_sentiment": 0.825,
+                "cluster_distribution": {
+                    "7": 0.6,
+                    "0": 0.25,
+                    "8": 0.1,
+                    "1": 0.05
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "This product works well as a lubricant. I use it every month and it has worked well for me. So much so that I bought more.",
+                        "Not bad it's on the lighter end if you want menthol & heat not for you. All products are great",
+                        "This has been a life saver for when my neck and upper back are just yelling at me and Iâm waiting for pain meds to kick in. It takes the edge off in seconds.",
+                        "I've tried allot of topical pain relievers and they all help, but this one seems to last longer for me.",
+                        "I am so grateful for Aspercreme! It helps me sleep better but sure wish it lasted longer. The cream seems to last longer than the roll on but, they both give some relief and I don't have to ingest pharmaceuticals."
+                    ],
+                    "negative_reviews": [
+                        "This product does seem to work on the pain, but unable to say completely as it does not stay on my skin for more than 5 minutes. I was not moving around at the time, so no real reason for it to come off.",
+                        "These patched donât stay in place. Even the smaller patches donât stay on, arm or legs. I followed all instructions, clean, dry skin. And during first hour, I found them off and on my floor. So I hard to get bandaids and put them on all sides so they would stay in place",
+                        "This product works well as a lubricant. I use it every month and it has worked well for me. So much so that I bought more.",
+                        "Not bad it's on the lighter end if you want menthol & heat not for you. All products are great",
+                        "This has been a life saver for when my neck and upper back are just yelling at me and Iâm waiting for pain meds to kick in. It takes the edge off in seconds."
+                    ]
+                }
+            },
+            {
+                "period": "2025-03",
+                "reviews": 30,
+                "average_rating": 4.467,
+                "average_sentiment": 0.867,
+                "cluster_distribution": {
+                    "7": 0.467,
+                    "0": 0.4,
+                    "8": 0.067,
+                    "2": 0.033,
+                    "1": 0.033
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I use these much more than I probably should, but if my back starts hurting and I put a patch right above the pain or on it, I notice it starts feeling better and relaxes it so it doesn't get worse. My husband says I need to buy stock in it. LOL!",
+                        "Does a awesome job of relieving pain at point of contact. Does not leave behind a greasy feel or an odor. Seems to last for a good amount time.",
+                        "I love Aspercreme with lidocaine cream. I use it in a process with a few steps for very deep pain. The Aspercreme is always the first rubbed in. It starts working right away when you massage it in. For really bad pain, I add Icy Hot Max cream. Need more? Add a lidocaine patch. If ultimately worse, wrap with an Ace bandage type thing but stronger. There's more compression and I bought them and all the rest here on Amazon. Aspercreme is always my go to. The cream. Working it into the area really helps it work more quickly then a roller ball deal.",
+                        "This 4% aspercream really works. The 1% does nothing. Only over the counter product that has actually helped with my pain",
+                        "We frequently buy this roll on. It really does work and the lavender scent is not bad. It works well on the back, neck and shoulders."
+                    ],
+                    "negative_reviews": [
+                        "Doesn't do anything that it says on the box that it does. Fake product. Don't buy this just keep moving on the the next one. Not refundable so you'll be wasting your money!",
+                        "I like this product as we have back neck and joint pain. It works well. I would like it better if it lasted even longer",
+                        "I think it is the perfect opposite to Aspercreme original. One gives warmth and one gives warm red skin a relieving coolness.",
+                        "I use these much more than I probably should, but if my back starts hurting and I put a patch right above the pain or on it, I notice it starts feeling better and relaxes it so it doesn't get worse. My husband says I need to buy stock in it. LOL!",
+                        "Does a awesome job of relieving pain at point of contact. Does not leave behind a greasy feel or an odor. Seems to last for a good amount time."
+                    ]
+                }
+            },
+            {
+                "period": "2025-04",
+                "reviews": 46,
+                "average_rating": 3.913,
+                "average_sentiment": 0.728,
+                "cluster_distribution": {
+                    "7": 0.5,
+                    "0": 0.304,
+                    "1": 0.087,
+                    "2": 0.065,
+                    "6": 0.022,
+                    "8": 0.022
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Better than some Lidocaine prescription patches ! Why? They go on easily and stay put, they don't slide around your body on their own, get stuck to your clothes and roll up or down, they are much thinner than Lidoderm so there is less sweating and discomfort and are unnoticeable beneath clothing when placed in obvious areas such as the shoulder or chest area, they are much easier to cut when they are still in their package and they don't gum up your scissors, the pain relief lasts practically until the next day, the backing pulls off easily and does not make your fingers gooey and gummy, I'm reiterating they do not stick to your clothes or slide around because that has been one of the biggest problems I have found with each of the generic brands of liododerm and the new liododerm patches they began making approximately 4 or 5 years ago when the original Lidoderm patch company stopped making them and sent their production overseas. Finally, although they are not covered by prescription that I know of, they are covered by your FHA accounts if you have one and are much cheaper than any lightoderm brand. They also come in several sizes. The only downfall I can find is that they don't come in bulk such as a box of 30 which would be a welcome advantage especially if it could be offered at a discounted rate. Perhaps one day we'll see them in Costco or bj's!",
+                        "Es un producto excelente. Lo amÃ© con locura es sÃºper practico , se debe aplicar el dÃ­a antes para mejor funciÃ³n .",
+                        "My orthopedist recommended these when I hurt my back. They are excellent if expensive. They did help me with my pain and were part of a regimen that included rest and ice. Follow the instructions.",
+                        "awesome-works well. wish i could wear more than one every 24 hours. but cardiologist restricts lidocaine. i would put on my shoulder too. but helps my whole back when placed upper central spine.",
+                        "Works like a charm. Just massage it in whatever area hurts and it truly alleviates the pain. Beats having to pop a pill every time or at least it allows you to space them further apart."
+                    ],
+                    "negative_reviews": [
+                        "Does not do anything for pain, hot and cold works way better than this I just feel like Iâm spreading unscented lotion on my body. It doesnât numb anything. It doesnât do anything at all. Iâm not sure why the rave reviews. Highly disappointed I had hoped it would help. :(",
+                        "It arrived quickly. It's not greasy & has no odor, but it also did absolutely nothing for my hand pain. It was basically the same as just applying regular hand lotion.",
+                        "Bought this for my back and it felt nice and cool for the first couple of minutes, after that forget it. It didnât do a thing for the pain. It was just a waste of money as far as I am concerned.",
+                        "Good product works on minor aches and pains but not for what I needed it, which was severe back pain. Does the little jobs but not the big job.",
+                        "It does provide a tiny amount of relief, but don't expect a miracle. The cortisone injections don't even work anymore, so in all fairness, I'm probably headed for another day at the OR. Well, I tried, and I'm pretty sure this will be enough for a lot of people. My biggest complaint is the packaging. If I have pain in my hand, I really don't feel like wrestling with a cap that requires you to push down as you turn it! PLEASE change the cap to benefit others at least, since I won't be buying it anymore."
+                    ]
+                }
+            },
+            {
+                "period": "2025-05",
+                "reviews": 7,
+                "average_rating": 4.429,
+                "average_sentiment": 0.857,
+                "cluster_distribution": {
+                    "2": 0.429,
+                    "7": 0.286,
+                    "5": 0.143,
+                    "0": 0.143
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Been trying to find something that will take the edge off my shoulder pain and this does just the trick. Works for several hours as well! I love that it doesn't stink either."
+                    ],
+                    "negative_reviews": [
+                        "Been trying to find something that will take the edge off my shoulder pain and this does just the trick. Works for several hours as well! I love that it doesn't stink either."
+                    ]
+                }
+            },
+            {
+                "period": "2025-06",
+                "reviews": 8,
+                "average_rating": 3.5,
+                "average_sentiment": 0.625,
+                "cluster_distribution": {
+                    "7": 0.625,
+                    "5": 0.25,
+                    "0": 0.125
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Iâve tried a number of these types of patches and I find this one to be the best for my low back pain. Itâs effective and it adheres well."
+                    ],
+                    "negative_reviews": [
+                        "Iâve tried a number of these types of patches and I find this one to be the best for my low back pain. Itâs effective and it adheres well."
+                    ]
+                }
+            },
+            {
+                "period": "2025-07",
+                "reviews": 92,
+                "average_rating": 4.087,
+                "average_sentiment": 0.772,
+                "cluster_distribution": {
+                    "7": 0.467,
+                    "0": 0.293,
+                    "8": 0.065,
+                    "1": 0.065,
+                    "5": 0.054,
+                    "4": 0.033,
+                    "2": 0.022
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Es un producto que me encanta sufro mucho de dolores en todo mi cuerpo y este producto me ayuda a n cualquier lugar de mi cuerpo y me lo pongo cuando quiero no es caliente al contrario es fresco y ase efecto casi al instante por lo menos ami me a funcionad perfectamente le regale uno a mamÃ¡ que sufre mucho de sus rodillas ocupa. OperaciÃ³n y se a alargado su cirugÃ­a y con este se a sentido mucho mejor ojo te quita el dolor y desinfla el Ã¡rea en segundos lo recomiendo 100%",
+                        "my daughter is in the army and she will call crying that her feet are really hurting in those army boots so I was able to find this product to ship to her to ease the pain once she received it and started working. She said her feet felt so much better. so now PT is a breeze for her. I would recommend this product to anybody that works out stands on their feet working daily.",
+                        "My better half bought me a bottle of this today so I can walk to the car. My jogging shoes caused my feet to have blisters today. I just put it on and my feet are already starting to feel better.",
+                        "These are much better than other brands...including Salonpas. These are thinner , very stretchy, flexible , large, and easy to manipulate where/ how you apply. These actually stay on. These feel soothing when you apply it. Numbing effect takes awhile. Be patient. Worth the extra cost. Other brands were thicker, rigid and won't stay in place.",
+                        "I am in the middle of moving a three-story house and I cannot tell you how much bending and lifting and twisting Iâve been doing in between I literally had to go to the ER. I pulled the top of one shoulder and the bottom of the shoulder bladeâ¦ yup anyways you know what helped the most these things. The ER literally gave me this exact patch this exact brand and one muscle relaxerâ¦ I did not want a prescription to be drugged.. so I bought a few more from Amazon and I love them, but I also use them from a previous situation when I twisted my ankle and it acts out when it rains and I buy these and I slap it on their boom itâs gone - meaning the pain"
+                    ],
+                    "negative_reviews": [
+                        "Have tightness in area of my back. No relief at all. Also - the instructions say use ONCE in 8 hours - and don't use with heating pad. Waste of money.",
+                        "I have high lower back pain from a car accident. I don't understand how this is such a popular item. Tried many creams. The cream and lidocaine do nothing. Had procedures done at orthopedic surgeon. If you have high pain this item is not going to do anything.",
+                        "What was this manufacturer thinking???? The last thing anyone with any muscle plan wants to do is have to wrestle the lid off of a container.",
+                        "DO NOT BUY THERE IS NO SAFETY SEAL ON ANY PART OF THE PACKING TO ENSURE THAT TAMPERING DID NOT OCCUR!!!!!! THE ITEM IS NOT RETURNABLE!!!!! THERE ARE SIGNS THAT IT IS USED!!!!! I DID NOT RECEIVE THE BOX ONLY THE BOTTLE NOT SAFETY SEAL ON LID OR UNDERNEATH LID TO REMOVE.",
+                        "Do not buy this does nothing for pain , you can not return, it does not work for neuropathy, it does not work for muscle pain on leg or strained back , not foot or ankle pain either"
+                    ]
+                }
+            },
+            {
+                "period": "2025-08",
+                "reviews": 48,
+                "average_rating": 3.875,
+                "average_sentiment": 0.719,
+                "cluster_distribution": {
+                    "7": 0.417,
+                    "0": 0.312,
+                    "1": 0.083,
+                    "5": 0.083,
+                    "2": 0.062,
+                    "8": 0.042
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "A said in the title, a great addition to my post workouts. Fortunately, as I get in better shape, I can use it a little less often than when I first started. Highly recommended for those slight aches and pains, especially after overdoing exercises or any demanding physical strain.",
+                        "Really does work well for me! I have terrible shoulder pain, and use the roll on Aspercreme when I get up and before bedtime. No, itâs not a pain pill, but it does soothe the muscles. I like this product.",
+                        "Amazing cream. My father has it and I used some for my lower back. It works great for my lower back. Numbs my pain within a minutos. I was not able to find it in stores. Recommendation (highly) will buy it again.",
+                        "I used this for a numbing effect for lip filler and it worked well. I let it set for 45 minutes.",
+                        "Aspercreme has a very effective lidocaine content. It eases nerve pain substantially. However, it should not be used over abundantly; that is, use it on one or at most two sections of the body at a time. And with as little lidocaine use, a thin film, as possible."
+                    ],
+                    "negative_reviews": [
+                        "They did not work for me. I donât like to give bad reviews. I used them and they went in the trash in 15 minutes. I use the spray and roll on and cream and they work just great. I just wonât purchase patches anymore. Sure wish I can get this refund to my Amazon account.a",
+                        "I give the Aspercreme MANAGEMENT AND PRODUCT DESIGNERS only a 1 star because they designd a cap/lid that you CANNOT OPEN !!! No matter how hard you press down and twist as shown on the cap (even with a rubber grip pad) - it will not twist and then open!!! It only gives a little and then is stuck shut. WHY IS IT DESIGNED TO BE IMPOSSIBLE TO OPEN -- AND CANNOT BE USED? !! OTHER LIDOCAINE CREAMS HAVE CAPS THAT TWIST OFF EASILY AND CAN BE OPENED AND CLOSED EASILY. >> SO TO THE DESIGNERS & MANAGERS OF ASPERCREME ---- PLEASE JUST PUT A NORMAL CAP ON YOUR PRODUCT(S), ** And say so with close-up photos in your Product Description. i will call their Customer Service and ask or a Refund and their pre-paid Return large envelope so I can just return the bottle and its box to them. I would give Aspercreme cream itself a 4-star because in the past when someone super strong who struggled but finally managed to get the cap off - it did help joint pain. But I had to always find a different loose cap to just cover up the opening. Ridiculous.",
+                        "If i could go back in time to tell myself not to buy this, I would. First it didnt dispense. I shaked it, squeezed, and did everything Chatgpt told me to but could not get it to dispense. So last resort I took off the ball and found it was only half filled! Wow.",
+                        "It's been said that you get what you pay for... That being said, I purchased this cream to ease the soreness associated with the incision from my surgery after returning to work. I also bought it to keep the pain and discomfort associated unpacking at bay. It has been relatively inefffective. So I'm back here looking for a more effective cream. Guess I'll have to pay a bit more. :-) ð",
+                        "There is no numbness if you apply it even to normal skin. I doubt it contains 4% of lidocaine. If you have sensory neuropathic pain, this will not helpâa waste of money. 2 stars for the aloe extract, which is good for skin health. To block pain, you will need something real by prescription, like 10% gabapentin cream."
+                    ]
+                }
+            },
+            {
+                "period": "2025-09",
+                "reviews": 24,
+                "average_rating": 3.708,
+                "average_sentiment": 0.677,
+                "cluster_distribution": {
+                    "7": 0.417,
+                    "0": 0.25,
+                    "5": 0.125,
+                    "2": 0.083,
+                    "6": 0.042,
+                    "1": 0.042,
+                    "8": 0.042
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "This stuff is great. I use it when I wear my high heel shoes before going out, to church, going dancing, etc.. My feet do not bother me. Amen and blessings to the creatures!!lol.. Plus I can use it in my knees",
+                        "I've tried almost every lidocaine-based pain relief lotion Amazon sells and, in my opinion, this stuff is the best. It just seems to penetrate through the skin and provide quick and lasting pain relief.",
+                        "Aspercreme works, it relieves pain. But if you use the bottled Aspercreme, wear gloves to spread it on where it hurts. Aspercreme will burn if it comes in contact with your eyes. Use Aspercreme Roll On, donât take a chance getting it in your eyes. Aspercreme does really relieve pain.",
+                        "This stuff is fantastic for pain, I had a major injury 6 years ago and have a hard time moving. I can apply a light layer to problem areas and do work I wouldnât be able to without it. I have only used the lotion but this lotion combined with the handle and foam applicator thatâs a separate item itâs easy to apply to the back and hard to reach spots! Canât recommend enough! The smell isnât bad, and the strength is powerful.",
+                        "This product fulfills the function stated in its description. I like that it acts quickly and lasts a long time. I would buy this product again."
+                    ],
+                    "negative_reviews": [
+                        "This is a very liquidy lotion, this is not a cream. Very disappointed. Even with telling sellar it is not as described I cannot get a refund. This is not the same as purchase in the store.",
+                        "This product fulfills the function stated in its description. I like that it acts quickly and lasts a long time. I would buy this product again.",
+                        "Moderately effective on my problem joint. Need to check price vs the tubes. The tube is easier to get theproduct out of.",
+                        "This stuff works -- you need to give it time, not instantaneous. I'm used to prescription lidocaine patches that give heavy-duty pain relief, so it isn't strong enough for me. As far as lotions go, it's great. Sinks in, no greasy residue, a bit of softness.",
+                        "This stuff is great. I use it when I wear my high heel shoes before going out, to church, going dancing, etc.. My feet do not bother me. Amen and blessings to the creatures!!lol.. Plus I can use it in my knees"
+                    ]
+                }
+            },
+            {
+                "period": "2025-10",
+                "reviews": 65,
+                "average_rating": 4.015,
+                "average_sentiment": 0.754,
+                "cluster_distribution": {
+                    "7": 0.492,
+                    "0": 0.308,
+                    "8": 0.062,
+                    "2": 0.062,
+                    "1": 0.046,
+                    "5": 0.015,
+                    "3": 0.015
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Si vas a los parques de Disney o estarÃ¡s en un lugar donde caminarÃ¡s demasiado esta crema te lo harÃ¡ todo mÃ¡s fÃ¡cil duerme y relaja la usÃ¡bamos cada 2 horas y no hubo queja de dolor",
+                        "My brother in law recommended this and at first, I pooh-poohed this product. But I used it on my bad knee, and it does relieve pain. I do need to apply it at bedtime and again every morning. It works.",
+                        "Warm and smooth for relieving your pain. Helped me to relax and fall asleep after overdoing it in my garden.",
+                        "This is my go to cream for pain. It works really well on my back and also lessens leg cramps.",
+                        "Lidocaine helps the pain your feeling in the nerves or arthritics bothering you. The patch lasts for eight hours and can be worn under clothes. It is very reasonable to get with not odors either. The next best thing to a natural liniment. For men I recommenced the extra large size. LL"
+                    ],
+                    "negative_reviews": [
+                        "I wish there was a \"0\" system option. First of all, Amazon mistakenly placed an order for 2 bottles. I wanted to use this for my knees which ache at times. I placed on my clean, dry knees to no avail. I can't believe there is ANY Lidocaine in this cream; much less 4%. This made me so angry. I wish I could return it. Please do not buy this trash brand pain ointment.",
+                        "I make it a habit not to write negative reviews, but consumers need true facts and not hype. I used to be able to get a 5% lidocaine gel by prescription, which I used sparing prior to electrolysis treatment. It helped a lot to numb the treatment area. When I asked for a new prescription, I was told that it was now over the counter and the dermatologist recommended this product , so Iâve tried it several times. Iâm sorry to report that it did nothing to numb the pain from this procedure. I also attempted to use it as temporary relief from a sore knee, shoulder, and lower back-all with no effect.",
+                        "My husband strained his shoulder and we got this to numb it, but it didn't offer any pain relief. It worked for literally 1 minute then was as if he never applied anything at all. Not strong. Complete waste of money and we can't return it either, so it's basically garbage. Wouldn't recommend.",
+                        "The box was open at the bottom. There is no safety wrap on bottle, so it may have been tampered with or used.",
+                        "I'm not going to blame Aspercreme for not giving me pain relief. Nothing OTC has helped. But I AM going to blame them for the packaging. Maybe it's just me or the product I received, but it comes out irregularly in drips and drabs, and I have to squeeze hard and long to get it started. And then there's no way of figuring out how much is left. I guess they had their reasons for not putting it in a tube, but they escape me."
+                    ]
+                }
+            },
+            {
+                "period": "2025-11",
+                "reviews": 1141,
+                "average_rating": 3.857,
+                "average_sentiment": 0.714,
+                "cluster_distribution": {
+                    "7": 0.383,
+                    "0": 0.238,
+                    "5": 0.127,
+                    "8": 0.102,
+                    "1": 0.067,
+                    "2": 0.067,
+                    "4": 0.007,
+                    "6": 0.005,
+                    "3": 0.004
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I had to start using pain patches in 2023 and have tried several different brands since then. There is no other that gives as much pain relief and none that stick as well. They're also at least as easy to use as the others, though it took a while to get good at it. And they're not the least expensive, but they're worth the cost.",
+                        "You know those gorgeous shoes you wish you could wear but donât because theyâre soooooo uncomfortable? Well a friend of mine put me on to this little hack and itâs a game changer! I sprayed this on my feet, used a blow dryer to dry, and viola! No pain for at least a couple of hours!",
+                        "Me encanta que no deja residuo pegajoso, ni olor en la zona en la que se aplique. Aparte de que es super fÃ¡cil de utilizar y aplicar. Lo mejor de todo es que si funciona y alivia las molestias o dolores. Esto no puede faltar en mi hogar",
+                        "Took this to aid our tired tootsies after a lot of walking at Disneyland. This was amazing and I donât know if it actually helped or if my mind just believed it. Honestly just the rollerball itself on my tired, achy feet was MAGICAL!!!!",
+                        "Lo sÃºper amo, funciona muy bien, lo utilizo para ponÃ©rmelo en los pies y asÃ­ poder aguantar los tacones y me va de maravilla, desde que me lo pongo puedo bailar, brincar, correr y durar hasta mÃ¡s de 6 horas con ellos"
+                    ],
+                    "negative_reviews": [
+                        "This review is not about the product, I love Icy Hot, but about the cap on the tube. I have arthritis in my hands and I couldn't get the cap off even pressing on the indicators on each side. My husband even tried, then he had to use pliers to get it off. Once the cap was off the first time, it was fine. Granted I understand the child proofing, but this seemed to be excessively difficult.",
+                        "I bought Icy Hot for my neck pain. It feels like I am rolling water on my neck. It does not feel like there is anything medicinal on my neck. I have used Icy Hot in the past and had positive results. Do not buy from this seller!",
+                        "I'd love to give a full review, but it's impossible to open. And one of my ribs is what is hurting me, so I can't even put all of my strength into it. I understand that keeping kids safe is paramount, but there must be a better way.",
+                        "I received the product a few days ago. I felt nothing the first time using. I thought I must be using it wrong. Followed the instructions for the next few applications. I felt nothing. Itâs not icy or hot at all pain is still there. Disappointed.",
+                        "Iâd give it zero stars if I could. Product arrived late and once it arrived it was neither icy or hot. Not out of date but also had no smell or active ingredients. Not returnable. Complete waste of money and time. Just get it from Walmart."
+                    ]
+                }
+            },
+            {
+                "period": "2025-12",
+                "reviews": 287,
+                "average_rating": 3.554,
+                "average_sentiment": 0.639,
+                "cluster_distribution": {
+                    "7": 0.481,
+                    "0": 0.275,
+                    "5": 0.077,
+                    "8": 0.077,
+                    "1": 0.042,
+                    "2": 0.031,
+                    "6": 0.014,
+                    "3": 0.003
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Fast acting. Sometimes I'll wake during the night with a hive or two. Keep this at my bedside, uncapped. No need to turn on a light. Just spray and fall back to sleep. Faster than a salve. AND no falling on my way to the medicine cabinet because I'm half asleep.",
+                        "âEste spray es maravilloso para aliviar el dolor. Se aplica fÃ¡cilmente, seca rÃ¡pido y no tiene olor. Me gusta que se puede usar en cualquier Ã¡ngulo y empieza a hacer efecto casi de inmediato. Lo he usado para dolores musculares y tensiÃ³n y siempre me ayuda. Muy Ãºtil tenerlo en casa.â",
+                        "This is more simple than patches and way better than creams. The lidocaine helps more than just a normal pain reliever. Effective for a long time and starts to work immediately. Works for joint or muscle pain.",
+                        "Es un buen producto que se puede usar para mÃºltiples usos, es un must have en tu hogar, no tiene olor fuerte, se abre facil, y tiene un buen tamaÃ±o",
+                        "Lo comprÃ© por una publicidad que le hicieron , los que han ido a los parques de Orlando , ð asÃ­ que como irÃ© pronto lo usarÃ© ððð¤£ð"
+                    ],
+                    "negative_reviews": [
+                        "Fault of my own for not noticing there is ONLY THREE patches per box so you essentially are only getting SIX patches for $24 plus tax. That being said, I was disappointed greatly by how easily the patches would get pulled out of position and stuck to clothing. The generic brands I have bought from stores like Walmart and Meijer have outperformed these patches. Highly disappointed. I only bought these because I am on crutches and did not feel like going back out to the store to buy the patches that I forgot to get while getting groceries. Lesson learned!",
+                        "I like the effectiveness of pain relief. Have been using Icy Hot products for a long time. I don't have chick nor child here, so this bottle is only resistant to me and my use. At least give us the option of using either one or tjhe other when we purchase. I've had this well over a week and still unable to use. Won't purchase any more as long as this existing top is retained.",
+                        "Comes in correct packaging but applying it, it feels like water, no warm or burning, or cold. It doesnt even do anything for pain. It literally feels like putting water on urself. Super disappointed i dont even know if i got a defective product or not because i seen other one star reviews its same thing.",
+                        "I bought the regular icy hot, and it worked well. It just wasn't good enough. I went with the max and it sucks. I don't even feel it. It must be water. stick with the original. 10 times better.",
+                        "I rolled on a lot of the icy hot. But it never worked. I habe used products like it. They worked awesome. This was a complete waist of money. I will never buy this product ever again."
+                    ]
+                }
+            },
+            {
+                "period": "2026-01",
+                "reviews": 64,
+                "average_rating": 4.812,
+                "average_sentiment": 0.953,
+                "cluster_distribution": {
+                    "7": 0.656,
+                    "0": 0.172,
+                    "8": 0.109,
+                    "1": 0.031,
+                    "3": 0.016,
+                    "6": 0.016
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Absolutely thrilled with this seller! ð The service is super reliable and trustworthy, the items are fantastic and very affordable, and my order arrived quickly. Iâm so happy with my experience â I definitely recommend them! ð",
+                        "Good product . No reflection on Amazon, but this product is, literally, 50% cheaper at Walmart. I will be buying them there going forward.",
+                        "The Aspercreme Lidocaine XL pain relief patch is effective for back pain. With lidocaine as the active ingredient, it can quickly relieve muscle soreness and stiffness. The extra-large size provides wide coverage and fits the back well. It is easy to use and non-greasy, suitable for post-exercise or daily pain relief, though its effectiveness for deep pain may vary from person to person.",
+                        "This is an amazing product that I started using when I severely sprained my foot. This product has really reduced the pain in my foot! I use it nightly before bed so I can sleep without suffering and daily as needed.",
+                        "This is great for my back. Every morning that my back is bothering me, I put some on. Within the hour my back is feeling much better."
+                    ],
+                    "negative_reviews": [
+                        "Works ok. I bought something else called Finger numbness cream. Works better. I will buy it next time. Just make sure that you wash your hands after applying. I got some in my eye accidentally. It really stung!",
+                        "This Icy Hot roll on pain relieving gel works well! The strength could be a little stronger but the size and ease of use are unbeatable. The gel lasts for a while but not as long as I was expecting. I had absolutely no skin irritation or side effects. I didnât notice any better sleep quality during use but the cooling effect was worth it!",
+                        "There is no scent or cool/heat I could discern. At first I was disappointed. Then I realized the pain had lessened. Itâs worth it for a bit of reprieve",
+                        "The product is fine, however, the price is too high. Found the same item at a local store 50% cheaper.",
+                        "Provided short term relief for lower back pain, no strong odor, doesn't give 12 relief as noted, but does work for about five hours."
+                    ]
+                }
+            },
+            {
+                "period": "2026-02",
+                "reviews": 203,
+                "average_rating": 4.498,
+                "average_sentiment": 0.874,
+                "cluster_distribution": {
+                    "7": 0.438,
+                    "0": 0.335,
+                    "5": 0.059,
+                    "1": 0.059,
+                    "8": 0.054,
+                    "2": 0.025,
+                    "4": 0.015,
+                    "6": 0.015
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I think this is as good as you can find for topical pain relief that keeps on working for 6-8 hours. Be careful when applying not to accidently stretch it. It sticks so quickly, it's hard to let it come back to regular size. My first four patches rolled off from friction with clothing during day or night. Then I got more careful, and also used tape (for skin - not for paper) to reinforce corners or edges. Not good for knees or elbows that keep bending. It's done well for my back, but does not take the place of physical therapy.",
+                        "I have bursitis in my hips. I've had injections from a pain spen; I got less relief from them than from Icy Hot lidocaine ointment. The roll on is so convenient and I don't get it on my hands!",
+                        "Ice hot works if you roll it on up to 4 hours. I like the cream one better. You can rub it into your skin an it last longer then 5 hours. No smell.",
+                        "My dad introduced me to this, and I think of him every time I use it. Great for achey knee joints and cramped calves. Thanks, Dad!",
+                        "I have used this my entire life. No side effects. I get ticked off when I see the lidocaine version, but if that version helps the company stay in business, great. Just do not ever stop producing the original good stuff. I needed it occasionally when young. Lord knows Iâm gonna need it as I age. And I know people are all hopes on the NSAID kind from other brands. But thatâll die down some and hopefully theyâll do as I do, which is have an arsenal of different topicals as pain is different and the causes are too. For me, this is perfect. I forget my pain in about a minute. If it is mega-pain, I may do some icing of heating first, then apply. Or let it set in for a while, then hit up a heating pad. Again, the NSAID cream or gel are fine, but putting on too much or overly repeated use isnât good for me as Iâm a little sensitive to it. But, Aspercreme is pretty perfect. I always have it on hand for whatever aches I have. If youâve worked at the company and helped to make this available, thank you. Youâve made my life better."
+                    ],
+                    "negative_reviews": [
+                        "Bought this item locally in the past and have been pleased with it. It numbs the area of pain. Iâd recommend the roll on version to keep hands free from product. When purchased on Amazon, however, it appeared to be used. The box was opened and the seal was opened as well. Had to throw it out. Amazon refunded.",
+                        "I often use products for temporary joint and muscle pain relief. There was no difference in my pain level after applying the product. I liked that it is odor-free and it didn't irritate my skin.",
+                        "Does not work! I think 2 sent to me were defective as it did not get cold or hot when applied. Tried to return but 3rd party vendor refuses to accept return or return money charged to my credit card. Best to buy locally.",
+                        "While it is an odorless cream - as far as pain relief goes â¦ I canât tell that it is doing anything!",
+                        "Accidentally bought this on a different website. I thought I was buying Aspercreme with Lidocaine. (Which I had used with good results). Decided to use it as a trial, but was quickly disappointed. It gave me no relief from my knee pain. It is creamy, not sticky, and has no odor, but it just doesnât work."
+                    ]
+                }
+            },
+            {
+                "period": "2026-03",
+                "reviews": 82,
+                "average_rating": 4.793,
+                "average_sentiment": 0.948,
+                "cluster_distribution": {
+                    "7": 0.439,
+                    "0": 0.244,
+                    "8": 0.159,
+                    "1": 0.073,
+                    "5": 0.049,
+                    "2": 0.037
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "The Lidocaine version of the Icy Hot Roll-On Applicator is more effective than the 'standard' version of the same product (without Lidocaine). I recommend Icy Hot with Lidocaine to relieve back pain.",
+                        "Ladies - use this before you put on heels for any long event. Your feet will thank you!! Used this for a wedding and I rocked my heels all the way until the end. Dried quickly, not gunky, and great pain relief.",
+                        "I tried this product out today as I wore stilettos to an event and this product is the TRUTH. I was in my heels ALL NIGHT! Not ONE âooo my feet is hurtingâ I didnât need no flats or anything. I will purchase it again once I run out. Iâm also recommending it to my friends",
+                        "this actually saved my life fr. i wore heels to a concert and my feet wouldâve been DONE without this. the pain relief is so good, it really makes a difference. itâs super easy to use, you literally just spray it and youâre good. no mess, no stickiness, it dries quick which i love. also itâs small enough to throw in your purse so i was able to take it with me and reapply when i needed to and to share with my girls. this is so worth it especially if you wear heels or are gonna be on your feet for a long time.",
+                        "So far, Iâve been using it for the past couple of days and itâs really been helping with the pain in my ankle. Itâs longevity. Iâm still not sure of yet, but I do appreciate the fact that I can use it on the spot if my ankle starts to hurt"
+                    ],
+                    "negative_reviews": [
+                        "I love the product, however, the packaging is DREADFUL. They added a lovely lavender oil, BUT never addressed the cap issue. Others complained before ME. I spent nearly 20 minutes trying to get the CAP off with a SEARATED steak knife. THIS IS THE 2ND TIME. I am not weak and I do exercise, but this cap is people-proof, unless you're a Soma wrestler. Please address this issue. Thank you for your attention to this matter.",
+                        "It seems to work well enough but the fragrance is overpowering. At least I know itâs still on my hands, and I should wash my hands before touching the pets.",
+                        "They previously had a cream which I feel was more concentrated and felt more comfortable applying. So even the manufacturer still calls this a cream, it's really a lotion. It feels cold going on and is runny. Yes, it does have some topical effect but I am not happy with it.",
+                        "I was disappointed in the size of the bottle. I thought it was a bit small for the price . But I like the product.",
+                        "Can't go without this spray. I use it every morning when I get out of the shower. It sprays on dry so you don't have to worry about your clothes sticking to it. It soothes the pain in my joints throughout the day. It also has no smell to it."
+                    ]
+                }
+            },
+            {
+                "period": "2026-04",
+                "reviews": 63,
+                "average_rating": 4.825,
+                "average_sentiment": 0.956,
+                "cluster_distribution": {
+                    "7": 0.571,
+                    "0": 0.19,
+                    "1": 0.127,
+                    "8": 0.079,
+                    "2": 0.016,
+                    "6": 0.016
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Este producto es excepcional tuve una caÃ­da hace 1 semana y me di justo en el coxis, comprÃ© demasiadas cosas y remedios y este fue el que me bajÃ³ el dolor durante 6 dÃ­as, hay que sabÃ©rselo poner, se recomienda es colocarlo donde hace conexiÃ³n el dolor con las venas inflamadas. Lo Ãºnico es que no se pega al 100% pero si estÃ¡s en cama como yo para guardar reposo es fabuloso, de verdad no podÃ­a ni moverme me tenÃ­an que cargar y hasta baÃ±arme del dolor tan insoportable y esto me cambiÃ³ rÃ¡pido de Ã¡nimo, antes lloraba del dolor, lo recomiendo un trillÃ³n de veces",
+                        "Now I purchased this to try the numbing hack when wearing heels. I had to wear them for 5 days straight 9+ hours each dayâ¦.. when I say I am absolutely amazed with the results. I will be using this every time I wear heels from now on.",
+                        "I love it.. itâs not greasy., it doesnât have a strong smell, Easy to put on, I bought two and I just placed another order of four bottles, I really like the product.ð",
+                        "Seen on tiktok and it really works. Non greasy easy to apply, non a strong scent. Last around 2/3 hours",
+                        "This was given to me in a hospital for shoulder pain after laparoscopic surgery. I rely on it regularly for muscle aches and pains. Very effective"
+                    ],
+                    "negative_reviews": [
+                        "These are great for back pain relief. They never last the full amount of time expected for me. My only issue with the product is with the adhesive. I have tried everything with my back to get the best stick from getting my back super clean to moisturizer. I have normal skin, although my lower back is very smooth and soft. At times, they stick very well. It may be just the individual product I am receiving and the storage facility.",
+                        "Good pain-relieving cream. Effects last about four hours. Once rubbed in the cream doesn't come off on clothing. Like many products the size continues to shrink to maintain price.",
+                        "I like the thick gel texture. Great for hurty spots. Why didn't I know about this before? I will definitely be repurchasing.",
+                        "Este producto es excepcional tuve una caÃ­da hace 1 semana y me di justo en el coxis, comprÃ© demasiadas cosas y remedios y este fue el que me bajÃ³ el dolor durante 6 dÃ­as, hay que sabÃ©rselo poner, se recomienda es colocarlo donde hace conexiÃ³n el dolor con las venas inflamadas. Lo Ãºnico es que no se pega al 100% pero si estÃ¡s en cama como yo para guardar reposo es fabuloso, de verdad no podÃ­a ni moverme me tenÃ­an que cargar y hasta baÃ±arme del dolor tan insoportable y esto me cambiÃ³ rÃ¡pido de Ã¡nimo, antes lloraba del dolor, lo recomiendo un trillÃ³n de veces",
+                        "Now I purchased this to try the numbing hack when wearing heels. I had to wear them for 5 days straight 9+ hours each dayâ¦.. when I say I am absolutely amazed with the results. I will be using this every time I wear heels from now on."
+                    ]
+                }
+            },
+            {
+                "period": "2026-05",
+                "reviews": 72,
+                "average_rating": 4.764,
+                "average_sentiment": 0.941,
+                "cluster_distribution": {
+                    "7": 0.653,
+                    "8": 0.153,
+                    "0": 0.083,
+                    "1": 0.056,
+                    "6": 0.014,
+                    "2": 0.014,
+                    "5": 0.014,
+                    "4": 0.014
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "With the hives that I've been dealing with (at first, I thought it was shingles months ago), I would use this and it not only worked quickly on the itching, but the calming effect from the rosemary and mint helped as well. I recently bought the lavender as well, but loved this so much that I just ordered another one since I used the first one up. Very pleased with the purchase.",
+                        "If you wear a lot of heels and you like to dance, it's the best advice to hold them all night. Give a few sprays before using them. It also smells good and your foot doesn't sweat, the best for any footwear and moment, only that I use it more with heels",
+                        "I have very severe Fibromyalgia and spinal injuries. I get terrible leg cramps, restless leg syndrome and deep muscle pain. This medication is easy to put on, works in about five minutes or less for cramps, and aides with the deep muscle pain. It's easy to put on with the roller top and dries quickly. Lidocaine is great in any form, but patches are expensive and adhesive makes my skin break out. Creams are sticky. This is a great product to ease pain for me and my 24/7/365 pain. Using this product now for about 6 months and keep one by my bedside and desk. Use in conjunction with Hyands Leg Cramps.",
+                        "I have a great deal of lower back and leg pain. Using this product nightly just before bed helps to relax me and reduce pain. The roller ball is wonderful for massaging the muscles while applying the medication. I apply freely to legs and back. By the time I am in bed, the lidocaine has started its work and the massage from the roller ball has started the relaxation. I know OTC products affects individuals differently. I have RA and cellulitis while my husband has herniated discs. For us, it helps immensely.",
+                        "This product does help with pain, but it's hell to try to get the top off! It's not only \"child proof\" it is \"adult proof.\" I had to get my neighbor to come over and take the lid off!!!!"
+                    ],
+                    "negative_reviews": [
+                        "I was absolutely delighted with this product. The cream's texture isn't greasy and absorbs incredibly well; it relieves pain immediately. I highly recommend itâit has helped me tremendously.",
+                        "I don't mind the smell of icy hot but my kids always give me a hard time telling me it smells up the room. While this is not odorless, nobody complains when I use it. Its a roll on so it doesn't get your hands messy but I've found I need to give it a few minutes to dry before adding clothing back over where it was applied. Seems good and can definitely take the edge off some sore muscles. I tried it on a shoulder with a pinched nerve and no dice. Can't win 'em all I guess.",
+                        "Have loved and used this product for a long time--it provides great relief without staining clothes (like a competitor roll-on does!). However, I use it due to arthritis, and guess what...my arthritis prohibits my ability to open this most child-proof, indeed human-proof, of all roll-ons. I will keep ordering but I guess I also need to order a pipe wrench.",
+                        "I like this Aspercreme with Lidocaine for mild pain discomfort relief. it works well, but I was dismayed to see the expire date was only a couple of months away.. usually it is close to a year.. I will not buy again from this seller,",
+                        "With the hives that I've been dealing with (at first, I thought it was shingles months ago), I would use this and it not only worked quickly on the itching, but the calming effect from the rosemary and mint helped as well. I recently bought the lavender as well, but loved this so much that I just ordered another one since I used the first one up. Very pleased with the purchase."
+                    ]
+                }
+            },
+            {
+                "period": "2026-06",
+                "reviews": 81,
+                "average_rating": 4.741,
+                "average_sentiment": 0.935,
+                "cluster_distribution": {
+                    "7": 0.531,
+                    "0": 0.185,
+                    "1": 0.111,
+                    "8": 0.086,
+                    "2": 0.037,
+                    "5": 0.037,
+                    "3": 0.012
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "This thin patch stays on very well. If the corners curl while you're putting the patch on, you can uncurl them with no problem. It really relieves pain. I prefer Aspercreme over Salonpas. It is thinner, easier to apply, and does not come off at the edges or curl once you've put it on as the thicker Salonpas patch does.",
+                        "These are my go to pain relief product when I have localized back pain. And the name brand (Aspercream) has better adhesive than the generic brands.",
+                        "Love this item!! It works!! It is cold going on but worth it. :0) Easy to use and non greasy great value for the money.",
+                        "Great pain relief and quickly! The plus for me is, that it has NO menthol and no odor at all. It rubs in quickly and smoothly. So happy to have a topical pain reliever WITHOUT menthol!!!",
+                        "It works fast on back hip and leg pain. I just received it 15 minutes ago and the pain is gone. It also has a wonderful Lavender scent."
+                    ],
+                    "negative_reviews": [
+                        "I use the Lidocaine patches daily. I think this brand charges more for the name. I am not sure how well they work. This brand has a larger patch that tends to stick on itself too many times & it rolls off when I pull my pants up. I only buy this one on sale.",
+                        "I like the patches and I have been using them for a while back. Is the first time I receive an incomplete delivery. There is no explanation for it. I would like to know if I have to place a new order or delivery will be at a later time.",
+                        "we use to like this product but they recently changed the formula and it all runny and does not work as well.",
+                        "I saw the advertising said 20$ for four.I thought it must cheaper than the medicine in Costco. After I got it I found the tube's size is different. Next time, I should pay more attention to the size or volum.",
+                        "Used this after a knee replacement. Applied liberally and it seemed to help some of the latter pain from the procedure. Not as good as morphine, but helpful weeks after the surgery. No scent, so you don't smell like a doctor's office."
+                    ]
+                }
+            },
+            {
+                "period": "2026-07",
+                "reviews": 95,
+                "average_rating": 4.484,
+                "average_sentiment": 0.871,
+                "cluster_distribution": {
+                    "7": 0.611,
+                    "0": 0.158,
+                    "1": 0.084,
+                    "8": 0.084,
+                    "5": 0.032,
+                    "6": 0.021,
+                    "2": 0.011
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I purchased these as well as Salonpas to have on hand. Came time that I needed them I was glad to have both. I tried the Salonpas the first day. They worked well but didn't have any give so when skin moved and stretched they didn't stretch with it. I'd purchased these in the store previously and they stuck well but that was some years ago and on a different part of my body. Apparently they changed something in the manufacturing because they don't stick as well as they used to. The next day I used the Aspercreme patches. After showering, towel drying well, and air drying for a few minutes to insure my skin was completely dry I placed the pad on my skin. You have to pull these to separate the 2 pieces of plastic stuck to it so I knew immediately it would have some give. I liked the way it stretched but returned to it's original size afterwards. After removing both sides of the plastic to make it easier to hit the spot on my back where I needed it I realized why they suggest removing the smallest piece of plastic first. It's a bit flimsy so it's difficult to work with unless the spot you need it is easily accessible or you have someone helping you. Unfortunately I was on my own and because the area was on my back starting with one side wasn't possible. Both the Salonpas and the Aspercreme pads gave me relief. The Salonpas weren't flexible at all and didn't stick very well. In fact they started peeling away from my skin immediately. The Aspercreme pads are very flexible and have some stretch so they worked better for the spot I needed them on. I must say I was a bit disappointed because even though they stuck well the first few hours they eventually started peeling as well. For me the Aspercreme worked better but honestly I was a bit disappointed with both.",
+                        "This roll on isn't going to numb away all the pain from a torn muscle or severe arthritis, but if your pain is only mild to moderate, then this will help quite a bit, especially if you use it two or three times a day as directed. I have a torn muscle near my left knee and a little arthritis, and I do take oral pain relievers, but this roll on helps as well. It doesn't feel warm or cold to me, but that's okay. I don't think the temperature of the liquid would help the pain. I love the fact that this is a roll on. I did have some cream I was using prior to buying this, but I stopped using it because I hated getting my hands so messy. The roll on applicator keeps my hands clean, and I love that. I love the fact that I can carry a tube in my purse and not worry about it making a mess like a liquid or a cream might. I didn't find the cap at all difficult to twist off. Just squeeze where directed, and it comes right off. Be sure to put it back on, too, or your liquid will dry up. I think this is the best roll on out there. Only Voltaren Cream works better for arthritis pain (and it's not for muscles at all), but I don't use that because it doesn't come in a roll on. Overall, I'm please with this as an add-on to my oral medication or on days when I feel I can skip the oral medication altogether. I hope it helps you, too.",
+                        "Works a treat. With regular applications of lidocaine I can turn head. My neck was injured 4 years ago and now the first thing I do when I get in the car is apply this product so I can head-check to be safe as I move through St. Louis traffic.",
+                        "I have several kinds of this. Cream and roll on. Scented and unscented. It does not get hot nor does it smell, but I love the fact that it works. I have several health issues with my muscles and I can get knots up to 1/2 a baseball. I also get to where I can't walk, but since I have started using this I can manage my muscle pain much better than just taking more pill's. It is great if you are an outside person because it does not attract bee's and such because it is odor free. When you first use it, it might take a bit to find the nerves for your effected area so do a larger area. Once you find it that will be the only area you need to apply.",
+                        "I love this stuff. I have back problems, a pinched nerve and arthritis between L3 and L4 and what I believe is nerve damage in my muscle adjacent due to a pain doctor (aptly named). This helps enough that I can still enjoy mountain biking when I can get out. I definitely notice if I forget this application. I've tried those numbing pain tropicals also, with lidocaine but they don't seem to penetrate into the muscle/disk area as well. So I keep coming back."
+                    ],
+                    "negative_reviews": [
+                        "This patches does not have enough glue on them or i don't know the thing is that they do not work because we tried to stick it to the skin several times, with clean and dry skin and it did not work. A WASTE OF MONEY.",
+                        "This was supposed to be a \"12 count\" of Aspercream Lidocaine Patchers. I received ONE patch for $26.62!! That is a definite \"rip off\"! Buyer Beware. The lidocaine patches work well but do not buy this one because of the exorbitant cost! Deceptive information about this product. Will NEVER buy this product again on Amazon",
+                        "Not aspercreme brand - off brand of some kind of sports cream with same ingredient. Not what i was expecting or wanted.",
+                        "I usually buy the spray or crÃ¨me Aspercreme but this was the only one I could get on same day delivery from Whole Foods and Iâd hurt my foot. I wish Iâd waited. Iâm sensitive to fragrances but it never occurred time to check TOPICAL MEDICATION for added perfume. My mistake. The fragrance added to this reeks like a plastic plugin âcar freshenerâ and the scent lingers long after the isopropyl alcohol scent has evaporated. After checking other Aspercreme products I see several have fragrance free listed prominently in the package. Now I know why. I have also found that this gel doesnât seem to offer as much pain relief as the spray and the cream so fragrance aside, I donât recommend this specific product. Stick with one of the other Aspercreme offerings.",
+                        "I love this stuff and with arthritis in my back I order it all the time. I get 5 oz for about $9 but now theyâve tricked me and changed the sizes to grams instead of ounces. I was so careful but I guess somehow I ordered 50 grams - 1.76 oz. The 5 ounce tube (if you can find one) is about $15! Still, I wouldâve ordered the 5 ounce tube. I am so angry right now. So maybe my two stars are for being tricked because thereâs a number five on it and itâs $8.99 and it said Iâve ordered it before, which I have not. Good going aspercreme, you got me"
+                    ]
+                }
+            }
+        ],
+        "review_volume": {
+            "current": 176,
+            "previous": 135,
+            "change_pct": 30.37
+        },
+        "rating": {
+            "current": 4.602,
+            "previous": 4.792,
+            "change": -0.19
+        },
+        "sentiment": {
+            "current": 0.9,
+            "previous": 0.948,
+            "change": -0.048
+        },
+        "emerging_clusters": [
+            {
+                "cluster": 0,
+                "share": 0.172,
+                "change": 0.035
+            },
+            {
+                "cluster": 5,
+                "share": 0.035,
+                "change": 0.028
+            },
+            {
+                "cluster": 2,
+                "share": 0.024,
+                "change": 0.009
+            },
+            {
+                "cluster": 1,
+                "share": 0.098,
+                "change": 0.006
+            },
+            {
+                "cluster": 3,
+                "share": 0.006,
+                "change": 0.006
+            }
+        ],
+        "declining_clusters": [
+            {
+                "cluster": 7,
+                "share": 0.571,
+                "change": -0.041
+            },
+            {
+                "cluster": 8,
+                "share": 0.085,
+                "change": -0.031
+            },
+            {
+                "cluster": 4,
+                "share": 0,
+                "change": -0.007
+            },
+            {
+                "cluster": 6,
+                "share": 0.011,
+                "change": -0.004
+            },
+            {
+                "cluster": 1,
+                "share": 0.098,
+                "change": 0.006
+            }
+        ]
+    }
+}

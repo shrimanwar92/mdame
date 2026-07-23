@@ -1,0 +1,1631 @@
+{
+    "product": {
+        "report_type": "brand",
+        "group_by": "BRAND_NAME",
+        "identifier": "Xyzal",
+        "brand_name": "Xyzal",
+        "products": 19,
+        "asin": [
+            "B07C5WHH7L",
+            "B0DH6G4GP7",
+            "B01LQBIWT2",
+            "B0G99WN46G",
+            "B0GXGWH9FH",
+            "B0C4CT6TXT",
+            "B01LQBIVYS",
+            "B0G21SW5KZ",
+            "B06Y1T9KMW",
+            "B0GXGV2TJG",
+            "B01LQBIVZM",
+            "B01LQBIWKG",
+            "B01LQBIWQ0",
+            "B07GV6XDG9",
+            "B0DZFXFF28",
+            "B0FJ2NW4BP",
+            "B0DP3BZPZ2",
+            "B0CS6FG8P3",
+            "B0CYG3TKQ4"
+        ],
+        "reviews": 932,
+        "average_rating": 4.2,
+        "average_sentiment": 0.8
+    },
+    "macro_personas": [
+        {
+            "cluster": 6,
+            "universal_persona": {
+                "population": 5088,
+                "population_pct": 9.33,
+                "certainty": 0.995,
+                "positive_pct": 78.3,
+                "neutral_pct": 5.76,
+                "negative_pct": 15.94,
+                "avg_rating": 4.2,
+                "brand_distribution": {
+                    "Dulcolax": {
+                        "reviews": 1835,
+                        "share": 36.07
+                    },
+                    "Allegra": {
+                        "reviews": 1028,
+                        "share": 20.2
+                    },
+                    "Unisom": {
+                        "reviews": 743,
+                        "share": 14.6
+                    },
+                    "Xyzal": {
+                        "reviews": 443,
+                        "share": 8.71
+                    },
+                    "Nasacort": {
+                        "reviews": 324,
+                        "share": 6.37
+                    },
+                    "Zantac": {
+                        "reviews": 179,
+                        "share": 3.52
+                    },
+                    "Gold Bond": {
+                        "reviews": 159,
+                        "share": 3.12
+                    },
+                    "ACT": {
+                        "reviews": 116,
+                        "share": 2.28
+                    },
+                    "Cortizone 10": {
+                        "reviews": 75,
+                        "share": 1.47
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 66,
+                        "share": 1.3
+                    },
+                    "Icy Hot": {
+                        "reviews": 48,
+                        "share": 0.94
+                    },
+                    "Aspercreme": {
+                        "reviews": 25,
+                        "share": 0.49
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 23,
+                        "share": 0.45
+                    },
+                    "Selsun Blue": {
+                        "reviews": 12,
+                        "share": 0.24
+                    },
+                    "Buscapina": {
+                        "reviews": 11,
+                        "share": 0.22
+                    },
+                    "Magne B6": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Symptom Relief Seekers",
+                    "summary": "Customers looking for fast, effective relief from acute symptoms.",
+                    "decision_drivers": [
+                        "Fast-acting",
+                        "Proven effectiveness",
+                        "Long-lasting relief",
+                        "Minimal side effects"
+                    ],
+                    "satisfaction_drivers": [
+                        "Quickly alleviates symptoms",
+                        "Long duration of effects",
+                        "No harsh side effects",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short-lived effects",
+                        "Unpleasant side effects",
+                        "Inconvenient usage"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 6,
+                "share": 0.475,
+                "certainty": 1.0,
+                "reviews": 443,
+                "average_rating": 4.31,
+                "average_sentiment": 0.828
+            },
+            "comparison": {
+                "share_lift": 5.09,
+                "rating_delta": 0.11
+            }
+        },
+        {
+            "cluster": 0,
+            "universal_persona": {
+                "population": 11231,
+                "population_pct": 20.6,
+                "certainty": 0.997,
+                "positive_pct": 86.88,
+                "neutral_pct": 4.03,
+                "negative_pct": 9.08,
+                "avg_rating": 4.49,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 3735,
+                        "share": 33.26
+                    },
+                    "Dulcolax": {
+                        "reviews": 1768,
+                        "share": 15.74
+                    },
+                    "Cortizone 10": {
+                        "reviews": 1000,
+                        "share": 8.9
+                    },
+                    "Icy Hot": {
+                        "reviews": 985,
+                        "share": 8.77
+                    },
+                    "ACT": {
+                        "reviews": 904,
+                        "share": 8.05
+                    },
+                    "Allegra": {
+                        "reviews": 743,
+                        "share": 6.62
+                    },
+                    "Aspercreme": {
+                        "reviews": 657,
+                        "share": 5.85
+                    },
+                    "Selsun Blue": {
+                        "reviews": 403,
+                        "share": 3.59
+                    },
+                    "Nasacort": {
+                        "reviews": 293,
+                        "share": 2.61
+                    },
+                    "Xyzal": {
+                        "reviews": 253,
+                        "share": 2.25
+                    },
+                    "Unisom": {
+                        "reviews": 215,
+                        "share": 1.91
+                    },
+                    "Zantac": {
+                        "reviews": 215,
+                        "share": 1.91
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 27,
+                        "share": 0.24
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 22,
+                        "share": 0.2
+                    },
+                    "Buscapina": {
+                        "reviews": 11,
+                        "share": 0.1
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Daily Wellness Maintainers",
+                    "summary": "Customers seeking reliable products to support everyday health routines and prevention.",
+                    "decision_drivers": [
+                        "Effectiveness",
+                        "Quality",
+                        "Trusted brand",
+                        "Ease of use"
+                    ],
+                    "satisfaction_drivers": [
+                        "Long-lasting relief",
+                        "Meets daily needs",
+                        "Minimal side effects",
+                        "Trusted solution"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short duration",
+                        "Unpleasant side effects",
+                        "Poor value"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 0,
+                "share": 0.271,
+                "certainty": 0.995,
+                "reviews": 253,
+                "average_rating": 4.63,
+                "average_sentiment": 0.908
+            },
+            "comparison": {
+                "share_lift": 1.32,
+                "rating_delta": 0.14
+            }
+        },
+        {
+            "cluster": 3,
+            "universal_persona": {
+                "population": 6176,
+                "population_pct": 11.33,
+                "certainty": 0.999,
+                "positive_pct": 84.5,
+                "neutral_pct": 5.04,
+                "negative_pct": 10.46,
+                "avg_rating": 4.42,
+                "brand_distribution": {
+                    "ACT": {
+                        "reviews": 5502,
+                        "share": 89.09
+                    },
+                    "Dulcolax": {
+                        "reviews": 324,
+                        "share": 5.25
+                    },
+                    "Xyzal": {
+                        "reviews": 104,
+                        "share": 1.68
+                    },
+                    "Allegra": {
+                        "reviews": 78,
+                        "share": 1.26
+                    },
+                    "Gold Bond": {
+                        "reviews": 74,
+                        "share": 1.2
+                    },
+                    "Icy Hot": {
+                        "reviews": 24,
+                        "share": 0.39
+                    },
+                    "Cortizone 10": {
+                        "reviews": 21,
+                        "share": 0.34
+                    },
+                    "Zantac": {
+                        "reviews": 14,
+                        "share": 0.23
+                    },
+                    "Unisom": {
+                        "reviews": 13,
+                        "share": 0.21
+                    },
+                    "Aspercreme": {
+                        "reviews": 10,
+                        "share": 0.16
+                    },
+                    "Selsun Blue": {
+                        "reviews": 9,
+                        "share": 0.15
+                    },
+                    "Buscapina": {
+                        "reviews": 1,
+                        "share": 0.02
+                    },
+                    "Nasacort": {
+                        "reviews": 1,
+                        "share": 0.02
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Pediatric Care Facilitators",
+                    "summary": "Parents/caregivers seeking safe, effective solutions for children's health needs.",
+                    "decision_drivers": [
+                        "Kid-friendly formulations",
+                        "Gentle ingredients",
+                        "Proven effectiveness",
+                        "Pediatrician recommended"
+                    ],
+                    "satisfaction_drivers": [
+                        "Easy administration",
+                        "Fast-acting relief",
+                        "No harsh side effects",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Unpleasant taste/smell",
+                        "Difficulty administering",
+                        "Lack of results",
+                        "Harsh side effects"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 3,
+                "share": 0.112,
+                "certainty": 0.993,
+                "reviews": 104,
+                "average_rating": 3.67,
+                "average_sentiment": 0.668
+            },
+            "comparison": {
+                "share_lift": 0.99,
+                "rating_delta": -0.75
+            }
+        },
+        {
+            "cluster": 5,
+            "universal_persona": {
+                "population": 4604,
+                "population_pct": 8.45,
+                "certainty": 0.995,
+                "positive_pct": 22.26,
+                "neutral_pct": 13.66,
+                "negative_pct": 64.07,
+                "avg_rating": 2.21,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 3046,
+                        "share": 66.16
+                    },
+                    "Cortizone 10": {
+                        "reviews": 312,
+                        "share": 6.78
+                    },
+                    "Icy Hot": {
+                        "reviews": 242,
+                        "share": 5.26
+                    },
+                    "Aspercreme": {
+                        "reviews": 216,
+                        "share": 4.69
+                    },
+                    "ACT": {
+                        "reviews": 211,
+                        "share": 4.58
+                    },
+                    "Dulcolax": {
+                        "reviews": 157,
+                        "share": 3.41
+                    },
+                    "Allegra": {
+                        "reviews": 139,
+                        "share": 3.02
+                    },
+                    "Nasacort": {
+                        "reviews": 87,
+                        "share": 1.89
+                    },
+                    "Xyzal": {
+                        "reviews": 68,
+                        "share": 1.48
+                    },
+                    "Zantac": {
+                        "reviews": 58,
+                        "share": 1.26
+                    },
+                    "Selsun Blue": {
+                        "reviews": 42,
+                        "share": 0.91
+                    },
+                    "Unisom": {
+                        "reviews": 17,
+                        "share": 0.37
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 3,
+                        "share": 0.07
+                    },
+                    "Buscapina": {
+                        "reviews": 3,
+                        "share": 0.07
+                    },
+                    "Magne B6": {
+                        "reviews": 2,
+                        "share": 0.04
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Product Experience Critics",
+                    "summary": "Customers focused on product usability and delivery mechanisms over ingredients.",
+                    "decision_drivers": [
+                        "Ease of application",
+                        "Convenient packaging",
+                        "Innovative delivery"
+                    ],
+                    "satisfaction_drivers": [
+                        "Hassle-free usage",
+                        "Precise application",
+                        "Portable packaging"
+                    ],
+                    "frustration_drivers": [
+                        "Difficult application",
+                        "Faulty packaging/sprayers",
+                        "Messy or wasteful"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 5,
+                "share": 0.073,
+                "certainty": 0.988,
+                "reviews": 68,
+                "average_rating": 2.21,
+                "average_sentiment": 0.301
+            },
+            "comparison": {
+                "share_lift": 0.86,
+                "rating_delta": 0.0
+            }
+        },
+        {
+            "cluster": 2,
+            "universal_persona": {
+                "population": 2128,
+                "population_pct": 3.9,
+                "certainty": 1.0,
+                "positive_pct": 91.92,
+                "neutral_pct": 2.11,
+                "negative_pct": 5.97,
+                "avg_rating": 4.67,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 556,
+                        "share": 26.13
+                    },
+                    "Icy Hot": {
+                        "reviews": 272,
+                        "share": 12.78
+                    },
+                    "Selsun Blue": {
+                        "reviews": 258,
+                        "share": 12.12
+                    },
+                    "Cortizone 10": {
+                        "reviews": 222,
+                        "share": 10.43
+                    },
+                    "Dulcolax": {
+                        "reviews": 199,
+                        "share": 9.35
+                    },
+                    "Allegra": {
+                        "reviews": 143,
+                        "share": 6.72
+                    },
+                    "ACT": {
+                        "reviews": 136,
+                        "share": 6.39
+                    },
+                    "Aspercreme": {
+                        "reviews": 123,
+                        "share": 5.78
+                    },
+                    "Buscapina": {
+                        "reviews": 97,
+                        "share": 4.56
+                    },
+                    "Unisom": {
+                        "reviews": 50,
+                        "share": 2.35
+                    },
+                    "Xyzal": {
+                        "reviews": 38,
+                        "share": 1.79
+                    },
+                    "Zantac": {
+                        "reviews": 16,
+                        "share": 0.75
+                    },
+                    "Nasacort": {
+                        "reviews": 13,
+                        "share": 0.61
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 4,
+                        "share": 0.19
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.05
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Oral Hygiene Prioritizers",
+                    "summary": "Customers focused on maintaining good oral health through daily routines.",
+                    "decision_drivers": [
+                        "Dentist recommended",
+                        "Proven effectiveness",
+                        "Kid-friendly options",
+                        "Convenient usage"
+                    ],
+                    "satisfaction_drivers": [
+                        "Fresh breath",
+                        "Prevents cavities/gum issues",
+                        "Easy to use",
+                        "Pleasant taste/scent"
+                    ],
+                    "frustration_drivers": [
+                        "Unpleasant taste/smell",
+                        "Ineffective results",
+                        "Difficult to use",
+                        "Harsh ingredients"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 2,
+                "share": 0.041,
+                "certainty": 1.0,
+                "reviews": 38,
+                "average_rating": 4.95,
+                "average_sentiment": 0.987
+            },
+            "comparison": {
+                "share_lift": 1.05,
+                "rating_delta": 0.28
+            }
+        },
+        {
+            "cluster": 1,
+            "universal_persona": {
+                "population": 12457,
+                "population_pct": 22.85,
+                "certainty": 0.994,
+                "positive_pct": 84.42,
+                "neutral_pct": 5.59,
+                "negative_pct": 9.99,
+                "avg_rating": 4.43,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 9823,
+                        "share": 78.86
+                    },
+                    "Cortizone 10": {
+                        "reviews": 1986,
+                        "share": 15.94
+                    },
+                    "Icy Hot": {
+                        "reviews": 180,
+                        "share": 1.44
+                    },
+                    "Aspercreme": {
+                        "reviews": 177,
+                        "share": 1.42
+                    },
+                    "Selsun Blue": {
+                        "reviews": 102,
+                        "share": 0.82
+                    },
+                    "Allegra": {
+                        "reviews": 75,
+                        "share": 0.6
+                    },
+                    "ACT": {
+                        "reviews": 50,
+                        "share": 0.4
+                    },
+                    "Dulcolax": {
+                        "reviews": 39,
+                        "share": 0.31
+                    },
+                    "Xyzal": {
+                        "reviews": 10,
+                        "share": 0.08
+                    },
+                    "Magne B6": {
+                        "reviews": 8,
+                        "share": 0.06
+                    },
+                    "Nasacort": {
+                        "reviews": 6,
+                        "share": 0.05
+                    },
+                    "Unisom": {
+                        "reviews": 1,
+                        "share": 0.01
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Skin Condition Soothers",
+                    "summary": "Customers looking for effective relief from persistent skin irritations and conditions.",
+                    "decision_drivers": [
+                        "Fast-acting",
+                        "Gentle formulation",
+                        "Proven ingredients",
+                        "Dermatologist recommended"
+                    ],
+                    "satisfaction_drivers": [
+                        "Reduces itching/irritation",
+                        "Promotes healing",
+                        "Long-lasting effects",
+                        "Safe for sensitive skin"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective results",
+                        "Further irritation",
+                        "Short-lived relief",
+                        "Harsh ingredients"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 1,
+                "share": 0.011,
+                "certainty": 0.949,
+                "reviews": 10,
+                "average_rating": 4.4,
+                "average_sentiment": 0.85
+            },
+            "comparison": {
+                "share_lift": 0.05,
+                "rating_delta": -0.03
+            }
+        },
+        {
+            "cluster": 4,
+            "universal_persona": {
+                "population": 339,
+                "population_pct": 0.62,
+                "certainty": 1.0,
+                "positive_pct": 97.94,
+                "neutral_pct": 1.47,
+                "negative_pct": 0.59,
+                "avg_rating": 4.81,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 132,
+                        "share": 38.94
+                    },
+                    "Cortizone 10": {
+                        "reviews": 42,
+                        "share": 12.39
+                    },
+                    "Dulcolax": {
+                        "reviews": 30,
+                        "share": 8.85
+                    },
+                    "Allegra": {
+                        "reviews": 28,
+                        "share": 8.26
+                    },
+                    "Selsun Blue": {
+                        "reviews": 26,
+                        "share": 7.67
+                    },
+                    "ACT": {
+                        "reviews": 25,
+                        "share": 7.37
+                    },
+                    "Aspercreme": {
+                        "reviews": 17,
+                        "share": 5.01
+                    },
+                    "Icy Hot": {
+                        "reviews": 14,
+                        "share": 4.13
+                    },
+                    "Zantac": {
+                        "reviews": 8,
+                        "share": 2.36
+                    },
+                    "Nasacort": {
+                        "reviews": 7,
+                        "share": 2.06
+                    },
+                    "Xyzal": {
+                        "reviews": 7,
+                        "share": 2.06
+                    },
+                    "Buscapina": {
+                        "reviews": 1,
+                        "share": 0.29
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 1,
+                        "share": 0.29
+                    },
+                    "Unisom": {
+                        "reviews": 1,
+                        "share": 0.29
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Trusted Solution Seekers",
+                    "summary": "Customers prioritizing proven, reliable products from trusted brands.",
+                    "decision_drivers": [
+                        "Trusted brand reputation",
+                        "Proven effectiveness",
+                        "Quality ingredients",
+                        "Good value"
+                    ],
+                    "satisfaction_drivers": [
+                        "Delivers expected results",
+                        "Long-lasting effects",
+                        "Minimal side effects",
+                        "Worth the cost"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short duration of effects",
+                        "Unpleasant side effects",
+                        "Poor value for money"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 4,
+                "share": 0.008,
+                "certainty": 1.0,
+                "reviews": 7,
+                "average_rating": 4.86,
+                "average_sentiment": 0.964
+            },
+            "comparison": {
+                "share_lift": 1.29,
+                "rating_delta": 0.05
+            }
+        },
+        {
+            "cluster": 7,
+            "universal_persona": {
+                "population": 4657,
+                "population_pct": 8.54,
+                "certainty": 0.995,
+                "positive_pct": 74.38,
+                "neutral_pct": 6.81,
+                "negative_pct": 18.81,
+                "avg_rating": 4.07,
+                "brand_distribution": {
+                    "Icy Hot": {
+                        "reviews": 2496,
+                        "share": 53.6
+                    },
+                    "Aspercreme": {
+                        "reviews": 1197,
+                        "share": 25.7
+                    },
+                    "Gold Bond": {
+                        "reviews": 548,
+                        "share": 11.77
+                    },
+                    "Cortizone 10": {
+                        "reviews": 190,
+                        "share": 4.08
+                    },
+                    "Dulcolax": {
+                        "reviews": 120,
+                        "share": 2.58
+                    },
+                    "Magne B6": {
+                        "reviews": 24,
+                        "share": 0.52
+                    },
+                    "Allegra": {
+                        "reviews": 22,
+                        "share": 0.47
+                    },
+                    "ACT": {
+                        "reviews": 19,
+                        "share": 0.41
+                    },
+                    "Zantac": {
+                        "reviews": 12,
+                        "share": 0.26
+                    },
+                    "Xyzal": {
+                        "reviews": 7,
+                        "share": 0.15
+                    },
+                    "Buscapina": {
+                        "reviews": 7,
+                        "share": 0.15
+                    },
+                    "Selsun Blue": {
+                        "reviews": 6,
+                        "share": 0.13
+                    },
+                    "Unisom": {
+                        "reviews": 4,
+                        "share": 0.09
+                    },
+                    "Nasacort": {
+                        "reviews": 3,
+                        "share": 0.06
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 2,
+                        "share": 0.04
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Pain Relief Prioritizers",
+                    "summary": "Customers seeking effective, targeted relief from muscle/joint pains.",
+                    "decision_drivers": [
+                        "Fast pain relief",
+                        "Long-lasting effects",
+                        "Targeted application",
+                        "Ease of use"
+                    ],
+                    "satisfaction_drivers": [
+                        "Quickly reduces pain",
+                        "Long duration of effects",
+                        "Convenient application",
+                        "No mess or residue"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective results",
+                        "Short-lived relief",
+                        "Difficult application",
+                        "Unpleasant smell/feel"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 7,
+                "share": 0.008,
+                "certainty": 0.93,
+                "reviews": 7,
+                "average_rating": 3.57,
+                "average_sentiment": 0.643
+            },
+            "comparison": {
+                "share_lift": 0.09,
+                "rating_delta": -0.5
+            }
+        },
+        {
+            "cluster": 8,
+            "universal_persona": {
+                "population": 6837,
+                "population_pct": 12.54,
+                "certainty": 0.99,
+                "positive_pct": 85.61,
+                "neutral_pct": 3.89,
+                "negative_pct": 10.5,
+                "avg_rating": 4.44,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 6144,
+                        "share": 89.86
+                    },
+                    "Aspercreme": {
+                        "reviews": 242,
+                        "share": 3.54
+                    },
+                    "Icy Hot": {
+                        "reviews": 161,
+                        "share": 2.35
+                    },
+                    "Selsun Blue": {
+                        "reviews": 96,
+                        "share": 1.4
+                    },
+                    "Cortizone 10": {
+                        "reviews": 72,
+                        "share": 1.05
+                    },
+                    "Dulcolax": {
+                        "reviews": 48,
+                        "share": 0.7
+                    },
+                    "ACT": {
+                        "reviews": 41,
+                        "share": 0.6
+                    },
+                    "Allegra": {
+                        "reviews": 13,
+                        "share": 0.19
+                    },
+                    "Nasacort": {
+                        "reviews": 7,
+                        "share": 0.1
+                    },
+                    "Unisom": {
+                        "reviews": 5,
+                        "share": 0.07
+                    },
+                    "Magne B6": {
+                        "reviews": 5,
+                        "share": 0.07
+                    },
+                    "Xyzal": {
+                        "reviews": 2,
+                        "share": 0.03
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.01
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Comfort First Consumers",
+                    "summary": "Customers focused on products that provide comfort, freshness and prevent irritation.",
+                    "decision_drivers": [
+                        "Prevents chafing/irritation",
+                        "Absorbs moisture/sweat",
+                        "Long-lasting freshness",
+                        "Gentle formulation"
+                    ],
+                    "satisfaction_drivers": [
+                        "Stays dry and fresh",
+                        "Soothes irritated skin",
+                        "Easy to apply",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective absorption",
+                        "Short duration of effects",
+                        "Unpleasant smell/residue",
+                        "Causes further irritation"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 8,
+                "share": 0.002,
+                "certainty": 1.0,
+                "reviews": 2,
+                "average_rating": 5.0,
+                "average_sentiment": 1.0
+            },
+            "comparison": {
+                "share_lift": 0.02,
+                "rating_delta": 0.56
+            }
+        }
+    ],
+    "trend_analysis": {
+        "timeline": [
+            {
+                "period": "2024-12",
+                "reviews": 267,
+                "average_rating": 3.697,
+                "average_sentiment": 0.674,
+                "cluster_distribution": {
+                    "6": 0.307,
+                    "3": 0.285,
+                    "0": 0.281,
+                    "5": 0.071,
+                    "1": 0.022,
+                    "4": 0.011,
+                    "2": 0.011,
+                    "7": 0.007,
+                    "8": 0.004
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I like that I can order my allergy medication from Amazon and not have to leave my house to go get it. The pills are the same as ones Iâd buy at Walmart or a drug store and work just as well. There is the amount of pills in the bottle that is listed on the package. I will definitely be using Amazon again to get my Xyzal.",
+                        "I have had prescriptions for many years with Simvastatin 20 mg tablet and it never works that way. This is the first time I have bought online Xyzal Allergy Pills (5mg) and I took four pills (I was skeptical at first) and it works great! I will be sticking it around more than waiting for prescriptions isn't worth it!",
+                        "I take it at night and since it is a 24 hours, it serves as a sleep aid and by the morning, I am not fatigued at all. I put it one star for flavor, because, well that is weird, it is a pill that is swallowed...lol",
+                        "I used this to numb my system to dust mites and pollens in the air. Be careful to check for yourself, as different medicines behave differently (as well as different peopleâs bodies), but I had no trouble with it interacting with medications I was taking.",
+                        "This is the best price for Xyzal that I have found and my kids love the flavor. Having subscribe and save is super nice because it comes just as im running out before I even think of it :)"
+                    ],
+                    "negative_reviews": [
+                        "My 5 year old son did not react well to this at all! I had him on it for 2 weeks and it caused him to be very agitated, aggressive and defiant. I've never seen such a reaction to a medicine. It took about 2 weeks before I realized it was the culprit. It also caused him to have a cough. As soon as I stopped giving it to him he went back to normal. Be aware that this medicine can cause these horrible reactions.",
+                        "I donât normally leave reviews but I feel I must with this one.. I took it and had the WORST night of sleep.. then woke up with a massive headache.. felt so groggy and even more stuffed up then before I took it.. the medicine sucks.. doesnât work for me & actually made me feel 100% WORSE.. they donât accept returns thankfully Amazon helped me but absolute trash.. wish I would of read reviews first as Iâm NOT alone! :(",
+                        "I specifically ordered this because it was Tutti Frutti on the picture and the text. It was not ! It can't be returned either. Most autistic children won't do bubblegum or grape. It seems like the manufacturer don't care when I called for a return. The company said they no longer make the tutti-frutti flavor. I would not recommend purchasing this as it's not tutti-frutti if that's the only flavor your child will take by or beware",
+                        "Xyzal is awesome! But donât order from Amazon you donât get what you order. I specifically ordered this for the Tutti Fruity flavor because that is what my granddaughter likes. What I got was Bubble Gum (my granddaughter hates this flavor) AND YOU CANNOT RETURN IT!!! Nowhere in the description does it say Bubble Gum. But thatâs what you get. Shame on Amazon for allowing this to happen!",
+                        "Ordered because of the high ratings for use by 3 family members suffering from seasonal allergies. Today is Day 5 and not one of us has had a positive effect. We are not hiking or doing outdoorsy things as it is 40degrees. Going to use for another few days but feel like this is the same as taking benadryl which has admitted it does nothing to address allergies."
+                    ]
+                }
+            },
+            {
+                "period": "2025-01",
+                "reviews": 15,
+                "average_rating": 3.067,
+                "average_sentiment": 0.517,
+                "cluster_distribution": {
+                    "6": 0.4,
+                    "5": 0.333,
+                    "0": 0.267
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Recommended by my ENT physician, I have found xyzal to be highly beneficial. One or even one half taken at night prevents running nose and decreases my itchy eyes. And it doesnât make me groggy. Highly recommend",
+                        "Doctor recomended. Small pill bottle inside of a bigger box that was unnecessary packaging. Not worth the price but a better value then some of the options with fewer pills.",
+                        "Paid rhe same for this 55 count size as I did for a 21 count size from a local pharmacy.",
+                        "I was using the Z-brand allergy pills for years but it finally got where it wasnât working quite as well. Not sure if I built up a mild tolerance, or if my allergies are getting worse, but I thought Iâd try something new. Iâd read there are several different primary active ingredients for allergies and sure enough, researching different brands, they all claim a different one. I saw this brand, which was a different active ingredient from Z, and it was the best value I could find. But itâs just okay. It will help the worst of my allergies but doesnât clear all the symptoms. Iâm still sneezing and having to blow my nose regularly, but the itchy eyes and snot faucet are largely improved. BUT! My biggest issue is that it doesnât last long. It says 24hrs, but after 6-8hrs I am finding myself popping another one. I never had to do that with Z brand. Iâll finish this batch out, but will be trying something different afterwards, or just go back to my previous brand.",
+                        "I use Xyzal all the time. Way too expensive on Amazon. I get mine from Costco. Same price, 3 times the medication"
+                    ],
+                    "negative_reviews": [
+                        "I was using the Z-brand allergy pills for years but it finally got where it wasnât working quite as well. Not sure if I built up a mild tolerance, or if my allergies are getting worse, but I thought Iâd try something new. Iâd read there are several different primary active ingredients for allergies and sure enough, researching different brands, they all claim a different one. I saw this brand, which was a different active ingredient from Z, and it was the best value I could find. But itâs just okay. It will help the worst of my allergies but doesnât clear all the symptoms. Iâm still sneezing and having to blow my nose regularly, but the itchy eyes and snot faucet are largely improved. BUT! My biggest issue is that it doesnât last long. It says 24hrs, but after 6-8hrs I am finding myself popping another one. I never had to do that with Z brand. Iâll finish this batch out, but will be trying something different afterwards, or just go back to my previous brand.",
+                        "I use Xyzal all the time. Way too expensive on Amazon. I get mine from Costco. Same price, 3 times the medication",
+                        "Last 2 boxes came wide open such a hassle to return. Also the caps don't come with plastic around them so I didn't know if that was tampered with. My girls liked the tooth frutti flavor much more than bubble gum.",
+                        "Recommended by my ENT physician, I have found xyzal to be highly beneficial. One or even one half taken at night prevents running nose and decreases my itchy eyes. And it doesnât make me groggy. Highly recommend",
+                        "Doctor recomended. Small pill bottle inside of a bigger box that was unnecessary packaging. Not worth the price but a better value then some of the options with fewer pills."
+                    ]
+                }
+            },
+            {
+                "period": "2025-02",
+                "reviews": 11,
+                "average_rating": 3.727,
+                "average_sentiment": 0.682,
+                "cluster_distribution": {
+                    "0": 0.545,
+                    "6": 0.364,
+                    "5": 0.091
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Take these at night for the best results. I take one in the evening about an hour before bed. Doing that I sleep better as I am not congested and I wake up better as well. O runny eyes or nose.",
+                        "The item arrived on time and was exactly what I ordered. The expiration date was also a year out which is what I expected. It was actually cheaper than Walmart and the same price as Costco. Great deal !!",
+                        "I ordered allergy pills when they arrived. The box had an expiration date in six days, even though there was 110 pills in it.",
+                        "Worthless product in terrible packaging. It is very hard to get each pill out of the shrinkwrap packaging. It does not work. My throat is scratchy, my eyes are dry and itchy, my nose is running like a faucet and I can't get to sleep. I've laid here for two hours now. Thanks for nothing!"
+                    ],
+                    "negative_reviews": [
+                        "I ordered allergy pills when they arrived. The box had an expiration date in six days, even though there was 110 pills in it.",
+                        "Worthless product in terrible packaging. It is very hard to get each pill out of the shrinkwrap packaging. It does not work. My throat is scratchy, my eyes are dry and itchy, my nose is running like a faucet and I can't get to sleep. I've laid here for two hours now. Thanks for nothing!",
+                        "Take these at night for the best results. I take one in the evening about an hour before bed. Doing that I sleep better as I am not congested and I wake up better as well. O runny eyes or nose.",
+                        "The item arrived on time and was exactly what I ordered. The expiration date was also a year out which is what I expected. It was actually cheaper than Walmart and the same price as Costco. Great deal !!"
+                    ]
+                }
+            },
+            {
+                "period": "2025-03",
+                "reviews": 20,
+                "average_rating": 3.4,
+                "average_sentiment": 0.6,
+                "cluster_distribution": {
+                    "5": 0.35,
+                    "6": 0.25,
+                    "0": 0.2,
+                    "2": 0.15,
+                    "4": 0.05
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "This is the best allergy medicine Iâve ever used!!! Honestly I believe in this product so much I would be their spokesperson!!!",
+                        "It doesn't always help when my seasonal allergies are at their worst but still works great compared to literally any other over the counter allergy med I have ever taken. This is the very first one I ever found that not only worked great, but one I didn't develop a permanent immunity to within a month or two. I've been taking it for years. Not perfect but still great. For anyone who decides to read this, keep in mind, you will have to try this at your own risk as I did years ago. Simply because the same allergy med will not always work for everyone. Just because it's the best one for me doesn't necessarily mean it'll be the best one for you. Still worth a try though.",
+                        "I decided to give these a try, but they don't seem to be effective for me. In fact, they almost make my symptoms worse. I have tried them for a couple of weeks, hoping maybe if I gave them a good chance they would work for me. I'm giving up. I'm sure they work for some people, just not me.",
+                        "My doctor recommended me to take this. But after a week of taking one everyday I am experiencing dizziness when I stand up, and the dizziness does not go away right away. I often have to sit down quickly again to still my whirling head. And my eyes are still leaking. I know not everyone responds the same to things, but this has been my experience. I am going to discontinue use.",
+                        "I have ordered two bottles in a row within 2 days from each other and both bottles the seals were broken and it had to be go gone into the trash"
+                    ],
+                    "negative_reviews": [
+                        "My doctor recommended me to take this. But after a week of taking one everyday I am experiencing dizziness when I stand up, and the dizziness does not go away right away. I often have to sit down quickly again to still my whirling head. And my eyes are still leaking. I know not everyone responds the same to things, but this has been my experience. I am going to discontinue use.",
+                        "I have ordered two bottles in a row within 2 days from each other and both bottles the seals were broken and it had to be go gone into the trash",
+                        "I decided to give these a try, but they don't seem to be effective for me. In fact, they almost make my symptoms worse. I have tried them for a couple of weeks, hoping maybe if I gave them a good chance they would work for me. I'm giving up. I'm sure they work for some people, just not me.",
+                        "It doesn't always help when my seasonal allergies are at their worst but still works great compared to literally any other over the counter allergy med I have ever taken. This is the very first one I ever found that not only worked great, but one I didn't develop a permanent immunity to within a month or two. I've been taking it for years. Not perfect but still great. For anyone who decides to read this, keep in mind, you will have to try this at your own risk as I did years ago. Simply because the same allergy med will not always work for everyone. Just because it's the best one for me doesn't necessarily mean it'll be the best one for you. Still worth a try though.",
+                        "This is the best allergy medicine Iâve ever used!!! Honestly I believe in this product so much I would be their spokesperson!!!"
+                    ]
+                }
+            },
+            {
+                "period": "2025-04",
+                "reviews": 30,
+                "average_rating": 3.3,
+                "average_sentiment": 0.575,
+                "cluster_distribution": {
+                    "6": 0.333,
+                    "0": 0.3,
+                    "5": 0.2,
+                    "2": 0.167
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Este medicamento para los niÃ±os estÃ¡ muy bueno ya que a mi sobrino se lo comprÃ© y le ayudÃ³ mucho",
+                        "You have to go through hoops to get the pill out of the package! As far as the pill itself nothing that great! I won't be buying it again...",
+                        "This product worked fairly well, but I was left so foggy-minded and groggy that I had to stop taking it. I understand that was in the product warnings of potential outcomes. Yikes! Use with great caution.",
+                        "My son became dependent on this medication, and it started causing symptoms it originally helped with and new symptoms that were very troubling. After a few months of use, he started having more snot, he started having trouble going to sleep, and he started saying he was having this \"nervous feeling\" that felt really bad. When I forgot to give it to him a couple times, the \"nervous\" symptom showed up on cue, and that's when I knew we had a problem. Thankfully I was able to taper him slowly off the daily half tablet over the course of a week without a lot of trouble. My Amazon-purchased metal nail file worked great for that task. Please know that ALL pharmaceuticals, even OTC, can cause problems for certain people, especially with daily long-term use, which can just mean more than a couple weeks.",
+                        "WOW super frustrating!!!Iâve been using it for two days ..does nothing..gave it a try since it said prescription strength ..it made my allergies go out of control.. My mouth is swollen super itchy Iâm coughing and tearing ..couldnât sleep for two nights.. Going back to my âZ âgreen packaging brand ! !"
+                    ],
+                    "negative_reviews": [
+                        "My son became dependent on this medication, and it started causing symptoms it originally helped with and new symptoms that were very troubling. After a few months of use, he started having more snot, he started having trouble going to sleep, and he started saying he was having this \"nervous feeling\" that felt really bad. When I forgot to give it to him a couple times, the \"nervous\" symptom showed up on cue, and that's when I knew we had a problem. Thankfully I was able to taper him slowly off the daily half tablet over the course of a week without a lot of trouble. My Amazon-purchased metal nail file worked great for that task. Please know that ALL pharmaceuticals, even OTC, can cause problems for certain people, especially with daily long-term use, which can just mean more than a couple weeks.",
+                        "WOW super frustrating!!!Iâve been using it for two days ..does nothing..gave it a try since it said prescription strength ..it made my allergies go out of control.. My mouth is swollen super itchy Iâm coughing and tearing ..couldnât sleep for two nights.. Going back to my âZ âgreen packaging brand ! !",
+                        "This medication need to checked out before taking I found that I am allergic to it. Caused itching of the throat, chills, like I had flue like symptoms.",
+                        "You have to go through hoops to get the pill out of the package! As far as the pill itself nothing that great! I won't be buying it again...",
+                        "This product worked fairly well, but I was left so foggy-minded and groggy that I had to stop taking it. I understand that was in the product warnings of potential outcomes. Yikes! Use with great caution."
+                    ]
+                }
+            },
+            {
+                "period": "2025-05",
+                "reviews": 21,
+                "average_rating": 4.143,
+                "average_sentiment": 0.786,
+                "cluster_distribution": {
+                    "6": 0.476,
+                    "5": 0.333,
+                    "0": 0.143,
+                    "1": 0.048
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "This is one of the main second-generation antihistamines to try, to see which gets you the best relief with the least side effects. Xyzal can be sedating for some people; others are unaffected. If trying for the first time, make sure you have nowhere to be the next morning, because it's possible for the grogginess to last into the next day. The scored pills make taking half a pill an option. The expiration date was 2.5 years out.",
+                        "Good for people that tolerate antihistamines well. It can cause drowsiness and grogginess, so it's a good bed time option. The tablets are small and easy to swallow, and they can be split in half This comes with 80 of the tablets which is enough to last me a while, so it's a good value. It also includes a small pack of tissues which always comes in handy during allergy season",
+                        "The ingredients is the same class as the green bottles at Costco which is very effective for my wife. I take the blue bottle. Rule of thumb is that if you are allergic, you try 3 different types of pills to see which one works best for you, then keep another type as a backup because no allergy medication can get you through every single type of allergent.",
+                        "After trying various allergy medication options, I determined that Xyzal worked best for me. The pricing on the 80 tablet version is better than anywhere else I could find.",
+                        "This tiny little bottle contains 80 breakable allergy pills for one low price. It has been working very well for me this season during record breaking allergy season!"
+                    ],
+                    "negative_reviews": [
+                        "This is a really good sample/starter for people curious about whether Xyzal is a good option for them. I really like that the pills are tiny and have a dividing line in case you need a smaller dose. I'm not fond of how drowsy it made me feel, or how fuzzy-headed I felt afterward. Also note that it does warn clearly on the back \"do not use if you have kidney disease.\" Oddly enough, all of the guidance I found online suggests that chronic kidney disease patients should merely use a reduced dose if they're in the advanced or end stages, not avoid it entirely.",
+                        "Large box, but with only a small jar inside. I am not sure why they made the outer box so big. Comes with a small pack of tissue. The instruction on these says to take it in the evening once a day. The reason for that is that it makes you really sleepy afterwards. I took it in the morning one time after onset of allergies, and noticed how drowsy it made me. Effectiveness is mild to moderate at best. Other allergy medications, including those with shorter effective durations, were more effectiveness. It did diminish my allergy symptoms, but did not alleviate it completely. Next time, I would make sure only to take these in the evening before bed.",
+                        "This is one of the main second-generation antihistamines to try, to see which gets you the best relief with the least side effects. Xyzal can be sedating for some people; others are unaffected. If trying for the first time, make sure you have nowhere to be the next morning, because it's possible for the grogginess to last into the next day. The scored pills make taking half a pill an option. The expiration date was 2.5 years out.",
+                        "Good for people that tolerate antihistamines well. It can cause drowsiness and grogginess, so it's a good bed time option. The tablets are small and easy to swallow, and they can be split in half This comes with 80 of the tablets which is enough to last me a while, so it's a good value. It also includes a small pack of tissues which always comes in handy during allergy season",
+                        "The ingredients is the same class as the green bottles at Costco which is very effective for my wife. I take the blue bottle. Rule of thumb is that if you are allergic, you try 3 different types of pills to see which one works best for you, then keep another type as a backup because no allergy medication can get you through every single type of allergent."
+                    ]
+                }
+            },
+            {
+                "period": "2025-06",
+                "reviews": 18,
+                "average_rating": 4.5,
+                "average_sentiment": 0.875,
+                "cluster_distribution": {
+                    "6": 0.556,
+                    "0": 0.444
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Crazy price hike. 7/21/2025 When purchased in May, they were $25'ish. Told a couple people about them and they ordered in June for the $25. July's price is $35'ish. Why a $10 price hike?!!! Great deal. As described. No issues with shipping or packaging. My go to allergy pills.",
+                        "I have tried Claritin, Zyrtec and Allegra but Xyzal is the best for me! No drowsiness or brain fog, just help with my seasonal allergy symptoms. Try it!",
+                        "Arrived on time. This is the only allergy pill that I use. Very small size. It is always effective. And I'm allergic to what feels like everything.",
+                        "Makes a huge difference. Dad has one every night. He has had no allergic rhinitis or sneezing fits ever since he started these.",
+                        "First: it's as effective or more than cetirizine (zyrtec) which is related. The side-effects are similarly non-existant for me. The pills are even tinier. So really the only big problem is that there are no current generics available. Courtesy of generic, I can get a literal year supply of cetirizine for around $20 or less (Costco). This is nearly double that cost for 80 days (a little more than 1/5 the number of days), making this almost 10 times more expensive per dose. At 46 cents per pill, it's not terrible considered on its own. But it's not on its own, it's in a market full of generics that are far cheaper (not just cetirizine) that are often of similar effectiveness. Is it good? Yes, very. Is it economical? Not so much. I'll call it a solid recommendation with the caveat that this isn't the best value."
+                    ],
+                    "negative_reviews": [
+                        "This did not agree with me! I took this before bed as directed and I felt like I a zombie the entire next day. I had terrible issues with cognition and short term memory. I was fighting a sinus infection at the time and thought perhaps it shouldnât be taken with Cephalexin. A few weeks after my infection cleared up I took it again and had the very same issues. I flushed it down the toilet. Come to find out it is basically the same thing as Unisom Sleeping pills.",
+                        "Unfortunately did not work out for me. I was taking this at night and it caused some drowsiness which, not a big deal, but getting up in the morning was hard. I also noticed that my nose dried up pretty bad while I was on it and it got very inflamed so I would constantly wake up at night from not being able to breathe at night. The side effects were just not worth it, I will have to try something else.",
+                        "First: it's as effective or more than cetirizine (zyrtec) which is related. The side-effects are similarly non-existant for me. The pills are even tinier. So really the only big problem is that there are no current generics available. Courtesy of generic, I can get a literal year supply of cetirizine for around $20 or less (Costco). This is nearly double that cost for 80 days (a little more than 1/5 the number of days), making this almost 10 times more expensive per dose. At 46 cents per pill, it's not terrible considered on its own. But it's not on its own, it's in a market full of generics that are far cheaper (not just cetirizine) that are often of similar effectiveness. Is it good? Yes, very. Is it economical? Not so much. I'll call it a solid recommendation with the caveat that this isn't the best value.",
+                        "Crazy price hike. 7/21/2025 When purchased in May, they were $25'ish. Told a couple people about them and they ordered in June for the $25. July's price is $35'ish. Why a $10 price hike?!!! Great deal. As described. No issues with shipping or packaging. My go to allergy pills.",
+                        "I have tried Claritin, Zyrtec and Allegra but Xyzal is the best for me! No drowsiness or brain fog, just help with my seasonal allergy symptoms. Try it!"
+                    ]
+                }
+            },
+            {
+                "period": "2025-07",
+                "reviews": 76,
+                "average_rating": 4.263,
+                "average_sentiment": 0.816,
+                "cluster_distribution": {
+                    "6": 0.605,
+                    "0": 0.184,
+                    "2": 0.079,
+                    "5": 0.079,
+                    "7": 0.026,
+                    "4": 0.013,
+                    "1": 0.013
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Xyzal has been a helpful addition to my allergy routine. After taking one dose, I noticed a difference in how I feltâless discomfort and fewer interruptions to my day. I also appreciated how easy it was to take and how clear the instructions were. ð¢ Standout Features â¢ Gentle and non-drowsy â¢ Easy to use, with straightforward packaging â¢ Provides noticeable comfort throughout the day â¢ Bonus tissue pack was a thoughtful touch! â¨ Final Thoughts If youâre exploring options to support seasonal wellness, this is one Iâd consider keeping on hand.",
+                        "GAME CHANGER !!! Allergy season has been a breeze with this ! I havenât had any reactions since using this consistently for a week. I tried to go the cheaper route at first but iâm glad i found this. I will never go back !!! and this is coming from someone with severe allergies.",
+                        "I have terrible allergies. I take one of these every night before bed. When it is not an active allergy season, I take a half. I like that they are easy to bite in half on these nights. The price is amazing for what you get, especially compared to other allergy medicine!",
+                        "Fantastic OTC allergy meds. This helped tremendous when I was visiting friends who own cats. I usually use Allegra but these work faster. It is a very small pill ad easy to swallow. It also works for 24 hours making my life easier.",
+                        "God send for allergies. I take this at bed time and have a 24 hour day free of allergy symptoms. I had to find something new as zyrtec was no longer working for me. Worth every penny."
+                    ],
+                    "negative_reviews": [
+                        "I really wanted this to work, but i felt nothing. I'm returning to the tried and true Claritin and Zyrtec.",
+                        "Received this delivered and opened up the package to find the box already had been opened, and there was no plastic wrap covering the bottle. It appears to be tampered with. Obviously will not feel comfortable and safe giving this to my child.. Do better",
+                        "Received my product, but do not expect the Xyzal tissues . They are just a packet of cheap white tissue. A nice packet of good tissues would be a nice addition. One star for the tissues, but of course the Xyzal would get a 5",
+                        "I don't like wasting money on a product that doesn't work. This product did not work for me. I took it at night like the commercial suggested, however, I was not refreshed in the morning. I was extremely groggy all day.",
+                        "Make sure to look at the milligram to dosage ratio! This was less mgs for more money! My son takes another allergy medication and it is double the milligrams and half the price"
+                    ]
+                }
+            },
+            {
+                "period": "2025-08",
+                "reviews": 42,
+                "average_rating": 3.881,
+                "average_sentiment": 0.72,
+                "cluster_distribution": {
+                    "6": 0.571,
+                    "0": 0.262,
+                    "5": 0.119,
+                    "7": 0.024,
+                    "2": 0.024
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Xyzal has been a lifesaver during allergy season. Iâve tried multiple over-the-counter allergy meds, and this one really stands outâespecially for consistent, 24-hour relief without feeling groggy during the day. â What I Like: Fast-acting â I usually feel relief within an hour, especially for sneezing, itchy eyes, and congestion. Long-lasting â Truly holds up for a full 24 hours. I take one before bed and wake up clear. Non-drowsy during the day â No sluggishness or foggy brain, unlike some other antihistamines. Great for nightly use â Helps with nighttime allergies so I can sleep better. â ï¸ A Few Notes: May cause drowsiness for some â Itâs marketed as less drowsy, but if you're sensitive, take it at night (which actually works out well). Price varies â It can be a little pricey compared to some generics, but itâs worth it for reliable relief. If you suffer from seasonal allergies or indoor allergens (like dust or pet dander), Xyzal is definitely worth trying. Itâs powerful, lasts all day, and helps you stay focused and comfortable without constant sneezing or itchy eyes.",
+                        "Xyzal offers solid 24-hour relief, especially if you suffer from seasonal or pet allergies. I take it at night, as it can make me slightly drowsy â but thatâs actually a plus because I wake up without stuffiness or itchy eyes. Itâs comparable to Zyrtec in effectiveness but generally costs more, so I only buy it when itâs on sale or when Iâm dealing with heavier allergy days. Note: Not non-drowsy, so plan accordingly.",
+                        "The GO-TO allergy medicine for allergies! Our pediatrician recommended this and it works better than the four other allergy medicines we have tried. The price is about the same as other medications, so I have no complaints, especially since it works so well! My child say it tastes fruity and doesn't fuss about having to take a gross medicine.",
+                        "This works great for me with no noticeable side effects. I have suffered from sinus issues for years, requiring major nasal surgery and repeat polyp removal procedures. Taking this daily, I no longer get terrible sneezing and all-day runny nose issues which I suspect had caused my previous issues.",
+                        "Use this for my hives which popped up some years ago. I only have to take this every other day which I really appreciate. Plus I can always get this here usually within a day when other places are sold out"
+                    ],
+                    "negative_reviews": [
+                        "The first bottle I received during a promotion had a broken seal so I threw it away. I couldn't get a replacement so I ordered another at a higher price and it made my 3.5 year old sick. I had read such great things about this for toddler allergies but I'm very disappointed.",
+                        "This company has gotten rid of the only flavor allergy medication my kid would drink. Now I need to find something new since everything else offered is disgusting.",
+                        "We where told to purchase this from our veterinarian; while I wish it worked on him there was no change. We went back to using the other allergy meds. They could work better for others as everyone is different on medications.",
+                        "Xyzal has been a lifesaver during allergy season. Iâve tried multiple over-the-counter allergy meds, and this one really stands outâespecially for consistent, 24-hour relief without feeling groggy during the day. â What I Like: Fast-acting â I usually feel relief within an hour, especially for sneezing, itchy eyes, and congestion. Long-lasting â Truly holds up for a full 24 hours. I take one before bed and wake up clear. Non-drowsy during the day â No sluggishness or foggy brain, unlike some other antihistamines. Great for nightly use â Helps with nighttime allergies so I can sleep better. â ï¸ A Few Notes: May cause drowsiness for some â Itâs marketed as less drowsy, but if you're sensitive, take it at night (which actually works out well). Price varies â It can be a little pricey compared to some generics, but itâs worth it for reliable relief. If you suffer from seasonal allergies or indoor allergens (like dust or pet dander), Xyzal is definitely worth trying. Itâs powerful, lasts all day, and helps you stay focused and comfortable without constant sneezing or itchy eyes.",
+                        "Xyzal offers solid 24-hour relief, especially if you suffer from seasonal or pet allergies. I take it at night, as it can make me slightly drowsy â but thatâs actually a plus because I wake up without stuffiness or itchy eyes. Itâs comparable to Zyrtec in effectiveness but generally costs more, so I only buy it when itâs on sale or when Iâm dealing with heavier allergy days. Note: Not non-drowsy, so plan accordingly."
+                    ]
+                }
+            },
+            {
+                "period": "2025-09",
+                "reviews": 20,
+                "average_rating": 4.65,
+                "average_sentiment": 0.912,
+                "cluster_distribution": {
+                    "6": 0.4,
+                    "2": 0.3,
+                    "0": 0.2,
+                    "4": 0.05,
+                    "1": 0.05
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I was having trouble with my allergies and a nurse told me that Allegra and Claritin are for indoor allergies and Xyzol is outdoor allergies. So I switched no more problems",
+                        "Works for me... Somewhat. We have a dog that sheds a lot, and I'm allergic to him. We have air scrubbers everywhere which helps, but this takes up the rest usually. It's a very small tablet, there's 60 in my package. It's a better price for this than my usual. They taste terrible, I try to swallow it whole. Good quality tablet, travels well.",
+                        "I need to rotate different allergy pills, It just seems that my body becomes use to the pills. These pills worked longer for me and I have purchased another box.",
+                        "Strange, but the pills I bought recently are not helping my allergies. The ones I bought before worked fine. Not sure if i got a bad batch or something else changed."
+                    ],
+                    "negative_reviews": [
+                        "Strange, but the pills I bought recently are not helping my allergies. The ones I bought before worked fine. Not sure if i got a bad batch or something else changed.",
+                        "I need to rotate different allergy pills, It just seems that my body becomes use to the pills. These pills worked longer for me and I have purchased another box.",
+                        "I was having trouble with my allergies and a nurse told me that Allegra and Claritin are for indoor allergies and Xyzol is outdoor allergies. So I switched no more problems",
+                        "Works for me... Somewhat. We have a dog that sheds a lot, and I'm allergic to him. We have air scrubbers everywhere which helps, but this takes up the rest usually. It's a very small tablet, there's 60 in my package. It's a better price for this than my usual. They taste terrible, I try to swallow it whole. Good quality tablet, travels well."
+                    ]
+                }
+            },
+            {
+                "period": "2025-10",
+                "reviews": 64,
+                "average_rating": 3.953,
+                "average_sentiment": 0.738,
+                "cluster_distribution": {
+                    "6": 0.562,
+                    "0": 0.25,
+                    "5": 0.094,
+                    "3": 0.047,
+                    "2": 0.031,
+                    "1": 0.016
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "My daughter has been experiencing bad allergy this time of the year, and this is the only brand that helped her stop sneezing. Quality is great, does not make your kids sleepy, it smells wonderful, it tastes wonderful, and itâs so worth your money. It doesnât help with the full 24 hours, by bed time she will start sneezing again, but I do recommend to just take it around noon and then itâll help âall dayâ.",
+                        "If you have awful allergies and you take other meds for too long your body can build up an emmunity to it. You're supposed to cycle different meds. I had never heard of xyzal but I allergist told me to switch and it's awesome!!! It doesn't dry you out like others. It doesn't keep you awake or make you drowsy. It's fantastic and depending on the month it's better prices here than other retailers.",
+                        "Wow! I have bad sinuses and, then, I started breaking out in hives. I dealt with a bad sinuses for years and started taking this medication for the hives. It deals with both splendidly. I wish I came across this medication years ago.",
+                        "as the title says. xyzal is EXPENSIVE!!!! for what reason? idk. but this was a good way cheaper alternative (yes ik what bezos is doing!! but i cant afford the alternative) box came demolished but idc. it does what it's supposed to.",
+                        "Great price on a great product! This allergy medicine is recommended by our allergist for our 5 year old. She likes the taste and takes it with no issues. It is highly effective in managing her allergy symptoms."
+                    ],
+                    "negative_reviews": [
+                        "I've tried every single allergy medicine on the market. None work for me, but some give me side effects. This makes me sleepy yet still stuffy, sneezy, and watery eyed.",
+                        "Took this daily for about a month and didn't do much to relief my symptoms. Ended up buying Kroger Brand Allergy relief pills and they worked better than these.",
+                        "Had to put a star but is not worth it Item was open box and the seal of the bottle been broken this is a kids product..",
+                        "Do not use if you have kidney disease!. It does say on the warning label on the back of the package but not in the description.",
+                        "Maybe working? I am waking up a bit less âphlegmyâ sometimes, but not noticing a big difference. Planning to take a month off to compare. It is pretty pricey to take nightly if there are no noticeable benefits."
+                    ]
+                }
+            },
+            {
+                "period": "2025-11",
+                "reviews": 59,
+                "average_rating": 4.559,
+                "average_sentiment": 0.89,
+                "cluster_distribution": {
+                    "6": 0.407,
+                    "0": 0.339,
+                    "3": 0.186,
+                    "5": 0.034,
+                    "7": 0.017,
+                    "2": 0.017
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I have terrible allergies. I take one of these every night before bed. When it is not an active allergy season, I take a half. I like that they are easy to bite in half on these nights. The price is amazing for what you get, especially compared to other allergy medicine!",
+                        "My daughter had allergy testing recently and the allergist recommended we switch from the Costco brand to Xyzal. He said it is way more effective for outdoor allergens and she loves how small they are and how she hasnt had any allergy problem since starting this medication.",
+                        "Fantastic OTC allergy meds. This helped tremendous when I was visiting friends who own cats. I usually use Allegra but these work faster. It is a very small pill ad easy to swallow. It also works for 24 hours making my life easier.",
+                        "We've tried other allergy medicine (green bottle, blue bottle, pink bottle... not to name any names) This works the best of all of them. No drowsiness and lasts all day.",
+                        "Why did you pick this product vs others?: Iâve tried many types of allergy pills and this one works best. I was able to sleep all night with minor drainage"
+                    ],
+                    "negative_reviews": [
+                        "I was so excited to try this - based on comparisons to other antihistamines - that I neglected reading the inactive ingredients. We won't use this due to parabens.",
+                        "This product actually works. Not sure of their competitors, or if a generic brand would work just as good, but I know this one does. That being said, two major cons, which the first one being my fault for not looking closely to the count, yet it was a marketing scam based on language used. 1.) this is not an actual 2-pack, since the assumption when you see \"two-pack\" is that they are equal parts (counts) but this one was not. 2.) This is super expensive and unnecessarily so, but many other brands are also very expensive. I would suggest going generic first and if it does not work, try this or a different brand that doesn't rip you off and claim a \"2-pack\" you simply get a second smaller box. I was searching their other 2-packs which were actually 110 pills (also a rip-off, but not that much), but this box just came with a second slightly smaller box you have to look out for, with empty plastic tabs instead of holding pills on a good potion of them just to give you less. Seems to be a waste of space, plastic and a box this size for 20 micro-pills.",
+                        "We where told to purchase this from our veterinarian; while I wish it worked on him there was no change. We went back to using the other allergy meds. They could work better for others as everyone is different on medications.",
+                        "I have terrible allergies. I take one of these every night before bed. When it is not an active allergy season, I take a half. I like that they are easy to bite in half on these nights. The price is amazing for what you get, especially compared to other allergy medicine!",
+                        "My daughter had allergy testing recently and the allergist recommended we switch from the Costco brand to Xyzal. He said it is way more effective for outdoor allergens and she loves how small they are and how she hasnt had any allergy problem since starting this medication."
+                    ]
+                }
+            },
+            {
+                "period": "2025-12",
+                "reviews": 34,
+                "average_rating": 4.588,
+                "average_sentiment": 0.897,
+                "cluster_distribution": {
+                    "6": 0.441,
+                    "2": 0.176,
+                    "3": 0.176,
+                    "0": 0.118,
+                    "7": 0.029,
+                    "4": 0.029,
+                    "5": 0.029
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "This is by far the best antihistamine on the market (so far). Works like a charm. It was recommended by my PCP and Iâm so glad I purchased it. It works faster than competitors. And Iâm allergic to just about every kind of pollen.",
+                        "We take this allergy medicine when we can't get a hold of our prescription levocetirizine right away. It's the same thing. My kids prefer the grape flavor over bubble gum.",
+                        "Bottom line? Nothing lasts for 24 hours it seems. How do I know this? If it did, why would my doctor prescribe a 2nd allergy med to be taken 12 hours later? Perhaps it's just me, but I have yet to find any 24 hour medication to actually last more the 6 hours. That's why I stay with the 4-6 hour allergy meds. This way, when they stop working, I can take the next dose. It's great for a short time.",
+                        "This is a must-have on my Subscribe & Save list. Iâm usually stubborn about taking medicine, but Xyzal truly works for me. Since taking it daily, my sinus pressure headaches and sinus infections have significantly decreased. The 80-count bottle is a great value and lasts close to three months, so I donât have to repurchase as often as the lesser quantity bottles I typically find in pharmacies.",
+                        "It wasnât until 5 days after delivery and taking this in the mornings that while listening to a news report found out this stuff makes you drowsy. Came back to the info here to confirm it. Which explains why Iâm tired today and not getting going with chores. What a waste of money"
+                    ],
+                    "negative_reviews": [
+                        "It wasnât until 5 days after delivery and taking this in the mornings that while listening to a news report found out this stuff makes you drowsy. Came back to the info here to confirm it. Which explains why Iâm tired today and not getting going with chores. What a waste of money",
+                        "The marketing is deceptive, I thought I was getting a two pack of 55 pill bottles, instead I got one and a couple of these dumb punch out tablet packs, at least could have been a bottle.",
+                        "Bottom line? Nothing lasts for 24 hours it seems. How do I know this? If it did, why would my doctor prescribe a 2nd allergy med to be taken 12 hours later? Perhaps it's just me, but I have yet to find any 24 hour medication to actually last more the 6 hours. That's why I stay with the 4-6 hour allergy meds. This way, when they stop working, I can take the next dose. It's great for a short time.",
+                        "This is a must-have on my Subscribe & Save list. Iâm usually stubborn about taking medicine, but Xyzal truly works for me. Since taking it daily, my sinus pressure headaches and sinus infections have significantly decreased. The 80-count bottle is a great value and lasts close to three months, so I donât have to repurchase as often as the lesser quantity bottles I typically find in pharmacies.",
+                        "This is by far the best antihistamine on the market (so far). Works like a charm. It was recommended by my PCP and Iâm so glad I purchased it. It works faster than competitors. And Iâm allergic to just about every kind of pollen."
+                    ]
+                }
+            },
+            {
+                "period": "2026-01",
+                "reviews": 30,
+                "average_rating": 4.833,
+                "average_sentiment": 0.958,
+                "cluster_distribution": {
+                    "6": 0.667,
+                    "0": 0.3,
+                    "2": 0.033
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Excellent product works very well for me, I have allergies all year round and I have to take these easy to swallow. Will definitely order again.",
+                        "This works great! We have seen complete results with this product where we did not with the other well-known name brands!",
+                        "name brand medicine as advertised- easier to order it than try to find it in a brick and mortar store",
+                        "Had horrible reaction to this. Was using everyday for 2 months, panic attacks during my sleep. Depression, which Iâve never had before, and in a brain fog during the day. Switched back to Claritin after this. Will never take again."
+                    ],
+                    "negative_reviews": [
+                        "Had horrible reaction to this. Was using everyday for 2 months, panic attacks during my sleep. Depression, which Iâve never had before, and in a brain fog during the day. Switched back to Claritin after this. Will never take again.",
+                        "Excellent product works very well for me, I have allergies all year round and I have to take these easy to swallow. Will definitely order again.",
+                        "This works great! We have seen complete results with this product where we did not with the other well-known name brands!",
+                        "name brand medicine as advertised- easier to order it than try to find it in a brick and mortar store"
+                    ]
+                }
+            },
+            {
+                "period": "2026-02",
+                "reviews": 22,
+                "average_rating": 4.818,
+                "average_sentiment": 0.955,
+                "cluster_distribution": {
+                    "6": 0.682,
+                    "0": 0.227,
+                    "5": 0.091
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I took Zyrtec (cetirizine hydrochloride) for years but started having issues where it would really dry me out. Eyes, nose, mouth, everything just got really dry and my doctor said it was because that is one of the known side effects of Zyrtec. He recommended I try Xyzal, which is very similar (very effective allergy relief) but with less side effects. I'm glad I made the switch because Xyzal doesn't try me out nearly as much as Zyrtec did. This liquid form is a little more fun than the pills and easier for kids to take if they don't like swallowing pills. The smell and flavor are great - bubblegum! It doesn't have a strong medicinal taste and instead tastes to me at least like liquid candy. Since it's liquid, you can easily adjust your dosage for a child or for an adult simply by taking more or less of the liquid. I appreciate that this is a name brand product, so I trust the quality more than a generic knock-off. I believe this is a good product if you have allergies, and I can easily recommend it.",
+                        "Good second gen antihistamine to have on hand if you donât want your kids to be âtoo drowsyâ compared with Zyrtec (cetirizine). As a pharmacist, I keep this as an alternative to Benadryl in our medicine drawer. Youâll still want to dose this at night for the kiddos preferably at bedtime. I picked this up in preparation for spring. The bottle came with an expiration date of 5/27 (5/31/2027 to be exact) Be sure to check the expiration date on these types of products when ordering from Amazon. Follow the drug facts for more additional info. Pros + great taste per kiddos + good value + equally effective when compared with other antihistamines (imho) + less sedating when compared to Zyrtec. Xyzal is an R-enantiomer Cons - brand price compared to generic - will have to be doses in the evening - check expiration date. Amazon OTC products sometime contains short expiration (< 6 months)",
+                        "Great brand for treating seasonal allergies. I hadn't realized they made one for kids, so this was a nice surprise to see. I love that it's a liquid form, as kids tend to take medicine in liquid form much easier than chewables. The fact that it's bubble gum flavor is another win. It's not quite allergy season yet, but I know it will be here soon, so I'm ready when allergies flare up (probably in another month as things start to melt and thaw outside) This is a much larger bottle than I anticipated, so it feels like a great value. It says it's for ages 2 and over, but there's also dosing for adults, starting with a double dose of what's recommended for kids (up to 4x the dose for kids). I love the fact that it's one dose that lasts 24 hours and it's free of alcohol, sugars and dyes.",
+                        "Really rely on this allergy medicine, seems to really block out things I'm allergic to. Great and easy way to get when needed.",
+                        "I was really surprised at how large the bottle was! You get a decent amount for the price you pay. It was recommended that my son start taking a daily OTC allergy medicine to combat his seasonal allergies. We decided to try this bran out because I had a positive experience using the nasal spray. While my son doesn't favor chewable tablets (says they are too chalky) he liked taking this liquid version best. The flavor is bubble gum and has the smell of bubble gum, too. My son took it without any issues and said it was good. I give it to him daily in the evening (per directions on box) using the plastic measuring cup that comes with the allergy medicine. As for the effectiveness, it appears to be helping, even with green pollen in the air (and all of my car). If your child doesn't like chewable tablets or you struggle finding a flavor he/she will actually like, try Xyzal. It's fairly priced, larger bottle, easy to dose and move on with your day. Oh! The only thing that frustrated me with this bottle was when you are trying to open it! I was pressing down really hard on the cap and twisting with no luck of it opening. It took a few tries and when you finally get it open, there's one of those pull tab seals that was also a pain to get off! I ended up using a knife to pierce it and then rip the rest off."
+                    ],
+                    "negative_reviews": [
+                        "Seem to work but nothing totally works for my sinus headaches and runny nose that is constantly either stuffed up or runny â¦ it can be hours so stuffed I can breath at all through my nose but with the pills itâs atleast allowing me to breath but then it can become runny if it gets too loose with the congestion . The only reason I canât find anything I can give 5 stars -itâs expensive but they all are but a value if it helps you medically it a value for your money. It last atleast 12 hours or more",
+                        "Does it make the kiddo sleepy and stop the sneezing congestion and itchy eyes. yesâ¦but maybe itâs just my kid. His stomach must be really sensitive to antihistamines he always gets an upset stomach even with Zyrtec.. but it definitely works with the allergies! If you donât have a tot with tummy issues and GERD like mines this would probably be a great fit!",
+                        "I took Zyrtec (cetirizine hydrochloride) for years but started having issues where it would really dry me out. Eyes, nose, mouth, everything just got really dry and my doctor said it was because that is one of the known side effects of Zyrtec. He recommended I try Xyzal, which is very similar (very effective allergy relief) but with less side effects. I'm glad I made the switch because Xyzal doesn't try me out nearly as much as Zyrtec did. This liquid form is a little more fun than the pills and easier for kids to take if they don't like swallowing pills. The smell and flavor are great - bubblegum! It doesn't have a strong medicinal taste and instead tastes to me at least like liquid candy. Since it's liquid, you can easily adjust your dosage for a child or for an adult simply by taking more or less of the liquid. I appreciate that this is a name brand product, so I trust the quality more than a generic knock-off. I believe this is a good product if you have allergies, and I can easily recommend it.",
+                        "Good second gen antihistamine to have on hand if you donât want your kids to be âtoo drowsyâ compared with Zyrtec (cetirizine). As a pharmacist, I keep this as an alternative to Benadryl in our medicine drawer. Youâll still want to dose this at night for the kiddos preferably at bedtime. I picked this up in preparation for spring. The bottle came with an expiration date of 5/27 (5/31/2027 to be exact) Be sure to check the expiration date on these types of products when ordering from Amazon. Follow the drug facts for more additional info. Pros + great taste per kiddos + good value + equally effective when compared with other antihistamines (imho) + less sedating when compared to Zyrtec. Xyzal is an R-enantiomer Cons - brand price compared to generic - will have to be doses in the evening - check expiration date. Amazon OTC products sometime contains short expiration (< 6 months)",
+                        "Great brand for treating seasonal allergies. I hadn't realized they made one for kids, so this was a nice surprise to see. I love that it's a liquid form, as kids tend to take medicine in liquid form much easier than chewables. The fact that it's bubble gum flavor is another win. It's not quite allergy season yet, but I know it will be here soon, so I'm ready when allergies flare up (probably in another month as things start to melt and thaw outside) This is a much larger bottle than I anticipated, so it feels like a great value. It says it's for ages 2 and over, but there's also dosing for adults, starting with a double dose of what's recommended for kids (up to 4x the dose for kids). I love the fact that it's one dose that lasts 24 hours and it's free of alcohol, sugars and dyes."
+                    ]
+                }
+            },
+            {
+                "period": "2026-03",
+                "reviews": 24,
+                "average_rating": 4.917,
+                "average_sentiment": 0.979,
+                "cluster_distribution": {
+                    "6": 0.583,
+                    "0": 0.333,
+                    "2": 0.042,
+                    "3": 0.042
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Transitioned my son from Zyrtec to Xyzal. According the pharmacist Zyrtec and Xyzal have similar ingredients. Zyrtec is effective during the day which Xyzal is effective at night. Our son was experiencing his allergies more during the evening and overnight, and is why we made the switch. We give it to our son through Gtube so we can't comment on taste. From research Tuiti Fruity was the best flavor, but I can't find it anywhere available. It smells similar to Zyrtec even. Our son has slept better through the night after making the change, and is ready to go for his day.",
+                        "If you have to take allergy meds everyday as I do, then you know you can get amune to them and need to change every few months so I alternate between xyzal and zyrtec. I think the xyzal works better for me because I used zyrtec for years. Claritin and allegra do not work at all for me. Make sure you take it at night before bedtime! It helps me to sleep while other products keep ne awake.",
+                        "Keeps the allergic reaction low so my kid can enjoy outside without having to come inside to rest so often or when faucet/bath water is not fully cleaned it helps the skin irritation not so itchy and with a filter it works wonders to stop it completely",
+                        "I take it everyday before I go to bed; of course, recommended by my doctor. Itâs effective and no side effects",
+                        "Itâs nice and extra small to swallow easily. I haven't been on it long enough to see if it is working."
+                    ],
+                    "negative_reviews": [
+                        "Itâs nice and extra small to swallow easily. I haven't been on it long enough to see if it is working.",
+                        "Transitioned my son from Zyrtec to Xyzal. According the pharmacist Zyrtec and Xyzal have similar ingredients. Zyrtec is effective during the day which Xyzal is effective at night. Our son was experiencing his allergies more during the evening and overnight, and is why we made the switch. We give it to our son through Gtube so we can't comment on taste. From research Tuiti Fruity was the best flavor, but I can't find it anywhere available. It smells similar to Zyrtec even. Our son has slept better through the night after making the change, and is ready to go for his day.",
+                        "If you have to take allergy meds everyday as I do, then you know you can get amune to them and need to change every few months so I alternate between xyzal and zyrtec. I think the xyzal works better for me because I used zyrtec for years. Claritin and allegra do not work at all for me. Make sure you take it at night before bedtime! It helps me to sleep while other products keep ne awake.",
+                        "Keeps the allergic reaction low so my kid can enjoy outside without having to come inside to rest so often or when faucet/bath water is not fully cleaned it helps the skin irritation not so itchy and with a filter it works wonders to stop it completely",
+                        "I take it everyday before I go to bed; of course, recommended by my doctor. Itâs effective and no side effects"
+                    ]
+                }
+            },
+            {
+                "period": "2026-04",
+                "reviews": 59,
+                "average_rating": 4.915,
+                "average_sentiment": 0.979,
+                "cluster_distribution": {
+                    "6": 0.61,
+                    "0": 0.356,
+                    "8": 0.017,
+                    "3": 0.017
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I have pretty much year round allergies, but in the spring and fall they are off the scale. I use a couple other anti-histamines as well since the body seems to build up a resistance to one when using often. So, I've found switching off makes a difference. I love Xyzal and it is one of my primary go-too's. The pill is small and easily swallowed and tasteless. It works very quickly and is effective 24 hours. And I haven't had any issues with drowsiness. And best of all it is a great value in this large size.",
+                        "Xyzal is the only allergy medicine that truly helps my son. You can immediately tell the difference between days he takes it and days he doesnâtâless sneezing, itching, and watery eyes. Itâs reliable, fast-acting, and has become a must-have in our household during allergy season. Highly recommend for anyone struggling to find an effective allergy solution for their child!",
+                        "Thank goodness for Xyzal, this Spring is going to be a rough one for allergy sufferers like myself, if this early warm streak is any indication. This is the only thing that is effective for me, it lets me breathe all day and get a great nightâs sleep. The price is easy on my budget as well.",
+                        "Our eight year old struggles with terrible allergies in TN, and this one is the only one that works! It's very inexpensive than the other large brands and keeps his symptoms at bay. It causes drowsiness and is only taken once daily, so great for bedtime (especially if your little has a hard time settling down).",
+                        "I've tried other OTC allergy meds and none worked for me--either did not address any of the symptoms of runny nose, itchy eyes, scratchy throat-- or made me loopy or tired. This one, in combo with P*****y eye drops, eases symptoms considerably without any side effects."
+                    ],
+                    "negative_reviews": [
+                        "This is one of the best medicine I have taken for my sinuses. Within hours I was relieved of congestion and cough due to sinus issues. A little pricy but itâs worth it . Give it a try",
+                        "I have pretty much year round allergies, but in the spring and fall they are off the scale. I use a couple other anti-histamines as well since the body seems to build up a resistance to one when using often. So, I've found switching off makes a difference. I love Xyzal and it is one of my primary go-too's. The pill is small and easily swallowed and tasteless. It works very quickly and is effective 24 hours. And I haven't had any issues with drowsiness. And best of all it is a great value in this large size.",
+                        "Xyzal is the only allergy medicine that truly helps my son. You can immediately tell the difference between days he takes it and days he doesnâtâless sneezing, itching, and watery eyes. Itâs reliable, fast-acting, and has become a must-have in our household during allergy season. Highly recommend for anyone struggling to find an effective allergy solution for their child!",
+                        "Thank goodness for Xyzal, this Spring is going to be a rough one for allergy sufferers like myself, if this early warm streak is any indication. This is the only thing that is effective for me, it lets me breathe all day and get a great nightâs sleep. The price is easy on my budget as well.",
+                        "Our eight year old struggles with terrible allergies in TN, and this one is the only one that works! It's very inexpensive than the other large brands and keeps his symptoms at bay. It causes drowsiness and is only taken once daily, so great for bedtime (especially if your little has a hard time settling down)."
+                    ]
+                }
+            },
+            {
+                "period": "2026-05",
+                "reviews": 45,
+                "average_rating": 4.867,
+                "average_sentiment": 0.967,
+                "cluster_distribution": {
+                    "6": 0.622,
+                    "0": 0.267,
+                    "3": 0.067,
+                    "2": 0.044
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "In my opinion this is the best allergy med out there. Take it at night and youâll breathe all day. Take it in the morning and youâll sleep all day! I wish I was kidding but for me it will make me super drowsy if I donât take it before bed. However when used as directed (it literally says take at night on the bottle) I donât wake up tired or drowsy. Small pill and easy to swallow, no taste. They are pricy compared to other allergy meds but those have all made me drowsy so itâs definitely worth paying up to be able to breathe. I have lots of animals but keep a clean house with air filters and purifiers I just canât escape the pollen and dander. This is all that works!",
+                        "Xyzal Childrenâs 24 Hour Allergy Relief works great for keeping allergy symptoms under control throughout the day and night. It helped with sneezing, itchy eyes, and runny nose without causing excessive drowsiness. The medicine is easy to give, and the flavor is kid-friendly, which makes a big difference for picky children. I also like that one dose lasts a full 24 hours, making allergy season much easier to manage. Definitely a reliable option for parents looking for dependable allergy relief for their kids.",
+                        "Ive tried all allergy meds. I literally break out from taking a bath or shower. My husband was the one that figured out it could be an allergy. I had tried other meds but nothing helped. However, if I take one of these half an hour prior to the bath or water I end up not breaking out or hurting, so glad we found this brand. I tell people about it every time I hear the word allergies now!!",
+                        "Great allergy medicine and very effective! Xyzal works quickly for my seasonal allergies and helps relieve sneezing, itchy eyes, and runny nose without making me too drowsy. The delivery was also extremely fast, which I really appreciated because I needed it right away. Everything arrived well packaged and on time. Very satisfied with both the product and the service!",
+                        "Drowsiness..although I am not complaining! I finally am falling asleep in less than a hour, and staying asleep!! (Been over 10 years since I have slept well!) Not to mentionâ¦I Feel Great for the First time in YEARS every AM! GRATEFUL"
+                    ],
+                    "negative_reviews": [
+                        "Es muy bueno, pero para mi hija le funciona darlo en tarde ya que en el dÃ­a le producÃ­a mucho sueÃ±o en la escuela",
+                        "In my opinion this is the best allergy med out there. Take it at night and youâll breathe all day. Take it in the morning and youâll sleep all day! I wish I was kidding but for me it will make me super drowsy if I donât take it before bed. However when used as directed (it literally says take at night on the bottle) I donât wake up tired or drowsy. Small pill and easy to swallow, no taste. They are pricy compared to other allergy meds but those have all made me drowsy so itâs definitely worth paying up to be able to breathe. I have lots of animals but keep a clean house with air filters and purifiers I just canât escape the pollen and dander. This is all that works!",
+                        "Xyzal Childrenâs 24 Hour Allergy Relief works great for keeping allergy symptoms under control throughout the day and night. It helped with sneezing, itchy eyes, and runny nose without causing excessive drowsiness. The medicine is easy to give, and the flavor is kid-friendly, which makes a big difference for picky children. I also like that one dose lasts a full 24 hours, making allergy season much easier to manage. Definitely a reliable option for parents looking for dependable allergy relief for their kids.",
+                        "Ive tried all allergy meds. I literally break out from taking a bath or shower. My husband was the one that figured out it could be an allergy. I had tried other meds but nothing helped. However, if I take one of these half an hour prior to the bath or water I end up not breaking out or hurting, so glad we found this brand. I tell people about it every time I hear the word allergies now!!",
+                        "Great allergy medicine and very effective! Xyzal works quickly for my seasonal allergies and helps relieve sneezing, itchy eyes, and runny nose without making me too drowsy. The delivery was also extremely fast, which I really appreciated because I needed it right away. Everything arrived well packaged and on time. Very satisfied with both the product and the service!"
+                    ]
+                }
+            },
+            {
+                "period": "2026-06",
+                "reviews": 41,
+                "average_rating": 4.951,
+                "average_sentiment": 0.988,
+                "cluster_distribution": {
+                    "6": 0.634,
+                    "0": 0.341,
+                    "2": 0.024
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "In my opinion this is the best allergy med out there. Take it at night and youâll breathe all day. Take it in the morning and youâll sleep all day! I wish I was kidding but for me it will make me super drowsy if I donât take it before bed. However when used as directed (it literally says take at night on the bottle) I donât wake up tired or drowsy. Small pill and easy to swallow, no taste. They are pricy compared to other allergy meds but those have all made me drowsy so itâs definitely worth paying up to be able to breathe. I have lots of animals but keep a clean house with air filters and purifiers I just canât escape the pollen and dander. This is all that works!",
+                        "I have pretty much year round allergies, but in the spring and fall they are off the scale. I use a couple other anti-histamines as well since the body seems to build up a resistance to one when using often. So, I've found switching off makes a difference. I love Xyzal and it is one of my primary go-too's. The pill is small and easily swallowed and tasteless. It works very quickly and is effective 24 hours. And I haven't had any issues with drowsiness. And best of all it is a great value in this large size.",
+                        "Ive tried all allergy meds. I literally break out from taking a bath or shower. My husband was the one that figured out it could be an allergy. I had tried other meds but nothing helped. However, if I take one of these half an hour prior to the bath or water I end up not breaking out or hurting, so glad we found this brand. I tell people about it every time I hear the word allergies now!!",
+                        "Transitioned my daughter from Zyrtec to xyzal and have seen a drastic improvement in her symptoms. I give her a full dose at night, she sleeps great, allergy symptoms managed for a full 24 hours. No side effects. She says it tastes like watered down bubble gum so itâs tolerable lol. Great value, especially when Amazon has promotional pricing! Super easy and effective! This is now a part of our bedtime and allergy relief routine!",
+                        "This has been the allergy medicine that works best for my kids, especially during allergy season here in Northern California. Itâs also my favorite allergy medication as an adult. I find it effective without making me as drowsy as some adult allergy pills. It helps relieve our symptoms quickly, and itâs become a staple in our household. I will definitely continue to purchase it."
+                    ],
+                    "negative_reviews": [
+                        "This is one of the best medicine I have taken for my sinuses. Within hours I was relieved of congestion and cough due to sinus issues. A little pricy but itâs worth it . Give it a try",
+                        "In my opinion this is the best allergy med out there. Take it at night and youâll breathe all day. Take it in the morning and youâll sleep all day! I wish I was kidding but for me it will make me super drowsy if I donât take it before bed. However when used as directed (it literally says take at night on the bottle) I donât wake up tired or drowsy. Small pill and easy to swallow, no taste. They are pricy compared to other allergy meds but those have all made me drowsy so itâs definitely worth paying up to be able to breathe. I have lots of animals but keep a clean house with air filters and purifiers I just canât escape the pollen and dander. This is all that works!",
+                        "I have pretty much year round allergies, but in the spring and fall they are off the scale. I use a couple other anti-histamines as well since the body seems to build up a resistance to one when using often. So, I've found switching off makes a difference. I love Xyzal and it is one of my primary go-too's. The pill is small and easily swallowed and tasteless. It works very quickly and is effective 24 hours. And I haven't had any issues with drowsiness. And best of all it is a great value in this large size.",
+                        "Ive tried all allergy meds. I literally break out from taking a bath or shower. My husband was the one that figured out it could be an allergy. I had tried other meds but nothing helped. However, if I take one of these half an hour prior to the bath or water I end up not breaking out or hurting, so glad we found this brand. I tell people about it every time I hear the word allergies now!!",
+                        "Transitioned my daughter from Zyrtec to xyzal and have seen a drastic improvement in her symptoms. I give her a full dose at night, she sleeps great, allergy symptoms managed for a full 24 hours. No side effects. She says it tastes like watered down bubble gum so itâs tolerable lol. Great value, especially when Amazon has promotional pricing! Super easy and effective! This is now a part of our bedtime and allergy relief routine!"
+                    ]
+                }
+            },
+            {
+                "period": "2026-07",
+                "reviews": 34,
+                "average_rating": 4.941,
+                "average_sentiment": 0.985,
+                "cluster_distribution": {
+                    "6": 0.706,
+                    "0": 0.176,
+                    "3": 0.088,
+                    "5": 0.029
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I was not aware of Levocetirizine Dihydorchloride antihistamine until this product was offered to me and I tried it. Very impressed. It provides the positives of other antihistamines without the negatives. It reduced the post nasal drip that stays with me nearly all the time (likely caused by mild allergies) without increasing my heart rate or making me feel thirsty like other antihistamines do. I am assuming, though I have not investigated it, that the fact it promoted as being for children may also indicate it is milder. I stick to a 5 mil dose. I am old enough to take the 10 mil dose and that might eliminate, not just reduce, allergy symptoms but I like keeping the use of medications to a minimum. In fact, I don't take this every night. Just nights when I know I will be interacting with people alot the next day or singing at worship services. Sounding stuffed up is not a good thing for either of those activities. Note that the 5 mil dose does make me a little sleepy - I take it before bed around 10 pm - but by the next morning I feel no drowsiness and it stays effective for me until around 6 pm. BTW - it really does take like bubble gum! Always makes me want some after after I take it.",
+                        "I ordered Xyzal Childrenâs 24 Hour Allergy Relief (levocetirizine liquid) mainly because allergy season has been hitting hard, and I wanted something that would actually last through the day instead of wearing off halfway through my workweek (especially as it's springtime allergy season with all the pollen when writing this review). Overall, Iâve been really impressed with how well this works. The biggest standout is the true 24-hour coverage. A lot of kidsâ allergy medicines say they last all day, but you still end up seeing symptoms creep back in by the afternoon. With this, once itâs taken, it holds steady throughout the day and into the evening. Itâs been especially helpful for things like sneezing, runny nose, and that constant itchy feeling that isn't fun during allergy season. The bubble gum flavor is better than I expected. Itâs not perfect (it is still medicine), but it helps especially if your child is picky about taste. The liquid format is convenient too. The bottle size (10 oz) lasts a decent amount of time depending on how often youâre using it. If I had to nitpick, the price can be a little higher compared to some basic allergy meds, but in my opinion, itâs justified by how consistently it works.",
+                        "I've suffered from horrible allergies for years. I've tried Benadryl, Claritin, and Zyrtec, local honey, singing nettles, Allergena (zone 9), etc. and they have all helped to an extent, but none as much as Xyzal. Normally, allergies cause my body to produce an endless steam of mucus, often causing coughing fits and allergy induced asthmatic attacks. All of the allergy products I've tried either don't work well enough, don't work long enough, cause excessive drowsiness, don't work as long as advertised, it don't work for all of my allergens. I have plenty of environmental allergies and am also allergic to dogs, cats, and guinea pigs. Working at an animal hospital 40+ hours a week, and then coming home to my own pets, I rarely, if ever, get any relief. Xyzal provides me about 22-23 hours of allergy relief, including from my own pets. At about 30-40 cents per pill, I find it to be a much more affordable option than many other options on the market, as well. Honestly, my only complaint is the fact that the packaging is excessive, wasteful, and a little bit difficult to open.",
+                        "Antihistamines are a strange grouping of medications. Some will work well and help you breathe or stop watery eyes. Others will help with one problem and not help with another, while other meds seem to be placebos and do nothing.. I have four the Zyrtec does actually help me and clears my stuffy nose. The bottle says the potency is enough for 24 hours, but donât believe it . In my case it seems to work for about 10 hours and thatâs it! Some people may find the effectiveness is good for 24 hours. That is why writing a review on a medication is almost impossible. Everyone reacts differently to the same medication. I do find that when I take the Xyzal, it does lsdt a while and does indeed help Unclog my nose and help a little bit with tearing of the eyes. All I can say is purchase a small bottle to determine how it works for you. If it accomplishes what you want, you can purchase a larger bottle,",
+                        "This allergy medicine has worked really well for my child during allergy season. When the sneezing, runny nose, and watery eyes start up, this helps calm things down pretty quickly and keeps symptoms under control through the day and night. Itâs nice not having to keep giving multiple doses because one dose lasts a full day. One thing I really appreciate is the bubble gum flavor. Getting kids to take medicine can be a battle, but this one hasnât been a problem at all. My child doesnât fight it, which makes allergy days a lot less stressful. The liquid is easy to measure out and the bottle lasts a good while depending on how often you need it. We keep it in the cabinet and reach for it whenever allergies flare up. This has been one of the allergy medicines that actually makes a noticeable difference for us. It helps my child stay comfortable so they can still play and sleep without constantly dealing with allergy symptoms."
+                    ],
+                    "negative_reviews": [
+                        "Many allergy sufferers find that you have to change up your allergy Meds every year, as they stop working after a while. Well, unfortunately Xyzal is no different, in that it too has to be changed or rotated out as it too becomes completely ineffective. Add to that frustration, the high price per dose. Amazon is about the best place to find it, but still not nearly as cheap as the old standby,(with drowsiness as an unavoidable side effect.) Benadryl. So try it and enjoy it, but don't plan on that working forever.",
+                        "I was not aware of Levocetirizine Dihydorchloride antihistamine until this product was offered to me and I tried it. Very impressed. It provides the positives of other antihistamines without the negatives. It reduced the post nasal drip that stays with me nearly all the time (likely caused by mild allergies) without increasing my heart rate or making me feel thirsty like other antihistamines do. I am assuming, though I have not investigated it, that the fact it promoted as being for children may also indicate it is milder. I stick to a 5 mil dose. I am old enough to take the 10 mil dose and that might eliminate, not just reduce, allergy symptoms but I like keeping the use of medications to a minimum. In fact, I don't take this every night. Just nights when I know I will be interacting with people alot the next day or singing at worship services. Sounding stuffed up is not a good thing for either of those activities. Note that the 5 mil dose does make me a little sleepy - I take it before bed around 10 pm - but by the next morning I feel no drowsiness and it stays effective for me until around 6 pm. BTW - it really does take like bubble gum! Always makes me want some after after I take it.",
+                        "I ordered Xyzal Childrenâs 24 Hour Allergy Relief (levocetirizine liquid) mainly because allergy season has been hitting hard, and I wanted something that would actually last through the day instead of wearing off halfway through my workweek (especially as it's springtime allergy season with all the pollen when writing this review). Overall, Iâve been really impressed with how well this works. The biggest standout is the true 24-hour coverage. A lot of kidsâ allergy medicines say they last all day, but you still end up seeing symptoms creep back in by the afternoon. With this, once itâs taken, it holds steady throughout the day and into the evening. Itâs been especially helpful for things like sneezing, runny nose, and that constant itchy feeling that isn't fun during allergy season. The bubble gum flavor is better than I expected. Itâs not perfect (it is still medicine), but it helps especially if your child is picky about taste. The liquid format is convenient too. The bottle size (10 oz) lasts a decent amount of time depending on how often youâre using it. If I had to nitpick, the price can be a little higher compared to some basic allergy meds, but in my opinion, itâs justified by how consistently it works.",
+                        "I've suffered from horrible allergies for years. I've tried Benadryl, Claritin, and Zyrtec, local honey, singing nettles, Allergena (zone 9), etc. and they have all helped to an extent, but none as much as Xyzal. Normally, allergies cause my body to produce an endless steam of mucus, often causing coughing fits and allergy induced asthmatic attacks. All of the allergy products I've tried either don't work well enough, don't work long enough, cause excessive drowsiness, don't work as long as advertised, it don't work for all of my allergens. I have plenty of environmental allergies and am also allergic to dogs, cats, and guinea pigs. Working at an animal hospital 40+ hours a week, and then coming home to my own pets, I rarely, if ever, get any relief. Xyzal provides me about 22-23 hours of allergy relief, including from my own pets. At about 30-40 cents per pill, I find it to be a much more affordable option than many other options on the market, as well. Honestly, my only complaint is the fact that the packaging is excessive, wasteful, and a little bit difficult to open.",
+                        "Antihistamines are a strange grouping of medications. Some will work well and help you breathe or stop watery eyes. Others will help with one problem and not help with another, while other meds seem to be placebos and do nothing.. I have four the Zyrtec does actually help me and clears my stuffy nose. The bottle says the potency is enough for 24 hours, but donât believe it . In my case it seems to work for about 10 hours and thatâs it! Some people may find the effectiveness is good for 24 hours. That is why writing a review on a medication is almost impossible. Everyone reacts differently to the same medication. I do find that when I take the Xyzal, it does lsdt a while and does indeed help Unclog my nose and help a little bit with tearing of the eyes. All I can say is purchase a small bottle to determine how it works for you. If it accomplishes what you want, you can purchase a larger bottle,"
+                    ]
+                }
+            }
+        ],
+        "review_volume": {
+            "current": 75,
+            "previous": 104,
+            "change_pct": -27.88
+        },
+        "rating": {
+            "current": 4.946,
+            "previous": 4.894,
+            "change": 0.052
+        },
+        "sentiment": {
+            "current": 0.987,
+            "previous": 0.974,
+            "change": 0.013
+        },
+        "emerging_clusters": [
+            {
+                "cluster": 6,
+                "share": 0.671,
+                "change": 0.055
+            },
+            {
+                "cluster": 5,
+                "share": 0.015,
+                "change": 0.015
+            },
+            {
+                "cluster": 3,
+                "share": 0.044,
+                "change": 0.002
+            },
+            {
+                "cluster": 8,
+                "share": 0,
+                "change": -0.009
+            },
+            {
+                "cluster": 2,
+                "share": 0.012,
+                "change": -0.01
+            }
+        ],
+        "declining_clusters": [
+            {
+                "cluster": 0,
+                "share": 0.259,
+                "change": -0.053
+            },
+            {
+                "cluster": 2,
+                "share": 0.012,
+                "change": -0.01
+            },
+            {
+                "cluster": 8,
+                "share": 0,
+                "change": -0.009
+            },
+            {
+                "cluster": 3,
+                "share": 0.044,
+                "change": 0.002
+            },
+            {
+                "cluster": 5,
+                "share": 0.015,
+                "change": 0.015
+            }
+        ]
+    }
+}

@@ -1,0 +1,1498 @@
+{
+    "product": {
+        "report_type": "brand",
+        "group_by": "BRAND_NAME",
+        "identifier": "Nasacort",
+        "brand_name": "Nasacort",
+        "products": 12,
+        "asin": [
+            "B0GNTK3ZQK",
+            "B00M1QM8EM",
+            "B0GNTBLYFX",
+            "B00HXDU6KQ",
+            "B00HXDU6M4",
+            "B073V2XGK2",
+            "B00WK8FSO8",
+            "B00JGBCBGA",
+            "B071ZNM6R1",
+            "B078YG3HFH",
+            "B00STC09MA",
+            "B012FV7WPW"
+        ],
+        "reviews": 741,
+        "average_rating": 4.13,
+        "average_sentiment": 0.783
+    },
+    "macro_personas": [
+        {
+            "cluster": 6,
+            "universal_persona": {
+                "population": 5088,
+                "population_pct": 9.33,
+                "certainty": 0.995,
+                "positive_pct": 78.3,
+                "neutral_pct": 5.76,
+                "negative_pct": 15.94,
+                "avg_rating": 4.2,
+                "brand_distribution": {
+                    "Dulcolax": {
+                        "reviews": 1835,
+                        "share": 36.07
+                    },
+                    "Allegra": {
+                        "reviews": 1028,
+                        "share": 20.2
+                    },
+                    "Unisom": {
+                        "reviews": 743,
+                        "share": 14.6
+                    },
+                    "Xyzal": {
+                        "reviews": 443,
+                        "share": 8.71
+                    },
+                    "Nasacort": {
+                        "reviews": 324,
+                        "share": 6.37
+                    },
+                    "Zantac": {
+                        "reviews": 179,
+                        "share": 3.52
+                    },
+                    "Gold Bond": {
+                        "reviews": 159,
+                        "share": 3.12
+                    },
+                    "ACT": {
+                        "reviews": 116,
+                        "share": 2.28
+                    },
+                    "Cortizone 10": {
+                        "reviews": 75,
+                        "share": 1.47
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 66,
+                        "share": 1.3
+                    },
+                    "Icy Hot": {
+                        "reviews": 48,
+                        "share": 0.94
+                    },
+                    "Aspercreme": {
+                        "reviews": 25,
+                        "share": 0.49
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 23,
+                        "share": 0.45
+                    },
+                    "Selsun Blue": {
+                        "reviews": 12,
+                        "share": 0.24
+                    },
+                    "Buscapina": {
+                        "reviews": 11,
+                        "share": 0.22
+                    },
+                    "Magne B6": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Symptom Relief Seekers",
+                    "summary": "Customers looking for fast, effective relief from acute symptoms.",
+                    "decision_drivers": [
+                        "Fast-acting",
+                        "Proven effectiveness",
+                        "Long-lasting relief",
+                        "Minimal side effects"
+                    ],
+                    "satisfaction_drivers": [
+                        "Quickly alleviates symptoms",
+                        "Long duration of effects",
+                        "No harsh side effects",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short-lived effects",
+                        "Unpleasant side effects",
+                        "Inconvenient usage"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 6,
+                "share": 0.437,
+                "certainty": 0.997,
+                "reviews": 324,
+                "average_rating": 4.23,
+                "average_sentiment": 0.808
+            },
+            "comparison": {
+                "share_lift": 4.68,
+                "rating_delta": 0.03
+            }
+        },
+        {
+            "cluster": 0,
+            "universal_persona": {
+                "population": 11231,
+                "population_pct": 20.6,
+                "certainty": 0.997,
+                "positive_pct": 86.88,
+                "neutral_pct": 4.03,
+                "negative_pct": 9.08,
+                "avg_rating": 4.49,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 3735,
+                        "share": 33.26
+                    },
+                    "Dulcolax": {
+                        "reviews": 1768,
+                        "share": 15.74
+                    },
+                    "Cortizone 10": {
+                        "reviews": 1000,
+                        "share": 8.9
+                    },
+                    "Icy Hot": {
+                        "reviews": 985,
+                        "share": 8.77
+                    },
+                    "ACT": {
+                        "reviews": 904,
+                        "share": 8.05
+                    },
+                    "Allegra": {
+                        "reviews": 743,
+                        "share": 6.62
+                    },
+                    "Aspercreme": {
+                        "reviews": 657,
+                        "share": 5.85
+                    },
+                    "Selsun Blue": {
+                        "reviews": 403,
+                        "share": 3.59
+                    },
+                    "Nasacort": {
+                        "reviews": 293,
+                        "share": 2.61
+                    },
+                    "Xyzal": {
+                        "reviews": 253,
+                        "share": 2.25
+                    },
+                    "Unisom": {
+                        "reviews": 215,
+                        "share": 1.91
+                    },
+                    "Zantac": {
+                        "reviews": 215,
+                        "share": 1.91
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 27,
+                        "share": 0.24
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 22,
+                        "share": 0.2
+                    },
+                    "Buscapina": {
+                        "reviews": 11,
+                        "share": 0.1
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Daily Wellness Maintainers",
+                    "summary": "Customers seeking reliable products to support everyday health routines and prevention.",
+                    "decision_drivers": [
+                        "Effectiveness",
+                        "Quality",
+                        "Trusted brand",
+                        "Ease of use"
+                    ],
+                    "satisfaction_drivers": [
+                        "Long-lasting relief",
+                        "Meets daily needs",
+                        "Minimal side effects",
+                        "Trusted solution"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short duration",
+                        "Unpleasant side effects",
+                        "Poor value"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 0,
+                "share": 0.395,
+                "certainty": 0.992,
+                "reviews": 293,
+                "average_rating": 4.68,
+                "average_sentiment": 0.92
+            },
+            "comparison": {
+                "share_lift": 1.92,
+                "rating_delta": 0.19
+            }
+        },
+        {
+            "cluster": 5,
+            "universal_persona": {
+                "population": 4604,
+                "population_pct": 8.45,
+                "certainty": 0.995,
+                "positive_pct": 22.26,
+                "neutral_pct": 13.66,
+                "negative_pct": 64.07,
+                "avg_rating": 2.21,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 3046,
+                        "share": 66.16
+                    },
+                    "Cortizone 10": {
+                        "reviews": 312,
+                        "share": 6.78
+                    },
+                    "Icy Hot": {
+                        "reviews": 242,
+                        "share": 5.26
+                    },
+                    "Aspercreme": {
+                        "reviews": 216,
+                        "share": 4.69
+                    },
+                    "ACT": {
+                        "reviews": 211,
+                        "share": 4.58
+                    },
+                    "Dulcolax": {
+                        "reviews": 157,
+                        "share": 3.41
+                    },
+                    "Allegra": {
+                        "reviews": 139,
+                        "share": 3.02
+                    },
+                    "Nasacort": {
+                        "reviews": 87,
+                        "share": 1.89
+                    },
+                    "Xyzal": {
+                        "reviews": 68,
+                        "share": 1.48
+                    },
+                    "Zantac": {
+                        "reviews": 58,
+                        "share": 1.26
+                    },
+                    "Selsun Blue": {
+                        "reviews": 42,
+                        "share": 0.91
+                    },
+                    "Unisom": {
+                        "reviews": 17,
+                        "share": 0.37
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 3,
+                        "share": 0.07
+                    },
+                    "Buscapina": {
+                        "reviews": 3,
+                        "share": 0.07
+                    },
+                    "Magne B6": {
+                        "reviews": 2,
+                        "share": 0.04
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Product Experience Critics",
+                    "summary": "Customers focused on product usability and delivery mechanisms over ingredients.",
+                    "decision_drivers": [
+                        "Ease of application",
+                        "Convenient packaging",
+                        "Innovative delivery"
+                    ],
+                    "satisfaction_drivers": [
+                        "Hassle-free usage",
+                        "Precise application",
+                        "Portable packaging"
+                    ],
+                    "frustration_drivers": [
+                        "Difficult application",
+                        "Faulty packaging/sprayers",
+                        "Messy or wasteful"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 5,
+                "share": 0.117,
+                "certainty": 0.983,
+                "reviews": 87,
+                "average_rating": 1.87,
+                "average_sentiment": 0.218
+            },
+            "comparison": {
+                "share_lift": 1.38,
+                "rating_delta": -0.34
+            }
+        },
+        {
+            "cluster": 2,
+            "universal_persona": {
+                "population": 2128,
+                "population_pct": 3.9,
+                "certainty": 1.0,
+                "positive_pct": 91.92,
+                "neutral_pct": 2.11,
+                "negative_pct": 5.97,
+                "avg_rating": 4.67,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 556,
+                        "share": 26.13
+                    },
+                    "Icy Hot": {
+                        "reviews": 272,
+                        "share": 12.78
+                    },
+                    "Selsun Blue": {
+                        "reviews": 258,
+                        "share": 12.12
+                    },
+                    "Cortizone 10": {
+                        "reviews": 222,
+                        "share": 10.43
+                    },
+                    "Dulcolax": {
+                        "reviews": 199,
+                        "share": 9.35
+                    },
+                    "Allegra": {
+                        "reviews": 143,
+                        "share": 6.72
+                    },
+                    "ACT": {
+                        "reviews": 136,
+                        "share": 6.39
+                    },
+                    "Aspercreme": {
+                        "reviews": 123,
+                        "share": 5.78
+                    },
+                    "Buscapina": {
+                        "reviews": 97,
+                        "share": 4.56
+                    },
+                    "Unisom": {
+                        "reviews": 50,
+                        "share": 2.35
+                    },
+                    "Xyzal": {
+                        "reviews": 38,
+                        "share": 1.79
+                    },
+                    "Zantac": {
+                        "reviews": 16,
+                        "share": 0.75
+                    },
+                    "Nasacort": {
+                        "reviews": 13,
+                        "share": 0.61
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 4,
+                        "share": 0.19
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.05
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Oral Hygiene Prioritizers",
+                    "summary": "Customers focused on maintaining good oral health through daily routines.",
+                    "decision_drivers": [
+                        "Dentist recommended",
+                        "Proven effectiveness",
+                        "Kid-friendly options",
+                        "Convenient usage"
+                    ],
+                    "satisfaction_drivers": [
+                        "Fresh breath",
+                        "Prevents cavities/gum issues",
+                        "Easy to use",
+                        "Pleasant taste/scent"
+                    ],
+                    "frustration_drivers": [
+                        "Unpleasant taste/smell",
+                        "Ineffective results",
+                        "Difficult to use",
+                        "Harsh ingredients"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 2,
+                "share": 0.018,
+                "certainty": 1.0,
+                "reviews": 13,
+                "average_rating": 3.15,
+                "average_sentiment": 0.538
+            },
+            "comparison": {
+                "share_lift": 0.46,
+                "rating_delta": -1.52
+            }
+        },
+        {
+            "cluster": 4,
+            "universal_persona": {
+                "population": 339,
+                "population_pct": 0.62,
+                "certainty": 1.0,
+                "positive_pct": 97.94,
+                "neutral_pct": 1.47,
+                "negative_pct": 0.59,
+                "avg_rating": 4.81,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 132,
+                        "share": 38.94
+                    },
+                    "Cortizone 10": {
+                        "reviews": 42,
+                        "share": 12.39
+                    },
+                    "Dulcolax": {
+                        "reviews": 30,
+                        "share": 8.85
+                    },
+                    "Allegra": {
+                        "reviews": 28,
+                        "share": 8.26
+                    },
+                    "Selsun Blue": {
+                        "reviews": 26,
+                        "share": 7.67
+                    },
+                    "ACT": {
+                        "reviews": 25,
+                        "share": 7.37
+                    },
+                    "Aspercreme": {
+                        "reviews": 17,
+                        "share": 5.01
+                    },
+                    "Icy Hot": {
+                        "reviews": 14,
+                        "share": 4.13
+                    },
+                    "Zantac": {
+                        "reviews": 8,
+                        "share": 2.36
+                    },
+                    "Nasacort": {
+                        "reviews": 7,
+                        "share": 2.06
+                    },
+                    "Xyzal": {
+                        "reviews": 7,
+                        "share": 2.06
+                    },
+                    "Buscapina": {
+                        "reviews": 1,
+                        "share": 0.29
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 1,
+                        "share": 0.29
+                    },
+                    "Unisom": {
+                        "reviews": 1,
+                        "share": 0.29
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Trusted Solution Seekers",
+                    "summary": "Customers prioritizing proven, reliable products from trusted brands.",
+                    "decision_drivers": [
+                        "Trusted brand reputation",
+                        "Proven effectiveness",
+                        "Quality ingredients",
+                        "Good value"
+                    ],
+                    "satisfaction_drivers": [
+                        "Delivers expected results",
+                        "Long-lasting effects",
+                        "Minimal side effects",
+                        "Worth the cost"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short duration of effects",
+                        "Unpleasant side effects",
+                        "Poor value for money"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 4,
+                "share": 0.009,
+                "certainty": 1.0,
+                "reviews": 7,
+                "average_rating": 5.0,
+                "average_sentiment": 1.0
+            },
+            "comparison": {
+                "share_lift": 1.45,
+                "rating_delta": 0.19
+            }
+        },
+        {
+            "cluster": 8,
+            "universal_persona": {
+                "population": 6837,
+                "population_pct": 12.54,
+                "certainty": 0.99,
+                "positive_pct": 85.61,
+                "neutral_pct": 3.89,
+                "negative_pct": 10.5,
+                "avg_rating": 4.44,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 6144,
+                        "share": 89.86
+                    },
+                    "Aspercreme": {
+                        "reviews": 242,
+                        "share": 3.54
+                    },
+                    "Icy Hot": {
+                        "reviews": 161,
+                        "share": 2.35
+                    },
+                    "Selsun Blue": {
+                        "reviews": 96,
+                        "share": 1.4
+                    },
+                    "Cortizone 10": {
+                        "reviews": 72,
+                        "share": 1.05
+                    },
+                    "Dulcolax": {
+                        "reviews": 48,
+                        "share": 0.7
+                    },
+                    "ACT": {
+                        "reviews": 41,
+                        "share": 0.6
+                    },
+                    "Allegra": {
+                        "reviews": 13,
+                        "share": 0.19
+                    },
+                    "Nasacort": {
+                        "reviews": 7,
+                        "share": 0.1
+                    },
+                    "Unisom": {
+                        "reviews": 5,
+                        "share": 0.07
+                    },
+                    "Magne B6": {
+                        "reviews": 5,
+                        "share": 0.07
+                    },
+                    "Xyzal": {
+                        "reviews": 2,
+                        "share": 0.03
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.01
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Comfort First Consumers",
+                    "summary": "Customers focused on products that provide comfort, freshness and prevent irritation.",
+                    "decision_drivers": [
+                        "Prevents chafing/irritation",
+                        "Absorbs moisture/sweat",
+                        "Long-lasting freshness",
+                        "Gentle formulation"
+                    ],
+                    "satisfaction_drivers": [
+                        "Stays dry and fresh",
+                        "Soothes irritated skin",
+                        "Easy to apply",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective absorption",
+                        "Short duration of effects",
+                        "Unpleasant smell/residue",
+                        "Causes further irritation"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 8,
+                "share": 0.009,
+                "certainty": 0.999,
+                "reviews": 7,
+                "average_rating": 5.0,
+                "average_sentiment": 1.0
+            },
+            "comparison": {
+                "share_lift": 0.07,
+                "rating_delta": 0.56
+            }
+        },
+        {
+            "cluster": 1,
+            "universal_persona": {
+                "population": 12457,
+                "population_pct": 22.85,
+                "certainty": 0.994,
+                "positive_pct": 84.42,
+                "neutral_pct": 5.59,
+                "negative_pct": 9.99,
+                "avg_rating": 4.43,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 9823,
+                        "share": 78.86
+                    },
+                    "Cortizone 10": {
+                        "reviews": 1986,
+                        "share": 15.94
+                    },
+                    "Icy Hot": {
+                        "reviews": 180,
+                        "share": 1.44
+                    },
+                    "Aspercreme": {
+                        "reviews": 177,
+                        "share": 1.42
+                    },
+                    "Selsun Blue": {
+                        "reviews": 102,
+                        "share": 0.82
+                    },
+                    "Allegra": {
+                        "reviews": 75,
+                        "share": 0.6
+                    },
+                    "ACT": {
+                        "reviews": 50,
+                        "share": 0.4
+                    },
+                    "Dulcolax": {
+                        "reviews": 39,
+                        "share": 0.31
+                    },
+                    "Xyzal": {
+                        "reviews": 10,
+                        "share": 0.08
+                    },
+                    "Magne B6": {
+                        "reviews": 8,
+                        "share": 0.06
+                    },
+                    "Nasacort": {
+                        "reviews": 6,
+                        "share": 0.05
+                    },
+                    "Unisom": {
+                        "reviews": 1,
+                        "share": 0.01
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Skin Condition Soothers",
+                    "summary": "Customers looking for effective relief from persistent skin irritations and conditions.",
+                    "decision_drivers": [
+                        "Fast-acting",
+                        "Gentle formulation",
+                        "Proven ingredients",
+                        "Dermatologist recommended"
+                    ],
+                    "satisfaction_drivers": [
+                        "Reduces itching/irritation",
+                        "Promotes healing",
+                        "Long-lasting effects",
+                        "Safe for sensitive skin"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective results",
+                        "Further irritation",
+                        "Short-lived relief",
+                        "Harsh ingredients"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 1,
+                "share": 0.008,
+                "certainty": 0.984,
+                "reviews": 6,
+                "average_rating": 4.67,
+                "average_sentiment": 0.917
+            },
+            "comparison": {
+                "share_lift": 0.04,
+                "rating_delta": 0.24
+            }
+        },
+        {
+            "cluster": 7,
+            "universal_persona": {
+                "population": 4657,
+                "population_pct": 8.54,
+                "certainty": 0.995,
+                "positive_pct": 74.38,
+                "neutral_pct": 6.81,
+                "negative_pct": 18.81,
+                "avg_rating": 4.07,
+                "brand_distribution": {
+                    "Icy Hot": {
+                        "reviews": 2496,
+                        "share": 53.6
+                    },
+                    "Aspercreme": {
+                        "reviews": 1197,
+                        "share": 25.7
+                    },
+                    "Gold Bond": {
+                        "reviews": 548,
+                        "share": 11.77
+                    },
+                    "Cortizone 10": {
+                        "reviews": 190,
+                        "share": 4.08
+                    },
+                    "Dulcolax": {
+                        "reviews": 120,
+                        "share": 2.58
+                    },
+                    "Magne B6": {
+                        "reviews": 24,
+                        "share": 0.52
+                    },
+                    "Allegra": {
+                        "reviews": 22,
+                        "share": 0.47
+                    },
+                    "ACT": {
+                        "reviews": 19,
+                        "share": 0.41
+                    },
+                    "Zantac": {
+                        "reviews": 12,
+                        "share": 0.26
+                    },
+                    "Xyzal": {
+                        "reviews": 7,
+                        "share": 0.15
+                    },
+                    "Buscapina": {
+                        "reviews": 7,
+                        "share": 0.15
+                    },
+                    "Selsun Blue": {
+                        "reviews": 6,
+                        "share": 0.13
+                    },
+                    "Unisom": {
+                        "reviews": 4,
+                        "share": 0.09
+                    },
+                    "Nasacort": {
+                        "reviews": 3,
+                        "share": 0.06
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 2,
+                        "share": 0.04
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Pain Relief Prioritizers",
+                    "summary": "Customers seeking effective, targeted relief from muscle/joint pains.",
+                    "decision_drivers": [
+                        "Fast pain relief",
+                        "Long-lasting effects",
+                        "Targeted application",
+                        "Ease of use"
+                    ],
+                    "satisfaction_drivers": [
+                        "Quickly reduces pain",
+                        "Long duration of effects",
+                        "Convenient application",
+                        "No mess or residue"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective results",
+                        "Short-lived relief",
+                        "Difficult application",
+                        "Unpleasant smell/feel"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 7,
+                "share": 0.004,
+                "certainty": 0.999,
+                "reviews": 3,
+                "average_rating": 4.0,
+                "average_sentiment": 0.75
+            },
+            "comparison": {
+                "share_lift": 0.05,
+                "rating_delta": -0.07
+            }
+        },
+        {
+            "cluster": 3,
+            "universal_persona": {
+                "population": 6176,
+                "population_pct": 11.33,
+                "certainty": 0.999,
+                "positive_pct": 84.5,
+                "neutral_pct": 5.04,
+                "negative_pct": 10.46,
+                "avg_rating": 4.42,
+                "brand_distribution": {
+                    "ACT": {
+                        "reviews": 5502,
+                        "share": 89.09
+                    },
+                    "Dulcolax": {
+                        "reviews": 324,
+                        "share": 5.25
+                    },
+                    "Xyzal": {
+                        "reviews": 104,
+                        "share": 1.68
+                    },
+                    "Allegra": {
+                        "reviews": 78,
+                        "share": 1.26
+                    },
+                    "Gold Bond": {
+                        "reviews": 74,
+                        "share": 1.2
+                    },
+                    "Icy Hot": {
+                        "reviews": 24,
+                        "share": 0.39
+                    },
+                    "Cortizone 10": {
+                        "reviews": 21,
+                        "share": 0.34
+                    },
+                    "Zantac": {
+                        "reviews": 14,
+                        "share": 0.23
+                    },
+                    "Unisom": {
+                        "reviews": 13,
+                        "share": 0.21
+                    },
+                    "Aspercreme": {
+                        "reviews": 10,
+                        "share": 0.16
+                    },
+                    "Selsun Blue": {
+                        "reviews": 9,
+                        "share": 0.15
+                    },
+                    "Buscapina": {
+                        "reviews": 1,
+                        "share": 0.02
+                    },
+                    "Nasacort": {
+                        "reviews": 1,
+                        "share": 0.02
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Pediatric Care Facilitators",
+                    "summary": "Parents/caregivers seeking safe, effective solutions for children's health needs.",
+                    "decision_drivers": [
+                        "Kid-friendly formulations",
+                        "Gentle ingredients",
+                        "Proven effectiveness",
+                        "Pediatrician recommended"
+                    ],
+                    "satisfaction_drivers": [
+                        "Easy administration",
+                        "Fast-acting relief",
+                        "No harsh side effects",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Unpleasant taste/smell",
+                        "Difficulty administering",
+                        "Lack of results",
+                        "Harsh side effects"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 3,
+                "share": 0.001,
+                "certainty": 0.876,
+                "reviews": 1,
+                "average_rating": 5.0,
+                "average_sentiment": 1.0
+            },
+            "comparison": {
+                "share_lift": 0.01,
+                "rating_delta": 0.58
+            }
+        }
+    ],
+    "trend_analysis": {
+        "timeline": [
+            {
+                "period": "2024-12",
+                "reviews": 146,
+                "average_rating": 3.514,
+                "average_sentiment": 0.628,
+                "cluster_distribution": {
+                    "6": 0.425,
+                    "0": 0.39,
+                    "5": 0.123,
+                    "2": 0.041,
+                    "4": 0.021
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I use this product every evening before I go to bed and it really helps me to keep my mouth closed and breathe through my nose. I donât find this product to be addictive like other nasal sprays with decongestants in them. I highly recommend this one",
+                        "Foe me, there is nothing to not like about Nasocort. It works as well, if not better than Flonase and it does not upset my stomach or give me a sore throat.",
+                        "Iâve tried other sprays and they always leave a weird scent in my nostrils. Nasacort never leaves that smell and works beautifully!",
+                        "This always works well for me. I like that it doesn't dry out my nose like some other nasal sprays do.",
+                        "This product is great. It cleared my breathing with the one dose and I woke up still able to breath clearly."
+                    ],
+                    "negative_reviews": [
+                        "1st day I used it for my allergies it was great, slight dizziness, but it went away and I could sleep. 2nd day the symptoms added sore throat, and headaches, I had horrible insomnia (I thought I was actually getting sick!) 3rd Day was the worst, extremely dizzy, fatigue, sore throat, and horrible headaches. I decided then and there to stop using it. Today I would have taken it by now and I feel no headache, no sore throat, no fatigue, just allergies. Praise God. Dont buy this. I will try something else.",
+                        "For some reason, this nassl spray took almost a month to arrive and when it got here I see that it expires in about 6 weeks. And this item is not returnable. I'll never buy a non-returnable item again.",
+                        "if you have bad allergies like I do I would not recommend this produt I was using Astapro but the price skyrocketed from 9 99 so I tried it. I will go back to what worked",
+                        "No resultÃ³ para mi congestiÃ³n nasal, por mÃ¡s q me echÃ©, sigo congestionada . Dinero malgastado. Sin embargo la marca SINEX para mi es la mejor. Me descongestiona al momento, es antistaminico eficaz.",
+                        "Packaging was fine. When I opened the package this is what I found. Box was smashed,Both ends were open and the Nasacort bottle looked like it had been tampered with."
+                    ]
+                }
+            },
+            {
+                "period": "2025-01",
+                "reviews": 122,
+                "average_rating": 4.23,
+                "average_sentiment": 0.807,
+                "cluster_distribution": {
+                    "0": 0.541,
+                    "6": 0.295,
+                    "5": 0.139,
+                    "2": 0.025
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "At first this product didn't work for me because I had switched from decongestant spray to this spray.My doctor explained to me that decongestant spray causes high blood pressure and causes other sprays not to work.He advised me to stop using decongestant spray and switch to Nasacort,since then Nasacort works so much better and lasts way longer than the decongestant spray.",
+                        "I used to struggle to breath normally. Always seemed clogged or runny. Sleeping through the night was impossible. Just horrible. Then I found Nasacort. One squirt per night and all my troubles are gone. The stuff is amazing. My doctor says long-term use is not a problem. Like a miracle.",
+                        "Nasacort was recommended to me for its anti-inflammatory benefits. In the short time I've used it, I believe it has had a positive effect.",
+                        "WHEN ALLERGY SEASON PEAKS, I HAVE FOUND THAT THIS SPRAY HELPS A LOT. MY HUSBAND HAS STARTED TO USE THIS PRODUCT, TOO.",
+                        "I've been using Nasacort since it was prescription only and it has always helped keep my nose clear. Thank you."
+                    ],
+                    "negative_reviews": [
+                        "I started using nasacort because I stopped my allergy shots and I thought this could help. I had headaches pretty much every day and thought I had a sinus infection. Completed a full round of antibiotics with no change. My sinuses were so dry and painful with so much pressure behind my eyes. I stopped using nasacort 2 days ago and no more headaches. May work for some people, but not me",
+                        "1) Box was NOT sealed 2) Each bottle was NOT wrapped in plastic wrap 3) Each bottle was MISSING the safty ring below the sprayer.",
+                        "I want the full order of two nasacort. Was unable to contact manufacturer for help. So I have to just enjoy the one. But will not order from here again!!!",
+                        "The only thing is they only sent one. Bottle in the box, when I called Amazon, they took care of it right away. That is why I order from Amazon with confidence, their customer support is amazing",
+                        "Well, I canât say if the product inside the bottle is effective because after using this a few times the pump spray quit working orâ¦. like a couple of folks mentioned below the new design is bad. Iâm trying them b/c allergist recommended but if they fail again, Iâm done."
+                    ]
+                }
+            },
+            {
+                "period": "2025-02",
+                "reviews": 10,
+                "average_rating": 3.5,
+                "average_sentiment": 0.625,
+                "cluster_distribution": {
+                    "0": 0.4,
+                    "6": 0.3,
+                    "7": 0.3
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Honestly I donât think it makes a huge difference for me but my boyfriend notices a huge difference so it really depends on the person."
+                    ],
+                    "negative_reviews": [
+                        "Honestly I donât think it makes a huge difference for me but my boyfriend notices a huge difference so it really depends on the person."
+                    ]
+                }
+            },
+            {
+                "period": "2025-03",
+                "reviews": 18,
+                "average_rating": 1.667,
+                "average_sentiment": 0.167,
+                "cluster_distribution": {
+                    "5": 0.667,
+                    "6": 0.167,
+                    "0": 0.167
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "It states 60 sprays. I only got about 30. Terrible for the amount of money for this. I will be looking for another solution.",
+                        "Latest dispensers don't work as well as previous ones. Acts like the medication has been watered down. Tried Sinex and that works really well. Considering the cost, I expected it to work well and it doesn't.",
+                        "Like others have said the packaging is incredibly suspect. Looks like they cut a four pack in half for thisâ¦ super strange that this is Nasacort branded. The amazon branded one has the same active ingredients, is cheaper and comes in normal packaging."
+                    ],
+                    "negative_reviews": [
+                        "It states 60 sprays. I only got about 30. Terrible for the amount of money for this. I will be looking for another solution.",
+                        "Latest dispensers don't work as well as previous ones. Acts like the medication has been watered down. Tried Sinex and that works really well. Considering the cost, I expected it to work well and it doesn't.",
+                        "Like others have said the packaging is incredibly suspect. Looks like they cut a four pack in half for thisâ¦ super strange that this is Nasacort branded. The amazon branded one has the same active ingredients, is cheaper and comes in normal packaging."
+                    ]
+                }
+            },
+            {
+                "period": "2025-04",
+                "reviews": 29,
+                "average_rating": 4.241,
+                "average_sentiment": 0.81,
+                "cluster_distribution": {
+                    "6": 0.345,
+                    "0": 0.31,
+                    "5": 0.207,
+                    "1": 0.103,
+                    "3": 0.034
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Oh, I swear by these every year. I need this in my life every SEASON. Now maybe there are others that work, but when I found this one, I just never ventured any further so, this is just my personal opinion, but Nasacort has been my saving grace. Now honestly when you first start (Virgin) it can take up to 3 days, UP TO to get in your system depending upon your individual makeup and wat you have going on in your body. I feel with mainly itchy, running left eye subdue syndrome. Don't ask me why, it's just the left eye and it runs constantly, but when this settles in my system, oh I'm good. Now like I said the other most may work too, but once this fixed my issue I just never searched any further so that's just me. I revoked l recommend it because it's tried and true FOR ME.",
+                        "Have been using this product for years. This is a good price. I like this spray the best because it does not have an annoying fragrance to irritate me.",
+                        "This product is great. Doc prescribed it for me; now can be purchased OTC. Buying from Amazon is so much cheaper and it arrives fast. Very happy.",
+                        "Worked great but, had to stop using after 2 containers due to nose bleeds. I think I used it for too long. It's all good after that.",
+                        "A number of years ago Docs told me to use this twice a day. Alas, I recently read the insert inside again, and it says don't use if you have cataracts! I now have a small cataract. I am unsure of what to do. Please read the insert."
+                    ],
+                    "negative_reviews": [
+                        "The nasacort arrived without expiration date on bottles. Shame on me for not returning immediately. Have just started first bottle and it does not work as well. Will buy at the grocery store from now on.",
+                        "A number of years ago Docs told me to use this twice a day. Alas, I recently read the insert inside again, and it says don't use if you have cataracts! I now have a small cataract. I am unsure of what to do. Please read the insert.",
+                        "I think this is a good product. It is helping my nasal problems. The problem with it is the spray mist is not fine. Iit runs back down . Plus it runs into my mouth. The ingredients are better than my other brand. I sure wish the spray was better The price is very good and I appreciate it coming right to my door.",
+                        "Oh, I swear by these every year. I need this in my life every SEASON. Now maybe there are others that work, but when I found this one, I just never ventured any further so, this is just my personal opinion, but Nasacort has been my saving grace. Now honestly when you first start (Virgin) it can take up to 3 days, UP TO to get in your system depending upon your individual makeup and wat you have going on in your body. I feel with mainly itchy, running left eye subdue syndrome. Don't ask me why, it's just the left eye and it runs constantly, but when this settles in my system, oh I'm good. Now like I said the other most may work too, but once this fixed my issue I just never searched any further so that's just me. I revoked l recommend it because it's tried and true FOR ME.",
+                        "Have been using this product for years. This is a good price. I like this spray the best because it does not have an annoying fragrance to irritate me."
+                    ]
+                }
+            },
+            {
+                "period": "2025-05",
+                "reviews": 3,
+                "average_rating": 1.0,
+                "average_sentiment": 0.0,
+                "cluster_distribution": {
+                    "5": 1.0
+                },
+                "representative_reviews": {
+                    "positive_reviews": [],
+                    "negative_reviews": []
+                }
+            },
+            {
+                "period": "2025-07",
+                "reviews": 59,
+                "average_rating": 3.542,
+                "average_sentiment": 0.636,
+                "cluster_distribution": {
+                    "6": 0.525,
+                    "0": 0.305,
+                    "5": 0.153,
+                    "1": 0.017
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I have been using Flonase for many years but now have switched to Nasacort which work just as well if not better. Plus I don't have to worry about glass being in the bottle because it's plastic. The only downfall is that I can't see how much is left without wasting a spray",
+                        "Nasacort has been a lifesaver for my allergies. It clears up my stuffy nose fast and keeps me breathing comfortably all day without making me drowsy. Super easy to use, and it doesnât sting like some other sprays. I always keep one with me, highly recommend!",
+                        "I'll rate this five stars because it came quickly in the original packaging, but it was not the medication I am supposed to use, so I passed it along to my husband. Whether he's been using it, I really don't know (though I doubt because he's been sneezing like crazy. Stubbornness.) I imagine it works as intended if used properly, or at all.",
+                        "Having a problem with the spray device does not work properly. May need to return â¦not able to use spray to deliver medicine into the nasal canal I keep trying to now because I need the meds",
+                        "NASTY STUFF - be warned can CAUSE SEVERE NOSE BLEEDS! sad that I have to give it a star at all!"
+                    ],
+                    "negative_reviews": [
+                        "NASTY STUFF - be warned can CAUSE SEVERE NOSE BLEEDS! sad that I have to give it a star at all!",
+                        "Having a problem with the spray device does not work properly. May need to return â¦not able to use spray to deliver medicine into the nasal canal I keep trying to now because I need the meds",
+                        "I have been using Flonase for many years but now have switched to Nasacort which work just as well if not better. Plus I don't have to worry about glass being in the bottle because it's plastic. The only downfall is that I can't see how much is left without wasting a spray",
+                        "Nasacort has been a lifesaver for my allergies. It clears up my stuffy nose fast and keeps me breathing comfortably all day without making me drowsy. Super easy to use, and it doesnât sting like some other sprays. I always keep one with me, highly recommend!",
+                        "I'll rate this five stars because it came quickly in the original packaging, but it was not the medication I am supposed to use, so I passed it along to my husband. Whether he's been using it, I really don't know (though I doubt because he's been sneezing like crazy. Stubbornness.) I imagine it works as intended if used properly, or at all."
+                    ]
+                }
+            },
+            {
+                "period": "2025-08",
+                "reviews": 20,
+                "average_rating": 4.35,
+                "average_sentiment": 0.838,
+                "cluster_distribution": {
+                    "6": 0.65,
+                    "0": 0.2,
+                    "5": 0.15
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "As someone with a constant running and stuffy nose during spring and summer this product has been helpful. It works similar to prescription based nasal sprays. I do have to use 3 sprays per nose for it to fully keep my sinuses at bay.",
+                        "The product that I received only had two months shelf life left. Be sure to check the date on your product."
+                    ],
+                    "negative_reviews": [
+                        "The product that I received only had two months shelf life left. Be sure to check the date on your product.",
+                        "As someone with a constant running and stuffy nose during spring and summer this product has been helpful. It works similar to prescription based nasal sprays. I do have to use 3 sprays per nose for it to fully keep my sinuses at bay."
+                    ]
+                }
+            },
+            {
+                "period": "2025-09",
+                "reviews": 20,
+                "average_rating": 3.2,
+                "average_sentiment": 0.55,
+                "cluster_distribution": {
+                    "0": 0.45,
+                    "6": 0.35,
+                    "5": 0.15,
+                    "2": 0.05
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Didn't stop my nose from running like water. Maybe it just isn't meant for that type of problem. I think I'm reacting to something I'm allergic to but neither this nor Allegara pills are helping. I do know it's not a cold. The one star rating pertains to just how it doesn't help me. Your mileage may differ. I know it's a respected product, so give it a try.",
+                        "Nasalcort caused me terrible coughing! So if you have allergies like I do and, sometimes need help with a clogged nose, beware if you develop a cough or if your coughing gets worse, it may be allergy to this product."
+                    ],
+                    "negative_reviews": [
+                        "Didn't stop my nose from running like water. Maybe it just isn't meant for that type of problem. I think I'm reacting to something I'm allergic to but neither this nor Allegara pills are helping. I do know it's not a cold. The one star rating pertains to just how it doesn't help me. Your mileage may differ. I know it's a respected product, so give it a try.",
+                        "Nasalcort caused me terrible coughing! So if you have allergies like I do and, sometimes need help with a clogged nose, beware if you develop a cough or if your coughing gets worse, it may be allergy to this product."
+                    ]
+                }
+            },
+            {
+                "period": "2025-10",
+                "reviews": 43,
+                "average_rating": 4.419,
+                "average_sentiment": 0.855,
+                "cluster_distribution": {
+                    "6": 0.651,
+                    "0": 0.209,
+                    "8": 0.07,
+                    "5": 0.07
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Reliable, non-drowsy allergy relief that works all day Nasacort 24HR Allergy Nasal Spray has been my go-to during peak allergy season, and it consistently delivers. Within a day or two of starting it, my nasal congestion and sneezing eased up noticeably, and I was able to breathe more comfortably through the night. Unlike some other sprays, it doesnât sting, doesnât have a strong odor, and best of allâit doesnât make me drowsy. I like that one spray in each nostril in the morning is enough to keep symptoms under control for the full day. On rougher pollen days, Iâll use the recommended two sprays, then taper back down once symptoms improve. Itâs reassuring that it uses the same type of medicine doctors often prescribe, just at an over-the-counter strength. The bottle is compact and easy to toss in a bag if Iâm traveling, and the fine mist applicator delivers a consistent spray without dripping. Over time, Iâve found it works best when used daily, not just when symptoms flare, since it reduces inflammation at the source rather than just masking symptoms. Bottom line: If you need dependable all-day allergy relief without side effects like drowsiness or bad taste, Nasacort is an excellent option. Itâs effective, easy to use, and often works better than oral antihistamines for stubborn nasal congestion.",
+                        "This one is the best available in my opinion. The others have a scent that makes my sinuses worse. Nasacort has no detectable scent to me when I use it. This allows me to use it consistently and stay ahead of allergies and sinus congestion.",
+                        "I have used this for years under a Dr recommendation and itâs great!!! Follow directions, thatâs important!! It is not addictive !"
+                    ],
+                    "negative_reviews": [
+                        "Reliable, non-drowsy allergy relief that works all day Nasacort 24HR Allergy Nasal Spray has been my go-to during peak allergy season, and it consistently delivers. Within a day or two of starting it, my nasal congestion and sneezing eased up noticeably, and I was able to breathe more comfortably through the night. Unlike some other sprays, it doesnât sting, doesnât have a strong odor, and best of allâit doesnât make me drowsy. I like that one spray in each nostril in the morning is enough to keep symptoms under control for the full day. On rougher pollen days, Iâll use the recommended two sprays, then taper back down once symptoms improve. Itâs reassuring that it uses the same type of medicine doctors often prescribe, just at an over-the-counter strength. The bottle is compact and easy to toss in a bag if Iâm traveling, and the fine mist applicator delivers a consistent spray without dripping. Over time, Iâve found it works best when used daily, not just when symptoms flare, since it reduces inflammation at the source rather than just masking symptoms. Bottom line: If you need dependable all-day allergy relief without side effects like drowsiness or bad taste, Nasacort is an excellent option. Itâs effective, easy to use, and often works better than oral antihistamines for stubborn nasal congestion.",
+                        "This one is the best available in my opinion. The others have a scent that makes my sinuses worse. Nasacort has no detectable scent to me when I use it. This allows me to use it consistently and stay ahead of allergies and sinus congestion.",
+                        "I have used this for years under a Dr recommendation and itâs great!!! Follow directions, thatâs important!! It is not addictive !"
+                    ]
+                }
+            },
+            {
+                "period": "2025-11",
+                "reviews": 41,
+                "average_rating": 4.439,
+                "average_sentiment": 0.86,
+                "cluster_distribution": {
+                    "0": 0.683,
+                    "6": 0.195,
+                    "2": 0.073,
+                    "5": 0.024,
+                    "4": 0.024
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Antihistamines make me sleepy and dopy, I'd rather have a runny nose. But Nasacort does a good job drying up my nose without having any undesirable side effects. Remember that you have to use it every day, and it takes at least a week to feel the effects. You can't just squirt it in when you wake up with a runny nose. Be consistent, and it will work well for you.",
+                        "I have used Nasacort for years. Helps me with allegeries immensely. I buy here on Amazon because of good price and fast delivery. Does not make me drowsy. No side effects.",
+                        "Good product, non-addictive. I use it a lot during allergy attacks and when they subside I can stop using the product without any ill effects. I've used it for years, recommended by my doctor",
+                        "Received the package as described. No damage. Good price for a two pack. Will consider buying from this seller again.",
+                        "I wouldâve gave it 4 to 5 stars but I do not like the sprayer nozzle. It s hard to spray and hurts your nose trying to do it."
+                    ],
+                    "negative_reviews": [
+                        "It looks like there would be 4 nasal sprayers in this package, but there was only two (240 sprays). I paid more for this package ($36 and change) than a four pack of a previous purchase of 480. It was a total price gouge from that seller, not the current one. I do love Nasacort. I take generic Claritin (Loratadine) with Nasacort and it is a great combination for me for most of the year. I used take 600 or more diphenhydramine tablets every spring in addition to the Loratadine, which worked, but I was zombie-like for three months with detrimental effects on my prostate, blood pressure and other things. The price for this today is $24 and change which is more reasonable. I have been using online shopping since the beginning and I still get burned once in a great while.",
+                        "I wouldâve gave it 4 to 5 stars but I do not like the sprayer nozzle. It s hard to spray and hurts your nose trying to do it.",
+                        "Received the package as described. No damage. Good price for a two pack. Will consider buying from this seller again.",
+                        "Antihistamines make me sleepy and dopy, I'd rather have a runny nose. But Nasacort does a good job drying up my nose without having any undesirable side effects. Remember that you have to use it every day, and it takes at least a week to feel the effects. You can't just squirt it in when you wake up with a runny nose. Be consistent, and it will work well for you.",
+                        "I have used Nasacort for years. Helps me with allegeries immensely. I buy here on Amazon because of good price and fast delivery. Does not make me drowsy. No side effects."
+                    ]
+                }
+            },
+            {
+                "period": "2025-12",
+                "reviews": 7,
+                "average_rating": 3.857,
+                "average_sentiment": 0.714,
+                "cluster_distribution": {
+                    "0": 0.571,
+                    "5": 0.143,
+                    "8": 0.143,
+                    "6": 0.143
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I use this spray every day for multiple allergies in all seasons. I like this better than other nasal sprays because it does not have an offensive odor. I am very sensitive to fragrances, and this has been the best choice for me. Also, the Amazon prices are usually cheaper than retail elsewhere, so getting a pack of 4 lasts me about 4 months.",
+                        "I donât see how this product has a 4.7 rating. The bottle is awkward. The nozzle is not long enough to even get the mist up your nose well. Most of the medication runs right back out.",
+                        "these are way overpriced . Normally, these are available as a pack of 4-120 spray bottles for around 40 to 50 dollars. These were advertised as a pack of 4 so I purchased them. I received 2-120 spray bottles for 25 dollars each. Pure rip off."
+                    ],
+                    "negative_reviews": [
+                        "I donât see how this product has a 4.7 rating. The bottle is awkward. The nozzle is not long enough to even get the mist up your nose well. Most of the medication runs right back out.",
+                        "these are way overpriced . Normally, these are available as a pack of 4-120 spray bottles for around 40 to 50 dollars. These were advertised as a pack of 4 so I purchased them. I received 2-120 spray bottles for 25 dollars each. Pure rip off.",
+                        "I use this spray every day for multiple allergies in all seasons. I like this better than other nasal sprays because it does not have an offensive odor. I am very sensitive to fragrances, and this has been the best choice for me. Also, the Amazon prices are usually cheaper than retail elsewhere, so getting a pack of 4 lasts me about 4 months."
+                    ]
+                }
+            },
+            {
+                "period": "2026-01",
+                "reviews": 23,
+                "average_rating": 5.0,
+                "average_sentiment": 1.0,
+                "cluster_distribution": {
+                    "6": 0.391,
+                    "0": 0.348,
+                    "4": 0.13,
+                    "5": 0.13
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Reliable, non-drowsy allergy relief that works all day Nasacort 24HR Allergy Nasal Spray has been my go-to during peak allergy season, and it consistently delivers. Within a day or two of starting it, my nasal congestion and sneezing eased up noticeably, and I was able to breathe more comfortably through the night. Unlike some other sprays, it doesnât sting, doesnât have a strong odor, and best of allâit doesnât make me drowsy. I like that one spray in each nostril in the morning is enough to keep symptoms under control for the full day. On rougher pollen days, Iâll use the recommended two sprays, then taper back down once symptoms improve. Itâs reassuring that it uses the same type of medicine doctors often prescribe, just at an over-the-counter strength. The bottle is compact and easy to toss in a bag if Iâm traveling, and the fine mist applicator delivers a consistent spray without dripping. Over time, Iâve found it works best when used daily, not just when symptoms flare, since it reduces inflammation at the source rather than just masking symptoms. Bottom line: If you need dependable all-day allergy relief without side effects like drowsiness or bad taste, Nasacort is an excellent option. Itâs effective, easy to use, and often works better than oral antihistamines for stubborn nasal congestion.",
+                        "Iâve used Nasacort for probably over 6 months now, first recommended by my ENT doctor to help âdry out my systemâ (my words). Excellent product - highly recommend."
+                    ],
+                    "negative_reviews": [
+                        "Reliable, non-drowsy allergy relief that works all day Nasacort 24HR Allergy Nasal Spray has been my go-to during peak allergy season, and it consistently delivers. Within a day or two of starting it, my nasal congestion and sneezing eased up noticeably, and I was able to breathe more comfortably through the night. Unlike some other sprays, it doesnât sting, doesnât have a strong odor, and best of allâit doesnât make me drowsy. I like that one spray in each nostril in the morning is enough to keep symptoms under control for the full day. On rougher pollen days, Iâll use the recommended two sprays, then taper back down once symptoms improve. Itâs reassuring that it uses the same type of medicine doctors often prescribe, just at an over-the-counter strength. The bottle is compact and easy to toss in a bag if Iâm traveling, and the fine mist applicator delivers a consistent spray without dripping. Over time, Iâve found it works best when used daily, not just when symptoms flare, since it reduces inflammation at the source rather than just masking symptoms. Bottom line: If you need dependable all-day allergy relief without side effects like drowsiness or bad taste, Nasacort is an excellent option. Itâs effective, easy to use, and often works better than oral antihistamines for stubborn nasal congestion.",
+                        "Iâve used Nasacort for probably over 6 months now, first recommended by my ENT doctor to help âdry out my systemâ (my words). Excellent product - highly recommend."
+                    ]
+                }
+            },
+            {
+                "period": "2026-02",
+                "reviews": 22,
+                "average_rating": 5.0,
+                "average_sentiment": 1.0,
+                "cluster_distribution": {
+                    "6": 0.545,
+                    "0": 0.318,
+                    "8": 0.136
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "This works for me. I only use it on occasion for allergy/stuffy nose at night and it works well throughout the night. I must admit it is expensive but again, it does work.",
+                        "This was a repeat order and I am very satisfied with Nasacort 24HR Allergy Nasal Spray which was recommended by my medical doctor."
+                    ],
+                    "negative_reviews": [
+                        "This works for me. I only use it on occasion for allergy/stuffy nose at night and it works well throughout the night. I must admit it is expensive but again, it does work.",
+                        "This was a repeat order and I am very satisfied with Nasacort 24HR Allergy Nasal Spray which was recommended by my medical doctor."
+                    ]
+                }
+            },
+            {
+                "period": "2026-03",
+                "reviews": 26,
+                "average_rating": 4.885,
+                "average_sentiment": 0.971,
+                "cluster_distribution": {
+                    "6": 0.538,
+                    "0": 0.462
+                },
+                "representative_reviews": {
+                    "positive_reviews": [],
+                    "negative_reviews": []
+                }
+            },
+            {
+                "period": "2026-04",
+                "reviews": 28,
+                "average_rating": 4.857,
+                "average_sentiment": 0.964,
+                "cluster_distribution": {
+                    "6": 0.714,
+                    "0": 0.286
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "This is an almost year round necessity for me. Safe to use daily. Got me it controls my constant post nasal drip esp throughout both the fall & Spring allergy seasons .",
+                        "What my local pharmacy did not have, was the generic form. This is the brand name which contains at least 40% more of the product for very close to the same price, with insurance that CVS was going to charge. But they could not give me a date for its arrival. I had it within 2 days. Will order ahain whem I need it again. Thank you."
+                    ],
+                    "negative_reviews": [
+                        "This is an almost year round necessity for me. Safe to use daily. Got me it controls my constant post nasal drip esp throughout both the fall & Spring allergy seasons .",
+                        "What my local pharmacy did not have, was the generic form. This is the brand name which contains at least 40% more of the product for very close to the same price, with insurance that CVS was going to charge. But they could not give me a date for its arrival. I had it within 2 days. Will order ahain whem I need it again. Thank you."
+                    ]
+                }
+            },
+            {
+                "period": "2026-05",
+                "reviews": 52,
+                "average_rating": 4.904,
+                "average_sentiment": 0.976,
+                "cluster_distribution": {
+                    "6": 0.577,
+                    "0": 0.346,
+                    "5": 0.058,
+                    "1": 0.019
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Nasacort works great. But some medical reviews say that it speeds up cataracts. I'm 70 and still don't have bad cataracts. But it is something to consider. As for the allergies....Nasacort really works for me, when used every day.",
+                        "My ENT doctor recommended a steroid nose spray for management of allergy related nasal inflammation. I chose this value priced package of Nasocort for the price initially, but it works well at controlling my symptoms.",
+                        "I really like these dual package which you canât find in the stores. This sinus product works fast too .",
+                        "This is the only noise spray I will use. I get relief from it and it doesn't seem to bother me physically.",
+                        "This should be a 5-star rating. I rely on this product to get me through the seasons. The reason you are losing a star, Nasacort, is that you are playing fast and loose with the math in your marketing. I hope that this review helps all of the non-mathy people out there. Buy the two-pack of 120 sprays each! The rest of the identifications of $8 per ounce are way off. Nothing is more irritating than having to check each offer because you are preying on those who don't check the value. I know, it's marketing, what else can we expect with our current worldly examples? You, however, are a drug company that should represent the highest of ethical behavior. Either give us a deal or stop playing!"
+                    ],
+                    "negative_reviews": [
+                        "This should be a 5-star rating. I rely on this product to get me through the seasons. The reason you are losing a star, Nasacort, is that you are playing fast and loose with the math in your marketing. I hope that this review helps all of the non-mathy people out there. Buy the two-pack of 120 sprays each! The rest of the identifications of $8 per ounce are way off. Nothing is more irritating than having to check each offer because you are preying on those who don't check the value. I know, it's marketing, what else can we expect with our current worldly examples? You, however, are a drug company that should represent the highest of ethical behavior. Either give us a deal or stop playing!",
+                        "Nasacort works great. But some medical reviews say that it speeds up cataracts. I'm 70 and still don't have bad cataracts. But it is something to consider. As for the allergies....Nasacort really works for me, when used every day.",
+                        "My ENT doctor recommended a steroid nose spray for management of allergy related nasal inflammation. I chose this value priced package of Nasocort for the price initially, but it works well at controlling my symptoms.",
+                        "I really like these dual package which you canât find in the stores. This sinus product works fast too .",
+                        "This is the only noise spray I will use. I get relief from it and it doesn't seem to bother me physically."
+                    ]
+                }
+            },
+            {
+                "period": "2026-06",
+                "reviews": 36,
+                "average_rating": 4.833,
+                "average_sentiment": 0.958,
+                "cluster_distribution": {
+                    "0": 0.5,
+                    "6": 0.417,
+                    "5": 0.056,
+                    "1": 0.028
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "This stuff works, I was shocked. Itâs unpleasant shooting a mist of wet in my nose, sure, but I do because this product does what it says. No taste, no scent. It hits the trouble spot directly rather than taking a pill that courses around everywhere. And it works darn near immediately. Am I cured? No, Iâm doing shots now. But this is always at the ready because it works.",
+                        "Iâve used steroid nasal sprays of and on since they first came out. They all relieve my symptoms, but Nasacort is the only one that hasnât irritated and ended up making my nose bleed. Iâm going to try a generic, but will be happy to go back if itâs not as good.",
+                        "Iâve used this product for several years and I find it is a very good nasal spray. I highly recommend this product for allergy suffers. One spray does it for the whole day works very well and it is a great value. I have not noticed any side effects.",
+                        "The best nasal spray Iâve ever used in the past 55 years. My ENT recommended it a few years ago and really gets things unclogged.",
+                        "Well, I was a little concerned when ordering because the picture shows only one pack of the Nasacort. Within some of the reviews there was feedback that 2 packs were sent as advertised. I only received one pack. I have communicated with the seller and they have told me that they will send another pack, but I have not received confirmation of shipping yet. We will see. Hopefully they will do the right thing. The Nasacort is great for allergies. Just a problem with the seller this time. Update. I did receive the second pack of Nasacort today. Very quick response. Thank you seller. Just FYI - expiration date on both packs is 2/23, and they are intact and in good condition."
+                    ],
+                    "negative_reviews": [
+                        "Beware of expiration date on the medicine. I bought 120 squirt NasoCourt allergy spray on May 15, 2025 and it expire June 2025!",
+                        "Definitely helpful for my seasonal allergies and online prices are so much better than my local pharmacy! It also doesn't make me sleepy like some of my other allergy meds.",
+                        "This stuff works, I was shocked. Itâs unpleasant shooting a mist of wet in my nose, sure, but I do because this product does what it says. No taste, no scent. It hits the trouble spot directly rather than taking a pill that courses around everywhere. And it works darn near immediately. Am I cured? No, Iâm doing shots now. But this is always at the ready because it works.",
+                        "Iâve used steroid nasal sprays of and on since they first came out. They all relieve my symptoms, but Nasacort is the only one that hasnât irritated and ended up making my nose bleed. Iâm going to try a generic, but will be happy to go back if itâs not as good.",
+                        "Iâve used this product for several years and I find it is a very good nasal spray. I highly recommend this product for allergy suffers. One spray does it for the whole day works very well and it is a great value. I have not noticed any side effects."
+                    ]
+                }
+            },
+            {
+                "period": "2026-07",
+                "reviews": 36,
+                "average_rating": 4.583,
+                "average_sentiment": 0.896,
+                "cluster_distribution": {
+                    "6": 0.611,
+                    "0": 0.306,
+                    "5": 0.083
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Years ago, I used Flonase, but when my prescription ran out, I just used generic Zyrtec. I couldn't afford hundreds of dollars to see a doctor just to get a prescription. (and seriously, an office visit to my doctor group costs upwards of $220 just to walk in the door) The Zyrtec worked okay, but there were always several bad allergy days in spite of taking it. The day I saw a commercial for Nasacort over the counter, I looked it up on Amazon and bought it. Miracle! I received it about mid-April and started using it. We had a cold winter so my allergy season was delayed, so I lucked out on that and was able to prepare with the Nasacort a week or so before the allergies would have hit me hard. I kept waiting and waiting for the allergies to hit. Nothing. I feel like I don't even have allergies anymore! An unexpected benefit is that my disposable contact lenses, which I usually have to toss after week (and they are supposed to last two weeks), have actually been lasting the whole two weeks! I can only assume the decrease in protein deposits on the lenses has to do with the control of my allergies. At least some of the Nasacort must get into the eyes, maybe through the tear ducts. I don't know the how or why, but I just know that I'm saving money on contact lenses with this product. Best of all, it didn't cost me hundreds of dollars to go to the doctor to treat allergies I've already been diagnosed with.",
+                        "It says may take a week to notice improvement but I just took my first dose about four hours ago and after many days of extreme hay fever and pet allergy I feel normal again....or at least close to normal. I did notice a bit of an aftertaste if it goes down your throat but I like the fact that it in fragrance free unlike Flonase brand which is a good medication in its own right but after years of using Flonase it almost stopped working. So as of now I say nasacort is a good medication for my hay fever, dust, mold and pet allergy **review update. After just 24 hours I feel 100% better, I wouldn't say I have the worst allergies but I could compete with the worst allergy stories out there. Some days I sneeze so much my nose will bleed! I have a rat terrier and he tends to trigger my allergies the most because I can't help but love on him and rough him up, this morning it was great because I haven't had one sneeze attack and my nose is clear, breathing is much easier and I notice my eyes are not all itchy as they normally are after my dog and I play. I was a Flonase user for years and I have to say that just after 24 hours of nasacort I am sold on this medicine!",
+                        "I've had allergies my entire life - and this is the one product I've found that really works! I use it every morning after I get out of bed, and for the most part, am good the entire rest of the day! No need for extra allergy meds or anything! Love this! I've been using it for over 4 years now!",
+                        "I have been using this product for years. I was attacked by a dog who partially ripped my sinuses apart, so they don't clear properly. The NASACORT works exceptionally well, and I rarely get a sinus infection anymore.",
+                        "That is a very good nasal spray it use to be perception so now very nice to be able to order it without having a perception for it."
+                    ],
+                    "negative_reviews": [
+                        "The product is good, but I end up having to go to a local pharmacy because it always seems to be out of stock every month on my subscribe and save. Thatâs the reason for one star",
+                        "I have limited seasonal allergies -- specific allergies to certain tree pollens in the spring and leaf mold in the fall. Other than that, I don't usually have serious problems with allergies. Each allergy \"season\" lasts 2-3 weeks, but I get the full-blown allergic response: watery/swollen eyes, stuffy/runny nose, sneezing, etc. I also have asthma and COPD (emphysema), so I have to be careful with meds to make sure there's no negative interaction with my other pulmonary meds. My doc had prescribed Flonase -- no effect at all. Seriously, I might as well have squirted water up my nose. So I checked with him about trying this OTC Nasacort, got his OK, and ordered. IT WORKS!! Honestly, it worked so much better than I had expected. It took about 3 days to build up, and after that, I had almost no symptoms. I'd say it was probably 90% effective. I used it just until evergreen pollen season was over (about 2 to 2.5 weeks, tops). I never had any issues with insomnia, but that may be because I took it only for a couple of weeks. I'll take it again in the fall when the \"leaf mold season\" starts again. I wish I could find something that was 100% effective with no side effects, but so far, it hasn't happened. This works OK for now, so 4 stars (\"I like it\") from me.",
+                        "Package said 2 and only 1 arrived. Total sprays was 120 though when description said 60 for each dispenser, so we actually got the correct number of sprays but just in 1 dispenser. Confusing description here vs what actually came in the mail.",
+                        "Years ago, I used Flonase, but when my prescription ran out, I just used generic Zyrtec. I couldn't afford hundreds of dollars to see a doctor just to get a prescription. (and seriously, an office visit to my doctor group costs upwards of $220 just to walk in the door) The Zyrtec worked okay, but there were always several bad allergy days in spite of taking it. The day I saw a commercial for Nasacort over the counter, I looked it up on Amazon and bought it. Miracle! I received it about mid-April and started using it. We had a cold winter so my allergy season was delayed, so I lucked out on that and was able to prepare with the Nasacort a week or so before the allergies would have hit me hard. I kept waiting and waiting for the allergies to hit. Nothing. I feel like I don't even have allergies anymore! An unexpected benefit is that my disposable contact lenses, which I usually have to toss after week (and they are supposed to last two weeks), have actually been lasting the whole two weeks! I can only assume the decrease in protein deposits on the lenses has to do with the control of my allergies. At least some of the Nasacort must get into the eyes, maybe through the tear ducts. I don't know the how or why, but I just know that I'm saving money on contact lenses with this product. Best of all, it didn't cost me hundreds of dollars to go to the doctor to treat allergies I've already been diagnosed with.",
+                        "It says may take a week to notice improvement but I just took my first dose about four hours ago and after many days of extreme hay fever and pet allergy I feel normal again....or at least close to normal. I did notice a bit of an aftertaste if it goes down your throat but I like the fact that it in fragrance free unlike Flonase brand which is a good medication in its own right but after years of using Flonase it almost stopped working. So as of now I say nasacort is a good medication for my hay fever, dust, mold and pet allergy **review update. After just 24 hours I feel 100% better, I wouldn't say I have the worst allergies but I could compete with the worst allergy stories out there. Some days I sneeze so much my nose will bleed! I have a rat terrier and he tends to trigger my allergies the most because I can't help but love on him and rough him up, this morning it was great because I haven't had one sneeze attack and my nose is clear, breathing is much easier and I notice my eyes are not all itchy as they normally are after my dog and I play. I was a Flonase user for years and I have to say that just after 24 hours of nasacort I am sold on this medicine!"
+                    ]
+                }
+            }
+        ],
+        "review_volume": {
+            "current": 72,
+            "previous": 80,
+            "change_pct": -10.0
+        },
+        "rating": {
+            "current": 4.708,
+            "previous": 4.888,
+            "change": -0.18
+        },
+        "sentiment": {
+            "current": 0.927,
+            "previous": 0.972,
+            "change": -0.045
+        },
+        "emerging_clusters": [
+            {
+                "cluster": 0,
+                "share": 0.403,
+                "change": 0.087
+            },
+            {
+                "cluster": 5,
+                "share": 0.069,
+                "change": 0.04
+            },
+            {
+                "cluster": 1,
+                "share": 0.014,
+                "change": 0.004
+            },
+            {
+                "cluster": 6,
+                "share": 0.514,
+                "change": -0.132
+            }
+        ],
+        "declining_clusters": [
+            {
+                "cluster": 6,
+                "share": 0.514,
+                "change": -0.132
+            },
+            {
+                "cluster": 1,
+                "share": 0.014,
+                "change": 0.004
+            },
+            {
+                "cluster": 5,
+                "share": 0.069,
+                "change": 0.04
+            },
+            {
+                "cluster": 0,
+                "share": 0.403,
+                "change": 0.087
+            }
+        ]
+    }
+}

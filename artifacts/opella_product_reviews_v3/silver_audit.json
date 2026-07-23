@@ -1,0 +1,29 @@
+{
+    "subject_id": "ASIN",
+    "duplicates": {
+        "enabled": true,
+        "keep": "first"
+    },
+    "drop_features": [
+        "AUTHOR",
+        "BRAND_OWNER",
+        "PAID_REVIEW",
+        "REVIEW_SOURCE",
+        "SYNDICATED_REVIEW",
+        "UPC"
+    ],
+    "imputation": {
+        "mean": [],
+        "median": [],
+        "boolean_mode": [],
+        "categorical_mode": [
+            "SUMMARY",
+            "TEXT"
+        ]
+    },
+    "sentiment": {
+        "strategy": "rating",
+        "source_column": "STAR_RATING",
+        "confidence": 0.9
+    }
+}

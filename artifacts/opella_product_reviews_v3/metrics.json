@@ -1,0 +1,12 @@
+{
+    "algorithm": "GMM",
+    "n_samples": 54511,
+    "n_features": 10,
+    "estimated_clusters": 10,
+    "silhouette_score": 0.39669884827510643,
+    "calinski_harabasz_index": 33289.97010942887,
+    "algo_specific_metrics": {
+        "minimized_bic_score": -62986.12607492833,
+        "converged": true
+    }
+}

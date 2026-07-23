@@ -1,0 +1,1818 @@
+{
+    "product": {
+        "report_type": "brand",
+        "group_by": "BRAND_NAME",
+        "identifier": "Icy Hot",
+        "brand_name": "Icy Hot",
+        "products": 89,
+        "asin": [
+            "B00NIBMGXW",
+            "B0C4VTMPRX",
+            "B0CSZ5VPDH",
+            "B0D18492TT",
+            "B0DQX58SQ7",
+            "B0014E2NMY",
+            "B001G7QHT4",
+            "B0D14X6VFP",
+            "B0GFXG6X3P",
+            "B004GEXK2G",
+            "B06X91GH75",
+            "B08WHV9WJ7",
+            "B08WHYH5TD",
+            "B0FCZB82R5",
+            "B0GPY67T92",
+            "B0GX2QW675",
+            "B0GX2RHC7P",
+            "B0815J2P72",
+            "B0CN1KWXK2",
+            "B0GGT7RVG1",
+            "B001G7QRPI",
+            "B000GGFYYU",
+            "B001G7QQZO",
+            "B001G8Y9NO",
+            "B003M08KOS",
+            "B004GF2CGA",
+            "B00HSYJRNM",
+            "B00I9GQC6I",
+            "B00KGFSEZW",
+            "B01IAI2YLG",
+            "B073T65PS6",
+            "B0BJM18ZPJ",
+            "B0GFXYHNZR",
+            "B003LZPJNO",
+            "B00HA892HM",
+            "B00KHTEVLI",
+            "B01BI0XEIU",
+            "B01J1KD3FI",
+            "B001G7QHSK",
+            "B0FCZSM4Z3",
+            "B09QH91KSW",
+            "B09QH7VDJW",
+            "B08WHYBSM6",
+            "B0GFXN53WP",
+            "B0FCZJKGFK",
+            "B000GGFYZE",
+            "B01M4RK3QX",
+            "B0D14WL5DX",
+            "B0DQZR58ND",
+            "B0FCZ52F86",
+            "B0GX2J8ZK3",
+            "B08WHHLZTP",
+            "B00J2L65YS",
+            "B0D14W62FQ",
+            "B07T813W6S",
+            "B0GGSYG4B1",
+            "B0FRHJY3VD",
+            "B0014E2NO2",
+            "B001S8TQMG",
+            "B003LZW06I",
+            "B003LZZ2WC",
+            "B00IAJITYW",
+            "B06X91Q39D",
+            "B074N5GG78",
+            "B004LTSZWG",
+            "B07F1JYWRR",
+            "B0DSGYWXQN",
+            "B0D1QSJTFB",
+            "B08WHGHYFH",
+            "B0D14YPSKT",
+            "B0D1QHFRLN",
+            "B0DP3B73KP",
+            "B00OZ9QLIW",
+            "B0BYPNJZXV",
+            "B0FH7HHF6X",
+            "B0167JYC6K",
+            "B0DYXBBZTF",
+            "B08WHXNVHX",
+            "B0F38NGMRK",
+            "B0BJLDTYRF",
+            "B001G8Y9RA",
+            "B004AI50R6",
+            "B0924Y46XG",
+            "B0BJLG5CVN",
+            "B0BS9FNXMN",
+            "B0D128HWY3",
+            "B0D14XBDP9",
+            "B0D14XWLPZ",
+            "B0DP3DFW4J"
+        ],
+        "reviews": 4426,
+        "average_rating": 4.04,
+        "average_sentiment": 0.759
+    },
+    "macro_personas": [
+        {
+            "cluster": 7,
+            "universal_persona": {
+                "population": 4657,
+                "population_pct": 8.54,
+                "certainty": 0.995,
+                "positive_pct": 74.38,
+                "neutral_pct": 6.81,
+                "negative_pct": 18.81,
+                "avg_rating": 4.07,
+                "brand_distribution": {
+                    "Icy Hot": {
+                        "reviews": 2496,
+                        "share": 53.6
+                    },
+                    "Aspercreme": {
+                        "reviews": 1197,
+                        "share": 25.7
+                    },
+                    "Gold Bond": {
+                        "reviews": 548,
+                        "share": 11.77
+                    },
+                    "Cortizone 10": {
+                        "reviews": 190,
+                        "share": 4.08
+                    },
+                    "Dulcolax": {
+                        "reviews": 120,
+                        "share": 2.58
+                    },
+                    "Magne B6": {
+                        "reviews": 24,
+                        "share": 0.52
+                    },
+                    "Allegra": {
+                        "reviews": 22,
+                        "share": 0.47
+                    },
+                    "ACT": {
+                        "reviews": 19,
+                        "share": 0.41
+                    },
+                    "Zantac": {
+                        "reviews": 12,
+                        "share": 0.26
+                    },
+                    "Xyzal": {
+                        "reviews": 7,
+                        "share": 0.15
+                    },
+                    "Buscapina": {
+                        "reviews": 7,
+                        "share": 0.15
+                    },
+                    "Selsun Blue": {
+                        "reviews": 6,
+                        "share": 0.13
+                    },
+                    "Unisom": {
+                        "reviews": 4,
+                        "share": 0.09
+                    },
+                    "Nasacort": {
+                        "reviews": 3,
+                        "share": 0.06
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 2,
+                        "share": 0.04
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Pain Relief Prioritizers",
+                    "summary": "Customers seeking effective, targeted relief from muscle/joint pains.",
+                    "decision_drivers": [
+                        "Fast pain relief",
+                        "Long-lasting effects",
+                        "Targeted application",
+                        "Ease of use"
+                    ],
+                    "satisfaction_drivers": [
+                        "Quickly reduces pain",
+                        "Long duration of effects",
+                        "Convenient application",
+                        "No mess or residue"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective results",
+                        "Short-lived relief",
+                        "Difficult application",
+                        "Unpleasant smell/feel"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 7,
+                "share": 0.564,
+                "certainty": 0.999,
+                "reviews": 2496,
+                "average_rating": 4.01,
+                "average_sentiment": 0.754
+            },
+            "comparison": {
+                "share_lift": 6.6,
+                "rating_delta": -0.06
+            }
+        },
+        {
+            "cluster": 0,
+            "universal_persona": {
+                "population": 11231,
+                "population_pct": 20.6,
+                "certainty": 0.997,
+                "positive_pct": 86.88,
+                "neutral_pct": 4.03,
+                "negative_pct": 9.08,
+                "avg_rating": 4.49,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 3735,
+                        "share": 33.26
+                    },
+                    "Dulcolax": {
+                        "reviews": 1768,
+                        "share": 15.74
+                    },
+                    "Cortizone 10": {
+                        "reviews": 1000,
+                        "share": 8.9
+                    },
+                    "Icy Hot": {
+                        "reviews": 985,
+                        "share": 8.77
+                    },
+                    "ACT": {
+                        "reviews": 904,
+                        "share": 8.05
+                    },
+                    "Allegra": {
+                        "reviews": 743,
+                        "share": 6.62
+                    },
+                    "Aspercreme": {
+                        "reviews": 657,
+                        "share": 5.85
+                    },
+                    "Selsun Blue": {
+                        "reviews": 403,
+                        "share": 3.59
+                    },
+                    "Nasacort": {
+                        "reviews": 293,
+                        "share": 2.61
+                    },
+                    "Xyzal": {
+                        "reviews": 253,
+                        "share": 2.25
+                    },
+                    "Unisom": {
+                        "reviews": 215,
+                        "share": 1.91
+                    },
+                    "Zantac": {
+                        "reviews": 215,
+                        "share": 1.91
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 27,
+                        "share": 0.24
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 22,
+                        "share": 0.2
+                    },
+                    "Buscapina": {
+                        "reviews": 11,
+                        "share": 0.1
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Daily Wellness Maintainers",
+                    "summary": "Customers seeking reliable products to support everyday health routines and prevention.",
+                    "decision_drivers": [
+                        "Effectiveness",
+                        "Quality",
+                        "Trusted brand",
+                        "Ease of use"
+                    ],
+                    "satisfaction_drivers": [
+                        "Long-lasting relief",
+                        "Meets daily needs",
+                        "Minimal side effects",
+                        "Trusted solution"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short duration",
+                        "Unpleasant side effects",
+                        "Poor value"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 0,
+                "share": 0.223,
+                "certainty": 0.998,
+                "reviews": 985,
+                "average_rating": 4.33,
+                "average_sentiment": 0.832
+            },
+            "comparison": {
+                "share_lift": 1.08,
+                "rating_delta": -0.16
+            }
+        },
+        {
+            "cluster": 2,
+            "universal_persona": {
+                "population": 2128,
+                "population_pct": 3.9,
+                "certainty": 1.0,
+                "positive_pct": 91.92,
+                "neutral_pct": 2.11,
+                "negative_pct": 5.97,
+                "avg_rating": 4.67,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 556,
+                        "share": 26.13
+                    },
+                    "Icy Hot": {
+                        "reviews": 272,
+                        "share": 12.78
+                    },
+                    "Selsun Blue": {
+                        "reviews": 258,
+                        "share": 12.12
+                    },
+                    "Cortizone 10": {
+                        "reviews": 222,
+                        "share": 10.43
+                    },
+                    "Dulcolax": {
+                        "reviews": 199,
+                        "share": 9.35
+                    },
+                    "Allegra": {
+                        "reviews": 143,
+                        "share": 6.72
+                    },
+                    "ACT": {
+                        "reviews": 136,
+                        "share": 6.39
+                    },
+                    "Aspercreme": {
+                        "reviews": 123,
+                        "share": 5.78
+                    },
+                    "Buscapina": {
+                        "reviews": 97,
+                        "share": 4.56
+                    },
+                    "Unisom": {
+                        "reviews": 50,
+                        "share": 2.35
+                    },
+                    "Xyzal": {
+                        "reviews": 38,
+                        "share": 1.79
+                    },
+                    "Zantac": {
+                        "reviews": 16,
+                        "share": 0.75
+                    },
+                    "Nasacort": {
+                        "reviews": 13,
+                        "share": 0.61
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 4,
+                        "share": 0.19
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.05
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Oral Hygiene Prioritizers",
+                    "summary": "Customers focused on maintaining good oral health through daily routines.",
+                    "decision_drivers": [
+                        "Dentist recommended",
+                        "Proven effectiveness",
+                        "Kid-friendly options",
+                        "Convenient usage"
+                    ],
+                    "satisfaction_drivers": [
+                        "Fresh breath",
+                        "Prevents cavities/gum issues",
+                        "Easy to use",
+                        "Pleasant taste/scent"
+                    ],
+                    "frustration_drivers": [
+                        "Unpleasant taste/smell",
+                        "Ineffective results",
+                        "Difficult to use",
+                        "Harsh ingredients"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 2,
+                "share": 0.061,
+                "certainty": 1.0,
+                "reviews": 272,
+                "average_rating": 4.81,
+                "average_sentiment": 0.953
+            },
+            "comparison": {
+                "share_lift": 1.56,
+                "rating_delta": 0.14
+            }
+        },
+        {
+            "cluster": 5,
+            "universal_persona": {
+                "population": 4604,
+                "population_pct": 8.45,
+                "certainty": 0.995,
+                "positive_pct": 22.26,
+                "neutral_pct": 13.66,
+                "negative_pct": 64.07,
+                "avg_rating": 2.21,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 3046,
+                        "share": 66.16
+                    },
+                    "Cortizone 10": {
+                        "reviews": 312,
+                        "share": 6.78
+                    },
+                    "Icy Hot": {
+                        "reviews": 242,
+                        "share": 5.26
+                    },
+                    "Aspercreme": {
+                        "reviews": 216,
+                        "share": 4.69
+                    },
+                    "ACT": {
+                        "reviews": 211,
+                        "share": 4.58
+                    },
+                    "Dulcolax": {
+                        "reviews": 157,
+                        "share": 3.41
+                    },
+                    "Allegra": {
+                        "reviews": 139,
+                        "share": 3.02
+                    },
+                    "Nasacort": {
+                        "reviews": 87,
+                        "share": 1.89
+                    },
+                    "Xyzal": {
+                        "reviews": 68,
+                        "share": 1.48
+                    },
+                    "Zantac": {
+                        "reviews": 58,
+                        "share": 1.26
+                    },
+                    "Selsun Blue": {
+                        "reviews": 42,
+                        "share": 0.91
+                    },
+                    "Unisom": {
+                        "reviews": 17,
+                        "share": 0.37
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 3,
+                        "share": 0.07
+                    },
+                    "Buscapina": {
+                        "reviews": 3,
+                        "share": 0.07
+                    },
+                    "Magne B6": {
+                        "reviews": 2,
+                        "share": 0.04
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Product Experience Critics",
+                    "summary": "Customers focused on product usability and delivery mechanisms over ingredients.",
+                    "decision_drivers": [
+                        "Ease of application",
+                        "Convenient packaging",
+                        "Innovative delivery"
+                    ],
+                    "satisfaction_drivers": [
+                        "Hassle-free usage",
+                        "Precise application",
+                        "Portable packaging"
+                    ],
+                    "frustration_drivers": [
+                        "Difficult application",
+                        "Faulty packaging/sprayers",
+                        "Messy or wasteful"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 5,
+                "share": 0.055,
+                "certainty": 0.996,
+                "reviews": 242,
+                "average_rating": 2.47,
+                "average_sentiment": 0.368
+            },
+            "comparison": {
+                "share_lift": 0.65,
+                "rating_delta": 0.26
+            }
+        },
+        {
+            "cluster": 1,
+            "universal_persona": {
+                "population": 12457,
+                "population_pct": 22.85,
+                "certainty": 0.994,
+                "positive_pct": 84.42,
+                "neutral_pct": 5.59,
+                "negative_pct": 9.99,
+                "avg_rating": 4.43,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 9823,
+                        "share": 78.86
+                    },
+                    "Cortizone 10": {
+                        "reviews": 1986,
+                        "share": 15.94
+                    },
+                    "Icy Hot": {
+                        "reviews": 180,
+                        "share": 1.44
+                    },
+                    "Aspercreme": {
+                        "reviews": 177,
+                        "share": 1.42
+                    },
+                    "Selsun Blue": {
+                        "reviews": 102,
+                        "share": 0.82
+                    },
+                    "Allegra": {
+                        "reviews": 75,
+                        "share": 0.6
+                    },
+                    "ACT": {
+                        "reviews": 50,
+                        "share": 0.4
+                    },
+                    "Dulcolax": {
+                        "reviews": 39,
+                        "share": 0.31
+                    },
+                    "Xyzal": {
+                        "reviews": 10,
+                        "share": 0.08
+                    },
+                    "Magne B6": {
+                        "reviews": 8,
+                        "share": 0.06
+                    },
+                    "Nasacort": {
+                        "reviews": 6,
+                        "share": 0.05
+                    },
+                    "Unisom": {
+                        "reviews": 1,
+                        "share": 0.01
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Skin Condition Soothers",
+                    "summary": "Customers looking for effective relief from persistent skin irritations and conditions.",
+                    "decision_drivers": [
+                        "Fast-acting",
+                        "Gentle formulation",
+                        "Proven ingredients",
+                        "Dermatologist recommended"
+                    ],
+                    "satisfaction_drivers": [
+                        "Reduces itching/irritation",
+                        "Promotes healing",
+                        "Long-lasting effects",
+                        "Safe for sensitive skin"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective results",
+                        "Further irritation",
+                        "Short-lived relief",
+                        "Harsh ingredients"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 1,
+                "share": 0.041,
+                "certainty": 0.994,
+                "reviews": 180,
+                "average_rating": 3.83,
+                "average_sentiment": 0.707
+            },
+            "comparison": {
+                "share_lift": 0.18,
+                "rating_delta": -0.6
+            }
+        },
+        {
+            "cluster": 8,
+            "universal_persona": {
+                "population": 6837,
+                "population_pct": 12.54,
+                "certainty": 0.99,
+                "positive_pct": 85.61,
+                "neutral_pct": 3.89,
+                "negative_pct": 10.5,
+                "avg_rating": 4.44,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 6144,
+                        "share": 89.86
+                    },
+                    "Aspercreme": {
+                        "reviews": 242,
+                        "share": 3.54
+                    },
+                    "Icy Hot": {
+                        "reviews": 161,
+                        "share": 2.35
+                    },
+                    "Selsun Blue": {
+                        "reviews": 96,
+                        "share": 1.4
+                    },
+                    "Cortizone 10": {
+                        "reviews": 72,
+                        "share": 1.05
+                    },
+                    "Dulcolax": {
+                        "reviews": 48,
+                        "share": 0.7
+                    },
+                    "ACT": {
+                        "reviews": 41,
+                        "share": 0.6
+                    },
+                    "Allegra": {
+                        "reviews": 13,
+                        "share": 0.19
+                    },
+                    "Nasacort": {
+                        "reviews": 7,
+                        "share": 0.1
+                    },
+                    "Unisom": {
+                        "reviews": 5,
+                        "share": 0.07
+                    },
+                    "Magne B6": {
+                        "reviews": 5,
+                        "share": 0.07
+                    },
+                    "Xyzal": {
+                        "reviews": 2,
+                        "share": 0.03
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.01
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Comfort First Consumers",
+                    "summary": "Customers focused on products that provide comfort, freshness and prevent irritation.",
+                    "decision_drivers": [
+                        "Prevents chafing/irritation",
+                        "Absorbs moisture/sweat",
+                        "Long-lasting freshness",
+                        "Gentle formulation"
+                    ],
+                    "satisfaction_drivers": [
+                        "Stays dry and fresh",
+                        "Soothes irritated skin",
+                        "Easy to apply",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective absorption",
+                        "Short duration of effects",
+                        "Unpleasant smell/residue",
+                        "Causes further irritation"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 8,
+                "share": 0.036,
+                "certainty": 0.979,
+                "reviews": 161,
+                "average_rating": 3.76,
+                "average_sentiment": 0.691
+            },
+            "comparison": {
+                "share_lift": 0.29,
+                "rating_delta": -0.68
+            }
+        },
+        {
+            "cluster": 6,
+            "universal_persona": {
+                "population": 5088,
+                "population_pct": 9.33,
+                "certainty": 0.995,
+                "positive_pct": 78.3,
+                "neutral_pct": 5.76,
+                "negative_pct": 15.94,
+                "avg_rating": 4.2,
+                "brand_distribution": {
+                    "Dulcolax": {
+                        "reviews": 1835,
+                        "share": 36.07
+                    },
+                    "Allegra": {
+                        "reviews": 1028,
+                        "share": 20.2
+                    },
+                    "Unisom": {
+                        "reviews": 743,
+                        "share": 14.6
+                    },
+                    "Xyzal": {
+                        "reviews": 443,
+                        "share": 8.71
+                    },
+                    "Nasacort": {
+                        "reviews": 324,
+                        "share": 6.37
+                    },
+                    "Zantac": {
+                        "reviews": 179,
+                        "share": 3.52
+                    },
+                    "Gold Bond": {
+                        "reviews": 159,
+                        "share": 3.12
+                    },
+                    "ACT": {
+                        "reviews": 116,
+                        "share": 2.28
+                    },
+                    "Cortizone 10": {
+                        "reviews": 75,
+                        "share": 1.47
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 66,
+                        "share": 1.3
+                    },
+                    "Icy Hot": {
+                        "reviews": 48,
+                        "share": 0.94
+                    },
+                    "Aspercreme": {
+                        "reviews": 25,
+                        "share": 0.49
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 23,
+                        "share": 0.45
+                    },
+                    "Selsun Blue": {
+                        "reviews": 12,
+                        "share": 0.24
+                    },
+                    "Buscapina": {
+                        "reviews": 11,
+                        "share": 0.22
+                    },
+                    "Magne B6": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Symptom Relief Seekers",
+                    "summary": "Customers looking for fast, effective relief from acute symptoms.",
+                    "decision_drivers": [
+                        "Fast-acting",
+                        "Proven effectiveness",
+                        "Long-lasting relief",
+                        "Minimal side effects"
+                    ],
+                    "satisfaction_drivers": [
+                        "Quickly alleviates symptoms",
+                        "Long duration of effects",
+                        "No harsh side effects",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short-lived effects",
+                        "Unpleasant side effects",
+                        "Inconvenient usage"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 6,
+                "share": 0.011,
+                "certainty": 0.994,
+                "reviews": 48,
+                "average_rating": 4.25,
+                "average_sentiment": 0.812
+            },
+            "comparison": {
+                "share_lift": 0.12,
+                "rating_delta": 0.05
+            }
+        },
+        {
+            "cluster": 3,
+            "universal_persona": {
+                "population": 6176,
+                "population_pct": 11.33,
+                "certainty": 0.999,
+                "positive_pct": 84.5,
+                "neutral_pct": 5.04,
+                "negative_pct": 10.46,
+                "avg_rating": 4.42,
+                "brand_distribution": {
+                    "ACT": {
+                        "reviews": 5502,
+                        "share": 89.09
+                    },
+                    "Dulcolax": {
+                        "reviews": 324,
+                        "share": 5.25
+                    },
+                    "Xyzal": {
+                        "reviews": 104,
+                        "share": 1.68
+                    },
+                    "Allegra": {
+                        "reviews": 78,
+                        "share": 1.26
+                    },
+                    "Gold Bond": {
+                        "reviews": 74,
+                        "share": 1.2
+                    },
+                    "Icy Hot": {
+                        "reviews": 24,
+                        "share": 0.39
+                    },
+                    "Cortizone 10": {
+                        "reviews": 21,
+                        "share": 0.34
+                    },
+                    "Zantac": {
+                        "reviews": 14,
+                        "share": 0.23
+                    },
+                    "Unisom": {
+                        "reviews": 13,
+                        "share": 0.21
+                    },
+                    "Aspercreme": {
+                        "reviews": 10,
+                        "share": 0.16
+                    },
+                    "Selsun Blue": {
+                        "reviews": 9,
+                        "share": 0.15
+                    },
+                    "Buscapina": {
+                        "reviews": 1,
+                        "share": 0.02
+                    },
+                    "Nasacort": {
+                        "reviews": 1,
+                        "share": 0.02
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Pediatric Care Facilitators",
+                    "summary": "Parents/caregivers seeking safe, effective solutions for children's health needs.",
+                    "decision_drivers": [
+                        "Kid-friendly formulations",
+                        "Gentle ingredients",
+                        "Proven effectiveness",
+                        "Pediatrician recommended"
+                    ],
+                    "satisfaction_drivers": [
+                        "Easy administration",
+                        "Fast-acting relief",
+                        "No harsh side effects",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Unpleasant taste/smell",
+                        "Difficulty administering",
+                        "Lack of results",
+                        "Harsh side effects"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 3,
+                "share": 0.005,
+                "certainty": 0.993,
+                "reviews": 24,
+                "average_rating": 4.5,
+                "average_sentiment": 0.875
+            },
+            "comparison": {
+                "share_lift": 0.04,
+                "rating_delta": 0.08
+            }
+        },
+        {
+            "cluster": 4,
+            "universal_persona": {
+                "population": 339,
+                "population_pct": 0.62,
+                "certainty": 1.0,
+                "positive_pct": 97.94,
+                "neutral_pct": 1.47,
+                "negative_pct": 0.59,
+                "avg_rating": 4.81,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 132,
+                        "share": 38.94
+                    },
+                    "Cortizone 10": {
+                        "reviews": 42,
+                        "share": 12.39
+                    },
+                    "Dulcolax": {
+                        "reviews": 30,
+                        "share": 8.85
+                    },
+                    "Allegra": {
+                        "reviews": 28,
+                        "share": 8.26
+                    },
+                    "Selsun Blue": {
+                        "reviews": 26,
+                        "share": 7.67
+                    },
+                    "ACT": {
+                        "reviews": 25,
+                        "share": 7.37
+                    },
+                    "Aspercreme": {
+                        "reviews": 17,
+                        "share": 5.01
+                    },
+                    "Icy Hot": {
+                        "reviews": 14,
+                        "share": 4.13
+                    },
+                    "Zantac": {
+                        "reviews": 8,
+                        "share": 2.36
+                    },
+                    "Nasacort": {
+                        "reviews": 7,
+                        "share": 2.06
+                    },
+                    "Xyzal": {
+                        "reviews": 7,
+                        "share": 2.06
+                    },
+                    "Buscapina": {
+                        "reviews": 1,
+                        "share": 0.29
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 1,
+                        "share": 0.29
+                    },
+                    "Unisom": {
+                        "reviews": 1,
+                        "share": 0.29
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Trusted Solution Seekers",
+                    "summary": "Customers prioritizing proven, reliable products from trusted brands.",
+                    "decision_drivers": [
+                        "Trusted brand reputation",
+                        "Proven effectiveness",
+                        "Quality ingredients",
+                        "Good value"
+                    ],
+                    "satisfaction_drivers": [
+                        "Delivers expected results",
+                        "Long-lasting effects",
+                        "Minimal side effects",
+                        "Worth the cost"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short duration of effects",
+                        "Unpleasant side effects",
+                        "Poor value for money"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 4,
+                "share": 0.003,
+                "certainty": 1.0,
+                "reviews": 14,
+                "average_rating": 4.64,
+                "average_sentiment": 0.911
+            },
+            "comparison": {
+                "share_lift": 0.48,
+                "rating_delta": -0.17
+            }
+        },
+        {
+            "cluster": 9,
+            "universal_persona": {
+                "population": 994,
+                "population_pct": 1.82,
+                "certainty": 1.0,
+                "positive_pct": 81.69,
+                "neutral_pct": 4.12,
+                "negative_pct": 14.19,
+                "avg_rating": 4.31,
+                "brand_distribution": {
+                    "Selsun Blue": {
+                        "reviews": 976,
+                        "share": 98.19
+                    },
+                    "Cortizone 10": {
+                        "reviews": 5,
+                        "share": 0.5
+                    },
+                    "Gold Bond": {
+                        "reviews": 4,
+                        "share": 0.4
+                    },
+                    "ACT": {
+                        "reviews": 4,
+                        "share": 0.4
+                    },
+                    "Icy Hot": {
+                        "reviews": 4,
+                        "share": 0.4
+                    },
+                    "Allegra": {
+                        "reviews": 1,
+                        "share": 0.1
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Scalp Care Specialists",
+                    "summary": "Customers dealing with persistent scalp issues like dandruff or dryness.",
+                    "decision_drivers": [
+                        "Proven effectiveness",
+                        "Dermatologist recommended",
+                        "Gentle formulation",
+                        "Convenient usage"
+                    ],
+                    "satisfaction_drivers": [
+                        "Eliminates flakes/itchiness",
+                        "Soothes scalp irritation",
+                        "Easy to use",
+                        "No harsh ingredients"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Further irritation",
+                        "Unpleasant smell",
+                        "Drying effects"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 9,
+                "share": 0.001,
+                "certainty": 1.0,
+                "reviews": 4,
+                "average_rating": 1.0,
+                "average_sentiment": 0.0
+            },
+            "comparison": {
+                "share_lift": 0.05,
+                "rating_delta": -3.31
+            }
+        }
+    ],
+    "trend_analysis": {
+        "timeline": [
+            {
+                "period": "2024-12",
+                "reviews": 261,
+                "average_rating": 3.713,
+                "average_sentiment": 0.678,
+                "cluster_distribution": {
+                    "7": 0.582,
+                    "0": 0.264,
+                    "5": 0.042,
+                    "1": 0.038,
+                    "2": 0.031,
+                    "8": 0.031,
+                    "6": 0.011
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "NoÃ¶ne warned me that at room temperature this feels mighty cold when first being applied to the lower back. I may take advantage of the resealable pouch by heating up some water, then putting the (resealed) pouch in the water to pre-warm them. For those of you with a little more back hair, I might recommend shaving the area before application, otherwise removal may be a bit dramatic. The application/removal part is only secondary. The primary reason to get these was for some lower-back pain relief. I wasn't quite sure how effective they would be, but was surprised that it did live up to the claims and allowed my back muscles to relax so I could finally move around again. The large size ensured good coverage beyond just the troublesome area. It stayed in place and was mess-free. I can't think of any REAL cons to this product, and, in fact, am adding another package to my cart. I'll probably store it in one of my cars as I love to road trip but my back doesn't love the seat in my car, and sometimes after just 2hrs of driving, getting out of the car is a real hassle.",
+                        "A must have for me at the gym or after! Icy Hot patches are a lifesaver for my gym sessions! They provide instant relief for sore muscles and tension, allowing me to push through my workouts without discomfort. The dual-action formula of cooling and warming sensations works wonders for my recovery. I love how easy they are to applyâjust peel and stick! They stay in place during my workouts and provide long-lasting relief. Even when I'm sweaty they stay! Amazing!",
+                        "I don't normally order this sort of stuff online but after seeing the price at the grocery store decided to check Amazon and it was definitely cheaper. These patches are perfect size for shoulder, base of the neck, back of the calf. They also last a long time. Once you put them on, they stay where you put them. I've tried the other brands and Icy Hot works the best.",
+                        "I was pleasantly surprised to get some relief wearing these (as well as an elastic back brace for support) after spraining my lower back 1 week ago. After wearing for approx 8 hours I FINALLY noticed relief. I just applied my second patch and canât wait to see how itâs feeling when I wake up. Thereâs finally hope Iâll heal up!",
+                        "It's hard to rate a product so trusted like Icy hot. It's fast acting speed and value is well known. These cans are more durable them the old ones and they deffenetly knock out that muscle strain and help with pain relief. Point and spray easy to use and less smell then before."
+                    ],
+                    "negative_reviews": [
+                        "This provided absolutely zero pain relief or sensation of applied menthol, which was very disappointing as icy hot is typically very effective. I purchased this as a two pack and neither provided any sensation or pain relief at all. Worse yet, when I attempted to use them the second day, both spray nozzles were clogged and did not spray at all. Do yourself a favor and stick to the menthol rubs, as this spray was a complete waste of time and money.",
+                        "I put these on clean, bare skin but they do not stay on when applied and start rolling at the edges within no time. I canât say if theyâre effective because to be effective theyâd have to stay in place. Iâm going back to salonpas. They stay on quite well. Iâd say maybe I got a bad batch of these but looking at others experiences, that doesnât seem to be the case.",
+                        "Do not waste your money on this item. It does not stick to effected area for even a minute. In my case my knee. Even when I held it on the area it didn't feel icy or feel like it was doing anything. I tried more than one and it did the same thing. Buyer be beware stay away from this item.",
+                        "I have a fractured rib and bought this product from CVS - it worked as it said it would. I could not get to the store again so I bought 2 off Amazon for âsame day serviceâ. They did not stick, were not icy or hot - expiration is 2027. DO NOT BUY!!",
+                        "I was not able to press the Cao to get the spray to work. I tried several times thinking I was crazy. I turned the cap made sure it was open but nothing. And then I found out I can't return it. So my money went down the drain."
+                    ]
+                }
+            },
+            {
+                "period": "2025-01",
+                "reviews": 73,
+                "average_rating": 3.384,
+                "average_sentiment": 0.596,
+                "cluster_distribution": {
+                    "7": 0.534,
+                    "5": 0.205,
+                    "0": 0.192,
+                    "8": 0.027,
+                    "2": 0.027,
+                    "3": 0.014
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I could not function without my Icey Hot! I use this and even put the \"roll on\" over it. I was standing on top of a 3ft desk straightening curtains over three years ago. I stepped back forgetting where I was and fell off. I had three neck surgeries in the past so all I kept saying was protect the neck. My head never touched the floor but my left shoulder, elbow, and hip took the brunt of it! Mostly my shoulder. I seemed okay but was in pain. Waited a few weeks to go see a doctor. He said it was my neck and I had six needle injections. Kept telling them that my shoulder and upper arm hurt and kept me from sleeping. The doctor just did not listen. Went to a new doctor who immediately ordered a MRI. My rotator cuff was badly ripped and I had a bone spur on top of my shoulder. Needed surgery. I had been using only Icey Hot Pro cream and the original roll on Icey Hot. Carried a roll on in my purse. Stomach issues prevent me from taking any anti-inflammatory medicine or aspirin. Slept with ice bags and had my heating pad to help at night. Had the surgery. It was my 13th surgery. They had to use a plastic screw to attach the torn ligament. Never again! I used Icey Hot to help me get through recovery and PT. Well, last March, I ripped my right rotator cuff and once again, Icey Hot Pro and the roll on Icey Hot became my saving grace! Two Orthopedic surgeons say I need surgery. I am trying Stem Cell next week. Just can not go through that surgery again. I am right handed!! I have used Icey Hot, ice and heat to get through. Nights are the worst! I keep Icey Hot by my bed, in my purse, and several places around the house! I can not do without it. Have tried other products through those years but nothing works like the strong Icey Hot. Menthal is my new perfume smell! God bless the Icey Hot inventor and the company! I truly can not live without it!",
+                        "This is the second box I have purchased. I have no idea what I did to my elbow, but let me tell you, these patches are lifesaver !!!!! The menthol cooling sensation is wonderful, and it lasts so long. I don't know if it's just in my mind, but the day after I put these patches on, it feels like I'm completely healed! And such great value for the money as well!!! patches are not too sticky, but just sticky enough where it doesn't leave residue behind",
+                        "Icy Hot patches' dual-action cooling and warming composition offers quick, efficient pain relief. They are simple to use, remain firmly in position, and provide up to eight hours of relief from stiffness, joint pain, and tight muscles. They're ideal for anyone needing quick, targeted relief.",
+                        "I use icy, hot a lot! And in the past, people have sucked critique or rolled their eyes when I asked them to apply it to my back for me, but with this bottle I never get any pushback.",
+                        "Good adhesion. I cut them to fit and then tightly close the package. I wrap a Coban or k-tape over it. It is like magic. A must have for the medicine chest so that it is immediately available."
+                    ],
+                    "negative_reviews": [
+                        "I am so disappointed in these patches. They do not stick well. I am cutting them to use on my neck and they curl up within minutes and fall off when I go to sleep. I have used the non-lidocaine Salon Pas patches for years and they work well and stay in place. Decided to try these as frequent use of Salin Pas does irritate my skin. I do not have oily skin and cannot figure out why this brand doesn't adhere.",
+                        "I used this as soon as it came, it stinks and does NOTHING. I was shocked, I have used regular Icy Hot for decades, because THAT works. THIS stuff stinks, even the cats couldn't stand it, I could not touch them until I washed my hands 3 times! There is no noticable relief in my thumb joint at all. HOw is this possible?? I get hours of relief with regular ICY HOT. Summing up, I hate this stuff.",
+                        "At first I thought it was just me, but after reading reviews, I realized others have had same experience. I followed directions, placing pad on clean dry skin, but it did nothing, absolutely nothing! No cool, no warmth. A waste of money for me. Wish I could return but I understand why not possible.",
+                        "Very unsatisfied. The patches donât stick to your skin. Get the Amazon brand itâs way better quality. Also item is not returnable and I bought two packs that are going in the trash. Donât buy.",
+                        "These are very difficult to apply and once on they do nothing to help with pain. No heat or cold. Totally worthless!"
+                    ]
+                }
+            },
+            {
+                "period": "2025-02",
+                "reviews": 41,
+                "average_rating": 3.244,
+                "average_sentiment": 0.561,
+                "cluster_distribution": {
+                    "7": 0.585,
+                    "5": 0.146,
+                    "0": 0.122,
+                    "1": 0.049,
+                    "2": 0.049,
+                    "8": 0.049
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "If you are looking for a fast and effective pain relief, this icy hot patches are absolute game changer. Here is why: 1. These patches deliver on their promise of relief. The cooling sensation kicks in almost immediately. The cool soothes sore muscles and when the heat follows, it eases stiffness and tension. 2. The size of the patches are perfect. It covers large area. It's perfect for back pain and shoulder pain. 3. It lasts for hours. I can go about my day without constantly thinking about the discomfort. 4. it's very easy to apply and remove. Just peel them off and stick them on. 5. Quality is great. The patches stay in place nicely and when it's time to take them off, they come out without any fuss.",
+                        "Bought these for lower back pain, but worked so well I started using them during my cycle. They do have the signature tingle and smell of classic icy hot. I tend to like this smell, but if you dont it doesnt linger too much after application. and probably depends on where you apply it. I do wish they were a bit bigger. Or came in a variety of size pack.",
+                        "I have back issues and when the flare up I use these for testosterone easy to use, very effective and very durable and comfortable.",
+                        "Excellent product. I put it on my painful back and knees before bed. It helps ease the pain so that I can fall asleep.",
+                        "This product is impossible to find in local stores. We need these frequently and if itâs on my back or shoulder, my husband puts it on me. If itâs on the front of our bodies we do it ourselves. Pain relief is great for 8 hours!"
+                    ],
+                    "negative_reviews": [
+                        "If this has never done anything for you, donât worry; it still wonât. I donât feel anything icy or hot. All it does is stink to high hell and open up your sinusâ, even if you donât want it to. Donât waste your money; I already did that for you.",
+                        "I would give this zero stars but itâs not an option. Do not buy this if you want the option to return because you will not be able to. Totally ineffective, does not work. I felt absolutely no difference in pain or numbness in the area of my back where I needed it and I never take any pain medication of any kind and expected at least a little relief. I would like to have gotten my money back but was not given the option to do so.",
+                        "This are definitely not good quality, very frustrating, they do not stick to the skin and with any movement they become lose. Do not recommend.",
+                        "Recently, I purchased a 3 ounce product and I pressed by it again so for the same amount, I got 1/3 of the product. Very disappointed.",
+                        "The factory crimp failed and product shot out of the back of the container the first time I tried to use it. Thankfully, the weird bumpy thing on the other end is useless so I wasn't that disappointed that I could not use the applicator as intended. It is no more effective than cheaper versions."
+                    ]
+                }
+            },
+            {
+                "period": "2025-03",
+                "reviews": 27,
+                "average_rating": 3.704,
+                "average_sentiment": 0.676,
+                "cluster_distribution": {
+                    "7": 0.519,
+                    "0": 0.333,
+                    "2": 0.111,
+                    "5": 0.037
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I've tried nearly all the patches. When I hit the Icy Hot Max patches I was psyched. There's nothing better than lidocaine and menthol. It's by far the best out there in my opinion. I usually rub the affected area down with Icy Hot Max cream, let it dry then apply the patch. They are sticky, as much as most others. I always tape or wrap the patch so it doesn't accidentally take a break. Good stuff for the cash, it's easy to use and it helps stop the pain, most importantly. I put one on at night and I can still feel 'heat' from it in the morning. I wish they'd make the large patches in Max.",
+                        "Lo uso para ponerle a mi bebÃ© en sus piernas cuando lo vacunan y de verdad me lo alivia mucho!",
+                        "Extremely helpful when waking up with a stiff neck or back that is out of whack. Easy to apply and remove. Long lasting.",
+                        "Bought at Walmart Worked really well for my pain easy to use however, I put it on before bed and the fumes from the icy hot caused my lungs to get a lot of water in them and I threw up. It was also very hard to breathe.",
+                        "these patches do not stay put; so if you have a way to fasten them or simply won't be moving they're effective"
+                    ],
+                    "negative_reviews": [
+                        "these patches do not stay put; so if you have a way to fasten them or simply won't be moving they're effective",
+                        "This spray version does nothing for my pain compared to the icy hot pro product in gel/topical form. Awful waste of money",
+                        "Used one pad felt nothing. Still have there roll on coming. Hope it is not a waist of money too",
+                        "Bought at Walmart Worked really well for my pain easy to use however, I put it on before bed and the fumes from the icy hot caused my lungs to get a lot of water in them and I threw up. It was also very hard to breathe.",
+                        "I've tried nearly all the patches. When I hit the Icy Hot Max patches I was psyched. There's nothing better than lidocaine and menthol. It's by far the best out there in my opinion. I usually rub the affected area down with Icy Hot Max cream, let it dry then apply the patch. They are sticky, as much as most others. I always tape or wrap the patch so it doesn't accidentally take a break. Good stuff for the cash, it's easy to use and it helps stop the pain, most importantly. I put one on at night and I can still feel 'heat' from it in the morning. I wish they'd make the large patches in Max."
+                    ]
+                }
+            },
+            {
+                "period": "2025-04",
+                "reviews": 36,
+                "average_rating": 3.444,
+                "average_sentiment": 0.611,
+                "cluster_distribution": {
+                    "7": 0.611,
+                    "0": 0.25,
+                    "1": 0.056,
+                    "2": 0.056,
+                    "5": 0.028
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "These are the best patches I have used for my severe back pain! The menthol combined with the Lidocaine work a lot better than just either one alone! I have a lot of muscle pain so if you have muscle pain it should work really well for that!",
+                        "Iâve been using Icy Hot patches for a while now, and they never disappoint. As someone who deals with back pain and sore shoulders after long workdays or workouts, these patches are a total lifesaver.",
+                        "This is my go to when Iâm having a bad neck day. These are LIFESAVERS. I really like how this one comes in one resealable bag! Super easy to grab and go!",
+                        "Helps quickly with low back ache/pain. Helped me get through the weekend until my low back adjustment at the chiropractor, and itâs a little cheaper than at the drug store in town - Costco has a better deal when they are in stock.",
+                        "Worlds really well for pinched nerve, sore muscles, easy to apply however they do stick to each other when you put them on so be mindful!"
+                    ],
+                    "negative_reviews": [
+                        "Sorry to say, felt no pain relief from using a patch 3 days in a row. Must be for mild light pain, not real pain. Had hopes it would help, but it didn't. Different for various people. So if you have a bad pain, do not expect much from this.",
+                        "This kind absolutely did nothing for my pain, which Iâm suffering with bulging with a tensioner, which is inflamed But the original XL size seem to work and help me with pain, so Iâll continue to buy those",
+                        "I did the search having bought this before and due to the price did not even think that it was only 1 ounce and a little mini size tube. It wasnât until I got it. I saw that it was a third size of my previous tube. Very frustrating. And very expensive!",
+                        "Doesnât really help. Donât feel any icy nor hot. No pain relief. Tried 3 packs. Want real relief try Tiger balm. Tried & true for years. Got the patches cause my husband isnât always here, but at work , to put cream on my back.",
+                        "They do not stick well at all. Tried 2 patches and they peel off very quickly. Unfortunately they are not able to be returned so I would recommend buying 1 box to see if they work for you."
+                    ]
+                }
+            },
+            {
+                "period": "2025-05",
+                "reviews": 10,
+                "average_rating": 3.9,
+                "average_sentiment": 0.725,
+                "cluster_distribution": {
+                    "7": 0.4,
+                    "0": 0.3,
+                    "2": 0.2,
+                    "5": 0.1
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "My Icy Hot pain patches arrived the next day, well packaged. Just what I wanted and needed. I have used these several times before. 80 y/o muscles sometimes are sore. I do not like to use oral analgesics too often. Twenty minutes after arrival I had the patch on. Fresh smell of oil of wintergreen (I assume). Heated up. Pain dissipating in minutes. In two days everything was OK.",
+                        "The product Ã­tself helps, but why was the tube nearly empty??? For that reason Iâm giving it 2 stars. Lately it seems Iâve had to call Amazon for either a delivery issues or product condition.",
+                        "Garbage man. Gets cold for a few min and then nothing else happens. Doesn't even help with the pain. Complete waste of money."
+                    ],
+                    "negative_reviews": [
+                        "Garbage man. Gets cold for a few min and then nothing else happens. Doesn't even help with the pain. Complete waste of money.",
+                        "The product Ã­tself helps, but why was the tube nearly empty??? For that reason Iâm giving it 2 stars. Lately it seems Iâve had to call Amazon for either a delivery issues or product condition.",
+                        "My Icy Hot pain patches arrived the next day, well packaged. Just what I wanted and needed. I have used these several times before. 80 y/o muscles sometimes are sore. I do not like to use oral analgesics too often. Twenty minutes after arrival I had the patch on. Fresh smell of oil of wintergreen (I assume). Heated up. Pain dissipating in minutes. In two days everything was OK."
+                    ]
+                }
+            },
+            {
+                "period": "2025-06",
+                "reviews": 54,
+                "average_rating": 3.185,
+                "average_sentiment": 0.546,
+                "cluster_distribution": {
+                    "7": 0.5,
+                    "0": 0.222,
+                    "1": 0.148,
+                    "5": 0.056,
+                    "2": 0.037,
+                    "8": 0.019,
+                    "3": 0.019
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "When my husband broke his back, he loved to use these. The sizes are similar to the patches the doctor gave him, except these worked longer and provided more comfort to him. They are cost efficient and would not hesitate on buying these again.",
+                        "I have back problems with 4 surgeries already. These really do help me. Great price for the pain relief. Easy to put on and last a long time.",
+                        "They do the job. This is my second purchase. Used previously for a foot injury, now for back pain. Easy to apply, pain relief is immediate. I forget Iâm wearing it. No offensive odor. Also easy to remove. I would recommend.",
+                        "Bought the Therma-Max pads as well and they were awful. With Icy Hot I was able to actually feel the heat and the cold. Just wish they would last me through a whole night.",
+                        "Yes I can feel the product reaction when placed on my skin. However, it just doesnât stay fixed to my shoulder or back very well only about 10 minutes if that which is a large area I realize. Biofreeze product sticks much better."
+                    ],
+                    "negative_reviews": [
+                        "I had not used IcyHot in many years, but I remembered them being strong. When I tried it the other day, I was sorely disappointed. I don't know if my pack specifically was a dud, but it was neither hot or cold at any point. Waste of money, will be going for another brand next.",
+                        "Put two patches on my back didnât notice anything except the slight smell. I ended up purchasing the bestseller patches on Amazon and they worked great day.",
+                        "They don't not stick to the skin, can't relieve much pain if they don't stay on the spot that is painful",
+                        "I bought mine at a local store. I can not find this helpful. Cold is better when covered by an ice pack. Mine never had heat when used without an ice pack. My opinion. Save your money, don't buy",
+                        "By far the worse and waste of money. Go buy salonpas by hisamitsu. It is way stronger and stick longer. Can't believe I can't return this. Terrible."
+                    ]
+                }
+            },
+            {
+                "period": "2025-07",
+                "reviews": 76,
+                "average_rating": 3.803,
+                "average_sentiment": 0.701,
+                "cluster_distribution": {
+                    "7": 0.632,
+                    "0": 0.145,
+                    "5": 0.118,
+                    "2": 0.066,
+                    "8": 0.039
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "These Icy Hot patches are a game-changer for sore muscles and aches. They provide cooling relief right away and then a soothing warmth that lasts for hours. I use them after workouts or when my back is stiff, and they really help reduce discomfort without needing to constantly reapply cream or gel. The patches stay in place well and arenât messy. Highly recommend if you want fast, effective pain relief on the go!",
+                        "My husband has used this and says it is much better than the icy hot Max with lidocaine the only thing is is that it is super freezing cold when you spray it on so you have to be prepared.",
+                        "I was going through a horribly painful time with my lower back huring and these were the only thing that helped. lidocain patches are amazing and a true helper with pain that can hobble a man",
+                        "My wife been having alot alot of back pain lately so I got her these patches and she love them functions great nice size and value for your buck",
+                        "You must like heat! Very strong heat feeling and does the job. It works great on my neck and lower back."
+                    ],
+                    "negative_reviews": [
+                        "I have been using these patches for many years and I am well aware of how they function. These patches are defective. They are thinner than usual, and there is no icy feeling when applied. In the past, the icy feeling was so strong, I had to hold my breath when I applied the patch. These patches are also not as hot as prior products. Suggest finding these patches elsewhere.",
+                        "One can worked fine. The other did not discharge anything at all, but felt full. It was the second can of two, so I did not realize the failure until now. The product itself is great and eliminates inflammation, but the can did not work this time.",
+                        "Have used before & very familiar with how they feel & work. These are a SCAM. A faint menthol scent but NO Icy & NO Hot. NOTHING",
+                        "Like the other lidocaine pad I just reviewed, thes do not stay in place and therefore are ineffectiove. Kept falling off",
+                        "I really wanted to like this item, the ingredients seemed like they would work but unfortunately I donât feel like this stuff does anything. Itâs doesnât feel cooling or hot, itâs not numbing. Itâs a dry spray which is nice so Iâm not left greasy but itâs not worth it because it does nothing but smell like menthol."
+                    ]
+                }
+            },
+            {
+                "period": "2025-08",
+                "reviews": 97,
+                "average_rating": 3.711,
+                "average_sentiment": 0.678,
+                "cluster_distribution": {
+                    "7": 0.629,
+                    "2": 0.103,
+                    "0": 0.103,
+                    "5": 0.052,
+                    "4": 0.041,
+                    "1": 0.041,
+                    "8": 0.031
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Iâve tried a lot of patches for back and shoulder pain, and these are one of the stronger ones Iâve used. The lidocaine helps numb the area and takes the edge off the pain within about 20â30 minutes. The patch itself is large enough to cover most of my lower back, and it sticks well without peeling up, even if youâre moving around. The scent is noticeable when you first put it on but not overwhelming, and it fades after a while. The material is flexible and feels comfortable under clothes, though I wouldnât recommend wearing it with tight fabrics since the edges can show. Pros: strong numbing effect, stays in place, large coverage area. Cons: a little pricey for how many you get, and the cooling sensation doesnât last as long as Iâd like. Overall, these are great if you need targeted relief for back, shoulder, or joint pain, especially when you donât want to take more medication.",
+                        "He probado los parches Ice Hot y me han funcionado muy bien. El efecto de frÃ­o y calor ayuda a calmar el dolor muscular rÃ¡pidamente y me permite moverme con mÃ¡s comodidad. Se adhieren bien a la piel y se mantienen en su lugar mientras los uso. Recomiendo este producto para quienes buscan un alivio eficaz y prÃ¡ctico.",
+                        "The IcyHot patches work as advertised (hot and cold) and provide relief for those bodily aches you want to treat without taking a pill. Super convenient to have, especially for older adults who need to treat the pain daily. The adhesive is very strong and provides effective pain relief wherever you apply it. Itâs a must have!",
+                        "Icy hot pain patches are a good deal. I use them several times a week to help control some sort of pain in my back. They are quite cost-effective and I appreciate how they work in easing at least part of the pain. Great product, great price.",
+                        "Do not buy the ones without the Lidocaine. The other ones give you the sensation of hot and cold, but without the lidocaine, theyâre pretty useless. I bought these patches for my wife and they have been very effective."
+                    ],
+                    "negative_reviews": [
+                        "Impossible to use. Whether it is the large patch or small patch ... the patches are very flimsy. If you want to put the patch on the back of your neck or on the base of your spine, you will find that the flimsy pad folds onto itself. You need another person to do it for you. I am alone with no family to help me. As far as I'm concerned, this is wasted money as well as wasted time. Very frustrating to try to use if you're alone.",
+                        "Doesnât stay on your back for more than five minutes. And thatâs with the site being cleaned first. Simply walking around the house and no athletic or work activity causes them to fall off.. Completely useless",
+                        "Waste of money. Wasted half a box trying to apply to my back as the patch would fold over and stick to itself. When I finally got one on it didnât do any better than any standard otc lotion.",
+                        "This is a bad deal!!! $6 for a tiny tube. This is reduculous. I assumed it wad the 3 oz tube and now thy won't let me return it even though it's not open!!!!",
+                        "This is an excellent product for back pain. Only 3 stars because it was shipped in only the flimsy box that you'd find on the drugstore shelf. I'm all for reducing packaging, but this is ridiculous."
+                    ]
+                }
+            },
+            {
+                "period": "2025-09",
+                "reviews": 56,
+                "average_rating": 3.964,
+                "average_sentiment": 0.741,
+                "cluster_distribution": {
+                    "7": 0.482,
+                    "0": 0.286,
+                    "2": 0.125,
+                    "5": 0.054,
+                    "1": 0.054
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I buy this every couple of months for my migraines. I have intractable (24/7) migraines (new daily onset headache is the diagnosis) and slather this all over my temples and forehead daily. I use the icy hot dry spray all over my neck, chest and shoulders. I keep four cans on hand and use it daily. It takes the edge off between my daily allowance of pain medications. Migraines are debilitating, but give this a try if you're a sufferer.",
+                        "These have saved me so many times. They're more effective than any other OTC patch or pill I've tried for muscle pain.",
+                        "Size is great for small areas. Thickness is good you don't even know it's there. Quality is good. My personal statement is it's a good value for your money. Others my not think so. Stickiness is okay as long as you don't have any pain in connection spots( shoulder and neck areas).",
+                        "Great product! It helps very well with muscle pain. Itâs a good idea to apply it overnight and keep the injured area covered, it heals a lot faster. Use a lot of soap to wash your hands after and make sure it doesnât get in the eyes (itâs very painful). It has some oil in it, but itâs not very greasy. If small amount is applied, it absorbs very quickly.",
+                        "I ordered 2 boxes of 5 each. Both boxes arrived badly dented - not a big deal. One box was fine and worked grat. Other box when open the pouch instead containing patches was slightly ripped. They had much of the moisture escape and weren't as as wet a should be. Still useable, but way less effective."
+                    ],
+                    "negative_reviews": [
+                        "I can never get the patches to stick properly on my skin when I move around in the slightest. If I sit on a chair then they work very well for pain release. But if I need to move around, these are horrible. Highly recommend the Salonpas instead of these",
+                        "So disappointed. I was really hoping this would work or at least help a little. I couldn't even tell that I had it on. Also, it didn't stay on very well, the stickiness wasn't very good. Try something else.",
+                        "They are very difficult to apply and they don't stick to your skin very well at all. Overall I would not purchase these ever again. Waste of money!!!",
+                        "I was excited to try these as their cream works so well. But I was disappointed. The patch is supposed to last for hours, but it never stayed on for even one. It slipped and slid all the way down my back. I was hoping to use this in place of my cream to make life easier, but it wasn't meant to be. I would love to tell you how it works but it wasn't on me that long. I'll stay with the cream which is wonderful!",
+                        "Iâve had lower back pain ever since giving birth, so I decided to try these Icy Hot patches. When I applied one to my back, it felt very cold at first, but it never warmed up like I expected. A few hours later, it still hadn't produced any heat. Another issue I noticed was that parts of the patch didnât stick well to my back, which made it even less effective."
+                    ]
+                }
+            },
+            {
+                "period": "2025-10",
+                "reviews": 82,
+                "average_rating": 3.793,
+                "average_sentiment": 0.698,
+                "cluster_distribution": {
+                    "7": 0.585,
+                    "0": 0.232,
+                    "2": 0.122,
+                    "6": 0.024,
+                    "1": 0.012,
+                    "5": 0.012,
+                    "4": 0.012
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "These patches help me with the shoulder, neck and migraine pains I get when I sit at the computer 7-10 hours a day 5X a week. The pain comes from being hunched over staring at the screen and getting stressed out, and using these patches work QUICKY to calm the pain almost immediately, but also over several hours. Sometimes I will sleep with them on and wake up more refreshed and relieved, definitely makes a BIG difference! The feeling is cooling but also like a stinging that feels good...does not hurt, but more soothing non-massage. Each package comes with 5 pieces inside, and each measures 1.75 x 5.94 x 5.13 inches --- enough to cover where you need it. For really tough days, I'll put one on each shoulder/neck area. A+ recommend.",
+                        "We find relief from muscle pain with these patches. The XL size is great for husbandâs lower back, while L size plenty big enough for female lower back or shoulder area. Are difficult to apply to back on your own- they twist and fold too much. A firm bandaide type backing would be so much better! I have very sensitive skin but these ok with me.",
+                        "Easy to apply and relieves my pain quickly. I prefer them with lidocaine rather than the original icy hot patches because they donât feel like theyâre burning your skin.",
+                        "really helps with those aches and pains we suffer from. great item and it as its name says ICY and HOT",
+                        "All 5 patches in one pouch, easier to keep in my go bag and use as needed with less trash."
+                    ],
+                    "negative_reviews": [
+                        "I didnât think these were bad but they definitely didnât help. My back actually started hurting even more but Iâm not sure that had to do with these patches. I went to my doctor since my back pain was getting worse and they gave me different lidocaine patches and they worked amazingly and with just one use my back started feeling better versus using these patches til it was done and nothing helped. I also was reached out by Amazon about these patches about adverse effects so personally I would stay away from these patches as that was a little worrying to be receiving emails about this.",
+                        "I guess they're alright for over the counter patches for pain relief for sore muscles, but these things. Do. Not. Stick. At. All. The patches say they're good for 8 hours but they'll start peeling off within 20 minutes from any twisting or shifting around. Your only option is just to stick it on and just not move at all for 8 hours. They might work with compression clothes but I'm not sure if that's a good idea.",
+                        "They donât work. I have purchased these in store and never had an issue with the patches not working. I believe these may be old or some kind of off brand because the material of the patches seem off too. Also, wasnât able to get my money back.",
+                        "I don't know if I got a bad patch...I used to get it from the pharmacy. I got this one and I didn't feel no cooling effect, nothing! Didn't work at all!!!",
+                        "The packaging was damaged and the bottle was dirty and appears used. There is no way to return this item so I am just left with disappointment and achy joints."
+                    ]
+                }
+            },
+            {
+                "period": "2025-11",
+                "reviews": 696,
+                "average_rating": 3.79,
+                "average_sentiment": 0.698,
+                "cluster_distribution": {
+                    "7": 0.573,
+                    "0": 0.231,
+                    "2": 0.062,
+                    "5": 0.062,
+                    "1": 0.03,
+                    "8": 0.022,
+                    "6": 0.01,
+                    "3": 0.01
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Best product out there for pain! As I have a lot of pain conditions & nerve damage; I used it for neck, shoulder, back and knee pain. I have a high pain threshold but itâs the only thing that takes the intensity of pain off. You feel the cooling effect ease the pain instantly. I usually feel so much better by the next morning. And I love that it comes in different sizes! Iâve tried prescription lidocaine patches and they were no good and didnât stick on at all. Icy Hot patches do not come off until you take them off hours later or the next day. The only issue is that itâs a strong menthol smell that can burn your eyes if itâs close to your face. Make sure you wash your hands after applying so you donât burn your eyes by touching with hands! I have a constant supply for myself and family in pain. If I could invest in these I would. Iâll be using them for life. Extremely happy customer!!!",
+                        "Long acting pain relief that comes in 2 sizes. The large size is good for large surfaces (back) and the smaller patches are good for things like shins, calves, achilles. The packages are re-sealable to keep the from drying out once opened. The active ingredient is Menthol 5%, which is a non-steroidal anti-inflammatory drug (NSAID). Other brands use Lidocaine, which is NOT an NSAID and may not be suitable for everyone. I prefer to use topical aids such as patches as they target the area where relief is needed. Patches stay on the skin for many hours, you can hide them under clothes easily if needed . Creams wear off, rub off on clothing can be greasy/oily and stain. Oral meds take time to travel thru the body before they get to the target area to provide relief. Convenient to carry and easy to apply. Works well and $1.20 per patch is a good value for this combo pack.",
+                        "I own these in every size! I am never without these patches. I workout with weights and I am often sore and I put the appropriate size on overnight and by morning I am good to go. They do smell like menthol but that just means theyâre working! They stay put until you take them off. I have NEVER had one come off on its own. If I need a small one for my wrist, I just cut it to size and slap it on. The X Large size is perfect for back pain. The medium is great for shoulder or calf soreness. Do yourself a favor and keep these on hand! These are so easy to apply, just peel and stick. They are extremely effective and the heat level is perfect on sore muscles.",
+                        "Great pads, they've definitely been essential after a serious amount of extra labor, leaving my muscles aching and my back worn. You get ten pads in the box, five medium and five large. They are all individually wrapped and offer a large surface area to cover affected muscles well. After removing the backing and applying, you then enjoy the cooling sensation of the menthol, which helps address dull pains. It is then followed by a warm sensation which also helps relax the affected area and help clear away pain. Especially nice is the rated eight hours of effective performance, which ensures that you never go about your day in pain. Hide them underneath your clothing for excellent relief! Great set, definitely recommended if you suffer from pains.",
+                        "I order these every couple of weeks. I have a lot of back and neck problems and usually find these sort of patches useless- but Iâve ordered these particular ones six times so far and will continue to use them. I cut each patch in half and find that they last a day. If I do that I can get each box to last about 7 days and then move on to the next box. It has a nice noticeable cooling feeling which helps me take my mind off of the pain. I recently bought it in spray version which was terrible by comparison. Iâve also tried the cream which was equally as bad. Highly recommend if you like a nice intense cooling feeling."
+                    ],
+                    "negative_reviews": [
+                        "If I could rate these patches a negative number, I would have done so. I have now tried the 2nd pach today , in the off chance that the first was just a fluke. But no...I was right the first time. These patches do no adhere well at all. Within seconds it is buckling and falling away from my skin. And No, I don't mean pulling away, I mean literally falling off. When I go to try tocatch another area that is buckling to try to smooth it down like you can do with most patches, fall away form another location. It's almost like playing Whack-a-mole!!! And as far as the \"icy\" effect goes it is negligible! THey are also much shorted than any other patches I've ordered, albei slightly wider. in short, THIS PRODUCT IS USELESS!!! DO NOT WASTE YOUR TIME OR MONEY!!!",
+                        "Whatever was placed in these \"packets\" was inconsistently created throughout the entire vest. Some packets are entirely liquid, some are solid chunks and others are some white crystalline-looking formations. It did not keep me cool in the 95Â° weather spell we just went through. I need something that works for 4-5 hours out in real field conditions, and this isn't it! PLUS I had to wait for 3+ weeks for delivery. Very disappointed in Amazon and whoever created this vest. It wasn't a low-priced item either. But I feel like I lost money I'll never get back. I couldn't rate it at a Zero, but that's what it deserves.",
+                        "I am so disappointed in these patches. They do not stick well. I am cutting them to use on my neck and they curl up within minutes and fall off when I go to sleep. I have used the non-lidocaine Salon Pas patches for years and they work well and stay in place. Decided to try these as frequent use of Salin Pas does irritate my skin. I do not have oily skin and cannot figure out why this brand doesn't adhere.",
+                        "This review is not about the product, I love Icy Hot, but about the cap on the tube. I have arthritis in my hands and I couldn't get the cap off even pressing on the indicators on each side. My husband even tried, then he had to use pliers to get it off. Once the cap was off the first time, it was fine. Granted I understand the child proofing, but this seemed to be excessively difficult.",
+                        "I like the effectiveness of pain relief. Have been using Icy Hot products for a long time. I don't have chick nor child here, so this bottle is only resistant to me and my use. At least give us the option of using either one or tjhe other when we purchase. I've had this well over a week and still unable to use. Won't purchase any more as long as this existing top is retained."
+                    ]
+                }
+            },
+            {
+                "period": "2025-12",
+                "reviews": 204,
+                "average_rating": 3.74,
+                "average_sentiment": 0.685,
+                "cluster_distribution": {
+                    "7": 0.608,
+                    "0": 0.191,
+                    "2": 0.069,
+                    "5": 0.069,
+                    "8": 0.025,
+                    "4": 0.015,
+                    "1": 0.015,
+                    "6": 0.01
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I decided to give IcyHot a try on my back after dealing with an injury that just refused to heal. Iâd been using lidocaine patches and gel, which do help, but I was curious about the whole âicyâ and âhotâ thing. And thankfully, it really does what it says. First you get that cool, almost refreshing icy sensation, and then it slowly shifts into a warm, soothing heat. For me, itâs been a solid pain reliever, not a cure, unfortunately, but definitely something that takes the edge off for a few hours. And for that alone, I think itâs worth having on hand. I also love the roll-on applicator. Itâs super convenient and keeps everything mess-free. So yes, Iâd recommend it to anyone who wants some reliable pain relief, as long as youâre not expecting a miracle fix.",
+                        "I have a lower lumbar, SI, muscle and nerve injury. The meds I'm on only take the edge off and this helps to allow my body the flexibility I need to go to work and work. Fair warning, If you are first using them, keep in mind, when they get hot, it can be uncomfortable, so I've heard. I personally have not had any issues with them, but keep in mind, the nerve injury disrupts how much I can feel so I haven't had any problems with that. If you ask me, yes, it is worth it.",
+                        "The strength of camphor and menthol is highest with this Icy Hot Advanced. When I go to bed, shoulder bursitis pain flares up and travels down my arm all the way to my fingers. Applying this Icy Hot helps soothe the pain and I am able to fall asleep. Bengay was too runny for my liking although the pain relief was reasonably good with it too. Icy Hot Advanced is thicker, non-greasy and gets easily absorbed. Checks all the boxes for a good pain relief cream.",
+                        "buying the large patches for lower back muscles, when I need one for my shoulder I just cut a large patch in half. It doesn't leave any residue on clothes or skin. Patch stays in place on body. Some smell of course but I don't notice it after a couple of minutes. For sore, over used muscles it relieves the pain and tightness.",
+                        "It was my first time trying this patch. This helped ease up my back pain. The relief lasts at least six hours or more. I was able to get a good night sleep. It's comfortable and easy to apply and works in relieving muscular and tension pain. The lidocaine numbs the pain nerves. I'm a happy customer and definitely recommend this product."
+                    ],
+                    "negative_reviews": [
+                        "They donât stick to your skin very well at all, but they really grip your clothes and stick to it. Also, as theyâre coming off your arm and going onto your clothes, they leave a messy residue on your skin. I shouldnât have listened to the reviews that said how great it was. Those people must have low expectations.",
+                        "These patches are useless for relieving pain! I loaded up on them and my husband and I both tried them and they just donât relieve pain at all! I want to return them and get my money back ASAP!",
+                        "Thereâs no way to know if they work because they will not stay put. As soon as you move, they wrinkle up or come loose. And this was on my neck where there isnât a lot of movement.",
+                        "The patch does not stick well. I would place after showering and drying up well. I used on the shoulder but it just constantly peels off the edges. Will not buy again.",
+                        "These did not work for me. In they did was make me smell bad. Total waste of money. Straight to the garbage. Stick with Lidocaine. These are a joke."
+                    ]
+                }
+            },
+            {
+                "period": "2026-01",
+                "reviews": 57,
+                "average_rating": 4.754,
+                "average_sentiment": 0.939,
+                "cluster_distribution": {
+                    "7": 0.526,
+                    "0": 0.281,
+                    "2": 0.14,
+                    "4": 0.018,
+                    "5": 0.018,
+                    "1": 0.018
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I like this variety pack because it contain small patch for arm and neck, easier for me to apply on my shoulders, I hope I can just buy this smaller size instead of come with the 5 large I don't need",
+                        "This is a great product. I am careful to order extra large extra strength patches. I rarely get what I order. I get either extra large or extra strength, rarely both.",
+                        "Icy Hot Pro is effective and acts fast. The best is its cold-heat effect that relaxes tense muscles instantly; the worst thing is its intense smell and that leaves hands sticky.",
+                        "This relieves muscle aches and muscle cramps very quickly. I highy recommend this product! If you are on a blood thinner this is a very safe product to use.",
+                        "My favorite go to when pain wonât let up! It stays in place too! Itâs a saver bigtime! Unlike the âpasâ on the market it doesnât do the job and slips off very soon"
+                    ],
+                    "negative_reviews": [
+                        "These did not stick well for me. Further, if IcyHot in any other capacity has never worked for you, don't expect this to be different. This mostly just created a sort of aggravating sensation of faux-coolness (never felt like \"heat\") on my skin. It didn't relieve any of the muscle tension or pain for me. These work fine for a friend, so I am passing them on -- but it just doesn't do the trick for me. The scent is very present and strong, but not unexpectedly so. (If you've never smelled/used products like this, expect a strong camphor type smell.)",
+                        "Been using Icy Hot for years and really depended on them for pain relief. But recently the quality of the product has deteriorated. They do not last as long and they do not adhere to the skin as well.",
+                        "I REALLY LIKE this product HOWEVER, PRICE has gotten absolutely RIDICULOUS &the SHIPPING is SERIOUSLY MESSED UP! There's more paper & waste then product. As there is more then ample space for 2 [4 fits perfectly!] Cans in ONE BOX, BUT I Get 2 boxes stuffed with paper ONE Can in eachð¤¦ð»ââï¸ AMAZON DO BETTER, DADGUM IT!",
+                        "This Icy Hot roll on pain relieving gel works well! The strength could be a little stronger but the size and ease of use are unbeatable. The gel lasts for a while but not as long as I was expecting. I had absolutely no skin irritation or side effects. I didnât notice any better sleep quality during use but the cooling effect was worth it!",
+                        "I use these on my ribs when they are hurting. The are cooking at first and the. Provide pain relief. I put these on for long car rides, plane rides, or at night when I have been super active during the day."
+                    ]
+                }
+            },
+            {
+                "period": "2026-02",
+                "reviews": 76,
+                "average_rating": 4.566,
+                "average_sentiment": 0.891,
+                "cluster_distribution": {
+                    "7": 0.434,
+                    "0": 0.368,
+                    "5": 0.092,
+                    "2": 0.079,
+                    "8": 0.013,
+                    "1": 0.013
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I bought this to try to see if it works better then just the plan regular icy hot. I love how it is mess free. I also love how you only need a little bit. It helped my pain a little bit. I do got to say it does work better then the regular icy hot. I use it on my lower back.",
+                        "Icy Hot Liquid is a fast-acting and highly effective solution for muscle pain and joint pain. Its dual-action formula first cools, then heats to relax sore muscles. Easy to apply and non-sticky, Icy Hot provides long-lasting relief. Perfect for athletes, active lifestyles, or anyone needing reliable pain relief daily.",
+                        "When they say it sticks.. they mean it. Dont leave the patch on over the 8hours or it'll be painful getting it off. That being said. They actually took sciatica pain away for a full 8 hours on my mom. Will definitely buy again",
+                        "I have bursitis in my hips. I've had injections from a pain spen; I got less relief from them than from Icy Hot lidocaine ointment. The roll on is so convenient and I don't get it on my hands!",
+                        "Ice hot works if you roll it on up to 4 hours. I like the cream one better. You can rub it into your skin an it last longer then 5 hours. No smell."
+                    ],
+                    "negative_reviews": [
+                        "Just got this a couple of days ago and it isnât working. Both hubby and I tried to spray it and no go.",
+                        "Does not work! I think 2 sent to me were defective as it did not get cold or hot when applied. Tried to return but 3rd party vendor refuses to accept return or return money charged to my credit card. Best to buy locally.",
+                        "This Icy Hot Patch is a fine product for easing back pain and it delivered on time. My problem is that the patches are smaller than the last time I purchased them AND the previous package had 6 patches while these have only 5. Quite disappointing!",
+                        "Just a temporary relief, it works like regular Icy Hot. Just because they added the word \"advanced\" there isn't any extra relief in it.",
+                        "I had high hopes for this product, but unfortunately it didnât help me much. The pain was still there even after applying it. It gives a slight cooling feeling, but the relief was very minimal. The effect didnât last long at all. It was easy to use, but it did not remove my pain. Maybe it works for others, but it wasnât effective for me. Iâm a bit disappointed with the results."
+                    ]
+                }
+            },
+            {
+                "period": "2026-03",
+                "reviews": 780,
+                "average_rating": 4.271,
+                "average_sentiment": 0.818,
+                "cluster_distribution": {
+                    "7": 0.586,
+                    "0": 0.206,
+                    "8": 0.063,
+                    "5": 0.044,
+                    "2": 0.042,
+                    "1": 0.036,
+                    "6": 0.019,
+                    "3": 0.004
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I got these on a whim seeking some quick pain relief for my boyfriend. He had ankle repair surgery and throughout his recovery, his back has become increasingly stiff and âlocks upâ on him. Mind you he already has some bulging discs from a back injury so thereâs just a lot going on. His pain peaked one night and the lidocaine patches heâs prescribed just werenât cutting it. Out of desperation I bought these. He was under the impression BioFreeze and IcyHot were the same thing so I had to convince him to try these. INSTANT AND MAJOR PAIN RELIEF for him wearing this at night. We are so grateful. They alleviate his pain, put him right to sleep, and that he can feel it working for up to 10 hours. We love how large they are in size for extra coverage. We are going to try and get something like this covered by his insurance now. THANK you IcyHot for making such an effective and quality product! Btw, they absolutely stick. If itâs not sticking to your skin that is likely because there is a barrier. Moisturizer, lotion, oil, dirt, etc. try rubbing the area with rubbing alcohol first, let it dry, and I guarantee itâll stick afterwards.",
+                        "I use these a lot, and they are way better than the ones with lidocaine that cost so much more. They got me through a 15.5 hour flight from LAX to Melbourne when the outlet would not power my heating pad. They got me through Oogie Boogie Bash. And they get me through times when I can't bring my special pillows or heating pad. Just snap as the directions indicate, and they are easy to apply. I find removal can be an issue if they haven't been on very long because they are still quite sticky, but running some water on them helps quite a lot. From my experience, they start working in a few minutes, and they last strongly for about three hours. They are mild for about two more hours, and after that, I don't really notice anything. I have a spinal injury from being rear-ended, and the pain is constant, so I've tried a lot of things in the last 15 years. I also like that these are in a resealable pouch that can easily be tucked in a purse or maybe even a pocket, so you can take them on the go.",
+                        "Wow! These are amazing for my low back pain. The generous size covers a very large area. They begin to work within minutes and last a solid 8 hours. These help my pain go from from severe (8/10) to minimal (2/10) without the use of stomach-irritating pain relievers. Smell is minimal and tolerable. May seem pricey at 3 patches per box but for all -day pain relief, these are well worth it. We always keep a box on hand for the 2-3 x year we need them. They are a bit tricky to apply, best to have some help. Can also be cut into smaller sizes, just cut a slit in the top to help with peeling. Make sure you apply to clean and dry skin and smooth it out while applying a bit of pressure to help it adhere better. Hold it in place with a fitted tee tucked under your clothes.",
+                        "We decided to try IcyHot after seeing the TV commercials (Shaq convinced us!) and comparing it to our usual products (Vick's VapoRub, BioFreeze, and Asian green medicine). We're very impressed! â First Impressions & Sensation âThe relief comes on quickly and definitely delivers on its name: âInitial Feel: It starts off with a strong, pleasant cooling sensation (the \"Icy\"). âThe Shift: It transitions relatively quickly to a deep, comforting warmth (the \"Hot\"). âDuration: We found that the warming sensation lasts quite a while, providing sustained relief. âScent and Future Use âI personally love the menthol smellâit's strong, familiar, and feels therapeutic. I'm looking forward to applying this to my back, quads, and knees after intense pickleball sessions. âFinal Verdict âThis is a fantastic pain relief ointment. We would highly recommend it, especially when you can find it available on sale!",
+                        "Star Rating: 5 Stars Pros -Effective pain relief with 8% cooling menthol -Light lavender scent, no strong menthol scent like the patches -Easy to apply roll-on and no mess -Trusted brand with a reputation for quality -Convenient and cost-effective -Small size, so good for on the go or travel Cons -May not be suitable for sensitive skin (the menthol can be pretty strong at 8%) -Not recommended for use on open wounds or broken skin Summary Overall, I'm really happy with the Icy Hot roll-on. A great alternative to the patches because you can control the application area and just hit the muscle spots/areas that ache. The lavender scent isnât a heavy scent and I prefer it to the heavy menthol scent of the patches. Great for spot applications, prior to or after a exercise, prior to bedtime, etc."
+                    ],
+                    "negative_reviews": [
+                        "Regular icy hot works wonders for my son who runs track and suffers with some aches and pains. I purchased the roll on mid season thinking it was handy for his bag and would keep his hands clean. He had an immediate reaction to it- and it was so painful he had to find a bathroom and wash his legs off. He considered it was a one time thing and attempted to use it again, later, and had the same issue. The ingredients in the roller seem to be different and left his legs with burns!",
+                        "I was really hoping these patches would provide some relief for my back, but unfortunately, they didnât live up to expectations. The cooling sensation kicked in almost immediately, but I never felt any real âhotâ effectâwhich is what I was counting on for muscle relief. To make things worse, the patches were messy and frustrating to apply. They didnât stick well, bunched up easily, and left a sticky residue. Overall, I canât say much good about these patches. I wonât be buying them again. I canât recommend this product.",
+                        "If I could give this zero stars I would! I usually buy the generic Walmart roller brand but was out so I ordered the real icy hot on here. Big mistake! I am burning and my skin is bright red!! Nothing is helping with the pain. It looks like a chemical burn. I would rather have the back and shoulder pain that I was having before I applied it than this!",
+                        "Save your money. These are so crappy! They stick together better than they stick to the body. It smells like normal icy hot and I mean it relieves like icy hot but itâs not comfortable considering you canât keep the thing on your body. Maybe if it would be thicker, it could stick to the body better. Just donât buy this product. Itâs the worst",
+                        "Nothing like the original formula roll on applicator. Use it for when my knee slips out of the socket and is usually sore for a couple of weeks. Tried this one and it is neither icey or hot, it basically didn't do anything but make my leg smell like lavender. Stick with the original formula, always works for me. This one is a non-functional gimmick."
+                    ]
+                }
+            },
+            {
+                "period": "2026-04",
+                "reviews": 753,
+                "average_rating": 3.774,
+                "average_sentiment": 0.694,
+                "cluster_distribution": {
+                    "7": 0.494,
+                    "0": 0.236,
+                    "5": 0.08,
+                    "2": 0.074,
+                    "1": 0.05,
+                    "8": 0.041,
+                    "6": 0.013,
+                    "9": 0.005,
+                    "3": 0.003,
+                    "4": 0.003
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "FANTASTIC! Where has this been all my life? LOL While 1.25 ounces may seem small up to other Icy Hot products, the balm easily lasts as long as the 2 ounce Icy Hot Advanced cream and almost as long as the 3 ounce Icy Hot Pro cream with the no-mess applicator. Like the Icy Hot cream roll-on that has the same 16% menthol and 11% camphor, this balm also works within 10 minutes or so, but unlike the cream, you don't have as much of a chance of putting too much on and getting a chemical burn (I cut the cream Â½ and Â½ with a lidocaine cream and it works well, but putting too much of the Icy Hot Advanced cream *without* cutting it with something else that doesn't burn can lead to redness and burning.) You don't have to be worried about this Icy Hot Pro balm/sphere, because you can't put too much on. It *does* work, and works as quickly as pretty much anything else on the market - actually faster than many things like menthol alone, menthol and lidocaine, and/or capsaicin products (chili pepper oil creame.) If you put another layer on before it kicks in, you still will not get burned. This allows you to use the balm as a large roller so you can massage your muscles, pushing the medicine in your skin and also loosen up the tension. Only improvement I can see is that the ring to put your fingers through could be larger - possibly with two holes to be able to use one or two fingers to hold the ball. My hands are not small, but they aren't huge either. My size 9 fingers are too tight to out three fingers in the handle, which would make the handle easier to maneuver. With only two fingers in the handle, the handle is a little loose. Maybe the handle could be larger, with one side being big enough for two fingers and the other side being only for one finger. This would allow for one finger, two fingers, or three fingers (two on one side and one on the other side at the same time) to control the gliding action. If you enlarge the handle, I suppose the whole globe would be larger - maybe it could be a 2 ounce large size (keeping this 1.25 ounce size as well.) I'd buy both! This would work well as a push-up small round deodorant stick type balm too (if Icy Hot is listening!) A long and slender glide on balm would allow for a little more reach, to hit places on my back that I cannot reach with this size. Still, after 20+ years of horrific pain with rheumatoid arthritis and ankylosing spondylitis, constantly shifting creams, ointments, and liquid roll-ons, this is AMAZING! If I have to pack only one thing for pain (especially if it has to be something I can use in public, making the creams and ointments less easy to maneuver,) *THIS* is what I pack every time!",
+                        "Of all the IcyHot products, Icy Hot Max Lidocaine Cream works the best by far - and Iâve tried them all. It will complete stop my pretty intense shoulder pain so that I can sleep. Itâs also the longest lasting of all the Icy Hot products. The smell isnât as strong as the regular IcyHot. Since itâs a lotion you do have to wash your hands really well after applying it - otherwise you learn the hard way if you rub your eyes. My only complaint, I wish they would sell it in larger bottles. It comes in only 1 size and I run through a bottle pretty quickly ****The pain relief and long lasting effects are true only of the cream. The Icy Hot Max Lidocaine spray is a complete waste of money. It does nothing",
+                        "Iâve been using the Icy Hot Medicated Patch (Extra Strength) for lower back pain, and itâs become a staple in my first aid kit. The large size is perfect for covering a wide area, and unlike some other brands, these actually stay adhered even if youâre moving around or sleeping. The \"Icy\" sensation kicks in almost immediately to dull the sharp pain, followed by a steady \"Hot\" feeling that really helps relax tight muscles. I love that they are mess-free and don't have that overwhelming medicinal smell that lingers on your clothes. Itâs a much more convenient alternative to creams when you're on the go.",
+                        "I like this delivery system better than any other. I have weak hands, so tubes that have to be squeezed don't work for me. Icy Hot comes in a hemisphere shape with a finger loop. It's kind of like a stick deodorant, except for the shape. It works well for pain, with a menthol smell that isn't too strong. 1.25 Oz doesn't seem like a lot, but it doesn't waste product and it lasts longer than you would think.",
+                        "Ice Hot es una crema que realmente funciona para aliviar dolores musculares y articulares. La sensaciÃ³n de frÃ­o seguida del calor ayuda a calmar la inflamaciÃ³n y a relajar los mÃºsculos tensos. La aplicaciÃ³n es sencilla y la crema se absorbe rÃ¡pido sin dejar residuos grasosos. AdemÃ¡s, no tiene un olor fuerte, lo que hace que sea cÃ³moda de usar en cualquier momento. La recomiendo especialmente para quienes sufren de dolores despuÃ©s del ejercicio o largas jornadas de trabajo."
+                    ],
+                    "negative_reviews": [
+                        "Icy Hot spray is an awesome product and I have used it for several years on and off. This shipment however 3 out of 4 cans DID NOT WORK! They simply would not spray and yes I turned the cap to open it up! When I contacted Amazon they said to contact the manufacturer directly so I did. I HAVE NOT HEARD ANYTHING from them. I wasted my time and money. I guess the lesson learned here kids is DO NOT BUY this product through amazon cuz amazon wont help you and neither will the manufacturer...",
+                        "It's just not the same as the 'regular' tube of Icy Hot pain relief cream, the 'original' Icy Hot, it doesn't give you that warm/hot feeling. I got rid of it and bought another tube of cream",
+                        "I have used all the Icy Hot sprays and creams for years. This 1 did absolutely NOTHING to ease inflammation and pain in my arthritic joints- do not bother!!",
+                        "I received my icy hot spray today and went to use it but it has no aerosol in it so nothing is coming out. Very disappointing!!",
+                        "The only thing this product should be called with the word max should be MAX DISAPOINTMENT. Wasnât hot or cold. Just BLA! Vincent Salico"
+                    ]
+                }
+            },
+            {
+                "period": "2026-05",
+                "reviews": 131,
+                "average_rating": 4.84,
+                "average_sentiment": 0.96,
+                "cluster_distribution": {
+                    "7": 0.679,
+                    "0": 0.16,
+                    "1": 0.092,
+                    "8": 0.023,
+                    "5": 0.015,
+                    "6": 0.015,
+                    "2": 0.008,
+                    "3": 0.008
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Personal Use: Having suffered from neck, shoulder, mid and lower back pain, I used to have used these patches almost everywhere. I also recently sprained my thumb and trimmed on of these patches and wrapped it around my thumb and palm. These are awesome for bursitis. tendonitis, strains, sprains, and any muscle tenderness or tightness. I use these several times a week, mainly on my neck/shoulders, due to tightness from sitting in front a of a pc for 10 hrs a day. I can wear them under clothes to work, or under PJs at night. And they last anywhere from 8-12 hours and stay in place. They work amazingly and consistently. I would probably be popping pain meds weekly if it werent for these life-savers. Downside(if any): Unless youve had the patch on for 8-10 hours, do not shower with hot water for an hour after wearing these. Your skin will feel like its on fire. Same with sweating. If you work out after work, take it off after lunch. If you work out in the morning, give yourself an hour before you work out. Also, they are super sticky. If you leave it on for at least 4 -5 hours,. they are easier to take off. Regardless of these two things, which i consider minor because of how great they work, i wouldnt trade them for anything and will continue to use 3-5 a week. Ingredients: Active ingredient is Menthol 5% Price: Amazon has the best price I have found so far, and becomes even better when you get on Sub&Save. Highly recommend!",
+                        "I have been using ICYHOT for so long I can't remember when I started. Sore muscles , tendinitis ? this is one product that keeps you out of the doctors office. I use it on trouble spots before and after working out. No doubt it cost a little more then other brands but rest assured it is worth it. If you have recurring pain start with a little bit rubbed in well and if pain does not go away just add a little more at a time then if you are working out and find yourself in pain after work out apply liberally rubbing in well and give it time to set in. It also can help with arthritis pain. IMPORTANT NOTE : Do not use just before or just after a shower as the product opens your pours and this will intensify the effect and will be painful and keep it away from private sensitive body parts and make sure you WASH YOUR HANDS clean after using . It is worth every penny and I swear by it ( not at it ).",
+                        "I really like this Icy Hot Max Strength cream and find it to be a very practical addition to my recovery routine. It is a reliable go-to for managing those nagging aches that pop up after a long day or an intense workout, providing a straightforward way to get back to feeling comfortable without much fuss. The first major benefit is the fast-acting dual formula, which uses both lidocaine and menthol to quickly desensitize nerves and provide a cooling sensation that cuts through muscle and joint pain in minutes. Second, I appreciate the non-greasy texture of the cream; it absorbs well into the skin without leaving a messy residue, so I can apply it and get on with my day or head to bed without worrying about ruining my clothes or sheets. It is a high-quality topical that consistently delivers on its promises.",
+                        "I like Icy Hot. It has a wintergreen smell and I like the tube. Bought the jar once and threw it out. It was too hard to scoop out. The tube cream gows on smoothly and is not greasy. I find it works for aches and pains and even helped with sciatica a bit. I buy it regularly. I put on those thin vinyl cooking gloves when applying to keep it from under my nails and to prevent it being on my hands when I'm done. I just don't want to take any risk of accidentally getting it in the eyes.",
+                        "There's nothing to compare to Icy Hot patches or cream. As someone recently diagnosed with AXSPA, I should own stock in icy hot. I could sit in a bathtub full of the stuff =) While this particular product has only 3 patches, I cut them to fit and it makes at least six normal sized patches. They stick amazingly. As for the smell, you aren't hurting bad enough if the smell bothers you. A great product."
+                    ],
+                    "negative_reviews": [
+                        "It burst at the seam as soon as I squeezed it for first time use. 70% of it was gone and the rest is unusable due to the seal being broke. Unacceptable for a medicated item.",
+                        "I can only wish that Icy Hot Max Strength had more max. It doesn't seem to last long either. It's probably better for smaller sores.",
+                        "Massage lidâtoo much trouble to set up. Size 3 font instructions-not good for sr citizens. Going back to regular tube",
+                        "I bought this Icy Hot Advanced Pro Pain Cream for my mom after she mentioned missing the old Icy Hot sponge applicator (which has been discontinued). I was hoping this would be a close alternative, and she said it really is. What she likes most is that it allows for a more hands-free type of application, which is important for her since she doesnât enjoy using her hands to rub ointments directly onto sore areas. It still provides that familiar cooling and warming sensation Icy Hot is known for, and it seems to offer good temporary relief. The only reason for 4 stars instead of 5 is personal preferenceâshe wishes it came in a gel form rather than a cream. A gel would feel a bit cleaner and closer to what she used before. Overall, itâs a solid pain relief option and a good replacement for the discontinued applicator-style product.",
+                        "I tried the plastic spray bottle, the rollerball \"stick\", & this aerosol/continuous spray. The roller applicator & this aerosol spray came in the \"Extra / Maximum strength\". The Extra / Max pain formulas may bring long-term relief from added ingredients. 1 - Best (my fave) is the rollerball This treatment felt like the most potent application. The rollerball let's you press hard on the tight spots, the pressure can help loosen painful areas. Make sure you can reach the spot by hand, if you will be applying the roller style option on yourself! The sprays all disperse & reach quite well! 2 - Aerosol - Extra Strength Continuous Pain Relief Spray 4 Ounce Mess Free - has the added ingredients, and is superbly easy to apply. Might get more waste or atomized overspray, but this lays down a nice coating of quick relief! 3 - Spray bottle - another 5 STAR product. Quick relief - large size option. Menthol mostly is the active ingredient in the regular strength products. Ratings: all 3 options = 5 star reviews! More accurately; 5.0 stars for the roller application - 4.75 stars for this featured Aerosol / Continuous spray can - 4.5 ish for the plastic pump spray bottle. I suggest you get a rollerball \"stick\" & the aerosol spray can, or spray bottle. They reach & apply differently. I apply these with an exhaust fan running or outside. The dry coating is MILD smelling - not as bad as others, but it is a menthol-esque smell for sensitive noses or anyone with disdain for smells from pain topicals."
+                    ]
+                }
+            },
+            {
+                "period": "2026-06",
+                "reviews": 312,
+                "average_rating": 4.702,
+                "average_sentiment": 0.925,
+                "cluster_distribution": {
+                    "7": 0.599,
+                    "0": 0.192,
+                    "2": 0.064,
+                    "8": 0.064,
+                    "1": 0.045,
+                    "5": 0.019,
+                    "3": 0.016
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Theyâre a lifesaver and a nice addition to anyoneâs first aid. Be mindful of Lidocaine patches, while they are effective, they can cause further skin irritation with uneven use. Youâll need to read the directions for these as they are but a percentage point lower than prescription lidocaine patches, and depending on the individual, your symptoms may be less than worthy of using these for long term use. But for me, I had upper back pain in a particular area and they work well for about 3 hours of use, then kinda fade out over the day. Youâre not supposed to use more than 3-4 a day, so iâd go along with that. If after a few hours pain is returning, or itâs in a different area, itâs fine to take the one you have off and cover the prior area and new area, itâs all dependent on how painful it is, for me I was experiencing a numbness and itchiness in that part of my back. The icyhot formula has always worked, but lidocaine is a perfect addition to their standard formula. Iâm satisfied to say the least, and a little peeling doesnât bother me I assure you when the pain is relieved. But with that said, the adhesive is abysmally bad. They really need to work on that. I advise that you take as many fabrics as you can off that may collide with the product. You can also use a little surgical tape to help keep it on if you have some handy. Otherwise, keep pressing.",
+                        "I was so skeptical when my husband offered to administer Icy Hot Spray for my severe Neuropathic Foot Pain. The doctors always told me there was nothing I could do to stop it. But my husband who has used Icy Hot Spray since it first came out swears by it . I finally gave up arguing ( or as my deceased mother-in-law always called it \"I finally gave up \"argering\" and told him, It can't hurt to try. I was really taken aback when within 5 minutes the pain was gone. Instead of coming back in a manner of minutes, it was a manner of a day. When it did return, the Icy Hot worked again. After that it hasn't worked completely every time, but when it does work the relief is heavenly. I'm a convinced customer.",
+                        "â­â­â­â­â­ Alivio rÃ¡pido y realmente efectivo Llevo usando Icy Hot Crema Original desde hace varias semanas y no puedo estar mÃ¡s satisfecha. Me ayuda muchÃ­simo con el dolor muscular y la rigidez, especialmente despuÃ©s de dÃ­as largos o cuando me canso de estar de pie. La sensaciÃ³n de frÃ­o y calor es sÃºper efectiva â primero calma el dolor y luego relaja la zona. Se absorbe bien sin dejar la piel grasosa, y con una pequeÃ±a cantidad basta para sentir alivio. No es fuerte ni irritante, y se siente muy bien despuÃ©s de aplicarla. Sin duda, es un producto que realmente funciona y ahora siempre lo tengo en casa. La recomiendo 100% para quienes sufren dolores musculares, tensiones o molestias diarias. Â¡Vale cada estrella!",
+                        "Iâve bought dozens of these and they are my go-to for muscle pain. I have hypermobility issues that cause frequent back and neck issues and these patches often keep me from having to take ibuprofen. I leave them on all day or night (they stay stuck on very well!) and have had zero skin reactions. I like the large size because if I should need a smaller patch, I can just cut it with a scissors. I do almost always have to grab another family member to put it on my back because they are so sticky you need to be precise.",
+                        "I slapped this on thinking I was about to chill out my sore muscles. Ten seconds later, I was questioning every life choice that led me here. First itâs like, âahhâ¦ cool relief,â and then BAM â suddenly my skinâs auditioning for Danteâs Inferno. ð­ But hey, it works! Pain? Gone. Pride? Also gone. 10/10 would tingle, burn, and freeze my way to comfort again. Just donât scratch the area unless you want to time travel to another dimension."
+                    ],
+                    "negative_reviews": [
+                        "This time you have sent new icyhot in old box I didnât like this I tried to apply 3-5 times it didnât work like before after using skin are itchy and paining I have kept and didnât use if you have old one please send I am a disable person cont walk or stand few mounted from all theses managing my day",
+                        "I've bought Icy Hot before and it worked really good. I just bought a new tube and have used it three times and it doesn't heat up. Very disappointed as I'm in pain and out $7.50. I emailed the Company but never heard back from them. Bad customer service. I'll switch over to Bio Freeze!",
+                        "Icy hot isn't how it use to be they changed the ingredients in it,cause it doesn't get hot or warm anymore. It's like water not little thick",
+                        "I don't know where the product works or not I'm not going to use it It smells so bad The smell is so strong I don't know why they put all that odor that perfume in it or whatever they put in it It smells bad So I'm not going to use it",
+                        "Its very strong with the menthol smells like toothpaste but no hot in it all I feel is the icy I need the hot too"
+                    ]
+                }
+            },
+            {
+                "period": "2026-07",
+                "reviews": 604,
+                "average_rating": 4.32,
+                "average_sentiment": 0.83,
+                "cluster_distribution": {
+                    "7": 0.561,
+                    "0": 0.238,
+                    "2": 0.063,
+                    "1": 0.053,
+                    "5": 0.031,
+                    "8": 0.03,
+                    "6": 0.012,
+                    "3": 0.007,
+                    "4": 0.005
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "FANTASTIC! Where has this been all my life? LOL While 1.25 ounces may seem small up to other Icy Hot products, the balm easily lasts as long as the 2 ounce Icy Hot Advanced cream and almost as long as the 3 ounce Icy Hot Pro cream with the no-mess applicator. Like the Icy Hot cream roll-on that has the same 16% menthol and 11% camphor, this balm also works within 10 minutes or so, but unlike the cream, you don't have as much of a chance of putting too much on and getting a chemical burn (I cut the cream Â½ and Â½ with a lidocaine cream and it works well, but putting too much of the Icy Hot Advanced cream *without* cutting it with something else that doesn't burn can lead to redness and burning.) You don't have to be worried about this Icy Hot Pro balm/sphere, because you can't put too much on. It *does* work, and works as quickly as pretty much anything else on the market - actually faster than many things like menthol alone, menthol and lidocaine, and/or capsaicin products (chili pepper oil creame.) If you put another layer on before it kicks in, you still will not get burned. This allows you to use the balm as a large roller so you can massage your muscles, pushing the medicine in your skin and also loosen up the tension. Only improvement I can see is that the ring to put your fingers through could be larger - possibly with two holes to be able to use one or two fingers to hold the ball. My hands are not small, but they aren't huge either. My size 9 fingers are too tight to out three fingers in the handle, which would make the handle easier to maneuver. With only two fingers in the handle, the handle is a little loose. Maybe the handle could be larger, with one side being big enough for two fingers and the other side being only for one finger. This would allow for one finger, two fingers, or three fingers (two on one side and one on the other side at the same time) to control the gliding action. If you enlarge the handle, I suppose the whole globe would be larger - maybe it could be a 2 ounce large size (keeping this 1.25 ounce size as well.) I'd buy both! This would work well as a push-up small round deodorant stick type balm too (if Icy Hot is listening!) A long and slender glide on balm would allow for a little more reach, to hit places on my back that I cannot reach with this size. Still, after 20+ years of horrific pain with rheumatoid arthritis and ankylosing spondylitis, constantly shifting creams, ointments, and liquid roll-ons, this is AMAZING! If I have to pack only one thing for pain (especially if it has to be something I can use in public, making the creams and ointments less easy to maneuver,) *THIS* is what I pack every time!",
+                        "Personal Use: Having suffered from neck, shoulder, mid and lower back pain, I used to have used these patches almost everywhere. I also recently sprained my thumb and trimmed on of these patches and wrapped it around my thumb and palm. These are awesome for bursitis. tendonitis, strains, sprains, and any muscle tenderness or tightness. I use these several times a week, mainly on my neck/shoulders, due to tightness from sitting in front a of a pc for 10 hrs a day. I can wear them under clothes to work, or under PJs at night. And they last anywhere from 8-12 hours and stay in place. They work amazingly and consistently. I would probably be popping pain meds weekly if it werent for these life-savers. Downside(if any): Unless youve had the patch on for 8-10 hours, do not shower with hot water for an hour after wearing these. Your skin will feel like its on fire. Same with sweating. If you work out after work, take it off after lunch. If you work out in the morning, give yourself an hour before you work out. Also, they are super sticky. If you leave it on for at least 4 -5 hours,. they are easier to take off. Regardless of these two things, which i consider minor because of how great they work, i wouldnt trade them for anything and will continue to use 3-5 a week. Ingredients: Active ingredient is Menthol 5% Price: Amazon has the best price I have found so far, and becomes even better when you get on Sub&Save. Highly recommend!",
+                        "Personal Use: Having suffered from neck, shoulder, mid and lower back pain, I used to have used these patches almost everywhere. I also recently sprained my thumb and trimmed one of these patches and wrapped it around my thumb and palm. These are awesome for bursitis. tendonitis, strains, sprains, and any muscle tenderness or tightness. I use these several times a week, mainly on my neck/shoulders, due to tightness from sitting in front of a pc for 10 hrs a day. I can wear them under clothes to work, or under PJs at night. And they last anywhere from 8-12 hours and stay in place. They work amazingly and consistently. I would probably be popping pain meds weekly if it werent for these life-savers. Downside(if any): Unless youve had the patch on for 8-10 hours, do not shower with hot water for an hour after wearing these. Your skin will feel like its on fire. Same with sweating. If you work out after work, take it off after lunch. If you work out in the morning, give yourself an hour before you work out. Also, they are super sticky. If you leave it on for at least 4 -5 hours,. they are easier to take off. Regardless of these two things, which i consider minor because of how great they work, i wouldnt trade them for anything and will continue to use 3-5 a week. Ingredients: Active ingredient is Menthol 5% Price: Amazon has the best price I have found so far, and becomes even better when you get on Sub&Save. Highly recommend!",
+                        "Arrived on time and as described. The small jar of Icy Hot Balm feels a bit greasy at first and a bit like hard wax. I was hesitant to use it at first, but at the insistence of my therapist I went forward. It has a strong menthol scent similar to \"Vick's\", which I don't mind (but my cat does). As soon as you apply it to your skin the waxy feel melts and penetrates easily into your skin and the greasy feeling can be rubbed in as well, although it does remain to a point. I would advise covering wherever you apply it if you worry about the Icy Hot transferring onto other fabrics, furniture, bedding, etc. To be fair, I'm not sure if it takes away the pain or if the sensation of the menthol distracts one from the pain for a few hours, either way it does help ease minor muscle ache in my experience. I had a full knee joint replacement and wasn't able to tolerate the Rx meds so I was relying on OTC Tylenol and the Icy Hot to keep me \"happy\". The pain *I* was most experiencing was calf muscle pain, and pain around my ankle, both of which were helped with elevation, icing therapy, and the Icy Hot massaged into the pain areas (avoiding the incision). After a while I was only using the Icy Hot, particularly at night so I could sleep. Bottom Line: For safe OTC minor to mild muscle pain relief that lasts a few hours before reapplication, I would recommend.",
+                        "Best product out there for pain! As I have a lot of pain conditions & nerve damage; I used it for neck, shoulder, back and knee pain. I have a high pain threshold but itâs the only thing that takes the intensity of pain off. You feel the cooling effect ease the pain instantly. I usually feel so much better by the next morning. And I love that it comes in different sizes! Iâve tried prescription lidocaine patches and they were no good and didnât stick on at all. Icy Hot patches do not come off until you take them off hours later or the next day. The only issue is that itâs a strong menthol smell that can burn your eyes if itâs close to your face. Make sure you wash your hands after applying so you donât burn your eyes by touching with hands! I have a constant supply for myself and family in pain. If I could invest in these I would. Iâll be using them for life. Extremely happy customer!!!"
+                    ],
+                    "negative_reviews": [
+                        "I had been working in the garage on some shelving, and went to bed very sore. I woke up at 3 a.m. and found a new bottle of Icy Hot No Mess...I've used both BioFreeze and Icy Hot in the past with no problem. I put it on my forearms and the backs of my hands and went back to bed. About an hour later, I woke up in EXCRUCIATING pain. It was as if I had used capsaicin, but Icy Hot NEVER has capsaicin in it, which is why I buy their product. I checked the label, and it said the \"active ingredient\" was menthol. My arms were burning, but eventually I went back to sleep. That morning I woke up and my arms and hands burned even worse. When I started working in the driveway in the sun (about 85Â°F out), I felt like I was getting a VERY SEVERE SUNBURN. I went into the shade, but it still burned. I found the bottle and checked again, and sure enough, there is CAPSAICIN in the FREAKIN' INACTIVE INGREDIENT LIST!!! And it says you might feel a \"slight\" burning sensation that will go away IN A FEW DAYS??? I hate you people! I literally had to stop working on my project for TWO DAYS because I couldn't stand the excruciating burning pain! Icy Hot, if I wanted a capsaicin product, I would have purchased another brand with capsaicin! I will NEVER trust your products again, and I'm going back to BioFreeze. Buyer BEWARE.",
+                        "I've been using peppermint oil on sore muscles and joints for decades because it works so well at drawing blood into the area. But it can be uncomfortable if you get it anywhere your groin. So this week I had a really tight glute and figured I would try an icy-hot patch since it stays local to where you place the patch, avoiding accidentally getting some in my groin. Unfortunately the Icy Hot patch is WEAK AF! I almost feel like I got scammed because they're so ineffective. It barely feels like it's doing anything. I'll be sticking to my usual peppermint oil (Now foods Organic brand). It's easily 20-30 times stronger and delivers superior results. I've used many brands of peppermint oil and the Now Foods brand and Doterra are the strongest. All others either feel diluted or they didn't harvest the leaves at the correct time of day and season. Stick to Now Foods Organic and you'll be amazed. I wont be buying Icy Hot products anymore.",
+                        "So, I've been using Icy Hot Max cream for a while on my arms for muscle pain and it works ok. My only real negative was it didn't last as long as I wished. Then I saw this Icy Hot Pro and I figured it would be better. So I bought 2 . OMG!!! The smell is absolutely DISGUSTING!!!! I could only tolerate it for about 15 minutes and I had to wash it off. Or should I say ATTEMPTED to wash it off!! I washed my arms 3 times and STILL COULDN'T get the odor completely off!!! It's literally making me feel like I need to be physically sick ð¤¢ð¤®. And in the time I did have it on, it did absolutely NOTHING!! DON'T WASTE YOUR MONEY!!!",
+                        "I tried using this for muscle aches/tightness from weight training/cardio. Honestly a salonpas pad works drastically better. This I don't get a soothing or heat sensation whatsoever, just the smell of it on my skin. I've put a little on and I've put a lot on and no difference was made. Also if yourub it on your back legs or back you really cant relax in your bed or couch without it rubbing off. Disappointed, I wont be buying this again.",
+                        "I would give this zero stars if possible. The concept is great, but there is nothing icy or hot about this product. It was completely ineffective. As if I applied nothing at all. Waste of money!"
+                    ]
+                }
+            }
+        ],
+        "review_volume": {
+            "current": 916,
+            "previous": 884,
+            "change_pct": 3.62
+        },
+        "rating": {
+            "current": 4.45,
+            "previous": 3.932,
+            "change": 0.518
+        },
+        "sentiment": {
+            "current": 0.862,
+            "previous": 0.733,
+            "change": 0.129
+        },
+        "emerging_clusters": [
+            {
+                "cluster": 2,
+                "share": 0.064,
+                "change": 0.023
+            },
+            {
+                "cluster": 0,
+                "share": 0.215,
+                "change": 0.017
+            },
+            {
+                "cluster": 8,
+                "share": 0.047,
+                "change": 0.015
+            },
+            {
+                "cluster": 3,
+                "share": 0.012,
+                "change": 0.006
+            },
+            {
+                "cluster": 4,
+                "share": 0.003,
+                "change": 0.001
+            }
+        ],
+        "declining_clusters": [
+            {
+                "cluster": 5,
+                "share": 0.025,
+                "change": -0.023
+            },
+            {
+                "cluster": 1,
+                "share": 0.049,
+                "change": -0.022
+            },
+            {
+                "cluster": 6,
+                "share": 0.006,
+                "change": -0.008
+            },
+            {
+                "cluster": 7,
+                "share": 0.58,
+                "change": -0.007
+            },
+            {
+                "cluster": 9,
+                "share": 0,
+                "change": -0.003
+            }
+        ]
+    }
+}

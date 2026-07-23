@@ -1,0 +1,26 @@
+{
+    "domain": "e-commerce",
+    "subject_id": "ASIN",
+    "protected_features": [
+        "ACCOUNT_PRODUCT_NAME",
+        "BRAND_NAME",
+        "REVIEW_DATE",
+        "STAR_RATING",
+        "SUMMARY",
+        "TEXT"
+    ],
+    "technical_garbage": [
+        "ASIN",
+        "AUTHOR",
+        "BRAND_OWNER",
+        "PAID_REVIEW",
+        "REVIEW_SOURCE",
+        "SYNDICATED_REVIEW",
+        "UPC"
+    ],
+    "sentiment": {
+        "strategy": "rating",
+        "source_column": "STAR_RATING",
+        "confidence": 0.9
+    }
+}

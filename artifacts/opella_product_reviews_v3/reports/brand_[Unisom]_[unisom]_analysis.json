@@ -1,0 +1,1570 @@
+{
+    "product": {
+        "report_type": "brand",
+        "group_by": "BRAND_NAME",
+        "identifier": "Unisom",
+        "brand_name": "Unisom",
+        "products": 15,
+        "asin": [
+            "B01683HFGY",
+            "B0FCZ93FTQ",
+            "B0FCZMXFTY",
+            "B0GX2K2KVV",
+            "B01IAIAPSU",
+            "B000GGKPN0",
+            "B000GGJC7K",
+            "B07613ZLWT",
+            "B002CVV1JO",
+            "B0DV3YXKXT",
+            "B003CYLE7Y",
+            "B0DP3BCR99",
+            "B00G4EGFDC",
+            "B00I9GQIXK",
+            "B0DTQZPNXX"
+        ],
+        "reviews": 1049,
+        "average_rating": 4.08,
+        "average_sentiment": 0.771
+    },
+    "macro_personas": [
+        {
+            "cluster": 6,
+            "universal_persona": {
+                "population": 5088,
+                "population_pct": 9.33,
+                "certainty": 0.995,
+                "positive_pct": 78.3,
+                "neutral_pct": 5.76,
+                "negative_pct": 15.94,
+                "avg_rating": 4.2,
+                "brand_distribution": {
+                    "Dulcolax": {
+                        "reviews": 1835,
+                        "share": 36.07
+                    },
+                    "Allegra": {
+                        "reviews": 1028,
+                        "share": 20.2
+                    },
+                    "Unisom": {
+                        "reviews": 743,
+                        "share": 14.6
+                    },
+                    "Xyzal": {
+                        "reviews": 443,
+                        "share": 8.71
+                    },
+                    "Nasacort": {
+                        "reviews": 324,
+                        "share": 6.37
+                    },
+                    "Zantac": {
+                        "reviews": 179,
+                        "share": 3.52
+                    },
+                    "Gold Bond": {
+                        "reviews": 159,
+                        "share": 3.12
+                    },
+                    "ACT": {
+                        "reviews": 116,
+                        "share": 2.28
+                    },
+                    "Cortizone 10": {
+                        "reviews": 75,
+                        "share": 1.47
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 66,
+                        "share": 1.3
+                    },
+                    "Icy Hot": {
+                        "reviews": 48,
+                        "share": 0.94
+                    },
+                    "Aspercreme": {
+                        "reviews": 25,
+                        "share": 0.49
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 23,
+                        "share": 0.45
+                    },
+                    "Selsun Blue": {
+                        "reviews": 12,
+                        "share": 0.24
+                    },
+                    "Buscapina": {
+                        "reviews": 11,
+                        "share": 0.22
+                    },
+                    "Magne B6": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Symptom Relief Seekers",
+                    "summary": "Customers looking for fast, effective relief from acute symptoms.",
+                    "decision_drivers": [
+                        "Fast-acting",
+                        "Proven effectiveness",
+                        "Long-lasting relief",
+                        "Minimal side effects"
+                    ],
+                    "satisfaction_drivers": [
+                        "Quickly alleviates symptoms",
+                        "Long duration of effects",
+                        "No harsh side effects",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short-lived effects",
+                        "Unpleasant side effects",
+                        "Inconvenient usage"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 6,
+                "share": 0.708,
+                "certainty": 0.998,
+                "reviews": 743,
+                "average_rating": 4.1,
+                "average_sentiment": 0.776
+            },
+            "comparison": {
+                "share_lift": 7.59,
+                "rating_delta": -0.1
+            }
+        },
+        {
+            "cluster": 0,
+            "universal_persona": {
+                "population": 11231,
+                "population_pct": 20.6,
+                "certainty": 0.997,
+                "positive_pct": 86.88,
+                "neutral_pct": 4.03,
+                "negative_pct": 9.08,
+                "avg_rating": 4.49,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 3735,
+                        "share": 33.26
+                    },
+                    "Dulcolax": {
+                        "reviews": 1768,
+                        "share": 15.74
+                    },
+                    "Cortizone 10": {
+                        "reviews": 1000,
+                        "share": 8.9
+                    },
+                    "Icy Hot": {
+                        "reviews": 985,
+                        "share": 8.77
+                    },
+                    "ACT": {
+                        "reviews": 904,
+                        "share": 8.05
+                    },
+                    "Allegra": {
+                        "reviews": 743,
+                        "share": 6.62
+                    },
+                    "Aspercreme": {
+                        "reviews": 657,
+                        "share": 5.85
+                    },
+                    "Selsun Blue": {
+                        "reviews": 403,
+                        "share": 3.59
+                    },
+                    "Nasacort": {
+                        "reviews": 293,
+                        "share": 2.61
+                    },
+                    "Xyzal": {
+                        "reviews": 253,
+                        "share": 2.25
+                    },
+                    "Unisom": {
+                        "reviews": 215,
+                        "share": 1.91
+                    },
+                    "Zantac": {
+                        "reviews": 215,
+                        "share": 1.91
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 27,
+                        "share": 0.24
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 22,
+                        "share": 0.2
+                    },
+                    "Buscapina": {
+                        "reviews": 11,
+                        "share": 0.1
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Daily Wellness Maintainers",
+                    "summary": "Customers seeking reliable products to support everyday health routines and prevention.",
+                    "decision_drivers": [
+                        "Effectiveness",
+                        "Quality",
+                        "Trusted brand",
+                        "Ease of use"
+                    ],
+                    "satisfaction_drivers": [
+                        "Long-lasting relief",
+                        "Meets daily needs",
+                        "Minimal side effects",
+                        "Trusted solution"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short duration",
+                        "Unpleasant side effects",
+                        "Poor value"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 0,
+                "share": 0.205,
+                "certainty": 0.999,
+                "reviews": 215,
+                "average_rating": 4.14,
+                "average_sentiment": 0.786
+            },
+            "comparison": {
+                "share_lift": 1.0,
+                "rating_delta": -0.35
+            }
+        },
+        {
+            "cluster": 2,
+            "universal_persona": {
+                "population": 2128,
+                "population_pct": 3.9,
+                "certainty": 1.0,
+                "positive_pct": 91.92,
+                "neutral_pct": 2.11,
+                "negative_pct": 5.97,
+                "avg_rating": 4.67,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 556,
+                        "share": 26.13
+                    },
+                    "Icy Hot": {
+                        "reviews": 272,
+                        "share": 12.78
+                    },
+                    "Selsun Blue": {
+                        "reviews": 258,
+                        "share": 12.12
+                    },
+                    "Cortizone 10": {
+                        "reviews": 222,
+                        "share": 10.43
+                    },
+                    "Dulcolax": {
+                        "reviews": 199,
+                        "share": 9.35
+                    },
+                    "Allegra": {
+                        "reviews": 143,
+                        "share": 6.72
+                    },
+                    "ACT": {
+                        "reviews": 136,
+                        "share": 6.39
+                    },
+                    "Aspercreme": {
+                        "reviews": 123,
+                        "share": 5.78
+                    },
+                    "Buscapina": {
+                        "reviews": 97,
+                        "share": 4.56
+                    },
+                    "Unisom": {
+                        "reviews": 50,
+                        "share": 2.35
+                    },
+                    "Xyzal": {
+                        "reviews": 38,
+                        "share": 1.79
+                    },
+                    "Zantac": {
+                        "reviews": 16,
+                        "share": 0.75
+                    },
+                    "Nasacort": {
+                        "reviews": 13,
+                        "share": 0.61
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 4,
+                        "share": 0.19
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.05
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Oral Hygiene Prioritizers",
+                    "summary": "Customers focused on maintaining good oral health through daily routines.",
+                    "decision_drivers": [
+                        "Dentist recommended",
+                        "Proven effectiveness",
+                        "Kid-friendly options",
+                        "Convenient usage"
+                    ],
+                    "satisfaction_drivers": [
+                        "Fresh breath",
+                        "Prevents cavities/gum issues",
+                        "Easy to use",
+                        "Pleasant taste/scent"
+                    ],
+                    "frustration_drivers": [
+                        "Unpleasant taste/smell",
+                        "Ineffective results",
+                        "Difficult to use",
+                        "Harsh ingredients"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 2,
+                "share": 0.048,
+                "certainty": 1.0,
+                "reviews": 50,
+                "average_rating": 4.42,
+                "average_sentiment": 0.855
+            },
+            "comparison": {
+                "share_lift": 1.23,
+                "rating_delta": -0.25
+            }
+        },
+        {
+            "cluster": 5,
+            "universal_persona": {
+                "population": 4604,
+                "population_pct": 8.45,
+                "certainty": 0.995,
+                "positive_pct": 22.26,
+                "neutral_pct": 13.66,
+                "negative_pct": 64.07,
+                "avg_rating": 2.21,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 3046,
+                        "share": 66.16
+                    },
+                    "Cortizone 10": {
+                        "reviews": 312,
+                        "share": 6.78
+                    },
+                    "Icy Hot": {
+                        "reviews": 242,
+                        "share": 5.26
+                    },
+                    "Aspercreme": {
+                        "reviews": 216,
+                        "share": 4.69
+                    },
+                    "ACT": {
+                        "reviews": 211,
+                        "share": 4.58
+                    },
+                    "Dulcolax": {
+                        "reviews": 157,
+                        "share": 3.41
+                    },
+                    "Allegra": {
+                        "reviews": 139,
+                        "share": 3.02
+                    },
+                    "Nasacort": {
+                        "reviews": 87,
+                        "share": 1.89
+                    },
+                    "Xyzal": {
+                        "reviews": 68,
+                        "share": 1.48
+                    },
+                    "Zantac": {
+                        "reviews": 58,
+                        "share": 1.26
+                    },
+                    "Selsun Blue": {
+                        "reviews": 42,
+                        "share": 0.91
+                    },
+                    "Unisom": {
+                        "reviews": 17,
+                        "share": 0.37
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 3,
+                        "share": 0.07
+                    },
+                    "Buscapina": {
+                        "reviews": 3,
+                        "share": 0.07
+                    },
+                    "Magne B6": {
+                        "reviews": 2,
+                        "share": 0.04
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Product Experience Critics",
+                    "summary": "Customers focused on product usability and delivery mechanisms over ingredients.",
+                    "decision_drivers": [
+                        "Ease of application",
+                        "Convenient packaging",
+                        "Innovative delivery"
+                    ],
+                    "satisfaction_drivers": [
+                        "Hassle-free usage",
+                        "Precise application",
+                        "Portable packaging"
+                    ],
+                    "frustration_drivers": [
+                        "Difficult application",
+                        "Faulty packaging/sprayers",
+                        "Messy or wasteful"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 5,
+                "share": 0.016,
+                "certainty": 1.0,
+                "reviews": 17,
+                "average_rating": 1.47,
+                "average_sentiment": 0.118
+            },
+            "comparison": {
+                "share_lift": 0.19,
+                "rating_delta": -0.74
+            }
+        },
+        {
+            "cluster": 3,
+            "universal_persona": {
+                "population": 6176,
+                "population_pct": 11.33,
+                "certainty": 0.999,
+                "positive_pct": 84.5,
+                "neutral_pct": 5.04,
+                "negative_pct": 10.46,
+                "avg_rating": 4.42,
+                "brand_distribution": {
+                    "ACT": {
+                        "reviews": 5502,
+                        "share": 89.09
+                    },
+                    "Dulcolax": {
+                        "reviews": 324,
+                        "share": 5.25
+                    },
+                    "Xyzal": {
+                        "reviews": 104,
+                        "share": 1.68
+                    },
+                    "Allegra": {
+                        "reviews": 78,
+                        "share": 1.26
+                    },
+                    "Gold Bond": {
+                        "reviews": 74,
+                        "share": 1.2
+                    },
+                    "Icy Hot": {
+                        "reviews": 24,
+                        "share": 0.39
+                    },
+                    "Cortizone 10": {
+                        "reviews": 21,
+                        "share": 0.34
+                    },
+                    "Zantac": {
+                        "reviews": 14,
+                        "share": 0.23
+                    },
+                    "Unisom": {
+                        "reviews": 13,
+                        "share": 0.21
+                    },
+                    "Aspercreme": {
+                        "reviews": 10,
+                        "share": 0.16
+                    },
+                    "Selsun Blue": {
+                        "reviews": 9,
+                        "share": 0.15
+                    },
+                    "Buscapina": {
+                        "reviews": 1,
+                        "share": 0.02
+                    },
+                    "Nasacort": {
+                        "reviews": 1,
+                        "share": 0.02
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Pediatric Care Facilitators",
+                    "summary": "Parents/caregivers seeking safe, effective solutions for children's health needs.",
+                    "decision_drivers": [
+                        "Kid-friendly formulations",
+                        "Gentle ingredients",
+                        "Proven effectiveness",
+                        "Pediatrician recommended"
+                    ],
+                    "satisfaction_drivers": [
+                        "Easy administration",
+                        "Fast-acting relief",
+                        "No harsh side effects",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Unpleasant taste/smell",
+                        "Difficulty administering",
+                        "Lack of results",
+                        "Harsh side effects"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 3,
+                "share": 0.012,
+                "certainty": 1.0,
+                "reviews": 13,
+                "average_rating": 4.38,
+                "average_sentiment": 0.846
+            },
+            "comparison": {
+                "share_lift": 0.11,
+                "rating_delta": -0.04
+            }
+        },
+        {
+            "cluster": 8,
+            "universal_persona": {
+                "population": 6837,
+                "population_pct": 12.54,
+                "certainty": 0.99,
+                "positive_pct": 85.61,
+                "neutral_pct": 3.89,
+                "negative_pct": 10.5,
+                "avg_rating": 4.44,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 6144,
+                        "share": 89.86
+                    },
+                    "Aspercreme": {
+                        "reviews": 242,
+                        "share": 3.54
+                    },
+                    "Icy Hot": {
+                        "reviews": 161,
+                        "share": 2.35
+                    },
+                    "Selsun Blue": {
+                        "reviews": 96,
+                        "share": 1.4
+                    },
+                    "Cortizone 10": {
+                        "reviews": 72,
+                        "share": 1.05
+                    },
+                    "Dulcolax": {
+                        "reviews": 48,
+                        "share": 0.7
+                    },
+                    "ACT": {
+                        "reviews": 41,
+                        "share": 0.6
+                    },
+                    "Allegra": {
+                        "reviews": 13,
+                        "share": 0.19
+                    },
+                    "Nasacort": {
+                        "reviews": 7,
+                        "share": 0.1
+                    },
+                    "Unisom": {
+                        "reviews": 5,
+                        "share": 0.07
+                    },
+                    "Magne B6": {
+                        "reviews": 5,
+                        "share": 0.07
+                    },
+                    "Xyzal": {
+                        "reviews": 2,
+                        "share": 0.03
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.01
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Comfort First Consumers",
+                    "summary": "Customers focused on products that provide comfort, freshness and prevent irritation.",
+                    "decision_drivers": [
+                        "Prevents chafing/irritation",
+                        "Absorbs moisture/sweat",
+                        "Long-lasting freshness",
+                        "Gentle formulation"
+                    ],
+                    "satisfaction_drivers": [
+                        "Stays dry and fresh",
+                        "Soothes irritated skin",
+                        "Easy to apply",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective absorption",
+                        "Short duration of effects",
+                        "Unpleasant smell/residue",
+                        "Causes further irritation"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 8,
+                "share": 0.005,
+                "certainty": 0.923,
+                "reviews": 5,
+                "average_rating": 2.8,
+                "average_sentiment": 0.45
+            },
+            "comparison": {
+                "share_lift": 0.04,
+                "rating_delta": -1.64
+            }
+        },
+        {
+            "cluster": 7,
+            "universal_persona": {
+                "population": 4657,
+                "population_pct": 8.54,
+                "certainty": 0.995,
+                "positive_pct": 74.38,
+                "neutral_pct": 6.81,
+                "negative_pct": 18.81,
+                "avg_rating": 4.07,
+                "brand_distribution": {
+                    "Icy Hot": {
+                        "reviews": 2496,
+                        "share": 53.6
+                    },
+                    "Aspercreme": {
+                        "reviews": 1197,
+                        "share": 25.7
+                    },
+                    "Gold Bond": {
+                        "reviews": 548,
+                        "share": 11.77
+                    },
+                    "Cortizone 10": {
+                        "reviews": 190,
+                        "share": 4.08
+                    },
+                    "Dulcolax": {
+                        "reviews": 120,
+                        "share": 2.58
+                    },
+                    "Magne B6": {
+                        "reviews": 24,
+                        "share": 0.52
+                    },
+                    "Allegra": {
+                        "reviews": 22,
+                        "share": 0.47
+                    },
+                    "ACT": {
+                        "reviews": 19,
+                        "share": 0.41
+                    },
+                    "Zantac": {
+                        "reviews": 12,
+                        "share": 0.26
+                    },
+                    "Xyzal": {
+                        "reviews": 7,
+                        "share": 0.15
+                    },
+                    "Buscapina": {
+                        "reviews": 7,
+                        "share": 0.15
+                    },
+                    "Selsun Blue": {
+                        "reviews": 6,
+                        "share": 0.13
+                    },
+                    "Unisom": {
+                        "reviews": 4,
+                        "share": 0.09
+                    },
+                    "Nasacort": {
+                        "reviews": 3,
+                        "share": 0.06
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 2,
+                        "share": 0.04
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Pain Relief Prioritizers",
+                    "summary": "Customers seeking effective, targeted relief from muscle/joint pains.",
+                    "decision_drivers": [
+                        "Fast pain relief",
+                        "Long-lasting effects",
+                        "Targeted application",
+                        "Ease of use"
+                    ],
+                    "satisfaction_drivers": [
+                        "Quickly reduces pain",
+                        "Long duration of effects",
+                        "Convenient application",
+                        "No mess or residue"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective results",
+                        "Short-lived relief",
+                        "Difficult application",
+                        "Unpleasant smell/feel"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 7,
+                "share": 0.004,
+                "certainty": 0.999,
+                "reviews": 4,
+                "average_rating": 3.75,
+                "average_sentiment": 0.688
+            },
+            "comparison": {
+                "share_lift": 0.05,
+                "rating_delta": -0.32
+            }
+        },
+        {
+            "cluster": 4,
+            "universal_persona": {
+                "population": 339,
+                "population_pct": 0.62,
+                "certainty": 1.0,
+                "positive_pct": 97.94,
+                "neutral_pct": 1.47,
+                "negative_pct": 0.59,
+                "avg_rating": 4.81,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 132,
+                        "share": 38.94
+                    },
+                    "Cortizone 10": {
+                        "reviews": 42,
+                        "share": 12.39
+                    },
+                    "Dulcolax": {
+                        "reviews": 30,
+                        "share": 8.85
+                    },
+                    "Allegra": {
+                        "reviews": 28,
+                        "share": 8.26
+                    },
+                    "Selsun Blue": {
+                        "reviews": 26,
+                        "share": 7.67
+                    },
+                    "ACT": {
+                        "reviews": 25,
+                        "share": 7.37
+                    },
+                    "Aspercreme": {
+                        "reviews": 17,
+                        "share": 5.01
+                    },
+                    "Icy Hot": {
+                        "reviews": 14,
+                        "share": 4.13
+                    },
+                    "Zantac": {
+                        "reviews": 8,
+                        "share": 2.36
+                    },
+                    "Nasacort": {
+                        "reviews": 7,
+                        "share": 2.06
+                    },
+                    "Xyzal": {
+                        "reviews": 7,
+                        "share": 2.06
+                    },
+                    "Buscapina": {
+                        "reviews": 1,
+                        "share": 0.29
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 1,
+                        "share": 0.29
+                    },
+                    "Unisom": {
+                        "reviews": 1,
+                        "share": 0.29
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Trusted Solution Seekers",
+                    "summary": "Customers prioritizing proven, reliable products from trusted brands.",
+                    "decision_drivers": [
+                        "Trusted brand reputation",
+                        "Proven effectiveness",
+                        "Quality ingredients",
+                        "Good value"
+                    ],
+                    "satisfaction_drivers": [
+                        "Delivers expected results",
+                        "Long-lasting effects",
+                        "Minimal side effects",
+                        "Worth the cost"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short duration of effects",
+                        "Unpleasant side effects",
+                        "Poor value for money"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 4,
+                "share": 0.001,
+                "certainty": 1.0,
+                "reviews": 1,
+                "average_rating": 5.0,
+                "average_sentiment": 1.0
+            },
+            "comparison": {
+                "share_lift": 0.16,
+                "rating_delta": 0.19
+            }
+        },
+        {
+            "cluster": 1,
+            "universal_persona": {
+                "population": 12457,
+                "population_pct": 22.85,
+                "certainty": 0.994,
+                "positive_pct": 84.42,
+                "neutral_pct": 5.59,
+                "negative_pct": 9.99,
+                "avg_rating": 4.43,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 9823,
+                        "share": 78.86
+                    },
+                    "Cortizone 10": {
+                        "reviews": 1986,
+                        "share": 15.94
+                    },
+                    "Icy Hot": {
+                        "reviews": 180,
+                        "share": 1.44
+                    },
+                    "Aspercreme": {
+                        "reviews": 177,
+                        "share": 1.42
+                    },
+                    "Selsun Blue": {
+                        "reviews": 102,
+                        "share": 0.82
+                    },
+                    "Allegra": {
+                        "reviews": 75,
+                        "share": 0.6
+                    },
+                    "ACT": {
+                        "reviews": 50,
+                        "share": 0.4
+                    },
+                    "Dulcolax": {
+                        "reviews": 39,
+                        "share": 0.31
+                    },
+                    "Xyzal": {
+                        "reviews": 10,
+                        "share": 0.08
+                    },
+                    "Magne B6": {
+                        "reviews": 8,
+                        "share": 0.06
+                    },
+                    "Nasacort": {
+                        "reviews": 6,
+                        "share": 0.05
+                    },
+                    "Unisom": {
+                        "reviews": 1,
+                        "share": 0.01
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Skin Condition Soothers",
+                    "summary": "Customers looking for effective relief from persistent skin irritations and conditions.",
+                    "decision_drivers": [
+                        "Fast-acting",
+                        "Gentle formulation",
+                        "Proven ingredients",
+                        "Dermatologist recommended"
+                    ],
+                    "satisfaction_drivers": [
+                        "Reduces itching/irritation",
+                        "Promotes healing",
+                        "Long-lasting effects",
+                        "Safe for sensitive skin"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective results",
+                        "Further irritation",
+                        "Short-lived relief",
+                        "Harsh ingredients"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 1,
+                "share": 0.001,
+                "certainty": 1.0,
+                "reviews": 1,
+                "average_rating": 5.0,
+                "average_sentiment": 1.0
+            },
+            "comparison": {
+                "share_lift": 0.0,
+                "rating_delta": 0.57
+            }
+        }
+    ],
+    "trend_analysis": {
+        "timeline": [
+            {
+                "period": "2024-12",
+                "reviews": 111,
+                "average_rating": 3.757,
+                "average_sentiment": 0.689,
+                "cluster_distribution": {
+                    "6": 0.73,
+                    "0": 0.126,
+                    "5": 0.054,
+                    "2": 0.036,
+                    "3": 0.036,
+                    "8": 0.009,
+                    "7": 0.009
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Unisom sleep gels have made falling asleep and staying asleep so easy and comfortable. I took them 30 minutes prior to laying down for the evening, and once I got into bed I could hardly keep my eyes open. I slept through the entire night and woke up feeling refreshed. I had no grogginess or side effects the next morning. The tabs are small and easy to swallow with a few sips of water. Would recommend!",
+                        "I have difficulties staying asleep for more than 4 hours . I been taking Unisom for 1 year now . It has helped me tremendously. I can at least get a good 8+ plus hour rest. Small to medium pill size. Moderate aftertaste .",
+                        "I've been taking these for years in lieu of prescription sleep meds. Non habit forming, no grogginess and you never build up a resistance to it. I can drink caffeine in the afternoons and it still helps put me to sleep at night.",
+                        "I have problems falling asleep and staying asleep and those pills helped with that. Easy to swallow because of the small size, no taste or scent. I am taking 2 and that is enough for the whole night.",
+                        "Bought this because I need help sleeping. Works great and fast take 30 minutes for it to kick in. You donât wake up drowsy like other sleeping aids. Wake up fresh."
+                    ],
+                    "negative_reviews": [
+                        "I have trouble sleeping. I had to take 2 Unisom's at night along with Melatonin. I noticed that I when I wake up, my mouth was very dry. Also, I started losing my hair. Every time I washed my hair, and when I'd rinse my hands, lots and lots of hair would wash off my hands and end up at the drain. When done with my shower, I would clear the drain and throw out the hair that fell out. This happened every time I'd wash my hair. So, I checked the Side Effects of the Unisom, and it did mention about the dry mouth and hair loss. So I decided to try other means to sleep and stopped both Unisom and Melatonin. When I checked Melatonin side effects, there was no mention of what I was experiencing. It's only been about one week that I stopped these 2 products. My hair is still falling out but not as much, I am giving it some time. I hope this helps. I love my hair.",
+                        "This stuff keeps you awake!!! But wait there's more! There is no warning, but it CAN give you the most miserable nights. Do you know that feeling when you are falling and you startled yourself awake? It's like that over and over, ALL NIGHT. It caused me to have restless legs which I have never experienced before. I am freaking MISERABLE and exhausted. I kept thinking maybe I did something wrong like had a cup of tea too late, so I took it for multiple nights, tried exercising, taking a hot shower before bed etc. It makes you so sleepy that you feel like you are going to collapse, so I rhought great! But then it keeps you in that limbo nightmare state waking up over and over. Horrible. Save your money and your sanity and get melatonin instead! (I got a refund!)",
+                        "After I received this I tried to return it and Amazon would not give me a credit. This stuff does not have melatonin in it.... BUT, WHAT IT DOES HAVE (and the website does not show this is POISON. Meant to KILL you Slowly. Polyethylene Glycol, (Anti-Freeze) In the pill itself and the coating. Titanium Oxide, Blue 1, Sorbitol I can not stress enough how important it is to not buy this and to ALWAYS READ LABELS. These companies need to be put out of business. Do your Own research and educate yourself",
+                        "Does not help you sleep, in fact, it makes it impossible. It is the worst tasting supplement ever made, with that bad taste that doesn't go away even with mouth wash. The next day I used a couple of Halls losanges to get that taste out of my mouth. But, is you want a miserable night with no sleep, these are the ticket.buy Do buy Sominex. That works perfectly. You'll be happy!",
+                        "My wife and I tried both the medicine to get better sleep results. Even after a few days the results were really dissappointing. Instead of get asleep faster it took us sevral hours to fall asleep. We both woke up several times during the night. We had much better results with Melatonin or other products."
+                    ]
+                }
+            },
+            {
+                "period": "2025-01",
+                "reviews": 54,
+                "average_rating": 3.352,
+                "average_sentiment": 0.588,
+                "cluster_distribution": {
+                    "6": 0.796,
+                    "0": 0.093,
+                    "5": 0.074,
+                    "3": 0.019,
+                    "2": 0.019
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "These sleep tabs work well. After trying a whole pill, which definitely put me to sleep but left me too groggy the next day, I have been using one half which is my sweet spot. I work in IT and can't go to work groggy. I was on these many years ago and know that you develop tolerance quickly so I plan to stop in a few weeks (temporarily) and use CBN (not CBD) which also works well for me. Then I will go back to Unisom. I have been drinking camomille tea at night which also has sedative properties. These pills work so well . . . I wish they didn't cause tolerance but oh well. Side note: Unisom works better than Ambien, which I took for years. Again, oh well.",
+                        "Iâve been using Unisom Nighttime Sleep-Aid Gels for a while now, and theyâve made a world of difference in my sleep quality. The 50mg dosage of diphenhydramine HCI helps me fall asleep quickly without any grogginess the next day. I love how easy the gels are to swallow, and they start working within about 20 minutes, giving me a restful nightâs sleep even when Iâm dealing with stress or jet lag. Unlike some other sleep aids, I donât wake up feeling sluggish or disoriented, and the effects are gentle but effective. Itâs become my go-to solution for occasional sleeplessness, and I appreciate how reliable and affordable it is. Highly recommend for anyone who struggles with falling or staying asleep!",
+                        "I'm one of those weird people that diphenhydramine doesn't make sleepy at all; in fact, it makes me feel wired. Many OTC sleep meds use diphenhydramine as the active ingredient. This type of Unisom, which instead uses doxylamine, works like a charm for me. When I take it I do have to make sure I have at least eight hours to devote to sleep. Otherwise I'll be groggy until it wears off. (i.e. don't take it at one am and expect to be awake and alert at six.)",
+                        "I bought these for morning sickness as my doctor recommended to me, but ended up not using it as a solution because these knocked me out! If you are looking for a sleep aid for the purpose of better sleep, this will do it. I didn't notice a weird taste and it wasn't hard to swallow. I did notice I had to take it no later than 7p to not be too groggy the next day.",
+                        "I generally have used Melatonin even up to 12mg and it's not always been effective. But with these I tried one full pill, then I was half asleep the whole next day, so then I tried a half pill, still felt sluggish the next day, but I've found 1/4 to be just the right amount. I just wish it didn't make my nasal passage ways feel so dried out in the mornings."
+                    ],
+                    "negative_reviews": [
+                        "I will not be buying this product again. Iâve taken it on 3 different occasions, and while it does help me sleep, I wake up the next morning with a headache that last all day. Iâm dizzy and drowsy all day. Iâve never taken anything that makes me feel like this before. I truly feel like crap. I do not recommend at all!",
+                        "As a large, athletic human, I didn't think this tiny pill would do much. I took it at about 10 PM and still feel the affects at 1:30 PM the following day. I can't describe the strange feeling that this poison induced...beyond mere grogginess. My recommendation - stay away from this trash, even if it means not sleeping well. Resort to healthier solutions.",
+                        "It helps me sleep, but destroys the entire following day for me. I have a heavy feeling in my head, Iâm irritable, depressed, and just evil to everyone. Iâm completely not myself when I take these. Plus they are addictive and once you stop taking them you have to deal with the insomnia again. Horrible, horrible drug.",
+                        "I have Chronic insomnia and am always looking for help/a cure . I tried these three times and each time I fell asleep but woke up 4 hours later. In the morning I felt exhausted, lethargic, and like I had a hangover. Not for me.",
+                        "I keep trying things to make me sleep better and I had hope for this one. I did fall asleep easier than usual, but I woke up after 4 hours and I stayed groggy and sleepy all day."
+                    ]
+                }
+            },
+            {
+                "period": "2025-02",
+                "reviews": 104,
+                "average_rating": 3.731,
+                "average_sentiment": 0.683,
+                "cluster_distribution": {
+                    "6": 0.75,
+                    "0": 0.183,
+                    "5": 0.019,
+                    "2": 0.019,
+                    "7": 0.019,
+                    "4": 0.01
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Iâve been using Unisom for a couple of years on and off, and honestly, itâs been a lifesaver. My medication makes it hard to fall asleep, so I needed something gentle yet effective. Unisom has been a fantastic, non-addictive option that helps me wind down and get to sleep without feeling groggy or overdoing it. Itâs just the right boost to get me tired and ready for bed. If youâre looking for a basic sleep aid that wonât knock you out but gives you that nudge towards dreamland, I highly recommend Unisom!",
+                        "A friend recommended these sleep tabs and I can attest they work like magic. I take it and before you know it, I am out and sleeping. I wake up feeling refreshed and rested. The pills are very small . They are easy to swallow. It has no tastes , at least to me because I try to swallow them without letting them dissolve. A bottle of 80 pills last me about 2 months because I donât use them every night.",
+                        "Unisom SleepTabs are a real game-changer for a restful nightâs sleep! They work quickly and gently, helping me fall asleep fast without leaving me feeling groggy in the morning. The formula is effective yet not overly strong, providing a peaceful, uninterrupted sleep. I appreciate how easy they are to take, and theyâve become a go-to when I need help unwinding after a long day. Highly recommend if you're looking for a reliable, non-habit-forming sleep aid!",
+                        "Started using these a while back after trying many other sleep meds. Everything else Iâve tried has either not worked, or I wake up super groggy the next day. With these Unisom sleep tabs, I go to sleep quick and sleep all through the night. The best part, I wake up feeling refreshed and ready to go. No more grogginess!!!",
+                        "I took these on a trip to Canada and I will say THEY WORK. However, I break my pill into half, because a whole one did leave me feeling a bit groggy the next day, but half a pill was perfect. I fell asleep quickly and slept soundly. I would absolutely buy them again."
+                    ],
+                    "negative_reviews": [
+                        "Iâve taken zzzquil/benadryl with success for sleep troubles in the past. Over time, the Benadryl didnât work as well. I read online that doxylamine works significantly better than Benadryl does for sleep. I tried it and it worked! I used regular NyQuil which contained doxylamine. Not wanting to also have all of the additional medicationâs that are contained inside of NyQuil I tried this brand, Unisom. Unfortunately it did absolutely NOTHING for me. Not even a yawn. I took a double dose compared to what was inside of the NyQuil that worked for me. Even with that double dose, these Unisom tables have absolutely no effect. I donât know why. I tried the NyQuil again that has only 12.5mg of Doxylamine and it worked perfectly. The 25mg Unisom dose is totally ineffective. Is it under dosed? Is it even dosed at all? Seemed like a sugar tablet to me. Iâm glad I only bought the smaller bottle because they were a waste of money.",
+                        "I take 2 mg Xanax to sleep. I have a broken nose and neck/back surgery making sleep restless and often painful. I have tried everything from legal pot to Melatonin and nothing helps. I always wake up about four to five hours after going to sleep then toss and turn hoping to slip back. I took half a tab and the same result as everything else, similar sleep pattern to just Xanax. I did wake feeling \"bad\" pretty vague term with a bad taste in my mouth. Trazadone has a similar effect. Except that usually keeps me tired and with sore eyes. Every body reacts differently, for me this was just not the right thing.",
+                        "Does not work, I was twisting and turning all night. I took one pill and laid down. I would've been better off taking benadryl. I am so bummed â¹ï¸. I don't take pills nor prescription drugs, so for this to be strong as people have stated, it should've more than worked on me. I have tried 4 different nights and I took 2 and same results = insomnia! It keeps me restless all night. When I don't take it, I don't sleep, yet I am not restless, I just don't sleep. I would NOT recommend.",
+                        "I bought this for my father who has a very hard time staying asleep. Well it had the opposite effect, causing him to stay up all night. He was a nervous wreck all night and was full of anxiety. He actually collapsed or fainted two separate times that night. Thankfully he wasn't seriously injured. I ended up just throwing the rest of the box out",
+                        "Unisom was like a placebo for sleep or non sleep. Itâs weak, ineffective & a disappointment . Compared to Xanax or even Alprazolam? No contest. If youâre trying to bridge a gap there, tough it out with no sleep than wasting $$ on a poor performing product. Those who claim Unisom works are obviously without serious sleep issues. Case made?"
+                    ]
+                }
+            },
+            {
+                "period": "2025-03",
+                "reviews": 38,
+                "average_rating": 3.816,
+                "average_sentiment": 0.704,
+                "cluster_distribution": {
+                    "6": 0.711,
+                    "0": 0.237,
+                    "2": 0.053
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "These pills are the only thing that knocks me out within 20 minutes. They work super well, but I would say the only thing I really donât like about it is that you will feel groggy the next morning. Iâve had to drink 3 cups of coffee and I feel like the grogginess doesnât go away. Once I even had an energy drink, and I still felt the grogginess. So I started taking half the pill and it works better where I donât feel the symptoms the next morning. I ended up sleeping 16 hours by taking the whole pill so if you are planning on taking the whole pill make sure you take it on a day where you might not have any plans the next morning or have to wake up early for it. But Iâm sure if you take half youâll be fine or less than half.",
+                        "BEWARE âthese are very, very strong, at least for me. I cut them into four and use just a quarter. They definitely work. The first time I took a full one, I was super drowsy the entire next day, completely unproductive, and even needed two naps. They are great, but I highly recommend cutting them up and testing a smaller dose first to see how your body reacts. DO NOT take a full one right awayâplease test cautiously first!",
+                        "I had insomnia during pregnancy, and my midwife said these were safe to take. I am not licensed to say you should take if you're pregnant, please ask your provider first. I would only take half a tablet though and knock out didn't feel extremely groggy like melatonin in the morning. But that's because I would only take half. I did have some crazy dreams though",
+                        "For reasons I won't say, in late 2024 I could no longer sleep through the night. I didn't want Rx meds or anything habit-forming. Unisom has been very effective! Instead of waking up around 3am with difficulty going back to sleep, I sleep through till my alarm whenever I take Unisom. Taken early enough the previous evening, I don't experience morning drowsiness. I'd highly recommend it.",
+                        "I started using unisom when I was pregnant with my first child and had a very hard time sleeping. I still have them on hand on nights when I really need to rest. The effect quicks in quick and no drowsy feeling the next morning!"
+                    ],
+                    "negative_reviews": [
+                        "I really donât know how to feel about this product. I havenât slept in two or more weeks and I take one 30 minutes in advance like the bottle said. I even took two and I still havenât slept. Apart from that the package arrived on time.",
+                        "I have used this for about two weeks now and it does make you sleepy. I have trouble sleeping turning my brain off. The best thing I have that works is NyQuil. I was hoping this would work but disappointed that it did not work for me.",
+                        "I took Unisom SleepTabs hoping for better sleep, but instead, I felt extremely dizzy and uncomfortable. It didnât help me sleep well, and I woke up feeling even worse. Definitely not for meâwonât be using these again.",
+                        "Didnât work well for me. I was not able to sleep with them, just became more aware that I was tired.",
+                        "I have ordered this before and it was wonderful, Iâm sorry I canât add anything because I have not received my latest order"
+                    ]
+                }
+            },
+            {
+                "period": "2025-04",
+                "reviews": 17,
+                "average_rating": 4.412,
+                "average_sentiment": 0.853,
+                "cluster_distribution": {
+                    "6": 0.706,
+                    "0": 0.176,
+                    "3": 0.059,
+                    "2": 0.059
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Great product- Am a mild insomniac and these are pretty reliable and effective. Usually work within 30 minutes. In my opinion, better than taking benadryl and don't have that drowsy feeling in the morning. Worth it.",
+                        "Only thing that helps me sleep soundly (very restless sleeper who wakes up a lot during the night). My doctor gave me the green light to take these every night.",
+                        "The wife whoâs pregnant takes these nightly to help sleep. I take them on occasion and it does not leave you feeling groggy in the morning like melatonin does.",
+                        "Si no puedes dormir en las noches estas pastillas son tu soluciÃ³n yo me tomo dos por noche una no me hace efecto",
+                        "Works as advertised. I like this aide. Not addictive. Check with your doctor to be safe if youâre on meds."
+                    ],
+                    "negative_reviews": [
+                        "My daughter and I both tried Unisom. It did make us both fall asleep, but not without side effects, which went away after we discontinued use. I woke up in the mornings with no issues, but after being awake for a few hours I felt so fatigued I had to nap. My daughter felt depressed right before falling asleep and throughout the day after. Your experience may be different.",
+                        "These do the job when it comes to helping me fall asleep, but to be honest, I much prefer diphenhydramine-based sleep aids. With these, I feel noticeably groggy well into the next dayâlike, around 1 p.m. Iâm still moving in slow motion and questioning all my life choices. Diphenhydramine, on the other hand, usually wears off by around 9 a.m., which at least gives me a chance at a semi-productive morning. Everyone reacts differently, of course, but if youâre sensitive to that âsleep aid hangover,â these might hit a bit harder than expected. They definitely help me sleep, but I have to weigh whether the extra few hours of rest are worth dragging through the first half of the next day like I just woke up in a fog machine.",
+                        "I've been using these for awhile after a friends recommendation. They aren't perfect. but the best I've found so far.",
+                        "Great product- Am a mild insomniac and these are pretty reliable and effective. Usually work within 30 minutes. In my opinion, better than taking benadryl and don't have that drowsy feeling in the morning. Worth it.",
+                        "Only thing that helps me sleep soundly (very restless sleeper who wakes up a lot during the night). My doctor gave me the green light to take these every night."
+                    ]
+                }
+            },
+            {
+                "period": "2025-05",
+                "reviews": 13,
+                "average_rating": 3.615,
+                "average_sentiment": 0.654,
+                "cluster_distribution": {
+                    "6": 0.692,
+                    "2": 0.308
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "This is actually Unisom (docylamine). It really helps as a sleep aid if someone is used to melatonin so it doesnât work for them anymore, since itâs different. Beware of the same name for Benadryl tablets. I donât know how they are able to market them with the same name. But if Benadryl doesnât make you sleepy, itâs not helpful. What I call the real Unisom is. Look for the ingredient doxylamine. As a nurse, our hospital administers this successfully for sleep, but we give 50 mg rather than 25 mg.",
+                        "When you are experiencing nausea in your first trimester, and you are looking for some relief, I would recommend consider considering unisom as a supplement. Itâs incredibly small, which makes it easy to swallow. My wife experienced a level of effectiveness that she did not with other remedies. I would certainly consider trying this as a cost-effective option to overcome a generational dilemma.",
+                        "This is the most effective over the counter sleep aid I have found. It is my go to. You have to get the TABLETS and NOT the GEL CAPS. They must have a different formula because the gel caps did not work at all for me, but the tablets are amazing! Guaranteed good night sleep.",
+                        "They work. I used to have a hard time falling asleep but these pills help me go to sleep and stay asleep. I donât wake up feeling groggy like other sleep medication.",
+                        "Bough the wrong one, pregnant in my first trimester. Was told to get this to help nausea, after a few weeks I learned this is not the correct one. Must get the sleep tabs, this is basically the common allergy medication. Why in the same brand labeling them as the same, when they really arenât. Fully read the label."
+                    ],
+                    "negative_reviews": [
+                        "El producto estaba vencido, cuando abrÃ­ el pomo de medicamento, este emitÃ­a un desagradable olor, en cuanto mirÃ© las indicaciones tenÃ­a fecha de vencimiento del aÃ±o 2017 eso es una falta de respeto con un producto que al ser medicamento no se puede devolver",
+                        "Bough the wrong one, pregnant in my first trimester. Was told to get this to help nausea, after a few weeks I learned this is not the correct one. Must get the sleep tabs, this is basically the common allergy medication. Why in the same brand labeling them as the same, when they really arenât. Fully read the label.",
+                        "This is actually Unisom (docylamine). It really helps as a sleep aid if someone is used to melatonin so it doesnât work for them anymore, since itâs different. Beware of the same name for Benadryl tablets. I donât know how they are able to market them with the same name. But if Benadryl doesnât make you sleepy, itâs not helpful. What I call the real Unisom is. Look for the ingredient doxylamine. As a nurse, our hospital administers this successfully for sleep, but we give 50 mg rather than 25 mg.",
+                        "When you are experiencing nausea in your first trimester, and you are looking for some relief, I would recommend consider considering unisom as a supplement. Itâs incredibly small, which makes it easy to swallow. My wife experienced a level of effectiveness that she did not with other remedies. I would certainly consider trying this as a cost-effective option to overcome a generational dilemma.",
+                        "This is the most effective over the counter sleep aid I have found. It is my go to. You have to get the TABLETS and NOT the GEL CAPS. They must have a different formula because the gel caps did not work at all for me, but the tablets are amazing! Guaranteed good night sleep."
+                    ]
+                }
+            },
+            {
+                "period": "2025-06",
+                "reviews": 1,
+                "average_rating": 5.0,
+                "average_sentiment": 1.0,
+                "cluster_distribution": {
+                    "6": 1.0
+                },
+                "representative_reviews": {
+                    "positive_reviews": [],
+                    "negative_reviews": []
+                }
+            },
+            {
+                "period": "2025-07",
+                "reviews": 96,
+                "average_rating": 4.021,
+                "average_sentiment": 0.755,
+                "cluster_distribution": {
+                    "6": 0.688,
+                    "0": 0.219,
+                    "2": 0.042,
+                    "5": 0.021,
+                    "8": 0.021,
+                    "1": 0.01
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "This is the best sleep aid I've tried. I have anxiety and OCD. It is extremely hard for me to turn my mind off at night. So I'd gotten some of these for free from work, they didn't want them. Well, I went through the whole bottle and had to get more. I can actually lay down and fall asleep almost instantly, sometimes even with my phone in my hand. I do sometimes wake up groggy, but it wears off within thirty minutes. I wouldn't suggest taking them every night, i try and go a fee days in between. These are buy far the best otc sleep aid I've tried. I've tried a lot of different products and these will knock you out. I suggest following the instructions on the label, and enjoy a great night's sleep every once in a while. Plus, Amazon has the best price, they can be expensive at the drug store. Highly recommend for people like myself who have trouble getting to sleep and staying asleep.",
+                        "My Doctor accessed her medical database in the office and looked up any medically documented cases of dementia or any negative side effects, this is a safe sleep aid and works. It will not work very well if you use MMJ, however, I believe it is too light to be used to counteract anxiety-induced sleep insomnia, but works very well with your typical restless-for-no-reason insomnia. I use this to knock myself out at 7pm for a 3AM shift, otherwise it would be nearly impossible.",
+                        "After struggling with sleep since having Covid and waking up multiple times feeling anxious, I decided to try this OTC sleep aid. Using a full box confirmed it was the right solution for me. It helps me stay asleep and those frequent anxious awakenings are a thing of the past :) I'm finally experiencing restful sleep. I appreciate that I can easily discontinue use when I feel I don't need them, but they are an invaluable support during demanding periods.",
+                        "Letâs be honest â as a mom, my brain doesnât shut off just because the kids are finally asleep. Between the mental to-do list, random toddler coughs, and anticipating the 3am diaper change, falling asleep can be rough. Enter: Unisom. I donât use it every night, just when I need a little extra help â and it always does the trick. No weird side effects, no hangover feeling, just good, solid rest.",
+                        "Iâve always had a hard time sleeping. My Dr had given sleep aid in the past but it would stay with me until the next morning. However this product puts my to sleep and Iâll stay as unless I have to use the bathroom in the middle of the night and I always go back to sleep with a problem. Best things is I get up refreshed."
+                    ],
+                    "negative_reviews": [
+                        "Me ayudÃ³ a dormir pero ya han pasado 2 dÃ­as despuÃ©s de tomarla y me siento cansada aturdida y como flotando en una nube. Tengo miedo del efecto por quÃ© aunque pasaron dos dÃ­as me siento aÃºn cansada y agotada y con mareo. No las recomiendo.",
+                        "This product did not work for me. In reality, it made the insomnia worse because it not only did not help me fall asleep but it also made me groggy - for almost 24 hours after taking it. Threw it all away.",
+                        "I took a single capsule and had a very bad reaction: heart palpitations, anxiety, and restlessness. My legs felt restless, my mouth was dry, and I woke up feeling hungover. I can't use it again for safety reasons.",
+                        "After many years of working night in a hospital i find it difficult to sleep at night I hoped this would help the pills made me dizzy and AWAKE",
+                        "Did not help me stay asleep at all, and even worse, I felt groggy for 14 hours after taking the pill. Would give 0 stars if I could."
+                    ]
+                }
+            },
+            {
+                "period": "2025-08",
+                "reviews": 97,
+                "average_rating": 3.979,
+                "average_sentiment": 0.745,
+                "cluster_distribution": {
+                    "6": 0.629,
+                    "0": 0.258,
+                    "2": 0.093,
+                    "5": 0.021
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "PROS: Arrived same day. It definitely works. I took the pill at exactly 7:45pm by 8:45 I was in the bed and knocked out around 9ish. I got a full 8 hours sleep. (nEveR had full 8 hours before) I woke up feeling just ok not groggy or still exhausted just ok. I'm writing this review the day after taking first pill. It's 10am and I feel a little tired but not overly. I can get through the day. ... Will I take again. yES but Not days in a row. I will take sparingly when I'm desperate for sleep. I want to go to sleep naturally. OH one CON I had really weird dream. Not Nightmares just weird dream",
+                        "Iâm 5 months pregnant and Unisom SleepTabs (doxylamine) have been the only thing keeping me asleep through (most of) the night. After checking with my OB, I started using these and noticed the difference immediatelyâfewer 2 a.m. wide-awake moments and Iâm not wiped out the next morning. A couple notes for other moms-to-be: Look for SleepTabs (doxylamine 25 mg), not the SleepGels (those are a different ingredient). I found it gentle, predictable, and easy on my routineâno weird aftertaste and minimal grogginess for me. Everyoneâs different, so of course talk to your providerâbut for me, this has been a total game changer for pregnancy sleep.",
+                        "I am not a good sleeper (maybe due to my age and maybe due to my constant overthinking), and melatonin stopped working for me. I had a nurse suggest I try Unisom and it's the first thing that's worked for me in a long time. Even if I wake up in the middle of the night, I will fall back asleep. I also appreciate that it doesn't make me feel groggy and out of it in the morning. The pills are small, and they do not have any taste. They are easy to swallow, and the price is very reasonable!",
+                        "This was one of those âOkay fine, Iâll try itâ moments for me after way too many nights tossing and turning. It helped more than I expected. I take one when I really need to shut my brain off, and it eases me into sleep without making me feel like a zombie the next day. Just feels like a quiet little helper. Nothing dramatic, just finally some rest when I need it most.",
+                        "Thatâs probably a little dramatic but I wouldnât have been able to function without these when I was pregnant. I took half a pill every single night before bed so that I wouldnât wake up extremely nauseous. Definitely worth every single penny. Obviously speak with your doctor before taking any medication while pregnant, but if youâre struggling with nausea or even restlessness while pregnant, these are a lifesaver."
+                    ],
+                    "negative_reviews": [
+                        "I bought the same 50 HCL mg diphenhydramine sleep aid at the local drugstore Woke up a few hours later and had hallucinations of thin black lace type vines hanging off the chandelier and on the walls It scared the heck out of me I woke up my husband and he helped calm me down Iâm sure Iâm not the only person with this reaction Tossed it",
+                        "WOULD NOT PURCHASE IF YOU WANT TO SLEEP! I use this product on a regular basis that I buy at the store. Bought this time thru Amazon. DOES NOT WORK. Went thru 3 sleepless nights!!! Had to go to a store and bought a new bottle and have been sleeping ever since.",
+                        "Made me feel very bad after I took just 1 pill 1 hour before going to bed. The next evening I decided to just a half of the pill and it made me again feel lousy all the next day. I quit taking themðð»",
+                        "This order of Unisom came to me today ALREADY OPENED and shoddily taped up. The tamper seal is broken, and there's only 65 in this bottle of 100. I can't use these!!",
+                        "I took one pill and felt like I took a horse tranquilizer. It will knock you out, which is why I gave two stars. However, I was barely able to function the next day. And did not feel I had a good night's rest. Started to feel like myself about 18hrs later. If you're sensitive to meds, I would steer clear of this product. Benadryl has a shorter half-life- about 8 hours."
+                    ]
+                }
+            },
+            {
+                "period": "2025-09",
+                "reviews": 56,
+                "average_rating": 3.821,
+                "average_sentiment": 0.705,
+                "cluster_distribution": {
+                    "6": 0.536,
+                    "0": 0.357,
+                    "2": 0.089,
+                    "5": 0.018
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Unisom helped me with me first trimester nausea during pregnancy. I felt nauseous from 2nd to 4th month (3 months total), and Unisom + vitamin B (as my doctor prescribed it) helped me reduce nausea significantly. I could eat much more. I tried stopping two times and nausea was coming back at once. It is effective for pregnancy nausea. It might make you sleepy a little earlier than usual but that's ok, just don't take it too early at night. The pills are tiny and I didn't feel any taste.",
+                        "I work nights - and these have been a life saver! The other version with the same active ingredient as Benedryl really didnât help me, but this has! I would highly recommend!",
+                        "Love unisom. Used it occasionally during pregnancy (at my obgyns approval) and it helped me sleep peacefully and I didnât feel groggy the next day. Will definitely continue to purchase.",
+                        "Work great and pregnancy safe. Used to have moreâ¦herbal and natural ways of falling asleep but canât use that while pregnant so this is a great sub.",
+                        "Need amazing sleep? Try this. You wonât regretâ¦ no wild dreams(at least for me)â¦ No feeling groggy in the morning either! :) happy sleeping!"
+                    ],
+                    "negative_reviews": [
+                        "I read what others wrote, so I cautiously took only 1/2 tablet at 8 p.m. Yes, it put me right to sleep after about 30 minutes, and I slept through the night. However here it is 9:30 a.m. -- 13 hours later -- and I am still feeling a bit groggy. I wanted to create a scenario where I would get a full night's sleep and then be at my best the next morning. I have read that the half-life of this drug is 10 hours, and I know I will get clear soon, but don't think I will try this again. I purchased this in order to have something to switch from Children's Benadryl, which works great for me.",
+                        "I was reading that it's not too uncommon, but I took these 30 mins before bed like it states yet they made me wired & I couldn't sleep at all.",
+                        "Made me very agitated and spiked my anxiety with only quarter of a pill. I couldnât sleep all night long",
+                        "Itâs a little bit nutty to me that the company is allowed to call two completely different medications âUnisom.â This is the same drug as Benadryl. The one I was looking for is only in the tabs, not the gel. I made the mistake of searching for Unisom and picking the best value because I thought I knew that Unisom works for me. These do not.",
+                        "Unisom helped me with me first trimester nausea during pregnancy. I felt nauseous from 2nd to 4th month (3 months total), and Unisom + vitamin B (as my doctor prescribed it) helped me reduce nausea significantly. I could eat much more. I tried stopping two times and nausea was coming back at once. It is effective for pregnancy nausea. It might make you sleepy a little earlier than usual but that's ok, just don't take it too early at night. The pills are tiny and I didn't feel any taste."
+                    ]
+                }
+            },
+            {
+                "period": "2025-10",
+                "reviews": 100,
+                "average_rating": 4.11,
+                "average_sentiment": 0.778,
+                "cluster_distribution": {
+                    "6": 0.69,
+                    "0": 0.22,
+                    "2": 0.09
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "As someone who occasionally struggles with falling asleep, Unisom SleepGels have become my go-to. The design of the gels is perfectâthey are small, smooth, and incredibly easy to swallow, a major plus for me. The functionality is exactly what I need; I take one and within about 30 minutes, I feel a gentle sense of drowsiness that helps me drift off without a fight. I wake up feeling rested without any of that groggy feeling some other sleep aids can cause. For the value for money, they are excellent. A single box lasts a long time, and they work just as well as more expensive brands. They are also a great size for keeping in my travel bag for when I'm on the road.",
+                        "For the past few months Iâve been having trouble going to sleep, or even staying asleep. My husband on the other hand has sleep paralysis and ends up waking up during the night. I purchased these with the intentions of only using it to fix my sleeping problem but my husband has used it as well and it has helped so much with his sleep ensuring he stays asleep and is able to wake up without the feeling of having sleep paralysis. I can now fall asleep with ease, and around 15-30 min but that depends on the person. And my husband says that he feels like he has been able to get a full nights rest fine.",
+                        "Amazing product â it truly works! Iâve been using Unisom SleepTabs for years, and theyâve helped me so much with my insomnia. I used to struggle to fall asleep no matter what I tried, but this product really changed that. It helps me relax and get a full nightâs rest without feeling groggy the next day. I also used Unisom during both of my pregnancies to help with nausea, and it was the best decision ever. It made a huge difference and helped me feel so much better. I honestly canât recommend it enough â itâs a lifesaver for both sleep and morning sickness!",
+                        "I was having a hard time sleeping during my last pregnancy and this is what my doctor recommended. Very tiny pills which made me happy since I canât handle big pills. There is no taste. The first time it took awhile to take effect but then I took it day 2-3 and WOW I learned not to take it needing to wake up for mom duties. It knocked me out and I woke up drowsy. Donât worry I have some on hand when needed",
+                        "This stuff works PERIOD. I take it about 30 mins before bed. It gently makes you feel at ease and ready for sleep. ( A good nights sleep) ð¤ tiny tablet works wonders. I get a good nights sleep and donât wake up feeling like a truck hit me the next day. Anyone who wants to get a real good sleep just get this doesnât hurt to try. You get 80 tablets which will last a long time. Worth the price."
+                    ],
+                    "negative_reviews": [
+                        "I would give it zero star if i can, It does not work at all and does not let me return! Do not buy!",
+                        "First day I tried it, slept like a baby but woke up groggy. However, I woke up a 2 am with terrible stomach pains and was in the bathroom all night. This continued for 3 days, I was in terrible pain and going in and out of the bathroom all day and night, and it only stopped after I stopped taking these sleep tablets. Be wary of the potential side effects!! I will not be recommending.",
+                        "It will help you sleep but you will be lethargic the next day. You will NOT feel rested, you will feel sluggish and want to take a nap. I don't think I'll use a whole pill for the second night, I'll break it in half and try that to see if that works better.",
+                        "It makes you sleep sure but it has given me horrific nightmares everytime I have taken it to the point Iâve woken up screamingâ¦keep that in mind maybe",
+                        "I tried Unisom to help with occasional sleepless nights, and overall, it works well if you need something to help you fall asleep faster. Within about 30â45 minutes of taking it, I usually start to feel relaxed and drowsy, which makes it much easier to drift off. Unlike some other over-the-counter sleep aids, I didnât notice much of a âhangoverâ effect the next morning though if I take it too late at night, I do feel a little groggy when waking up. One downside is that it can sometimes leave me feeling dry-mouthed, and on nights when I didnât get a full 7â8 hours of sleep, I definitely noticed a bit more sluggishness in the morning. Itâs also not something Iâd recommend using every single night itâs more of an occasional fix when you really need rest."
+                    ]
+                }
+            },
+            {
+                "period": "2025-11",
+                "reviews": 103,
+                "average_rating": 4.117,
+                "average_sentiment": 0.779,
+                "cluster_distribution": {
+                    "6": 0.631,
+                    "0": 0.272,
+                    "3": 0.068,
+                    "8": 0.019,
+                    "2": 0.01
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "These pills are the only thing that knocks me out within 20 minutes. They work super well, but I would say the only thing I really donât like about it is that you will feel groggy the next morning. Iâve had to drink 3 cups of coffee and I feel like the grogginess doesnât go away. Once I even had an energy drink, and I still felt the grogginess. So I started taking half the pill and it works better where I donât feel the symptoms the next morning. I ended up sleeping 16 hours by taking the whole pill so if you are planning on taking the whole pill make sure you take it on a day where you might not have any plans the next morning or have to wake up early for it. But Iâm sure if you take half youâll be fine or less than half.",
+                        "Absolutely 10 out of 10. If youre looking for something to knock you out, this is it. For me it took about like... ten minutes before feeling drowsy, and then another ten minutes before I was sleeping for ten straight hours. I bought this because I wasnt sleeping at all and it was causing me tension, but literally not even a week after starting to take them, that was no longer a problem. I also usually wake up a few times through the night without any help, but when I say knocked out, I mean knocked out. The taste is a little bitter, but nothing unbearable. And it doesnt cause me any side effects when i do use it, no stickiness, no dehydration, no grogginess. If youre looking for a sleep-aid that works well for only spending less than twenty dollars, this is it. I have no complaints ð",
+                        "Iâve only been taking 1/2 a pill and am AMAZED at how much this helps me fall asleep and how deeply & restfully I sleep! Itâs truly been incredible!! My mind races a lot & I have a very hard time not thinking of a million things when itâs time to go to sleep. This just relaxes me and Iâm out! Although I wake up after about 4 hrs. of sleep and go to the bathroom, Iâm able to go right back to sleep immediately which is not something Iâve been able to do in the past. This is SO much better than Benadryl and anything else Iâve tried.",
+                        "Unisom has been a lifesaver for helping me get much-needed rest during pregnancy. Between pregnancy discomfort and early-morning nausea, getting a full nightâs sleep felt impossibleâbut Unisom made a noticeable difference. Itâs gentle, effective, and helps me sleep through the night without making me feel groggy the next day. Iâve found it works best when combined with other safe pregnancy sleep strategies, and itâs reassuring to have a reliable option when rest is hard to come by. Overall, Unisom is a safe, effective, and practical solution for expectant moms struggling with sleep. Itâs become a staple in my nighttime routine.",
+                        "I love these. Was working 12 hour midnites then switched to 12 hour day shift. My sleep schedule was royally f'd. But these work within 20 or 30 minutes and I don't feel groggy In morning like i do if i take melatonin. I like these better then melatonin because melatonin gives me eerily weird dreams but these do not."
+                    ],
+                    "negative_reviews": [
+                        "dont do it...tooth rot,this stuff really dry's your mouth out which destroys all the enamel on your teeth so then they start to fall apart and you will needs to have them capped.try magnesium glycinate it's not bad for you,taking stuff like excedren pm's and this unisom dry's out your mouth,your eye's which you think your groggy but it's really your ee's are dry which leads to dry eye disease and then you would need special eye drops.ive tried all these,and DO NOT take benedryl its the worst one.all these are antihistimines which are dirutecs which dry you out,oh and constipation too,hemroids bad and that hurts.....go to your dr and get clonipin or ambien like a boss....",
+                        "I was recommended this to help me sleep and Iâm very very disappointed. I tried it as well as my partner and we both had very horrible sleep. Tossing and turning all night and woke up feeling unrested. We followed the directions and took it with enough time to get a full night sleep and at one point I was just up for an hour. I track my sleep and usually wake up 6-8 times a night but on this it was 12 times. I donât think I will be taking this going forward.",
+                        "I found I was allergic to Unisom and found online that a potential reaction. is red swelling on one's face. Red swelling and itching on both of my lower cheeks occurred. It happened after using around 7 times. The last few times I only took 1/2 tablet since I found myself tired during the day. I took it because it worked well for several friends.",
+                        "I've had life long sleep issues. I usually take melatonin every night and would still wake up a lot but it made it easier to fall back asleep. I'm pregnant though and can't take it now. I have been majorly struggling to get any sleep and my doctor suggested unisom. It does help me fall asleep and makes it easier to fall back asleep like the melatonin did, but I wake up so groggy and tired I just want to go right back to sleep. I also wake up with a headache most days. Again I am pregnant, but I didn't have that issue when I was barely sleeping.",
+                        "It's Definitely a good sleep aid that works well! But even after only taking half a pill I still felt pretty groggy the next day and had trouble waking up. I think it's different for each person. Some people don't feel groggy. I would imagine that the grogginess would decline if you were to keep taking it and your body might get more used to it but im not sure. Definitely good to take if you don't have to work the next day."
+                    ]
+                }
+            },
+            {
+                "period": "2025-12",
+                "reviews": 44,
+                "average_rating": 4.75,
+                "average_sentiment": 0.938,
+                "cluster_distribution": {
+                    "6": 0.591,
+                    "0": 0.341,
+                    "2": 0.068
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I have been very pleased with Unisom SleepTabs. This product has been extremely helpful for improving my sleep when I have trouble falling asleep or staying asleep. The tablets work gently but effectively, helping me relax and drift off without feeling overly groggy the next morning when used as directed. I like that the tablets are small and easy to swallow. The effects are consistent and predictable, which makes this a reliable option when I need a good nightâs rest. After taking Unisom, I usually fall asleep faster and enjoy deeper, more restful sleep throughout the night. The bottle with 80 tablets is a great value and lasts a long time. The packaging is clear and informative, and the product feels trustworthy and well made. I also appreciate that it helps me wake up feeling refreshed rather than restless or exhausted. Overall, Unisom SleepTabs are an excellent sleep aid for occasional sleeplessness. They are effective, convenient, and affordable. I would definitely recommend this product to anyone looking for help getting better sleep, and I would purchase it again.",
+                        "I take one of these every night. My doctor is fine with it, and they do help. Unisom works better for me than the myriad of prescription drugs my provider has tried with me. I prefer this formulation (Doxylamine Succinate) to the other one (Diphenhydramine or Benadryl). I use melatonin to help me go to sleep and these help me stay asleep most nights. I like the 80-tablets version because they come in a bottle and it's much easier than managing the foil packs. They're super inexpensive and have no noticeable taste. They are tiny, so that might be tough for some folks.",
+                        "Havenât slept in 15 years. Have tried many prescription medications that help a little but caused me to be in a fog the next day. Have also tried several OTC sleep aids which did nothing for me. I received these yesterday, took one as directed 30 min. prior to bedtime and was out like a light within a half an hour. I slept 10 hours and woke completely refreshed. Unbelievable! I am beyond grateful to have found these sleep tabs and highly recommend them to anyone who has issues falling and staying asleep.",
+                        "Unisom and B6 combo was recommended by my OBGYN during my first trimester when nausea/vomiting hit me hard, and it worked wonders! I initially started with a full pill then tapered off to half once I started feeling better. It works pretty quickly, easy to take, and definitely worth the price as you're getting a value size amount.",
+                        "Helps me fall asleep within a hour , and if you fight it longer your brain will swirl wanting to.."
+                    ],
+                    "negative_reviews": [
+                        "Las compre para un viaje en aviÃ³n de 10 horas. Me la habÃ­an recomendado mucho, pero a mi no me sirviÃ³ tanto. Pude dormir muy pocoâ¦ Tal vez el efecto depende de cada cuerpoâ¦",
+                        "I have been very pleased with Unisom SleepTabs. This product has been extremely helpful for improving my sleep when I have trouble falling asleep or staying asleep. The tablets work gently but effectively, helping me relax and drift off without feeling overly groggy the next morning when used as directed. I like that the tablets are small and easy to swallow. The effects are consistent and predictable, which makes this a reliable option when I need a good nightâs rest. After taking Unisom, I usually fall asleep faster and enjoy deeper, more restful sleep throughout the night. The bottle with 80 tablets is a great value and lasts a long time. The packaging is clear and informative, and the product feels trustworthy and well made. I also appreciate that it helps me wake up feeling refreshed rather than restless or exhausted. Overall, Unisom SleepTabs are an excellent sleep aid for occasional sleeplessness. They are effective, convenient, and affordable. I would definitely recommend this product to anyone looking for help getting better sleep, and I would purchase it again.",
+                        "I take one of these every night. My doctor is fine with it, and they do help. Unisom works better for me than the myriad of prescription drugs my provider has tried with me. I prefer this formulation (Doxylamine Succinate) to the other one (Diphenhydramine or Benadryl). I use melatonin to help me go to sleep and these help me stay asleep most nights. I like the 80-tablets version because they come in a bottle and it's much easier than managing the foil packs. They're super inexpensive and have no noticeable taste. They are tiny, so that might be tough for some folks.",
+                        "Havenât slept in 15 years. Have tried many prescription medications that help a little but caused me to be in a fog the next day. Have also tried several OTC sleep aids which did nothing for me. I received these yesterday, took one as directed 30 min. prior to bedtime and was out like a light within a half an hour. I slept 10 hours and woke completely refreshed. Unbelievable! I am beyond grateful to have found these sleep tabs and highly recommend them to anyone who has issues falling and staying asleep.",
+                        "Unisom and B6 combo was recommended by my OBGYN during my first trimester when nausea/vomiting hit me hard, and it worked wonders! I initially started with a full pill then tapered off to half once I started feeling better. It works pretty quickly, easy to take, and definitely worth the price as you're getting a value size amount."
+                    ]
+                }
+            },
+            {
+                "period": "2026-01",
+                "reviews": 43,
+                "average_rating": 4.256,
+                "average_sentiment": 0.814,
+                "cluster_distribution": {
+                    "6": 0.907,
+                    "0": 0.07,
+                    "2": 0.023
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I have been using this for almost 10 years and always works the same. I take it 1 hour before I go to sleep, helps you go back to sleep when you wake up in the middle of the night, and I donât feel tired in the morning. Just make sure you do get at least 7 hours of sleep otherwise you will feel tired. The best part is that I only use it when I have to wake up early and your brain doesnât get addicted to it, that makes it safe to use for me. Great value, taste less and works in 1 hour or 2. Depending on how tired you are",
+                        "Iâve used this a number of times now, and it does what it says it does. I like the fact that the gel capsules are easy to swallow and donât have any aftertaste. It helps me sleep through the night instead of being wide awake at 3:00 or 4:00 AM. Iâm no longer groggy the next day. I also like that itâs affordable and comes in a good-sized bottle, so I donât have to restock too often. Overall, itâs been reliable and consistent for occasional sleepless nights.",
+                        "These have been a game changer for my husband. he normally gets about 4 hours of sleep and this blue collar man is exhausted. Melatonin doesn't do much for him so i decided to try these out and the first night he slept a solid 8HRS. I had to make sure he was still breathing. now he only takes one on the weekend. I have recommended these to my family for those who i know have a hard time sleeping.",
+                        "I purchased these for pregnancy-safe sleep assistance. The pills are small and very easy to swallow. It worked effectively for me as a gentle sleep aid. I used this almost every night in the third trimester when sleep is the hardest, I do feel it lost its effectiveness after regular use but still highly recommend for gentle sleep assistance needed every once in awhile. It was non-habit forming for me.",
+                        "I am 66 years old was waking up between 2:00 & 3:00 am every morning and not able the fall back to sleep. Read reviews about Unisom ordered product and it has been working from the first night. I am now sleeping thru the night 7-8 hours. Set up monthly subscription."
+                    ],
+                    "negative_reviews": [
+                        "I thought I was taking Unisom. Could not understand why it does not help me sleep. But apparently it is Benadryl with the wrong name. Very misleading.",
+                        "I must have got a bad box I took 3 and I was up all night they used to work great what happened",
+                        "Not too great, slow to work, and I didnât sleep too well while using it. I prefer the generic Health A2Z brand gelcaps here on Amazon - much more effective and cost-efficient.",
+                        "Worked for a little while but then didn't anymore but it could just be me. I know different medications impact people differently. What works for one person may not work for someone else. When they worked, they worked well.",
+                        "Rating: âââââ Unisom SleepTabs with Doxylamine Succinate are a dependable option for those struggling with occasional sleeplessness. This over-the-counter sleep aid helps you fall asleep faster and stay asleep longer, making it a go-to choice for many who need a little extra help winding down at night. Pros: 1. Effective Sleep Aid â Helps you fall asleep and stay asleep through the night. 2. Non-Habit Forming â Can be used occasionally without the risk of dependence. 3. Long-Lasting â Works for a full nightâs rest, helping you wake up refreshed. 4. Small, Easy-to-Swallow Tablets â No chalky taste or large pills to struggle with. 5. Great for Travel or Jet Lag â Useful for adjusting sleep schedules when needed. Cons (Realistic, but Not Negative): 1. Can Cause Grogginess in the Morning â Some users may feel a bit drowsy after waking up, so itâs best to take it when you can get a full nightâs rest. 2. Not for Frequent Use â Works well for occasional sleeplessness, but long-term sleep issues may require a different approach. 3. Takes a Bit of Time to Kick In â Unlike some sleep aids, this may take 30-60 minutes to start working, so plan accordingly. Conclusion: Unisom SleepTabs are a solid choice for occasional sleeplessness, offering a non-habit-forming way to achieve restful sleep. While it may cause slight grogginess for some, itâs an effective solution when used responsibly. Perfect for those nights when you just need a little extra help drifting off!"
+                    ]
+                }
+            },
+            {
+                "period": "2026-02",
+                "reviews": 32,
+                "average_rating": 4.781,
+                "average_sentiment": 0.945,
+                "cluster_distribution": {
+                    "6": 0.844,
+                    "0": 0.094,
+                    "2": 0.031,
+                    "7": 0.031
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "After decades of taking Ambien every night, I began to react to it differently. It seemed more potent and I was sleepy during the day so I decided to stop taking it, fighting the strong urge to go back to bed. I switched to take Tylenol PM Extra Strength, but then I wondered if there was something with just the sleep ingredient without the Tylenol (which I didn't need because I wasn't experiencing pain). I checked to see what the sleep aid was and then searched Amazon to see if there is a product that has just that one ingredient. The search brought me to a lot of options but I chose Unisom because of the combination of good reviews, affordable price, quick delivery, and it's a company I trust. However, after I ordered it I did some research on the sleep aid that's in it: Diphenhydraine -- the generic name for what, it turns out, is marketed under the brand name Benadryl. I take Benedryl for my allergies so I always have a supply on hand. I never noticed it made me sleepy, so I decided to cancel my order for the Unisom Sleep Gels for both reasons (not sleepy from taking a pill with the same ingredient and because I already had Benedryl in my medicine cabinet. But I was unable to cancel the order because it was being prepared for shipment. I decided to take the Unisom pill just to see if it did help with sleep. It has double the Diphenhydraine that's in Benedryl. Result: it did help me fall asleep, but I woke up every couple of hours. I'd never experienced that before. I was able to fall back asleep quickly each time I woke up, but I would rather find something that would give me uninterrupted sleep for about eight hours. Tylenol PM did that, plus a couple hours more at times. I ordered Unisom SleepTabs. Its active ingredient is Doxylamine Succinate -- something I never tried before, but will be taking it for the first time tonight to see how it compares to the other Unisom pills and to Tylenol PM. I found warnings that this differs from Diphenhydramine because the sleepiness may remain the next day (probably because it moves through the body at a different rate than Diphenhydramine, but that's just a guess). I want to find out if that's a problem for me. If it does help me fall asleep without waking me up several times during the night, it will be the one I choose. If not, I'll go back to Tylenol PM because it really works.",
+                        "I have a great deal of trouble falling asleep in bedâ¦. Iâve tried so many different products, but nothing ever really helped me until i found out about theseâ¦ These actually work ! And the value you get when buying the two pack is great ! I was paying $17.65 per bottle of 100 at walmart, but when they jacked me around and still didnât get it to me 5 days later, i searched amazon, and found TWO bottles of 100 for just over $20.00 ! Theres no taste to them, and go down pretty easy, but be dure not to bite them before swallowing, as I canât imagine what they might taste like inside ! They generlly start working for me about 1 hour after taking them , so take your dose, find a nice place to wind doen, and itâll come along and help you sleepâ¦.",
+                        "Why did you pick this product vs others?: My mother and sister use this product and they both say it works. It doesnât make them feel groggy or sleepy when they wake up. The pills are easy to swallow and it really helps with the pain so you can get a good night sleep.",
+                        "Slow to kick in but it keeps me sleep for my required 8 hours when I really need them. I've been using this item for over a year. I'll buy it again. And yes I've tried others. They should pay me because I'd make a great tv commercial. Love â¤ï¸ this product. Thanks!",
+                        "I have been using them for years. Sometime a take a full pill, sometimes the half. They can make your sleep even in day hours. I have tried different pills and supplements, this is the only one that works for me. And this presentation is better than gel, and very portable."
+                    ],
+                    "negative_reviews": [
+                        "These aren't bad. Did provide some pain relief but the sleeping part not so much still had to take melatonin with it. Easy to swallow.no taste. No groggy feeling after awake. But doesn't work for me",
+                        "After decades of taking Ambien every night, I began to react to it differently. It seemed more potent and I was sleepy during the day so I decided to stop taking it, fighting the strong urge to go back to bed. I switched to take Tylenol PM Extra Strength, but then I wondered if there was something with just the sleep ingredient without the Tylenol (which I didn't need because I wasn't experiencing pain). I checked to see what the sleep aid was and then searched Amazon to see if there is a product that has just that one ingredient. The search brought me to a lot of options but I chose Unisom because of the combination of good reviews, affordable price, quick delivery, and it's a company I trust. However, after I ordered it I did some research on the sleep aid that's in it: Diphenhydraine -- the generic name for what, it turns out, is marketed under the brand name Benadryl. I take Benedryl for my allergies so I always have a supply on hand. I never noticed it made me sleepy, so I decided to cancel my order for the Unisom Sleep Gels for both reasons (not sleepy from taking a pill with the same ingredient and because I already had Benedryl in my medicine cabinet. But I was unable to cancel the order because it was being prepared for shipment. I decided to take the Unisom pill just to see if it did help with sleep. It has double the Diphenhydraine that's in Benedryl. Result: it did help me fall asleep, but I woke up every couple of hours. I'd never experienced that before. I was able to fall back asleep quickly each time I woke up, but I would rather find something that would give me uninterrupted sleep for about eight hours. Tylenol PM did that, plus a couple hours more at times. I ordered Unisom SleepTabs. Its active ingredient is Doxylamine Succinate -- something I never tried before, but will be taking it for the first time tonight to see how it compares to the other Unisom pills and to Tylenol PM. I found warnings that this differs from Diphenhydramine because the sleepiness may remain the next day (probably because it moves through the body at a different rate than Diphenhydramine, but that's just a guess). I want to find out if that's a problem for me. If it does help me fall asleep without waking me up several times during the night, it will be the one I choose. If not, I'll go back to Tylenol PM because it really works.",
+                        "I have a great deal of trouble falling asleep in bedâ¦. Iâve tried so many different products, but nothing ever really helped me until i found out about theseâ¦ These actually work ! And the value you get when buying the two pack is great ! I was paying $17.65 per bottle of 100 at walmart, but when they jacked me around and still didnât get it to me 5 days later, i searched amazon, and found TWO bottles of 100 for just over $20.00 ! Theres no taste to them, and go down pretty easy, but be dure not to bite them before swallowing, as I canât imagine what they might taste like inside ! They generlly start working for me about 1 hour after taking them , so take your dose, find a nice place to wind doen, and itâll come along and help you sleepâ¦.",
+                        "Why did you pick this product vs others?: My mother and sister use this product and they both say it works. It doesnât make them feel groggy or sleepy when they wake up. The pills are easy to swallow and it really helps with the pain so you can get a good night sleep.",
+                        "Slow to kick in but it keeps me sleep for my required 8 hours when I really need them. I've been using this item for over a year. I'll buy it again. And yes I've tried others. They should pay me because I'd make a great tv commercial. Love â¤ï¸ this product. Thanks!"
+                    ]
+                }
+            },
+            {
+                "period": "2026-03",
+                "reviews": 37,
+                "average_rating": 4.703,
+                "average_sentiment": 0.926,
+                "cluster_distribution": {
+                    "6": 0.649,
+                    "0": 0.27,
+                    "2": 0.081
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I actually got them for my mom because she was having a rough time getting any decent rest lately, and she told me she finally had the best sleep ever. Itâs a huge relief to find something that actually works without leaving her feeling groggy or \"out of it\" the next day. The 80-count bottle is a great value, especially since the Doxylamine Succinate formula seems to be much more effective for her than other over-the-counter options we've tried. If you or someone you know is dealing with occasional insomnia, these are definitely a reliable staple to keep in the medicine cabinet.",
+                        "This works well for helping me get a decent night of sleep. I found that half a pill is more than enough for me, and I wake up feeling fine the next morning. When I tried a full pill, it was a bit too strong and left me feeling groggy the next day, so Iâd recommend starting with a smaller dose to see what works for you.",
+                        "I use these during my pregnancy to alleviate nausea. They worked very well for me. The quality of medication for the value of your money is great. Also, for individuals that have trouble swallowing pills. This is very small.",
+                        "Estas pastillas las comprÃ³ hace aÃ±os para mi PapÃ¡ , son las Ãºnicas que realmente le ayudan a dormir , despuÃ©s de haber probado tantas estÃ¡s son las Ãºnicas con las que el puede dormÃ­r!",
+                        "10/10 for pregnancy sleep. Although my bf says he feels more tired in the morning if he takes it, I disagree. It might be my only saving grace with pregnancy and nausea"
+                    ],
+                    "negative_reviews": [
+                        "Got this as recommended by my wife's doctor to try with Vitamin B6, but it did not work well for her for the sleep needs. My wife decided to stop using these and ask doctor for the prescription medicine next time she sees. Coming to the product packaging, it came well packed and shows quality. Certainly premium but not for me.",
+                        "I actually got them for my mom because she was having a rough time getting any decent rest lately, and she told me she finally had the best sleep ever. Itâs a huge relief to find something that actually works without leaving her feeling groggy or \"out of it\" the next day. The 80-count bottle is a great value, especially since the Doxylamine Succinate formula seems to be much more effective for her than other over-the-counter options we've tried. If you or someone you know is dealing with occasional insomnia, these are definitely a reliable staple to keep in the medicine cabinet.",
+                        "This works well for helping me get a decent night of sleep. I found that half a pill is more than enough for me, and I wake up feeling fine the next morning. When I tried a full pill, it was a bit too strong and left me feeling groggy the next day, so Iâd recommend starting with a smaller dose to see what works for you.",
+                        "I use these during my pregnancy to alleviate nausea. They worked very well for me. The quality of medication for the value of your money is great. Also, for individuals that have trouble swallowing pills. This is very small.",
+                        "Estas pastillas las comprÃ³ hace aÃ±os para mi PapÃ¡ , son las Ãºnicas que realmente le ayudan a dormir , despuÃ©s de haber probado tantas estÃ¡s son las Ãºnicas con las que el puede dormÃ­r!"
+                    ]
+                }
+            },
+            {
+                "period": "2026-04",
+                "reviews": 17,
+                "average_rating": 4.882,
+                "average_sentiment": 0.971,
+                "cluster_distribution": {
+                    "6": 0.706,
+                    "0": 0.294
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I've been using Unisom SleepGels for about three months now on an occasional basis, and they have genuinely changed the quality of my rest. Unlike other aids that leave me feeling groggy or 'cloudy' the next morning, these 50mg gels help me drift off naturally within about 30-45 minutes. The 100-count bottle is great value and the gels are easy to swallow. One thing I've noticed is that they are most effective when I strictly follow a wind-down routine half an hour before bed. Highly recommended for anyone struggling with those nights where you just can't turn your brain off!",
+                        "These work it puts you to sleep quickly and you stay asleep. But if you have to use the bathroom to pee you're able to get up,but you do feel groggy. But once you get back to bed you're able to fall back to sleep. In the morning you wake up refreshed Only drawback is you have some weird dreams, but for me that was ok",
+                        "Only pills that help me sleep when Iâm having issues. Also have zero side effects and donât make me groggy in the more. Strong pills and help me get to sleep fast. Great for the money. Easy to shallow and no taste because they are tiny pills.",
+                        "i hope you can put MORE sleep tabs into your 48 tablets, i take them every night cos of my innsomnia, it works but goes down to fast in the bottle, love them but we need more tablets like 60 instead or 80 !!!",
+                        "Unisom is the best OTC pain relief and sleep aid that easy to use and great value for the money. The scent and taste is pleasing and the strength makes it the best sleep aid choice!"
+                    ],
+                    "negative_reviews": [
+                        "I have always been a horrible sleeper takes forever to fall asleep and then wake up too easy. I started these and I fall asleep so much easier and still wake up during the night but not nearly as often",
+                        "This product works wonderfully. Makes me sleep like a baby. But the warehouse apparently neglected to pull the expired product and decided to charge customers like me the full price for it, so as not to lose money.",
+                        "I've been using Unisom SleepGels for about three months now on an occasional basis, and they have genuinely changed the quality of my rest. Unlike other aids that leave me feeling groggy or 'cloudy' the next morning, these 50mg gels help me drift off naturally within about 30-45 minutes. The 100-count bottle is great value and the gels are easy to swallow. One thing I've noticed is that they are most effective when I strictly follow a wind-down routine half an hour before bed. Highly recommended for anyone struggling with those nights where you just can't turn your brain off!",
+                        "These work it puts you to sleep quickly and you stay asleep. But if you have to use the bathroom to pee you're able to get up,but you do feel groggy. But once you get back to bed you're able to fall back to sleep. In the morning you wake up refreshed Only drawback is you have some weird dreams, but for me that was ok",
+                        "Only pills that help me sleep when Iâm having issues. Also have zero side effects and donât make me groggy in the more. Strong pills and help me get to sleep fast. Great for the money. Easy to shallow and no taste because they are tiny pills."
+                    ]
+                }
+            },
+            {
+                "period": "2026-05",
+                "reviews": 28,
+                "average_rating": 4.643,
+                "average_sentiment": 0.911,
+                "cluster_distribution": {
+                    "6": 0.857,
+                    "0": 0.143
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I used these during my first trimester of pregnancy along with 25mg b6 daily. Let me tell you that this combination absolutely killed my morning/all day sickness. Within 2 days the nausea was gone and never returned. My doctor told me to take 1 of these at night with 25mg of B6 and within 2 days of starting that regimen, I felt like a new woman. I am currently in my 3rd trimester and just continued taking the unisom/b6 just in case.",
+                        "This is the best sleeping pill ever! I have tried so many different kinds that were advertised stating they were the best to buy, turned out everyone didnât work I take one pill a nigh and sleep all night and wake up feeling good ð¤ this is the second month I have been taking these pills",
+                        "This works extremely well for helping me sleep when needed. Very effective, fast acting and helps me have a much better night of rest. I also like that I donât wake up feeling too groggy the next morning if I take it correctly. Definitely a 10/10 product for occasional sleep support.",
+                        "These sleep gels worked really well for me. They helped me fall asleep faster and stay asleep through the night without waking up as much. I felt rested the next morning and didnât feel too groggy. Easy to take and effective when I have trouble sleeping occasionally.",
+                        "If youâre having a lot of anxiety, you canât sleep. This will put you out. I love it for anyone thatâs having like bad hangover anxiety take this. Youll sleep through the whole night."
+                    ],
+                    "negative_reviews": [
+                        "I tried this a few times and it didn't make me feel sleepy. In one case, I actually felt energized and had trouble sleeping. Unfortunately it did not meet my expectations. I went with some Olly sleep gummies with melatonin and those worked well.",
+                        "Used this with B6 for all my pregnancies. I struggled with nausea and insomnia. It does help you sleep, but I had to take it earlier than I go to bed because I was super groggy in the morning. I switched to taking half a pill with my magnesium and it was perfect.",
+                        "I used these during my first trimester of pregnancy along with 25mg b6 daily. Let me tell you that this combination absolutely killed my morning/all day sickness. Within 2 days the nausea was gone and never returned. My doctor told me to take 1 of these at night with 25mg of B6 and within 2 days of starting that regimen, I felt like a new woman. I am currently in my 3rd trimester and just continued taking the unisom/b6 just in case.",
+                        "This is the best sleeping pill ever! I have tried so many different kinds that were advertised stating they were the best to buy, turned out everyone didnât work I take one pill a nigh and sleep all night and wake up feeling good ð¤ this is the second month I have been taking these pills",
+                        "This works extremely well for helping me sleep when needed. Very effective, fast acting and helps me have a much better night of rest. I also like that I donât wake up feeling too groggy the next morning if I take it correctly. Definitely a 10/10 product for occasional sleep support."
+                    ]
+                }
+            },
+            {
+                "period": "2026-06",
+                "reviews": 30,
+                "average_rating": 4.733,
+                "average_sentiment": 0.933,
+                "cluster_distribution": {
+                    "6": 0.7,
+                    "0": 0.3
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Whenever I've been sick and taken Nyquil, it has always made me drowsy and easily fall asleep. Sometimes, I have an extremely difficult time falling asleep, mainly during the work week. This contains the active ingredient in Nyquil that makes one drowsy, Doxylamine succinate. Unisom also makes gel tabs which contain the active ingredient in Tylenol PM which makes one drowsy, Diphenhydramine. I would recommend this Sleeptab over the gel tab, based on slightly less toxicity to oneself. This pill works excellently to induce drowsiness and help one go to sleep. I took a full pill the first night, and I woke up extremely drowsy. I drove into work in this state, which was not smart. I felt like a zombie all morning. I was extremely drowsy until lunch time. I would recommend what others have said, which is to take half a pill for starting out. Half a pill is all I need to get decent sleep for those nights where it's difficult to fall asleep and wake up functioning. Starting out with a full pill if you've never taken these before and have to be somewhere early in the morning is asking for trouble. These tabs even have a line down the middle as though they are meant to be halved. $10 for 96 days of help getting to sleep if needbe, is not a bad deal. If Nyquil makes you sleepy and you need help getting to sleep sometimes, order yourself a box of these. If Tylenol PM makes you sleepy, try the gel pills that Unisom offers. I would recommend taking half a pill approximately an hour before you wish to fall asleep. If you feel that half a pill isn't working, try a full pill, but beware of feeling extremely drowsy in the morning. These pills contain more Doxylamine succinate than your typical dose of Nyquil. Nyquil typically contains 6.25 mg of Doxylamine succinate per dose while these pills contain 25 mg Doxylamine succinate per pill. That's 4x as much as a standard Nyquil dose, thus why I and other users recommend half a pill.",
+                        "This stuff is great! I was looking for something to help me stay a sleep at night and I decided to get Unisom based on all the reviews. And just like many people say, it puts you in a deep sleep and helps you stay asleep throughout the night and this is so true. I had an amazing sleep after taking them. Amazing product that works! Try it if you have any sleep problems!",
+                        "I've been taking Unisom due to the recommendation of my Obgyn as I was suffering from sleep during my pregnancy beginning in the 1st trimester. I've been breaking apart half a pill which I take daily about 30 minutes before sleep and this has given be 8+ hours of sleep every single night. I wake up fully awake and perfect. Highly recommend if you are suffering from 1st trimester pregnancy lack of sleep.",
+                        "My husband had struggled with poor sleep for a very long time. He had tried many different things before but nothing truly helped him. Has been using Unisom for about a month now and has seen dramatic improvement in getting several hours of good sleep. It has helped with falling asleep much more easily and also not waking up multiple times in the middle of the night.",
+                        "It worked pretty good but gave me strange dreams. In one dream I was being chased by a tuna sandwich on pumpernickel because it thought I was a tomato ð Another dream, the Laughing Cow ð® from the cheese products wouldn't stop laughing at me because I was wearing Speedos."
+                    ],
+                    "negative_reviews": [
+                        "It is somehow effective. But I have a tried a few other otc sleep aids They are more like helping to sleep longer instead of helping you to fall asleep This is one of them and the side effects are similar as well. It makes you feel like you have no energy to lift your arms on the next day. Almost feel like paralyzedâ¦ I only take half pill each time, and thatâs going to keep me extremely tired on the next day.",
+                        "Definitely puts me in a deep sleep, but damn do I feel like a zombie the next day. So take the good with the bad. I only take half and it knocks me out.",
+                        "Takes a while for me personally about an hour to kick in. Once Iâm out each pill runs me a good 4 hours. Great alternative to melatonin",
+                        "Whenever I've been sick and taken Nyquil, it has always made me drowsy and easily fall asleep. Sometimes, I have an extremely difficult time falling asleep, mainly during the work week. This contains the active ingredient in Nyquil that makes one drowsy, Doxylamine succinate. Unisom also makes gel tabs which contain the active ingredient in Tylenol PM which makes one drowsy, Diphenhydramine. I would recommend this Sleeptab over the gel tab, based on slightly less toxicity to oneself. This pill works excellently to induce drowsiness and help one go to sleep. I took a full pill the first night, and I woke up extremely drowsy. I drove into work in this state, which was not smart. I felt like a zombie all morning. I was extremely drowsy until lunch time. I would recommend what others have said, which is to take half a pill for starting out. Half a pill is all I need to get decent sleep for those nights where it's difficult to fall asleep and wake up functioning. Starting out with a full pill if you've never taken these before and have to be somewhere early in the morning is asking for trouble. These tabs even have a line down the middle as though they are meant to be halved. $10 for 96 days of help getting to sleep if needbe, is not a bad deal. If Nyquil makes you sleepy and you need help getting to sleep sometimes, order yourself a box of these. If Tylenol PM makes you sleepy, try the gel pills that Unisom offers. I would recommend taking half a pill approximately an hour before you wish to fall asleep. If you feel that half a pill isn't working, try a full pill, but beware of feeling extremely drowsy in the morning. These pills contain more Doxylamine succinate than your typical dose of Nyquil. Nyquil typically contains 6.25 mg of Doxylamine succinate per dose while these pills contain 25 mg Doxylamine succinate per pill. That's 4x as much as a standard Nyquil dose, thus why I and other users recommend half a pill.",
+                        "This stuff is great! I was looking for something to help me stay a sleep at night and I decided to get Unisom based on all the reviews. And just like many people say, it puts you in a deep sleep and helps you stay asleep throughout the night and this is so true. I had an amazing sleep after taking them. Amazing product that works! Try it if you have any sleep problems!"
+                    ]
+                }
+            },
+            {
+                "period": "2026-07",
+                "reviews": 28,
+                "average_rating": 4.643,
+                "average_sentiment": 0.911,
+                "cluster_distribution": {
+                    "6": 1.0
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I think I am in love with this sleep aid support gummy by Unisom. I have never had a sleeping problem. Typically my head hits the pillow and within the hour I am asleep. I flip from my side to my back a few times within the night and wake feeling like I wish I could sleep for a few more hours. I usually get 7 to 8 hours of sleep every night. I started taking one gummy a night for the past week. On the second night of taking this gummy I began dreaming again. I only seem to dream when I am overly tired, or have worked my body to exhaustion that day. Honestly, dreaming doesn't happen very often now that I am older. But to my surprise, the last 4 nights I have been taking a single gummy right before climbing into bed, I have had vivid and delightful dreams. The gummy is a pleasant texture. Not firm or overly sticky. The gummy quickly dissolves and doesn't get stuck in your teeth. The flavor is a light berry flavor with a slight sweetener. This is a dual action melatonin-free product. It uses Ashwagandha and magnesium to promote better sleep. I have found that this sleep support gummy by Unisom has absolutely improved my quality of sleep. When I dream I wake feeling rested, and ready for the day. The price is extremely competitive and I am thrilled with the product. I absolutely recommend it ð.",
+                        "This Unisom sleep support gummy is really nice in that one gummy is a serving, where most sleep gummies take 2 as a serving, so in this package you get a full 60 days worth with the 60 gummies that are included. These are in a plastic jar with a safety seal under the cap. All ingredients and facts are clearly listed on the bottle, as well as the expiration date. These sleep gummies have a slight berry smell and taste to them, the flavor is \"Midnight Berry\" however even though it isn't bad, it isn't a natural berry smell or taste. Each one is a standard gummy size and easy to chew. I take these with water. As an added bonus these sleep gummies have Ashwagandha and Magnesium added to them as two other ingredients which is something that I was excited to try. So far I do like these and think they work as intended. These come from Chattanooga, TN in the USA. I do appreciate that these are from the brand Unisom, a brand that I have used for years and have grown to use and trust. Overall I am happy with these and glad that I gave them a try. I feel the current list price of $18.98 is a good value for an entire 2 months worth in one bottle.",
+                        "These gummies do not actually put you to sleep, at least not me; a person with a restless, always thinking mind. For me, they have helped to still my mind a bit and help me relax a little easier. I can tell because I remember dreaming; instead of just thinking and willfully imagining. I have not used these long enough to say if that will be consistent with me, but I will take 1 out of three nights in my trial so far. Consistent use will likely make for better effectiveness. On all three nights I did feel more relaxed, earlier. So, it seems to be effective. I have not had any negative side effects, and it doesn't taste nasty. In fact, they are quite tasty for this type of product (especially for a product containing mg.), leaving no bad aftertaste. The gummies resemble candy texture & squish enough to make taking them easy. 60 @ the price at my time of order is a great deal.",
+                        "started using Unisom SleepTabs on nights when my mind wouldnât shut off or after rough travel days. One tablet about 30 minutes before bed usually helps me fall asleep faster and stay asleep through the night. Itâs straightforward â no weird taste since I swallow it with water, and the small size is easy to take. The next morning I feel rested without that heavy hangover some other sleep aids leave. Itâs been reliable for occasional use when I really need to reset my sleep. One thing Iâve noticed is that if I take it too late or combine it with other things, the drowsiness can carry over a bit into the morning. I stick to using it only when necessary and give myself a full nightâs sleep. These are a good option for adults who need short-term help with occasional sleeplessness and donât want melatonin or something that builds tolerance quickly. Not ideal if you have to wake up very early or are sensitive to antihistamines.",
+                        "Iâve really been loving these Unisom Sleep Support Gummies! I work nights and struggle with daytime sleep. These have been really helpful. The midnight berry flavor is pleasant without being too strong, and the gummies are easy to take. I also like that they are drug free and melatonin free, since sometimes I just want something more gentle. Melatonin sometimes makes me a little too groggy so this is a great alternative. I appreciate that these include magnesium and ashwagandha and both seem to be helpful as the formula really works. They have been great for resetting me sleep schedule and helping me to unwind and relax before going to sleep. They donât make me feel drowsy, they just help me to feel calm and settled. Overall, I think these are a convenient and great tasting sleep gummy and theyâre a wonderful alternative for anyone wanting to avoid stronger medications."
+                    ],
+                    "negative_reviews": [
+                        "1 star because I took 4 pills, recommended 1 or 2 pills, had absolutely no effect on me. This is same antihistamine that you find in NYQUIL. I thought I'd try the antihistamine alone, but no effect.",
+                        "These Unisom gummies pack magnesium and ashwagandha, two ingredients known for helping you relax and ease into sleep. It's refreshing to see that all the ingredients are clean and natural, with no artificial food dyes or flavors. There's a small amount of added sugars, but each gummy is only 10 calories, so it's not a big deal. The ashwagandha extract (150 mg) and magnesium citrate (85 mg) are on the lower end of their typical dosing ranges, but I still find them effective for winding down before bed. Ashwagandha is a great natural herb for reducing stress, and it may help with cognitive function too. I've been getting to bed quicker and waking up feeling refreshed. I haven't encountered any side effects like indigestion or morning grogginess. However, this isn't a replacement for stronger sleep aids like melatonin when you really need to reset your sleep schedule. I quite like the midnight berry flavor. The gummies are slightly sweet without being candy-like, and they have a nice soft, chewy texture that doesn't get stuck in your teeth. Since they do contain sugar, I make sure to take them before brushing. If you're looking for a safe, natural sleep support supplement that won't overwhelm you, these Unisom gummies are worth a shot. They're from a trustworthy brand, seem high quality, and the price is hard to beat. 60 gummies for about a two-month supply works out to roughly 30 cents a day.",
+                        "A friend of mine used to take this every night. I have awful insomnia so I thought Iâd try it. Presently, I take 400 mg of Gabapentin which my doc thought should help me sleep but no. So as needs I take 1/2 tablet and it helps me sleep all night. My daughter thinks itâs because it intensifies the Gabapentin and vice versa and said to me careful. Personally if I can sleep through the night, Iâm a happy camper. The 1/2 tablet works well for now maybe a full tablet strength may be needed in the future. There is no scent and since I break it in 1/2, yiu need to put it at the back of the throat and drink right away to avoid the awful pill taste. It me sleep for 6-8 hrs which is a plus and the cost is minor. Itâs a win for me.",
+                        "These gummies taste horrible. I literally have my toothbrush loaded and ready to go when I take these. Other than that, these work fairly well. I didnât notice a difference when switching from straight magnesium to these. I still have to take melatonin to add a little more âumphâ. Will I get these again? No. But I will definitely finish the bottle",
+                        "These are not melatonin. These gummies are ashwagandha and magnesium. They have a light sweet taste to them, not overly sugary tasting. Easy to chew up. I eat one of these gummies only when I feel the need to get more relaxed for better sleep. They make me feel relaxed which I exactly what I hoped they would do"
+                    ]
+                }
+            }
+        ],
+        "review_volume": {
+            "current": 58,
+            "previous": 45,
+            "change_pct": 28.89
+        },
+        "rating": {
+            "current": 4.69,
+            "previous": 4.733,
+            "change": -0.044
+        },
+        "sentiment": {
+            "current": 0.922,
+            "previous": 0.934,
+            "change": -0.011
+        },
+        "emerging_clusters": [
+            {
+                "cluster": 6,
+                "share": 0.85,
+                "change": 0.069
+            },
+            {
+                "cluster": 0,
+                "share": 0.15,
+                "change": -0.068
+            }
+        ],
+        "declining_clusters": [
+            {
+                "cluster": 0,
+                "share": 0.15,
+                "change": -0.068
+            },
+            {
+                "cluster": 6,
+                "share": 0.85,
+                "change": 0.069
+            }
+        ]
+    }
+}

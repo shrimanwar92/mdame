@@ -1,0 +1,25 @@
+{
+    "subject_id": "ASIN",
+    "use_parquet": true,
+    "recommended_algorithm": "GMM",
+    "training_features": [
+        "STAR_RATING",
+        "Feature_Sentiment_Score",
+        "TEXT_UMAP_0",
+        "TEXT_UMAP_1",
+        "TEXT_UMAP_2",
+        "TEXT_UMAP_3",
+        "TEXT_UMAP_4",
+        "TEXT_UMAP_5",
+        "TEXT_UMAP_6",
+        "TEXT_UMAP_7"
+    ],
+    "omitted_features": [
+        "BRAND_NAME_Cortizone 10",
+        "BRAND_NAME_Rare",
+        "BRAND_NAME_Icy Hot",
+        "BRAND_NAME_ACT",
+        "BRAND_NAME_Gold Bond",
+        "BRAND_NAME_Dulcolax"
+    ]
+}

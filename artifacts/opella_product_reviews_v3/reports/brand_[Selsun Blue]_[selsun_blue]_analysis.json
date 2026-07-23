@@ -1,0 +1,1733 @@
+{
+    "product": {
+        "report_type": "brand",
+        "group_by": "BRAND_NAME",
+        "identifier": "Selsun Blue",
+        "brand_name": "Selsun Blue",
+        "products": 30,
+        "asin": [
+            "B00KIH1UQ8",
+            "B0C3SJC39R",
+            "B001TSNM34",
+            "B0C5S1LDXN",
+            "B0F9FY4NKD",
+            "B0DP3B4CSS",
+            "B00H3R2C72",
+            "B001P0MWY6",
+            "B00E4MJ37Q",
+            "B001ET76LC",
+            "B001UGL84U",
+            "B001SGSB9M",
+            "B0D14XB3WR",
+            "B000GCURBO",
+            "B00IA4SKYQ",
+            "B0F9G1W2N2",
+            "B0F9G1LYNY",
+            "B0D14YGQ3T",
+            "B078YGK3VQ",
+            "B001ET76KI",
+            "B0BHTSSQ2J",
+            "B00UXH2YAE",
+            "B00G4EG4ZQ",
+            "B0D6R2KJVW",
+            "B00GMP45IK",
+            "B01IA94HT2",
+            "B01IA94LBQ",
+            "B076C1P3GM",
+            "B0CYC8HSSW",
+            "B0D129RLRT"
+        ],
+        "reviews": 1930,
+        "average_rating": 4.41,
+        "average_sentiment": 0.852
+    },
+    "macro_personas": [
+        {
+            "cluster": 9,
+            "universal_persona": {
+                "population": 994,
+                "population_pct": 1.82,
+                "certainty": 1.0,
+                "positive_pct": 81.69,
+                "neutral_pct": 4.12,
+                "negative_pct": 14.19,
+                "avg_rating": 4.31,
+                "brand_distribution": {
+                    "Selsun Blue": {
+                        "reviews": 976,
+                        "share": 98.19
+                    },
+                    "Cortizone 10": {
+                        "reviews": 5,
+                        "share": 0.5
+                    },
+                    "Gold Bond": {
+                        "reviews": 4,
+                        "share": 0.4
+                    },
+                    "ACT": {
+                        "reviews": 4,
+                        "share": 0.4
+                    },
+                    "Icy Hot": {
+                        "reviews": 4,
+                        "share": 0.4
+                    },
+                    "Allegra": {
+                        "reviews": 1,
+                        "share": 0.1
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Scalp Care Specialists",
+                    "summary": "Customers dealing with persistent scalp issues like dandruff or dryness.",
+                    "decision_drivers": [
+                        "Proven effectiveness",
+                        "Dermatologist recommended",
+                        "Gentle formulation",
+                        "Convenient usage"
+                    ],
+                    "satisfaction_drivers": [
+                        "Eliminates flakes/itchiness",
+                        "Soothes scalp irritation",
+                        "Easy to use",
+                        "No harsh ingredients"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Further irritation",
+                        "Unpleasant smell",
+                        "Drying effects"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 9,
+                "share": 0.506,
+                "certainty": 1.0,
+                "reviews": 976,
+                "average_rating": 4.34,
+                "average_sentiment": 0.836
+            },
+            "comparison": {
+                "share_lift": 27.8,
+                "rating_delta": 0.03
+            }
+        },
+        {
+            "cluster": 0,
+            "universal_persona": {
+                "population": 11231,
+                "population_pct": 20.6,
+                "certainty": 0.997,
+                "positive_pct": 86.88,
+                "neutral_pct": 4.03,
+                "negative_pct": 9.08,
+                "avg_rating": 4.49,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 3735,
+                        "share": 33.26
+                    },
+                    "Dulcolax": {
+                        "reviews": 1768,
+                        "share": 15.74
+                    },
+                    "Cortizone 10": {
+                        "reviews": 1000,
+                        "share": 8.9
+                    },
+                    "Icy Hot": {
+                        "reviews": 985,
+                        "share": 8.77
+                    },
+                    "ACT": {
+                        "reviews": 904,
+                        "share": 8.05
+                    },
+                    "Allegra": {
+                        "reviews": 743,
+                        "share": 6.62
+                    },
+                    "Aspercreme": {
+                        "reviews": 657,
+                        "share": 5.85
+                    },
+                    "Selsun Blue": {
+                        "reviews": 403,
+                        "share": 3.59
+                    },
+                    "Nasacort": {
+                        "reviews": 293,
+                        "share": 2.61
+                    },
+                    "Xyzal": {
+                        "reviews": 253,
+                        "share": 2.25
+                    },
+                    "Unisom": {
+                        "reviews": 215,
+                        "share": 1.91
+                    },
+                    "Zantac": {
+                        "reviews": 215,
+                        "share": 1.91
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 27,
+                        "share": 0.24
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 22,
+                        "share": 0.2
+                    },
+                    "Buscapina": {
+                        "reviews": 11,
+                        "share": 0.1
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Daily Wellness Maintainers",
+                    "summary": "Customers seeking reliable products to support everyday health routines and prevention.",
+                    "decision_drivers": [
+                        "Effectiveness",
+                        "Quality",
+                        "Trusted brand",
+                        "Ease of use"
+                    ],
+                    "satisfaction_drivers": [
+                        "Long-lasting relief",
+                        "Meets daily needs",
+                        "Minimal side effects",
+                        "Trusted solution"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short duration",
+                        "Unpleasant side effects",
+                        "Poor value"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 0,
+                "share": 0.209,
+                "certainty": 0.998,
+                "reviews": 403,
+                "average_rating": 4.61,
+                "average_sentiment": 0.902
+            },
+            "comparison": {
+                "share_lift": 1.01,
+                "rating_delta": 0.12
+            }
+        },
+        {
+            "cluster": 2,
+            "universal_persona": {
+                "population": 2128,
+                "population_pct": 3.9,
+                "certainty": 1.0,
+                "positive_pct": 91.92,
+                "neutral_pct": 2.11,
+                "negative_pct": 5.97,
+                "avg_rating": 4.67,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 556,
+                        "share": 26.13
+                    },
+                    "Icy Hot": {
+                        "reviews": 272,
+                        "share": 12.78
+                    },
+                    "Selsun Blue": {
+                        "reviews": 258,
+                        "share": 12.12
+                    },
+                    "Cortizone 10": {
+                        "reviews": 222,
+                        "share": 10.43
+                    },
+                    "Dulcolax": {
+                        "reviews": 199,
+                        "share": 9.35
+                    },
+                    "Allegra": {
+                        "reviews": 143,
+                        "share": 6.72
+                    },
+                    "ACT": {
+                        "reviews": 136,
+                        "share": 6.39
+                    },
+                    "Aspercreme": {
+                        "reviews": 123,
+                        "share": 5.78
+                    },
+                    "Buscapina": {
+                        "reviews": 97,
+                        "share": 4.56
+                    },
+                    "Unisom": {
+                        "reviews": 50,
+                        "share": 2.35
+                    },
+                    "Xyzal": {
+                        "reviews": 38,
+                        "share": 1.79
+                    },
+                    "Zantac": {
+                        "reviews": 16,
+                        "share": 0.75
+                    },
+                    "Nasacort": {
+                        "reviews": 13,
+                        "share": 0.61
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 4,
+                        "share": 0.19
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.05
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Oral Hygiene Prioritizers",
+                    "summary": "Customers focused on maintaining good oral health through daily routines.",
+                    "decision_drivers": [
+                        "Dentist recommended",
+                        "Proven effectiveness",
+                        "Kid-friendly options",
+                        "Convenient usage"
+                    ],
+                    "satisfaction_drivers": [
+                        "Fresh breath",
+                        "Prevents cavities/gum issues",
+                        "Easy to use",
+                        "Pleasant taste/scent"
+                    ],
+                    "frustration_drivers": [
+                        "Unpleasant taste/smell",
+                        "Ineffective results",
+                        "Difficult to use",
+                        "Harsh ingredients"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 2,
+                "share": 0.134,
+                "certainty": 1.0,
+                "reviews": 258,
+                "average_rating": 4.73,
+                "average_sentiment": 0.932
+            },
+            "comparison": {
+                "share_lift": 3.44,
+                "rating_delta": 0.06
+            }
+        },
+        {
+            "cluster": 1,
+            "universal_persona": {
+                "population": 12457,
+                "population_pct": 22.85,
+                "certainty": 0.994,
+                "positive_pct": 84.42,
+                "neutral_pct": 5.59,
+                "negative_pct": 9.99,
+                "avg_rating": 4.43,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 9823,
+                        "share": 78.86
+                    },
+                    "Cortizone 10": {
+                        "reviews": 1986,
+                        "share": 15.94
+                    },
+                    "Icy Hot": {
+                        "reviews": 180,
+                        "share": 1.44
+                    },
+                    "Aspercreme": {
+                        "reviews": 177,
+                        "share": 1.42
+                    },
+                    "Selsun Blue": {
+                        "reviews": 102,
+                        "share": 0.82
+                    },
+                    "Allegra": {
+                        "reviews": 75,
+                        "share": 0.6
+                    },
+                    "ACT": {
+                        "reviews": 50,
+                        "share": 0.4
+                    },
+                    "Dulcolax": {
+                        "reviews": 39,
+                        "share": 0.31
+                    },
+                    "Xyzal": {
+                        "reviews": 10,
+                        "share": 0.08
+                    },
+                    "Magne B6": {
+                        "reviews": 8,
+                        "share": 0.06
+                    },
+                    "Nasacort": {
+                        "reviews": 6,
+                        "share": 0.05
+                    },
+                    "Unisom": {
+                        "reviews": 1,
+                        "share": 0.01
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Skin Condition Soothers",
+                    "summary": "Customers looking for effective relief from persistent skin irritations and conditions.",
+                    "decision_drivers": [
+                        "Fast-acting",
+                        "Gentle formulation",
+                        "Proven ingredients",
+                        "Dermatologist recommended"
+                    ],
+                    "satisfaction_drivers": [
+                        "Reduces itching/irritation",
+                        "Promotes healing",
+                        "Long-lasting effects",
+                        "Safe for sensitive skin"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective results",
+                        "Further irritation",
+                        "Short-lived relief",
+                        "Harsh ingredients"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 1,
+                "share": 0.053,
+                "certainty": 0.998,
+                "reviews": 102,
+                "average_rating": 4.63,
+                "average_sentiment": 0.907
+            },
+            "comparison": {
+                "share_lift": 0.23,
+                "rating_delta": 0.2
+            }
+        },
+        {
+            "cluster": 8,
+            "universal_persona": {
+                "population": 6837,
+                "population_pct": 12.54,
+                "certainty": 0.99,
+                "positive_pct": 85.61,
+                "neutral_pct": 3.89,
+                "negative_pct": 10.5,
+                "avg_rating": 4.44,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 6144,
+                        "share": 89.86
+                    },
+                    "Aspercreme": {
+                        "reviews": 242,
+                        "share": 3.54
+                    },
+                    "Icy Hot": {
+                        "reviews": 161,
+                        "share": 2.35
+                    },
+                    "Selsun Blue": {
+                        "reviews": 96,
+                        "share": 1.4
+                    },
+                    "Cortizone 10": {
+                        "reviews": 72,
+                        "share": 1.05
+                    },
+                    "Dulcolax": {
+                        "reviews": 48,
+                        "share": 0.7
+                    },
+                    "ACT": {
+                        "reviews": 41,
+                        "share": 0.6
+                    },
+                    "Allegra": {
+                        "reviews": 13,
+                        "share": 0.19
+                    },
+                    "Nasacort": {
+                        "reviews": 7,
+                        "share": 0.1
+                    },
+                    "Unisom": {
+                        "reviews": 5,
+                        "share": 0.07
+                    },
+                    "Magne B6": {
+                        "reviews": 5,
+                        "share": 0.07
+                    },
+                    "Xyzal": {
+                        "reviews": 2,
+                        "share": 0.03
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.01
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Comfort First Consumers",
+                    "summary": "Customers focused on products that provide comfort, freshness and prevent irritation.",
+                    "decision_drivers": [
+                        "Prevents chafing/irritation",
+                        "Absorbs moisture/sweat",
+                        "Long-lasting freshness",
+                        "Gentle formulation"
+                    ],
+                    "satisfaction_drivers": [
+                        "Stays dry and fresh",
+                        "Soothes irritated skin",
+                        "Easy to apply",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective absorption",
+                        "Short duration of effects",
+                        "Unpleasant smell/residue",
+                        "Causes further irritation"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 8,
+                "share": 0.05,
+                "certainty": 0.997,
+                "reviews": 96,
+                "average_rating": 3.82,
+                "average_sentiment": 0.706
+            },
+            "comparison": {
+                "share_lift": 0.4,
+                "rating_delta": -0.62
+            }
+        },
+        {
+            "cluster": 5,
+            "universal_persona": {
+                "population": 4604,
+                "population_pct": 8.45,
+                "certainty": 0.995,
+                "positive_pct": 22.26,
+                "neutral_pct": 13.66,
+                "negative_pct": 64.07,
+                "avg_rating": 2.21,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 3046,
+                        "share": 66.16
+                    },
+                    "Cortizone 10": {
+                        "reviews": 312,
+                        "share": 6.78
+                    },
+                    "Icy Hot": {
+                        "reviews": 242,
+                        "share": 5.26
+                    },
+                    "Aspercreme": {
+                        "reviews": 216,
+                        "share": 4.69
+                    },
+                    "ACT": {
+                        "reviews": 211,
+                        "share": 4.58
+                    },
+                    "Dulcolax": {
+                        "reviews": 157,
+                        "share": 3.41
+                    },
+                    "Allegra": {
+                        "reviews": 139,
+                        "share": 3.02
+                    },
+                    "Nasacort": {
+                        "reviews": 87,
+                        "share": 1.89
+                    },
+                    "Xyzal": {
+                        "reviews": 68,
+                        "share": 1.48
+                    },
+                    "Zantac": {
+                        "reviews": 58,
+                        "share": 1.26
+                    },
+                    "Selsun Blue": {
+                        "reviews": 42,
+                        "share": 0.91
+                    },
+                    "Unisom": {
+                        "reviews": 17,
+                        "share": 0.37
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 3,
+                        "share": 0.07
+                    },
+                    "Buscapina": {
+                        "reviews": 3,
+                        "share": 0.07
+                    },
+                    "Magne B6": {
+                        "reviews": 2,
+                        "share": 0.04
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Product Experience Critics",
+                    "summary": "Customers focused on product usability and delivery mechanisms over ingredients.",
+                    "decision_drivers": [
+                        "Ease of application",
+                        "Convenient packaging",
+                        "Innovative delivery"
+                    ],
+                    "satisfaction_drivers": [
+                        "Hassle-free usage",
+                        "Precise application",
+                        "Portable packaging"
+                    ],
+                    "frustration_drivers": [
+                        "Difficult application",
+                        "Faulty packaging/sprayers",
+                        "Messy or wasteful"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 5,
+                "share": 0.022,
+                "certainty": 0.977,
+                "reviews": 42,
+                "average_rating": 2.5,
+                "average_sentiment": 0.375
+            },
+            "comparison": {
+                "share_lift": 0.26,
+                "rating_delta": 0.29
+            }
+        },
+        {
+            "cluster": 4,
+            "universal_persona": {
+                "population": 339,
+                "population_pct": 0.62,
+                "certainty": 1.0,
+                "positive_pct": 97.94,
+                "neutral_pct": 1.47,
+                "negative_pct": 0.59,
+                "avg_rating": 4.81,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 132,
+                        "share": 38.94
+                    },
+                    "Cortizone 10": {
+                        "reviews": 42,
+                        "share": 12.39
+                    },
+                    "Dulcolax": {
+                        "reviews": 30,
+                        "share": 8.85
+                    },
+                    "Allegra": {
+                        "reviews": 28,
+                        "share": 8.26
+                    },
+                    "Selsun Blue": {
+                        "reviews": 26,
+                        "share": 7.67
+                    },
+                    "ACT": {
+                        "reviews": 25,
+                        "share": 7.37
+                    },
+                    "Aspercreme": {
+                        "reviews": 17,
+                        "share": 5.01
+                    },
+                    "Icy Hot": {
+                        "reviews": 14,
+                        "share": 4.13
+                    },
+                    "Zantac": {
+                        "reviews": 8,
+                        "share": 2.36
+                    },
+                    "Nasacort": {
+                        "reviews": 7,
+                        "share": 2.06
+                    },
+                    "Xyzal": {
+                        "reviews": 7,
+                        "share": 2.06
+                    },
+                    "Buscapina": {
+                        "reviews": 1,
+                        "share": 0.29
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 1,
+                        "share": 0.29
+                    },
+                    "Unisom": {
+                        "reviews": 1,
+                        "share": 0.29
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Trusted Solution Seekers",
+                    "summary": "Customers prioritizing proven, reliable products from trusted brands.",
+                    "decision_drivers": [
+                        "Trusted brand reputation",
+                        "Proven effectiveness",
+                        "Quality ingredients",
+                        "Good value"
+                    ],
+                    "satisfaction_drivers": [
+                        "Delivers expected results",
+                        "Long-lasting effects",
+                        "Minimal side effects",
+                        "Worth the cost"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short duration of effects",
+                        "Unpleasant side effects",
+                        "Poor value for money"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 4,
+                "share": 0.013,
+                "certainty": 1.0,
+                "reviews": 26,
+                "average_rating": 4.65,
+                "average_sentiment": 0.913
+            },
+            "comparison": {
+                "share_lift": 2.1,
+                "rating_delta": -0.16
+            }
+        },
+        {
+            "cluster": 6,
+            "universal_persona": {
+                "population": 5088,
+                "population_pct": 9.33,
+                "certainty": 0.995,
+                "positive_pct": 78.3,
+                "neutral_pct": 5.76,
+                "negative_pct": 15.94,
+                "avg_rating": 4.2,
+                "brand_distribution": {
+                    "Dulcolax": {
+                        "reviews": 1835,
+                        "share": 36.07
+                    },
+                    "Allegra": {
+                        "reviews": 1028,
+                        "share": 20.2
+                    },
+                    "Unisom": {
+                        "reviews": 743,
+                        "share": 14.6
+                    },
+                    "Xyzal": {
+                        "reviews": 443,
+                        "share": 8.71
+                    },
+                    "Nasacort": {
+                        "reviews": 324,
+                        "share": 6.37
+                    },
+                    "Zantac": {
+                        "reviews": 179,
+                        "share": 3.52
+                    },
+                    "Gold Bond": {
+                        "reviews": 159,
+                        "share": 3.12
+                    },
+                    "ACT": {
+                        "reviews": 116,
+                        "share": 2.28
+                    },
+                    "Cortizone 10": {
+                        "reviews": 75,
+                        "share": 1.47
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 66,
+                        "share": 1.3
+                    },
+                    "Icy Hot": {
+                        "reviews": 48,
+                        "share": 0.94
+                    },
+                    "Aspercreme": {
+                        "reviews": 25,
+                        "share": 0.49
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 23,
+                        "share": 0.45
+                    },
+                    "Selsun Blue": {
+                        "reviews": 12,
+                        "share": 0.24
+                    },
+                    "Buscapina": {
+                        "reviews": 11,
+                        "share": 0.22
+                    },
+                    "Magne B6": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Symptom Relief Seekers",
+                    "summary": "Customers looking for fast, effective relief from acute symptoms.",
+                    "decision_drivers": [
+                        "Fast-acting",
+                        "Proven effectiveness",
+                        "Long-lasting relief",
+                        "Minimal side effects"
+                    ],
+                    "satisfaction_drivers": [
+                        "Quickly alleviates symptoms",
+                        "Long duration of effects",
+                        "No harsh side effects",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short-lived effects",
+                        "Unpleasant side effects",
+                        "Inconvenient usage"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 6,
+                "share": 0.006,
+                "certainty": 0.992,
+                "reviews": 12,
+                "average_rating": 4.67,
+                "average_sentiment": 0.917
+            },
+            "comparison": {
+                "share_lift": 0.06,
+                "rating_delta": 0.47
+            }
+        },
+        {
+            "cluster": 3,
+            "universal_persona": {
+                "population": 6176,
+                "population_pct": 11.33,
+                "certainty": 0.999,
+                "positive_pct": 84.5,
+                "neutral_pct": 5.04,
+                "negative_pct": 10.46,
+                "avg_rating": 4.42,
+                "brand_distribution": {
+                    "ACT": {
+                        "reviews": 5502,
+                        "share": 89.09
+                    },
+                    "Dulcolax": {
+                        "reviews": 324,
+                        "share": 5.25
+                    },
+                    "Xyzal": {
+                        "reviews": 104,
+                        "share": 1.68
+                    },
+                    "Allegra": {
+                        "reviews": 78,
+                        "share": 1.26
+                    },
+                    "Gold Bond": {
+                        "reviews": 74,
+                        "share": 1.2
+                    },
+                    "Icy Hot": {
+                        "reviews": 24,
+                        "share": 0.39
+                    },
+                    "Cortizone 10": {
+                        "reviews": 21,
+                        "share": 0.34
+                    },
+                    "Zantac": {
+                        "reviews": 14,
+                        "share": 0.23
+                    },
+                    "Unisom": {
+                        "reviews": 13,
+                        "share": 0.21
+                    },
+                    "Aspercreme": {
+                        "reviews": 10,
+                        "share": 0.16
+                    },
+                    "Selsun Blue": {
+                        "reviews": 9,
+                        "share": 0.15
+                    },
+                    "Buscapina": {
+                        "reviews": 1,
+                        "share": 0.02
+                    },
+                    "Nasacort": {
+                        "reviews": 1,
+                        "share": 0.02
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Pediatric Care Facilitators",
+                    "summary": "Parents/caregivers seeking safe, effective solutions for children's health needs.",
+                    "decision_drivers": [
+                        "Kid-friendly formulations",
+                        "Gentle ingredients",
+                        "Proven effectiveness",
+                        "Pediatrician recommended"
+                    ],
+                    "satisfaction_drivers": [
+                        "Easy administration",
+                        "Fast-acting relief",
+                        "No harsh side effects",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Unpleasant taste/smell",
+                        "Difficulty administering",
+                        "Lack of results",
+                        "Harsh side effects"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 3,
+                "share": 0.005,
+                "certainty": 0.981,
+                "reviews": 9,
+                "average_rating": 5.0,
+                "average_sentiment": 1.0
+            },
+            "comparison": {
+                "share_lift": 0.04,
+                "rating_delta": 0.58
+            }
+        },
+        {
+            "cluster": 7,
+            "universal_persona": {
+                "population": 4657,
+                "population_pct": 8.54,
+                "certainty": 0.995,
+                "positive_pct": 74.38,
+                "neutral_pct": 6.81,
+                "negative_pct": 18.81,
+                "avg_rating": 4.07,
+                "brand_distribution": {
+                    "Icy Hot": {
+                        "reviews": 2496,
+                        "share": 53.6
+                    },
+                    "Aspercreme": {
+                        "reviews": 1197,
+                        "share": 25.7
+                    },
+                    "Gold Bond": {
+                        "reviews": 548,
+                        "share": 11.77
+                    },
+                    "Cortizone 10": {
+                        "reviews": 190,
+                        "share": 4.08
+                    },
+                    "Dulcolax": {
+                        "reviews": 120,
+                        "share": 2.58
+                    },
+                    "Magne B6": {
+                        "reviews": 24,
+                        "share": 0.52
+                    },
+                    "Allegra": {
+                        "reviews": 22,
+                        "share": 0.47
+                    },
+                    "ACT": {
+                        "reviews": 19,
+                        "share": 0.41
+                    },
+                    "Zantac": {
+                        "reviews": 12,
+                        "share": 0.26
+                    },
+                    "Xyzal": {
+                        "reviews": 7,
+                        "share": 0.15
+                    },
+                    "Buscapina": {
+                        "reviews": 7,
+                        "share": 0.15
+                    },
+                    "Selsun Blue": {
+                        "reviews": 6,
+                        "share": 0.13
+                    },
+                    "Unisom": {
+                        "reviews": 4,
+                        "share": 0.09
+                    },
+                    "Nasacort": {
+                        "reviews": 3,
+                        "share": 0.06
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 2,
+                        "share": 0.04
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Pain Relief Prioritizers",
+                    "summary": "Customers seeking effective, targeted relief from muscle/joint pains.",
+                    "decision_drivers": [
+                        "Fast pain relief",
+                        "Long-lasting effects",
+                        "Targeted application",
+                        "Ease of use"
+                    ],
+                    "satisfaction_drivers": [
+                        "Quickly reduces pain",
+                        "Long duration of effects",
+                        "Convenient application",
+                        "No mess or residue"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective results",
+                        "Short-lived relief",
+                        "Difficult application",
+                        "Unpleasant smell/feel"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 7,
+                "share": 0.003,
+                "certainty": 0.992,
+                "reviews": 6,
+                "average_rating": 4.33,
+                "average_sentiment": 0.833
+            },
+            "comparison": {
+                "share_lift": 0.04,
+                "rating_delta": 0.26
+            }
+        }
+    ],
+    "trend_analysis": {
+        "timeline": [
+            {
+                "period": "2024-12",
+                "reviews": 247,
+                "average_rating": 4.077,
+                "average_sentiment": 0.769,
+                "cluster_distribution": {
+                    "9": 0.579,
+                    "0": 0.178,
+                    "2": 0.085,
+                    "8": 0.057,
+                    "1": 0.053,
+                    "3": 0.016,
+                    "7": 0.012,
+                    "5": 0.008,
+                    "6": 0.008,
+                    "4": 0.004
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Selsun Blue Dandruff Control Shampoo with Conditioner has clearly made a significant impact on managing your dandruff concerns, a testament to its effectiveness for those with persistent scalp issues. Your experience suggests that even without a formal diagnosis, possibly of eczema, this medicated shampoo has provided reliable relief where other brands have been part of your regimen, such as Head and Shoulders. The recommendation to use just a dime-sized amount daily underlines the product's efficiency and helps justify the cost, despite its smaller size compared to other options. Your approach to hair washing, balancing the need to manage oiliness with the advice against daily shampooing, is a common dilemma. Particularly for those with longer hair that tends to get oily, the temptation to wash more frequently is understandable. It's noteworthy that Selsun Blue not only addresses dandruff but also contributes to your hair feeling beautiful, dry, and voluminous. This dual benefit of controlling dandruff while enhancing hair's aesthetic qualities, even in the face of challenges like oiliness and styling habits, highlights Selsun Blue's value in your hair care routine. Your practical insights into managing dandruff with Selsun Blue, alongside other brands for variety, offer a helpful perspective for anyone struggling with similar issues. It serves as a reminder that finding the right hair care product can involve trial, personalization, and sometimes, balancing effectiveness with frequency of use and cost.",
+                        "I shave the sides and back of my head daily. Due to this I sometimes get razor burns or just straight up acne spots. I have also off and on fought acne as my entire adult life usually if Iâm going through a lot of stress. Thatâs what I attribute it to anyway. So anyway, when Iâm showering I use this shampoo daily as a head and face wash. Then I use Oxy Facewash with benzoyl peroxide. I leave the oxy on for a minute or so then shave, utilizing the oxy as my shaving cream. I follow up with isopropyl alcohol on the shaved parts of my head with a cotton ball. It may sound extreme but it really doesnât take that much longer when I shower in the morning and more importantly, it works, at least for me. In fact, this combo worked when nothing else really did.",
+                        "I have been suffering from extreme scalp scum (no better way to describe it) on the back of my head. I would literally scrape and come away with all this yellowish matter under my nails. I wondered how my hair could even grow through it. I peeled off big hunks of dandruff all day long. I was to the point where I needed to take serious action. I went to my dermatologist, asking for some solution. I figured I was way beyond an over-the-counter product since H&S and tar shampoos made no difference at all. Instead of prescribing something, he recommended Selsun Blue. I thought he was kidding, but he wasn't. So I bought a bottle and honestly, I cannot believe it worked! But it worked!!! From my very first wash, everything changed! I'm sort of in disbelief, and bummed that I didn't try this product sooner. Highly recommend!",
+                        "I've tried other products and they didn't work. I know I use to use this quite a while ago and I remembered to get this. All it took was 2 times of using it for me and it resolved the issue of dry scalp. I no longer have to deal with the flakiness in my scalp. No more itching. I use it about 2 times a week and it's great. Can't go wrong with Selsin Blue! Great value for the money! It's quite thick and a yellow color when it comes out and you really don't need much for a lather. I don't smell any obnoxious smell and it doesn't bother my skin or eyes either. I think years ago it was a blue color. I may be wrong.",
+                        "Out of all the selsun blue shampoos that I use, this one is my favorite. This one is my favorite because of the scent. It has a fresh and natural scent to it. It smells light and refreshing. I started using this because my dermatologist recommended it for my skin because of my hyperpigmentation. And moisturized my skin and relieved any dry flakes that I was having. My hyperpigmentation has not gotten worse but I can't say it has gotten better. Even though it didn't help my hyperpigmentation it's still improved the overall look and feel of my skin."
+                    ],
+                    "negative_reviews": [
+                        "They made a new formula thatâs supposed to be cleaner. Iâm not liking it as much as the old one. I havenât checked the ingredients to see what was left out. I primarily use it to wash my shaved head and beard. Itâs always done a great job at decreasing razor burns, bumps, pimples, and dandruff. However, the new formula barely lathers up and feels like I have to use twice as much. It also isnât even close to the same pleasant scent as before. I may be switching brands after this bottle, but Iâll keep using it to see if my opinion changes. *update* After reading each bottle, it makes sense why it has no lather and barely any scent. They removed all the natural plant oils that were in the first. It seems like more than anything, they were trying to save money. I understand how some of the removed ingredients , including those for lather, could be irritating, but the new formula seems like it was much more likely to have been devised by the finance team. Here is what was taken out and whatâs new: Ingredients Removed in the New Formula: PEG-11 Sunflower Glycerides Cocamidopropyl Betaine Sodium Methyl Cocoyl Taurate Chamomilla Recutita (Matricaria) Flower Extract Lavandula Angustifolia (Lavender) Extract Rosmarinus Officinalis (Rosemary) Leaf Extract Acacia Farnesiana Flower Extract Tocopheryl Acetate Aloe Barbadensis Leaf Juice Panthenol Cocamide MEA Sodium Lauryl Glucose Carboxylate Benzyl Alcohol Lauryl Glucoside Polyquaternium-57 Stearamidopropyl PG-Dimonium Chloride Phosphate Potassium Hydroxide Disodium EDTA Benzophenone-4 Isopropyl Myristate Propylene Glycol New Ingredients in the New Formula: Dihydrogenated Tallow Phthalic Acid Amide Cocopolyol Betaine Benzoic Acid Titanium Dioxide Hydroxypropyl Methylcellulose Magnesium Aluminum Silicate Sodium Chloride Sodium Isethionate DMDM Hydantoin Blue 1 *update 12-11-24* I will not be purchasing again. It seems to be more irritating than the original formula.",
+                        "I've been using this Shampoo for years. I was surprised to find out when my last order arrived that the bottle had changed and the label indicated \"New Cleaner Formula.\" It is indeed a new formula, and this is what has changed: - It doesn't lather up as well - it doesn't leave my hair feeling as clean - it smells like toilet cleaner I did some brief research online and see that the company that makes this product is trying to spin-off it's consumer healthcare line, which I assume this falls under. So unfortunately this product is the latest victim of shareholder value that inevitably is making life worse for everyone else but shareholders. My advice, if you used this product and liked it, try to find the old version and buy as much as you can. Unfortunately my efforts to do so have not been successful.",
+                        "When I had trouble finding this product in my local grocery stores, I purchased is through Amazon. The bottle came as expected...the ubiquitous blue color...and I expected the shampoo to have the same, deep blue color. It's been like this for decades. But the color of this \"new\" version is peachy-cream, and it was a disappointment. But, we could live with this, thinking that maybe the blue dye is not good for the planet. What we find obnoxious, however, is the odor of this product. SULPHUR foulness permeates the shower while shampooing, and it sticks to everything. PLUS, there's no pleasant tingling sensation. Both the smell and tingling came from the menthol infused in this product. We'll be looking for a similar product from a different company from now on.",
+                        "Selsun has completely redesigned this product and it is basically something all-new in the old packaging. The new version is green, not tan and stinks horribly. It is also terrible at cleaning your hair leaves it feeling as it had never been washed at all. If it could be retuned I would have done so but sadly this product is not eligible for returns. I tried calling Selsun customer support but it has been moved overseas and of course they can't do anything. I highly recommend buying the regular Selsun Blue or considering other products instead.",
+                        "I have extremely dry scalp and usually use the Selsun Blue Moisturizing shampoo, but wanted to try this one due to the ingredients being more naturalâ¦ this one didnât work at all. My scalp was still extremely itchy and flaky after using it for a week. I ended up returning it and going back to the moisturizing one and my head cleared up within 2 uses. If your scalp isnât as sensitive this might work for you, just didnât work for my severe dry scalp."
+                    ]
+                }
+            },
+            {
+                "period": "2025-01",
+                "reviews": 57,
+                "average_rating": 4.316,
+                "average_sentiment": 0.829,
+                "cluster_distribution": {
+                    "9": 0.719,
+                    "8": 0.105,
+                    "0": 0.105,
+                    "6": 0.035,
+                    "2": 0.035
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "My first time using this shampoo, Head and shoulders was not helping my itchy scalp and dandruff. My hair has been falling out since I had VSG surgery and I truly feel this has saved it, I have less hair fall out, with a small amount it goes a long way. The first day I noticed a difference in dandruff and itching. I use this every now a then when I put a ton of gel or mousse on my hair since it cleans it soo well!! I love the price for the amount of products it is easy to use even tho the hole is a bit big and a ton comes out all you need is about 1tea spoon for it to work well, a lot of foamies which I love and it smells amazing too!! My hair is long.",
+                        "While this is great for itchy scalps and dandruff, I bought to use in my child's bath for a fungal infection (jock itch) for extra support in getting rid of the infection faster on top of the prescribed medication. I have also used Selsun Blue when I had pityriasis (a non contagious fungal rash). Please consult your doctor before using the product for anything other than what the product is used for.",
+                        "This is the only shampoo we use for dandruff. Need to make sure you are using it consistently but overall doesnât take long to notice a difference. We have tried so many other brands but this Selsun Blue is the only one that works. We can never find it on the shelves. Very effective. Takes care of itchiness and flakes. Doesnât smell bad either.",
+                        "I had tried ANY product on the market. ANY. To fight persistent dandruff. This one is the REAL DEAL. I find the rest products to stop working after a month or so of use, BUT NOT THIS ONE. IT IS THE ONLY ONE THAT GETS THE JOB DONE. I've been buying it since forever and only trust THIS ONE. You should too.",
+                        "A couple of months ago, I started experiencing a lot of dandruff. After searching online, I found that many people recommended this brand, and it did not disappoint! After just two washes, the dandruff was completely gone. Itâs affordable and effectiveâhighly recommended! The only thing is, if it had a better scent, it would be perfect!"
+                    ],
+                    "negative_reviews": [
+                        "This did not improve dandruff flakes. The scent is fine. I didn't feel like it cleaned my scalp/roots very well. I wouldn't buy again.",
+                        "I tried a bunch of dandruff shampoo and gave up for almost a decade. Then I saw my partner's hairdresser used the Davines shampoo with selenium sulfide and had me wash with it at home for a month. My dandruff is a thing of the past now, having reduced to one way a week. Between this and the one I bought from the hairdresser, I think they're equally effective, but this has a much stronger smell. This is also like 10x cheaper per use, so I just deal with the smell one night a week.",
+                        "My first time using this shampoo, Head and shoulders was not helping my itchy scalp and dandruff. My hair has been falling out since I had VSG surgery and I truly feel this has saved it, I have less hair fall out, with a small amount it goes a long way. The first day I noticed a difference in dandruff and itching. I use this every now a then when I put a ton of gel or mousse on my hair since it cleans it soo well!! I love the price for the amount of products it is easy to use even tho the hole is a bit big and a ton comes out all you need is about 1tea spoon for it to work well, a lot of foamies which I love and it smells amazing too!! My hair is long.",
+                        "While this is great for itchy scalps and dandruff, I bought to use in my child's bath for a fungal infection (jock itch) for extra support in getting rid of the infection faster on top of the prescribed medication. I have also used Selsun Blue when I had pityriasis (a non contagious fungal rash). Please consult your doctor before using the product for anything other than what the product is used for.",
+                        "This is the only shampoo we use for dandruff. Need to make sure you are using it consistently but overall doesnât take long to notice a difference. We have tried so many other brands but this Selsun Blue is the only one that works. We can never find it on the shelves. Very effective. Takes care of itchiness and flakes. Doesnât smell bad either."
+                    ]
+                }
+            },
+            {
+                "period": "2025-02",
+                "reviews": 61,
+                "average_rating": 3.852,
+                "average_sentiment": 0.713,
+                "cluster_distribution": {
+                    "9": 0.525,
+                    "0": 0.23,
+                    "2": 0.131,
+                    "5": 0.066,
+                    "4": 0.033,
+                    "8": 0.016
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Review: Selsun Blue Medicated Antidandruff Shampoo I've been struggling with dandruff for years and have tried countless products with mixed results. After hearing recommendations from friends, I decided to give Selsun Blue Medicated Antidandruff Shampoo a try, and I'm genuinely impressed with the results. First, the effectiveness cannot be overstated. Within just a week of regular use, I noticed a significant reduction in flakes and scalp irritation. By the second week, my dandruff was virtually gone. The shampoo lathers well and leaves my hair feeling clean without stripping away natural oils or causing dryness. The formula seems to work exceptionally well on my sensitive scalp, providing long-lasting relief between washes. I've found that using it 2-3 times per week maintains the results perfectly, and I can alternate with my regular shampoo on other days. One thing to note is the scent - it's quite strong and medicinal. While this is understandable given its therapeutic nature, the powerful smell lingers even after rinsing thoroughly. For those sensitive to fragrances, this might be something to consider. I personally find that using a nicely scented conditioner afterward helps balance it out. The bottle design makes it easy to dispense the right amount, and a little goes a long way, making it good value despite the slightly premium price point. Overall, I'd highly recommend Selsun Blue for anyone dealing with persistent dandruff or scalp issues. Just be prepared for the strong scent - it's a small trade-off for how well it works!",
+                        "I've been using this shampoo since June 2024. It was a godsend helping me with my severe scalp issues. My scalp was heavily inflamed with soreness, redness, bumps, scabs, flakes, pus, bleeding. Horrible. After the first few days of using this there was a dramatic improvement in my scalp. I then started using a sulfur hair grease along with this shampoo and my scalp became 100% clear. They switched the formula around I think my second or third bottle and I was worried it wouldn't work, but it was still good. I have curly afro hair and wash my hair virtually everyday with this shampoo and it doesn't dry out my hair or scalp. This may be the shampoo for you if you struggle with scalp issues and shampoo like Head and Shoulders doesn't work for you. That was me, Head and Shoulders did nothing. Full disclosure, while I do love this shampoo, I am trying out a different shampoo with sulfur in it. I noticed during the week I went without my sulfur grease, but still using this shampoo, a couple of scabs formed on my scalp. So I want to try something different. If I don't like the new shampoo, I'll definitely come back to this one.",
+                        "Two years in, and this shampoo still does exactly what I need it to. I used to struggle with dandruff and itchy head and nothing seemed to fully get rid of it like Selsun Blue. It definitely has a strong scent, but I donât mind it, it smells kind of medicinal and clean, not like perfume or fake scents. I use it every so often along with other shampoo, and the bottle lasts a long time since I donât need to use much. My hair always feels super clean after washing.",
+                        "This shampoo really helps control dandruff and leaves my scalp feeling clean and refreshed. It lathers well, and the moisturizing formula keeps my hair from feeling too dry. Iâve noticed a big improvement after just a few washes.",
+                        "Iâve tried literally EVERYTHING, all the expensive dandruff shampoos and products and nothing has worked until I found this! In a single wash itâs gotten rid of the majority of my dandruff!"
+                    ],
+                    "negative_reviews": [
+                        "I've been using this product for years, and I come to realize today that the formula's changed. I gave myself a try, however it's not good as the old version. My scalp is dry and feel itchy. I checked all the ingredients. They removed all natural stuffs, and I feel sad. If they won't bring the old formula for good. I have to say bye to this product too. I'll return it.",
+                        "it's too runny and watery such that when you pour, it rushes out. it doesn't cling to the scalp when it's so runny bc gravity pulls it toward the strands instead. sticking to the one from neutrogena (also 3 percent salicylic acid)",
+                        "El producto no tiene la calidad de nuevo, si no de usado incluso tiene marcas de que se le cayÃ³ y le pasÃ³ algo encima.",
+                        "âImprovedâ smell means it still smells terrible. Not a fan. My pillows and everything smell like this stuff all day long and itâs not a pleasant smell",
+                        "Love the product. Unfortunately it was shipped loosely in a box without the lid being, at least, taped closed. The shampoo had spilled, everywhere, inside the box. I returned it and had another one shipped."
+                    ]
+                }
+            },
+            {
+                "period": "2025-03",
+                "reviews": 84,
+                "average_rating": 4.024,
+                "average_sentiment": 0.756,
+                "cluster_distribution": {
+                    "9": 0.619,
+                    "0": 0.226,
+                    "5": 0.048,
+                    "8": 0.036,
+                    "2": 0.036,
+                    "1": 0.024,
+                    "7": 0.012
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I've finally found a solution to my stubborn dandruff with this product! Given that my mom and I both experience severe dandruff, I believe it's genetic. Thankfully, this product has been a game-changer for both of us. I've tried numerous other products, but none have delivered the same level of relief as this one. Plus, it smells amazing! Unlike other products with harsh chemical scents, this one is refreshing. It also leaves my hair feeling soft, not stiff or dry like other treatments. I highly recommend this product to anyone struggling with dandruff. It's a lifesaver!",
+                        "I've struggled with dandruff for years, trying countless shampoos with little success, until I found this one! After just a few washes, my flakes were drastically reduced, and my scalp felt healthier than ever. Not only does it eliminate dandruff, but it also soothes irritation and leaves my hair feeling soft and fresh. The scent is pleasant but not overpowering, and a little goes a long way. If you're looking for a shampoo that actually works, this is it! Highly recommend!",
+                        "I have an annoying issue where sometimes my scalp will get really dry and then it shows on my black jacket i wear to work. Selsun blue shampoos work so fast at relieving this, and although my hair feels a bit dry afterwards the dandruff drastically improves even after just one wash. Its not something I use everyday but maybe a few times a week for maintenance.",
+                        "I love this shampoo. It's light. It smells good. And I truly believe this the right shampoo for my hair and scalp. At first the bottle design was different. I was ready to return it. Until I checked the solution. This is only shampoo I prefer. This is not always available in stores. I know where I can order this product regularly.",
+                        "This stuff actually smells really nice. I am not sure why Selsun Blue is always marketed to men because well it works on my scalp too and this one is actually a nice mild scent that's good for anyone. Seems to do it's job well. I am happy I found it because the original formula's smell isn't for me."
+                    ],
+                    "negative_reviews": [
+                        "I used Selsun Blue for years. It worked perfectly for me. I even liked the menthol scent. But they recently changed the formula, and it's terrible--nothing like the shampoo I'd been using. The texture is different, the scent is different (smells like toilet bowl cleaner to me, yuck!), and it doesn't seem to work as well. Be careful ordering. You might not get the shampoo you are expecting. The new formula is not the same at all.",
+                        "Worst shampoo ever made. First, it does not help dandruff at all, I've been using it consistently for two months and still have flakes. It smells like a gross mint, so you smell like an old man when you use it. It makes your hair very dry even with conditioner. Overall, a terrible shampoo in all aspects.",
+                        "The Selsun 2-in-1 has been updated with a \"New Cleaner Formula\" and \"Better Scent & New Color\". I used to specifically buy the Selsun 2-in-1 because it had the least objectionable fragrance. This \"Better Scent\" is terrible - it smells bad and lingers for many hours. I wish Selsun would bring back the original scent.",
+                        "I want to give this produc a 0 star. It sucked it didnât helped my daughter dandruff. Im very disappointed and I would like my money back. It says is though and medicated but it DOES NOT HELP AT ALL",
+                        "Absolutely disappointed, why change the formula??? This was the only shampoo that was able to actually help with my dandruff problem and now that the formula changed, Iâm back to head of dandruff!"
+                    ]
+                }
+            },
+            {
+                "period": "2025-04",
+                "reviews": 95,
+                "average_rating": 4.316,
+                "average_sentiment": 0.829,
+                "cluster_distribution": {
+                    "9": 0.432,
+                    "2": 0.232,
+                    "0": 0.221,
+                    "8": 0.074,
+                    "1": 0.032,
+                    "5": 0.011
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Ohhhh myyyyy GOD! First of all, 1st use and boom! But thereâs a way to do it. Step 1: rinse your hair THOROUGHLY Step 2: first time application be generous. Like very generous and apply (donât be cheap) Step 3: massage in for about 5 min, EVERYWHERE, LET THERE BE FOAM!!! Step 4: let it sit for 10 min. Not 5, but 10! Step 5: *Key Step* after waiting, itch your scalp with your nails ALL OVER, because the dead skin is now loose, so you MUST AGITATE THR SCALP THOROUGHLY! Donât be afraid, itch that shhh everywhere!!! Step 6: rinse THOROUGHLY LIKE VERYYYY THOROUGHLY! Step 7: reapply maybe 3 squirts. Not too much just to cover all your hair and scalp. (You can be cheap now) Step 8: let it sit once itâs somewhat foamy for 5 minutes. Step 9: rinse Step 10: dry thoroughly Step 11: Wait 24 hours Step 12: repeat step 7-9 DANDRUFF BE GONE MUUHH FUHHHHHH!!! Donât forget to condition, this shhhh make your hair dry Ahh Fuhhh Works EVERY TIME! Can do your beard at the same time same way but lather and comb donât itch (make sure to oil your beard after.) Youâre Welcome, Snowflakes",
+                        "DespuÃ©s de probar muchos productos contra la caspa sin Ã©xito, decidÃ­ darle una oportunidad a Selsun Blue Maximum Strength, Â¡y fue la mejor decisiÃ³n! Desde el primer lavado notÃ© un alivio inmediato en el picor del cuero cabelludo y, en pocos dÃ­as, la caspa visible prÃ¡cticamente desapareciÃ³. El shampoo tiene un aroma mentolado muy agradable que deja una sensaciÃ³n de frescura increÃ­ble despuÃ©s de cada lavado. AdemÃ¡s, no reseca el cabello como otros productos similares que habÃ­a probado antes. Me encanta que contiene sulfuro de selenio al 1%, lo que lo hace realmente efectivo para tratar no solo la caspa sino tambiÃ©n la irritaciÃ³n. Es un producto que ahora considero esencial en mi rutina de cuidado capilar. Lo recomiendo a cualquiera que estÃ© buscando una soluciÃ³n real y duradera para el problema de la caspa.",
+                        "Long story short I started to have terrible dandruff out of nowhere several months ago. I tried multiple dandruff shampoos including Nizoral (which did not help my dandruff in the slightest). This product is not like the rest! It is a little thicker than others I've tried which I like, I feel like it coats my head and gets to the problem areas. It makes my hair soft and shiny (not greasy). Oh, and best part!? My dandruff has significantly improved! No more flaking, no more scabs, and only after two washes! I'm so impressed and relieved to finally have some progress on this embarrassing issue. I like the smell and it isn't too strong. If you've been struggling with dandruff you need to give this product a try!",
+                        "I bought this dandruff shampoo for my teenage niece, who had been struggling with flakes and an itchy scalp for a while. After trying several products that either dried out her hair or didnât make a difference, we were so relieved to finally find something that actually works! Within just a few uses, we noticed a dramatic improvementâless itching, no more visible flakes, and her scalp looks so much healthier. Bonus: her hair feels soft, smooth, and smells great too! She feels more confident now, and I couldnât be happier with the results. Highly recommend this shampoo to anyone dealing with dandruffâespecially for teens who want something effective and gentle!",
+                        "I already used one and already bought a new one! It really helped me a lot especially in the winter when my scalp is dry and the flakes just keep appearing even after having enough sleep and such. I am not diagnosed with any scalp abnormalities or anything it was just stress/lack of sleep/jet lag kind of thing but I thought 1month after it will change, but it never did and then I found this. And helped big time!"
+                    ],
+                    "negative_reviews": [
+                        "New formula is worse. It says itâs âcleanerâ but it actually cleans the hair less well. After rinsing, I canât even tell if I shampooed my hair. I find I have to use more product or rinse twice and still am unsatisfied. This product is for folks with dandruff. In my case the dandruff is due to having oily scalp and skin. I fear this shampoo will let my seborrheic dermatitis thrive due to not cleaning away the oil. Never had issues with the old formula. Bring it back!",
+                        "it made my hair and my bathroom have this STRONG ODOR one wash n i called it quits the smell is like so so bad",
+                        "They added more perfume, so I switched to another brand that is unscented. Been using this stuff for decades. I REALLY wish companies wouldn't do that kind of stuff.",
+                        "Does a good job for everyday dandruff but it leaves an unpleasant scent after washing. it also makes my hair feel brittle. i rarely use conditioner but i feel like i have to after using this product.",
+                        "I often get large patches of dandruff on the back of my scalp, and most other shampoos either did nothing or actually made it worse. Selsun Blue is the only one that really helps â with consistent use, the dandruff gradually fades away. The only downside is that if I stop using it, the dandruff comes back, and it does leave my hair feeling a little dry after washing."
+                    ]
+                }
+            },
+            {
+                "period": "2025-05",
+                "reviews": 21,
+                "average_rating": 4.762,
+                "average_sentiment": 0.94,
+                "cluster_distribution": {
+                    "0": 0.429,
+                    "9": 0.381,
+                    "1": 0.095,
+                    "2": 0.095
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Just used it once so far and am pleased with the results and scalp feels really clean and so far itch be gone. Donât know yet for how long the results will last but plan to use at least 3 times a week to start. So many reviews complaining about the smell but I never noticed any strong smell. Hopefully this shampoo will work for my scalp as Iâve tried many that didnât. My hair is cut very short for ease of care so this bottle should last quite awhile with using sufficient amount for lots of lather.",
+                        "I hate the smell of regular selsun blue so I was really happy to discover this one!! My scalp feels so clean after using this and my hair looks healthier in general. One warning to be careful when you first pour it in your hand is it's very liquid, so it comes out of the bottle fast! The hole in the lid should be slightly smaller because of this, but oh well!",
+                        "In less than a week all my problems that i had with dandruff were gone. I dont have an itchy head and white stuff coming from it. Only on the first week, i used it 3 times a week. Now i only used twice a week and my head/hair feels nice and without any problems. I have try others products before and it does not work that fast or at all.",
+                        "I'm pleasantly surprised how well this product works and that it doesn't have the dark and gooey formula and awful smell (this one is clear and smells fine) dandruff shampoos often are associated with. It also helps to remove the small bumps on your scalp as a result from dandruff type conditions.",
+                        "The shampoo works as advertised. My rating is for the smell: itâs horrendous and lingers. I had to rinse my hair several times to get the stench out, and even then, I could still smell it for hours later. If you have dandruff or dry scalp, this WILL fix it, but whether you can tolerate the after scent is another matter."
+                    ],
+                    "negative_reviews": [
+                        "The shampoo works as advertised. My rating is for the smell: itâs horrendous and lingers. I had to rinse my hair several times to get the stench out, and even then, I could still smell it for hours later. If you have dandruff or dry scalp, this WILL fix it, but whether you can tolerate the after scent is another matter.",
+                        "Just used it once so far and am pleased with the results and scalp feels really clean and so far itch be gone. Donât know yet for how long the results will last but plan to use at least 3 times a week to start. So many reviews complaining about the smell but I never noticed any strong smell. Hopefully this shampoo will work for my scalp as Iâve tried many that didnât. My hair is cut very short for ease of care so this bottle should last quite awhile with using sufficient amount for lots of lather.",
+                        "I hate the smell of regular selsun blue so I was really happy to discover this one!! My scalp feels so clean after using this and my hair looks healthier in general. One warning to be careful when you first pour it in your hand is it's very liquid, so it comes out of the bottle fast! The hole in the lid should be slightly smaller because of this, but oh well!",
+                        "In less than a week all my problems that i had with dandruff were gone. I dont have an itchy head and white stuff coming from it. Only on the first week, i used it 3 times a week. Now i only used twice a week and my head/hair feels nice and without any problems. I have try others products before and it does not work that fast or at all.",
+                        "I'm pleasantly surprised how well this product works and that it doesn't have the dark and gooey formula and awful smell (this one is clear and smells fine) dandruff shampoos often are associated with. It also helps to remove the small bumps on your scalp as a result from dandruff type conditions."
+                    ]
+                }
+            },
+            {
+                "period": "2025-07",
+                "reviews": 232,
+                "average_rating": 4.375,
+                "average_sentiment": 0.844,
+                "cluster_distribution": {
+                    "9": 0.491,
+                    "0": 0.216,
+                    "2": 0.172,
+                    "1": 0.052,
+                    "4": 0.03,
+                    "8": 0.026,
+                    "5": 0.009,
+                    "7": 0.004
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "My head sweats a lot. This shampoo has been a life saver. I use it once a week and it helps keep the itchy dandruff away during that time (unless i sweat a lot then I jeed to use it twice a week) No other shmpoo comes close to helping my sweaty itchy dandruff head. (My dandruff is caused by the sweating and the sweating makes my head very itchy) Will be keeping this in my routine for as long as possible. Shampoo does not dry out my hair, i do however use a very good conditoner, but when i run out i do notice the shampoo still leaves my hair in decent condition. The smell isnt great, but i have gotten used to it. Its a medicated menthol smell. Not awful and doesnt seem to linger after the shower. Consistnecy is really nice. Its thick liquid and easily suds up. I usually start this process in my hands. I only apply to scalp and roots. I do not apply purposely to mid hair saft and ends. (Those areas almost never need shampoo apllied to them unless you've used a lot of hair products and are using a clarifying shampoo) Bottle lasts me a decent while (couple months) as it doesnt take much to wash your scalp and hair roots. I massage this in very well really digging into my scalp with finger pads. I then let it sit for approx 10 minutes before rinsing. My hair is dandrudd free as long as i use this. To reiterate its caused my head/scalp sweating which it does way more then most ive noticed.",
+                        "I've been using Selsun Blue Moisturizing Anti-Dandruff Shampoo with Aloe for years, ever since my pediatrician recommended it over 15 years ago. The results have been consistently impressive. The shampoo effectively eliminates dandruff and soothes my scalp, leaving it feeling refreshed and itch-free. The addition of aloe helps to moisturize and calm my skin, preventing any dryness or irritation that other dandruff shampoos can cause. What I love most about Selsun Blue is its reliability. Over the years, Iâve tried various other brands and products, but I always return to this one. The shampoo has a pleasant scent that isnât overpowering, and it lathers well, ensuring that my hair and scalp are thoroughly cleaned. Even during harsh winter months, when my dandruff tends to worsen, Selsun Blue keeps it under control. Iâve recommended this shampoo to friends and family, and theyâve all experienced similar positive results. As a lifelong customer, I can confidently say that Selsun Blue Moisturizing Anti-Dandruff Shampoo with Aloe is an essential part of my hair care routine. The 11 fl. oz. bottle lasts a good amount of time, making it a cost-effective solution for long-term use. If youâre struggling with dandruff and havenât found a solution yet, I highly recommend giving this product a try. Itâs been a game-changer for me, and Iâm sure it will be for you too.",
+                        "Selsun Blue Medicated Antidandruff Shampoo is a lifesaver for anyone struggling with dandruff! Iâve tried countless shampoos in the past, but this one truly stands out. Itâs formulated with selenium sulfide, which works wonders in controlling my flakes and soothing my itchy scalp. After just a few uses, I noticed a significant improvement in both the appearance and feel of my scalp. The formula is strong enough to target stubborn dandruff but still gentle enough to use regularly without drying out my hair. It lathers nicely and has a clean, fresh scent that isn't overpowering. I love that it leaves my scalp feeling cool and refreshed, almost like itâs been detoxed. The 11 fl. oz. bottle lasts quite a while, so itâs great value for the price. I also appreciate that it doesnât leave my hair feeling heavy or greasy afterwardâitâs just clean, flake-free, and soft. If you're dealing with serious dandruff or an itchy scalp, this is the shampoo you need. Itâs effective, reliable, and really gets to the root of the problem. Definitely a must-have in my hair care routine!",
+                        "Pros: â¢ Effective Dandruff Control: Contains 1% selenium sulfide, proven to combat dandruff and seborrheic dermatitis by targeting the root causeâMalassezia yeast . â¢ Fast-Acting: Many users report noticeable improvements after just a few washes . â¢ Affordable: Priced competitively, offering a cost-effective solution for dandruff treatment. ï¿¼ ï¿¼ Cons: â¢ Strong Scent: Some users find the menthol fragrance overpowering . â¢ Potential Dryness: May cause dryness or hair breakage if used excessively; recommended for use 1â2 times per week . â¢ Hair Discoloration Risk: Rare cases of hair discoloration have been reported . ï¿¼ ï¿¼ ï¿¼ Final Thoughts: Selsun Blue Medicated Antidandruff Shampoo is a reliable, over-the-counter solution for those struggling with dandruff or seborrheic dermatitis. Its active ingredient, selenium sulfide, effectively addresses the underlying causes of dandruff. While it may cause dryness or an intense scent for some users, its affordability and efficacy make it a worthwhile option for many.",
+                        "I've finally broken up with the clingy dandruff on my scalp. Before I found Selsum Blue, my sscalp is very itchy. It's embarassing to scratch or to even touch may hair in public due to worry dandruff might show up on the top of my head or if I'm wearing black. The first time using this shampoo, the coolness on my scalp gave me relief. I felt hope this is it. Selsum blue is the one. I'm right. Very effective in eliminating dandruff. I found the blue shampoo color calming. It doesn't leave my scalp dry but it did change how confident I am now with my scalp and hair. It is worth it! It's Selsum Blue shampoo and conditioner and I highly recommend!"
+                    ],
+                    "negative_reviews": [
+                        "I really liked the old orange formula of Selsun Blue 2-in-1 â it worked great for my dandruff and had a unique scent I didnât mind. Unfortunately, theyâve changed it to a blue formula now, and it smells just like all the other Selsun Blue products, which I find unpleasant. The new scent is a big downside for me, and it doesnât feel quite the same. Still effective, but I miss the old version.",
+                        "They changed the formula and scent. It smells like cheap cologne and no longer helps with itchy scalp. It also leaves the hair feeling waxy now. I have used this shampoo for years. I will not be repurchaseing.",
+                        "I experienced an allergic reaction the 1 time I used this shampoo. My scalp felt like it was on fire and I had a rash around my hair line.",
+                        "This does not work and reversed my hair and scalp from being dandruff free to being super itchy, flakey with more dandruff",
+                        "There is a strong chemical odor and it is TOO strong. Didn't notice much of a different with my scalp either"
+                    ]
+                }
+            },
+            {
+                "period": "2025-08",
+                "reviews": 54,
+                "average_rating": 4.259,
+                "average_sentiment": 0.815,
+                "cluster_distribution": {
+                    "9": 0.315,
+                    "0": 0.222,
+                    "2": 0.185,
+                    "1": 0.148,
+                    "8": 0.056,
+                    "5": 0.037,
+                    "4": 0.037
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Iâve tried dozens of anti-dandruff shampoos over the yearsâsome smelled great, others had cool packaging, and most of them... didnât work. Selsun Blue Medicated isnât here to coddle your senses. Itâs here to handle business. After two weeks of use, the itch and flaking that had me dodging dark shirts was basically gone. The selenium sulfide formula is no jokeâitâs like hiring a no-nonsense specialist for your scalp. Yes, the scent is a bit \"clinical.\" It reminds me of old-school medicine cabinets, not eucalyptus forests. But Iâll take effective over fragrant any day. It lathers thick, rinses clean, and leaves my hair feeling normalânot stripped, not greasy. Just normal, which I forgot was even an option. If youâre dealing with persistent dandruff, not the occasional dry patch, skip the fancy stuff and go straight to this. It may not win beauty contests, but it wins the one that matters: results.",
+                        "If you're tired of dealing with dandruff and noting else has worked, I highly recommend giving Selsun Blue a try. From the first wash, I felt a calming sensation on my scalp, and within 2 weeks of regular use, my flakes were significantly reduced. My scalp feels healthy and itch- free. Although the scent is not quite pleasant this shampoo gets the work done.",
+                        "Este champÃº me encantÃ³. DespuÃ©s de varios intentos con otros productos, finalmente encontrÃ© uno que realmente funciona. En pocos dÃ­as notÃ© menos caspa y ya no siento esa picazÃ³n molesta en el cuero cabelludo. AdemÃ¡s, deja el cabello suave, limpio y con un aroma muy agradable. Lo seguirÃ© comprando sin duda. Â¡Muy recomendado!",
+                        "Este shampoo lo he usado por mucho anos y lo trcomiend, primers lo uso mi mama y luego mi hijo y yo ,es hidratante y es buenisimo para las Caspar seboirea. Fue super rapids el shipping,",
+                        "Best product on the market for a stubborn dandruff.Bought knockoff brand from Walmart and didnât work.Always come back to this brand for a relief from a bad dandruff and so glad it works."
+                    ],
+                    "negative_reviews": [
+                        "For me, this caused a burning scalp, dry hair and had a terrible smell. The chemicals included seemed odd when I looked them up online. Would NOT recommend this.",
+                        "There was no protective covering under the cap. I donât know if the bottle had been tampered with or not.",
+                        "Good shampoo as I have used it off and on for years as I search for a shampoo that will get rid of my dandruff problem. I feel like this product helps a little to control it but did not eliminate the issue but then again I have not found any shampoo that does that.",
+                        "The Shampoo has gotten better but taking out all sulfates like ammonium lauryl sulfate would make it better especially for people with Seborrheic Dermatitis. 4 stars Good but Not Great.",
+                        "Picked up Selsun Blue Medicated Shampoo to help treat tinea versicolor on my back, and itâs worked really well for that purpose. Cleared up the spots quickly and helped keep things under control. Just a heads-upâleaving it on overnight might be too harsh, and I noticed some mild chemical burns when I did. So while it's definitely effective, make sure to follow recommended usage and rinse off properly. Great over-the-counter option, just not one to leave sitting on your skin too long."
+                    ]
+                }
+            },
+            {
+                "period": "2025-09",
+                "reviews": 92,
+                "average_rating": 4.489,
+                "average_sentiment": 0.872,
+                "cluster_distribution": {
+                    "9": 0.565,
+                    "0": 0.207,
+                    "2": 0.141,
+                    "8": 0.033,
+                    "4": 0.022,
+                    "5": 0.022,
+                    "1": 0.011
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I bought Selsen Blue shampoo for my husband and it has been a small miracle. The shampoo smells great, is easy to lather, and actually makes his hair feel clean without that weird squeaky dryness some products leave behind. Even better, he actually uses it regularly now instead of his old random bottle of whatever was in the shower. The formula is gentle but effective. His scalp feels healthy, the hair looks fuller and shinier, and the scent lasts long enough that I notice it without being overpowering. Bonus points for making him feel a little more polished without me saying a word. For anyone considering this it is worth noting that buying it on Amazon is super convenient. One click, a few days later, and he is fully stocked without the usual store trips or me having to remind him. It makes the whole routine effortless. Overall this shampoo is effective, convenient, and surprisingly enjoyable to use. Five stars for clean hair, happy husband, and less nagging in the bathroom.",
+                        "Este champÃº es excelente para combatir la caspa y cuidar el cuero cabelludo sensible. Desde los primeros usos, notÃ© que el picor y la descamaciÃ³n disminuyeron considerablemente. AdemÃ¡s, me gusta que deja el cabello hidratado y suave gracias al aloe vera que contiene. Tiene un aroma fresco y suave. En casa nos gusta tanto que siempre lo volvemos a comprar.",
+                        "This is really helpful for my scalp. I have eczema and my scalp tends to act up and it makes my hair line fall out but after using this there's no more flakes no more major lost of hair no more itching... it works very well for me.. great product. Highly recommended",
+                        "This medicated shampoo is essential. I used it on mild psoriasis on my back and it cleared up. You apply during a shower and give it a minute before washing off. I used it on my dogs paw for an interstitial cyst and it went down. My dog loves the shower.",
+                        "I highly recommend this. It DRAMATICALLY IMPROVED my scalp situation. The flaking cleared up in about a week or so. After that I only need to use it every other time i wash my hair or less. The 2 in 1 is also a bonus. Canât go wrong with this."
+                    ],
+                    "negative_reviews": [
+                        "Burning sensation during application and I have tried with the exact same result each usage. Clearly not suitable for me, back to good old fashioned baby shampoo. Hair was straw-like in texture and broke much more easily than normal.",
+                        "Great lather, great smell, but thatâs not what I purchased it for. It has yet to rid me of my dandruff. Very disappointed. And I bought two.",
+                        "didn't seem to work for me. Gets my hair clean though without too much drying it out, so two stars...",
+                        "I bet it works, but listen to the reviews that mention how bad it stinks. Hard smell to get rid of, do yourself a favor and get something that smells better. Unless you don't to be around people lol",
+                        "Maximum strength Selsun Blue Medicated Shampoo delivers noticeable relief for persistent dandruff and scalp irritation. The selenium sulfide formula works quickly to reduce flakes and itching after just a few uses. Texture is thick and lathers well, making it easy to apply and rinse out without residue. Scent is classic and medicinal, but not overpowering, and leaves hair feeling clean. Effective for controlling stubborn dandruff when other shampoos fall short."
+                    ]
+                }
+            },
+            {
+                "period": "2025-10",
+                "reviews": 117,
+                "average_rating": 4.436,
+                "average_sentiment": 0.859,
+                "cluster_distribution": {
+                    "9": 0.444,
+                    "2": 0.239,
+                    "0": 0.145,
+                    "1": 0.068,
+                    "8": 0.034,
+                    "4": 0.034,
+                    "5": 0.026,
+                    "3": 0.009
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "ðââï¸ Best Shampoo for Dandruff and Dry Scalp! - ð§´ Effectiveness: Works great â removes dandruff almost completely most of the time. - ð¿ Usage: I use it almost every shower or space it out so it doesnât dry my scalp too much. - ð Consistency: You have to keep using it regularly, or dandruff and dryness will come back. - ð² Value: Price is fair for how well it works. - ð¥ Comparison: The only brand that actually helps my scalp â much better than Head & Shoulders.",
+                        "Love this shampoo! For many years now have struggled with dandruff. I tried so many anti-dandruff shampoos. I went to my doctor and mentioned how I was struggling with this problem and not even nizoral helped. Also it is more expensive. My doctor then recommended this shampoo with selenium sulfide and itâs sold at a better price. Well itâs been almost a year, Iâm still using it, and it helps a lot! It also smells nice, nothing repulsing. Iâve been buying it and will continue to purchase!",
+                        "Iâve struggled with dandruff for a while and tried a lot of different products. This shampoo turned out to be the most effective one - the itching eased after just a couple of washes, and over time the flakes almost disappeared. I use it regularly and Iâm very happy with the results. It can dry the hair a little, so I follow with conditioner, and that works perfectly. Iâll definitely buy it again.",
+                        "This shampoo is great especially if you have an oily scalp and/or have scalp acne. It cleanses extremely well! Very light, clean scent. Conditioning your hair is a must after using this. One of the best shampoos that I have used.",
+                        "So far so good i have seen a reduction in flakes in my scalp but it could be temporary. Ill rotate with nizoral and others in case. But this and conditioner has done wonders for my scalp."
+                    ],
+                    "negative_reviews": [
+                        "Iâm not sure if itâs an ingredient in the shampoo or what, but this caused my entire scalp to bleed and feel burnt/raw, and my hair to fall out. Iâve used many different dandruff shampoos & have never experienced anything like this!",
+                        "Use it'd 3 time in the recommended time frame. It did nothing for my scalp but also tucked every oz of moisture out of my hair. Awful stuff",
+                        "It only smells good but doesn't help. It makes itching worse and doesn't help the flaking or the dandruff only the medicated version works",
+                        "Allergy, hands, face, feet, itching and paralysis. I have no allergic history. I was allergic to shampoo for the first time. Very exaggerated, everyone should be careful when buying.",
+                        "I went to use this product and it was full of water. Definitely messed it and had to throw it away."
+                    ]
+                }
+            },
+            {
+                "period": "2025-11",
+                "reviews": 174,
+                "average_rating": 4.425,
+                "average_sentiment": 0.856,
+                "cluster_distribution": {
+                    "9": 0.397,
+                    "2": 0.253,
+                    "0": 0.178,
+                    "1": 0.052,
+                    "5": 0.052,
+                    "8": 0.04,
+                    "4": 0.023,
+                    "6": 0.006
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "ya no creÃ­a en ningÃºn Shampu para la caspa ,estaba decepcionada de todos los q habÃ­a usado hasta q se me ocurriÃ³ preguntarle a chat GPT q me mostrara la imagen y nombre de uno para ella x supuesto me mostrÃ³ todos los q habÃ­a usado anteriormente incluyendo este ,lo comprÃ© con desencanto no lo puedo negar , pero me dijo yo no te voy a decepcionar y asÃ­ mismo fue nunca en mi vida habÃ­a tenido un shampu anticaspa tan bueno como este a mi hijo y ami nos funcionÃ³ desde la primera lavada de cabello supero mis espectativas lo recomiendo un 100 de 100 yo sÃ© q todo no tenemos el mismo tipo de cabello pero ya les digo a mi hijo y a mi si nos funcionÃ³ y nunca lo habÃ­a visto lo comprÃ© a lazar xq habÃ­an otros mÃ¡s y decidÃ­ probar ese",
+                        "Omg this shampoo changed my life, I was diagnosed with scalp seborrheic dermatitis and for quiet sometime Iâve dealt with itchy, red and flaky scalp. The dermatologist prescribed me those medications on the picture above and nothing worked, my hair was falling like crazy.. I washed it and there was clumps on the shower, even my 4 year old complained âmom why is there hair everywhere lolâ no lie. So I decided to try this shampoo I wash with it every other day and in a week I saw a massive improvement I just used it for 3 days (Tuesday, Thursday and Saturday) and no more itchy scalp, no flakiness NOTHING!!! Iâm amazed, please give it a try if you are suffering with itchy flaky scalp.",
+                        "Fue la mejor compra que pude hacer tenÃ­a meses con un hongo blanco detrÃ¡s de las orejas y me rascaba y salÃ­a como nieve no podÃ­a usar ropa negra porq cada q me picaba me tocaba la cabeza y la blusa quebrada blanca de la caspa era horrible ya no sabÃ­a que usar me puse vinagre use de todos los shampo por saber para la caspa varias baratos y la verdad este fue mi soluciÃ³n leÃ­ un comentario de una seÃ±ora diciendo que este shampo le cambiÃ³ la vida y dije pues vamos a probar uno mÃ¡s que se puede pasar y pasÃ³ lo mejor me quito el hongo y la caspa lo amor y lo sÃºper rwcomiedo",
+                        "Great anti dandruff shampoo! Bought for my 12 year old son who was suffering from extreme dandruff and severe itching. After many products I bought this and one of the scalp massagers/scrubbers. After one wash there was a noticeable difference and the itching was completely gone. After about 4 washes the dandruff is completely gone. The shampoo is a blue color and doesnât have the greatest smell but thatâs okay since it works extremely well! Great value for the money, decent size bottle. Lathers up well but is a little drying to the hair, conditioner definitely helps. Will definitely continue to use and highly recommend!",
+                        "I absolutely love the Selsun Blue Medicated Shampoo! After just two uses, my dandruff was completely gone it really works fast. The formula is strong and effective, and you can tell itâs doing its job right away. The shampoo itself is blue and has a very strong smell, but I donât mind it because it leaves my scalp feeling super clean and refreshed. Kinda leaves your hair a bit dry. If youâve been struggling with dandruff, this is definitely the product to try. It does exactly what it promises and gets the job done! No itching after using product."
+                    ],
+                    "negative_reviews": [
+                        "Previously, this shampoo was truly a lifesaver for my dermatitis, and my hair was fine. But after they changed the formula, everything became terrible! My dermatitis flared up, my hair started falling out, and itâs just crap! I donât know what I paid for. I wouldnât recommend it to anyone, because a medicinal shampoo shouldnât be like this. It was great before, but now itâs just crap!",
+                        "This shampoo stinks badly whole week, it smell so bad that I felt Nauseous, made my hair so dry and frizzy. Hair fall? Did not helped at all. Not worth your money. I will never buy it again or neither suggest it to anyone.",
+                        "This shampoo smells terrible. When I put it on my hair all I can think of is old age and urinal cakes. Then the smell lingers on my hair for hours afterwards. Gross.",
+                        "Hubby bought this and omfggggg it smells like he put manure all of his head! It stinks so bad I was wondering where the smell came from for a while because Iâm like how is he taking a shower and coming out smelly? Only to find out it was this stench in a bottle that doesnât even work for him. Many other options out there with less of an odor that wonât stink up the house or ruin the towels.",
+                        "Shampoo is great! but as advertised (pack of 3) I only received one shampoo. I tried to contact customer service but there is no way email, phone, or chat available. Can someone help how contact customer service and the remaining two shampoos?"
+                    ]
+                }
+            },
+            {
+                "period": "2025-12",
+                "reviews": 174,
+                "average_rating": 4.632,
+                "average_sentiment": 0.908,
+                "cluster_distribution": {
+                    "9": 0.374,
+                    "0": 0.27,
+                    "2": 0.132,
+                    "1": 0.08,
+                    "8": 0.075,
+                    "6": 0.029,
+                    "5": 0.023,
+                    "4": 0.011,
+                    "7": 0.006
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "This shampoo is effective first and cosmetic secondâand thatâs exactly why it works. Selsun Blue with Aloe is designed to treat dandruff at the source, not just mask it. The selenium sulfide 1% helps reduce flaking, itching, and irritation when used as directed, and it does a noticeably better job than many standard anti-dandruff shampoos that rely on milder ingredients.The added aloe helps offset the dryness selenium shampoos can sometimes cause. Itâs not ultra-luxurious, but itâs far less harsh than older formulas, leaving hair feeling clean rather than stripped. A little goes a long way, so the bottle lasts longer than youâd expect.This isnât a daily shampoo for most peopleâit works best a few times a week as a treatmentâbut when dandruff is persistent, itâs reliable and effective.If youâre dealing with ongoing flakes or scalp irritation and want something proven rather than trendy, Selsun Blue gets the job done.",
+                        "Selsun Blue! Now, THIS is a reputable brand I have known since childhood (I'm in my 70's). I needed this for a relative in assisted living. She never had dandruff or dry scalp issues but being on new medications might be the culprit so. making sure she has her flake-free scalp back soon. She seem to like the scent & the ease of having a 2-in-1 blend of shampoo & conditioner gets her in & out of the shower faster. I've noticed she has already scratching her scalp less often as she was before we started her on this. It's a good sized bottle for the price, too.",
+                        "Selsun Blue Moisturizing Antidandruff has been a game changer for me! Iâve struggled with dandruff for a while, but this shampoo effectively tackles the issue while keeping my scalp moisturized. The formula feels gentle on my skin and doesnât leave it feeling dry, which is something I really appreciate. After using it consistently, I've noticed a significant reduction in flakes, and my scalp feels healthier overall. Itâs great to finally find a product that works and keeps my hair looking and feeling good! I highly recommend Selsun Blue for anyone dealing with dandruff who also wants to maintain moisture in their hair. It really does the job!",
+                        "If gentle shampoos aren't cutting it for your dandruff or seborrheic dermatitis, this is the product you need. The 1% selenium sulfide formula is incredibly effective at clearing up flakes and stopping the itch almost immediately, and the menthol gives a satisfying cooling sensation on the scalp. Be aware that it does have a strong medicinal scent and can be drying to your hair strands, so it is best to focus the lather strictly on your scalp and follow up with a good moisturizing conditioner on your ends. Despite the smell, it is easily the most reliable over-the-counter remedy for serious scalp issues.",
+                        "5-Star Amazon Review: I've purchased Selsun Blue Moisturizing Antidandruff Shampoo twice now, and it never disappoints. My scalp feels clean, refreshed, and completely soothed after every wash. The selenium sulfide formula really works fast, and the moisturizing feel is a big plus-my hair doesn't feel dry at all. This is honestly the best antidandruff shampoo I've tried, and that's why I keep coming back. If you struggle with dandruff or itchy scalp, this one is definitely worth it. Highly recommend!"
+                    ],
+                    "negative_reviews": [
+                        "The orginal SB is shown in the picture and nothing about the product being the new cleaner formula is mentioned in the add. This Shampoo that is substituted in place of original , SB Medicated, NEW cleaner formula with the red logo on the top front side of the bottle is not the same . What was shown is not what is sent.",
+                        "$ 23.00 for a single 11oz bottle! The original listing shows 3 11 oz bottles. I received only 1 (one) . Not as described",
+                        "Ordered a multi pack, received one bottle asked for a return the. Received the other 5 bottles. Then just now 3 months later charged a second time. Buyer beware.",
+                        "Works good, but you'll want to use it about every other day for stubborn dandruff. The smell is alright but can be strong, it is what I would call a clean, kind of soft chemical smell, but if you have scented conditioner I doubt your hair will smell after a shower",
+                        "I don't notice much difference from other shampoos I have used. I still itch. But that doesn't mean it won't work for you. I could have some other issues going on that I haven't figured out yet. I will use this til it's gone and then try something else."
+                    ]
+                }
+            },
+            {
+                "period": "2026-01",
+                "reviews": 65,
+                "average_rating": 4.785,
+                "average_sentiment": 0.946,
+                "cluster_distribution": {
+                    "9": 0.615,
+                    "0": 0.169,
+                    "2": 0.108,
+                    "8": 0.062,
+                    "6": 0.031,
+                    "1": 0.015
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I love these Selsun blue shampoos. I first tried using them for my dog for itchy skin in the summer when he had hotspots and seasonal allergies and it has been with us for years since then. When I developed some seborhea-like scabs on my scalp I knew what to reach for. And guess what - it worked great! I actually introduced this shampoo into my regular routine so that my dry scalp does not come back. It is healing but not drying my scalp and it is amazing for my dogs skin as well. tough for healing but gentle on the skin. Also the consistency is really nice and thick and you can just use a little bit of it and it foams up fast.",
+                        "My husband likes this antidandruff shampoo because it is a 2 in 1 product. Much easier to pack when he is traveling and only needs one bottle instead of one for shampoo and one for conditioner. Found that the product does make red stains on our white tile in our shower. It is easy to scrub off but frustrating non the less to have this happen. It is very effective in reducing dandruff and has a nice scent. The only product he will use for shampooing his hair.",
+                        "The Selsun Blue Medicated Antidandruff shampoo has been a reliable solution for my dandruff problems! From the first use, I noticed a significant reduction in flakes, and my scalp feels healthier and more comfortable. I appreciate that it targets irritation while keeping my hair looking and feeling great. The formula is effective without being harsh, which is something I really value in any hair care product. Overall, I highly recommend Selsun Blue for anyone struggling with dandruff. Itâs a great choice that delivers on its promises!",
+                        "I didn't buy this for dandruff but for the itchy scalp relief. Every other shampoo I used made my head itch, the best I can figure is this does not have Sodium Laurel Sulfate. I have no clue what that is but it seems to be the cause of the itching. This leaves my hair and scalp feeling good. After a few minutes it starts to tingle, thats the sign I use to rinse it out. It also works well on my beard .",
+                        "Iâve tried a bunch of dandruff shampoos and this one actually works. After just a couple washes, my scalp felt way less itchy and the flakes were noticeably better. The smell is kind of âmedicatedâ but not terrible, and it doesnât linger too long. It also doesnât dry out my hair as much as I expected. I use it 2â3 times a week and it keeps my scalp under control. Definitely a solid go-to if you deal with dandruff."
+                    ],
+                    "negative_reviews": [
+                        "Excellent item to clear up your skin! This shampoo clears up dandruff or dermatitis (oily skin, redness), but I wish it had more of a \"tingle\" while using. I use it all over my body and it works well!",
+                        "I love these Selsun blue shampoos. I first tried using them for my dog for itchy skin in the summer when he had hotspots and seasonal allergies and it has been with us for years since then. When I developed some seborhea-like scabs on my scalp I knew what to reach for. And guess what - it worked great! I actually introduced this shampoo into my regular routine so that my dry scalp does not come back. It is healing but not drying my scalp and it is amazing for my dogs skin as well. tough for healing but gentle on the skin. Also the consistency is really nice and thick and you can just use a little bit of it and it foams up fast.",
+                        "My husband likes this antidandruff shampoo because it is a 2 in 1 product. Much easier to pack when he is traveling and only needs one bottle instead of one for shampoo and one for conditioner. Found that the product does make red stains on our white tile in our shower. It is easy to scrub off but frustrating non the less to have this happen. It is very effective in reducing dandruff and has a nice scent. The only product he will use for shampooing his hair.",
+                        "The Selsun Blue Medicated Antidandruff shampoo has been a reliable solution for my dandruff problems! From the first use, I noticed a significant reduction in flakes, and my scalp feels healthier and more comfortable. I appreciate that it targets irritation while keeping my hair looking and feeling great. The formula is effective without being harsh, which is something I really value in any hair care product. Overall, I highly recommend Selsun Blue for anyone struggling with dandruff. Itâs a great choice that delivers on its promises!",
+                        "I didn't buy this for dandruff but for the itchy scalp relief. Every other shampoo I used made my head itch, the best I can figure is this does not have Sodium Laurel Sulfate. I have no clue what that is but it seems to be the cause of the itching. This leaves my hair and scalp feeling good. After a few minutes it starts to tingle, thats the sign I use to rinse it out. It also works well on my beard ."
+                    ]
+                }
+            },
+            {
+                "period": "2026-02",
+                "reviews": 49,
+                "average_rating": 4.898,
+                "average_sentiment": 0.974,
+                "cluster_distribution": {
+                    "9": 0.49,
+                    "0": 0.306,
+                    "2": 0.082,
+                    "3": 0.041,
+                    "1": 0.041,
+                    "5": 0.041
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "When my scalp decided it wanted to be extremely sensitive and dry, I was lost. I had always just used whatever shampoos I wanted. Now, I canât use anything other than this. I tried head and shoulders, didnât work. I also tried the ânaturalsâ version of this due to the ingredients being more natural than this one, but it didnât work at all. I also tried the medicated version and decided this one worked better for me. This one works AMAZING! After trying different kinds, this one heals my scalp up and takes away the itchiness within 2 uses. It doesnât make my hair oily at all, I like to wash my hair once to twice a week and with this one I can easily. It does have a strong scent but itâs not a bad scent to me so I donât mind it, plus it works so well I can use any conditioner I want, so I just get a good smelling conditioner! Honestly I donât care about how much is in the bottle for the price, because I would buy this stuff no matter the cost, but it is actually a great value due to the fact you donât have to use a lot for it to work! If you have severe dry scalp, THIS is the shampoo for you!!!",
+                        "I have tried many dandruff shampoos over the years, but Selsun Blue Medicated Antidandruff Shampoo, Maximum Strength Scalp Treatment has become a reliable part of my routine because it truly works. The biggest improvement I notice is how much better my scalp feels. It helps prevent dryness, itching, and flakes, which makes a noticeable difference day to day. What I especially like is how I use it. I treat this as the first step in my hair care process. I apply Selsun Blue at the beginning of my shower, let it sit briefly, and rinse it out before using my regular shampoo and conditioner. This method works well because it addresses scalp concerns while still allowing me to use my preferred products for the rest of my hair. Even though this is a medicated shampoo, it feels gentle and comfortable to use. My scalp feels clean, balanced, and refreshed after each wash, without any discomfort. With regular use, it helps maintain a healthy scalp and keeps flakes under control. If you deal with dandruff or an itchy scalp, this is a great product to add to your routine. It is easy to use, effective, and fits seamlessly into a normal shower routine. For me, it is an excellent first step toward better overall hair care.",
+                        "I tried Selsun Blue 2-in-1 Antidandruff Shampoo & Conditioner (Maximum Strength) because I was looking for something stronger than typical drugstore dandruff shampoos, and overall it lived up to the treatment claims â with a few trade-offs. Right from the first wash, I noticed it felt more therapeutic than most ordinary shampoos. The scent isnât as alluring as regular hair products, but it has a clean, medicinal note that actually feels like itâs working. During the first couple of uses, my scalp felt less itchy and tight â a nice change if youâre used to flaky, irritated spots. The 2-in-1 formula is convenient. It lathers like a shampoo but also rinses out smoother than some other heavy dandruff washes, so my hair didnât feel overly stripped afterward. I didnât need to follow up with a separate conditioner, which saves time and keeps the shower routine simple. On the âmaximum strengthâ effectiveness, it definitely performed better than most budget drugstore options Iâve used. I saw a reduction in visible flakes after just a few washes, which is impressive for a product at this price point.",
+                        "Selsun Blue Moisturizing Anti-Dandruff Shampoo has worked incredibly well for me. After just a few washes, I noticed a big reduction in flakes and scalp itching. The selenium sulfide formula is very effective, especially if youâve struggled with stubborn dandruff. What I really like about this version is the added aloe, it helps keep my scalp from feeling dry, which can happen with some medicated shampoos. My hair feels clean, soft, and not stripped after rinsing. A little goes a long way, and the 3-pack is a great value since it lasts a long time. I use it a few times a week and have seen consistent results. If you deal with dandruff, scalp irritation, or flaking, this shampoo is definitely worth trying. Reliable, effective, and gentle enough to use regularly. Highly recommend!",
+                        "Iâve tried many anti-dandruff shampoos, but this one truly stands out. After just a few uses, I noticed a huge difference in my scalp. The itching and flakes were significantly reduced, and my hair felt clean and refreshed. ð§´ðââï¸ It has a strong medicated formula, but it works fast and effectively. A little goes a long way, and the 11 oz bottle lasts a good amount of time. I also love that it leaves my scalp feeling healthy without over-drying my hair. If you struggle with stubborn dandruff, this is definitely worth trying. Highly recommend! ð"
+                    ],
+                    "negative_reviews": [
+                        "This a great shampoo it helps with my dandruff.It also helps with my itching in of the hair.I will be recommending this to my relatives.",
+                        "When my scalp decided it wanted to be extremely sensitive and dry, I was lost. I had always just used whatever shampoos I wanted. Now, I canât use anything other than this. I tried head and shoulders, didnât work. I also tried the ânaturalsâ version of this due to the ingredients being more natural than this one, but it didnât work at all. I also tried the medicated version and decided this one worked better for me. This one works AMAZING! After trying different kinds, this one heals my scalp up and takes away the itchiness within 2 uses. It doesnât make my hair oily at all, I like to wash my hair once to twice a week and with this one I can easily. It does have a strong scent but itâs not a bad scent to me so I donât mind it, plus it works so well I can use any conditioner I want, so I just get a good smelling conditioner! Honestly I donât care about how much is in the bottle for the price, because I would buy this stuff no matter the cost, but it is actually a great value due to the fact you donât have to use a lot for it to work! If you have severe dry scalp, THIS is the shampoo for you!!!",
+                        "I have tried many dandruff shampoos over the years, but Selsun Blue Medicated Antidandruff Shampoo, Maximum Strength Scalp Treatment has become a reliable part of my routine because it truly works. The biggest improvement I notice is how much better my scalp feels. It helps prevent dryness, itching, and flakes, which makes a noticeable difference day to day. What I especially like is how I use it. I treat this as the first step in my hair care process. I apply Selsun Blue at the beginning of my shower, let it sit briefly, and rinse it out before using my regular shampoo and conditioner. This method works well because it addresses scalp concerns while still allowing me to use my preferred products for the rest of my hair. Even though this is a medicated shampoo, it feels gentle and comfortable to use. My scalp feels clean, balanced, and refreshed after each wash, without any discomfort. With regular use, it helps maintain a healthy scalp and keeps flakes under control. If you deal with dandruff or an itchy scalp, this is a great product to add to your routine. It is easy to use, effective, and fits seamlessly into a normal shower routine. For me, it is an excellent first step toward better overall hair care.",
+                        "I tried Selsun Blue 2-in-1 Antidandruff Shampoo & Conditioner (Maximum Strength) because I was looking for something stronger than typical drugstore dandruff shampoos, and overall it lived up to the treatment claims â with a few trade-offs. Right from the first wash, I noticed it felt more therapeutic than most ordinary shampoos. The scent isnât as alluring as regular hair products, but it has a clean, medicinal note that actually feels like itâs working. During the first couple of uses, my scalp felt less itchy and tight â a nice change if youâre used to flaky, irritated spots. The 2-in-1 formula is convenient. It lathers like a shampoo but also rinses out smoother than some other heavy dandruff washes, so my hair didnât feel overly stripped afterward. I didnât need to follow up with a separate conditioner, which saves time and keeps the shower routine simple. On the âmaximum strengthâ effectiveness, it definitely performed better than most budget drugstore options Iâve used. I saw a reduction in visible flakes after just a few washes, which is impressive for a product at this price point.",
+                        "Selsun Blue Moisturizing Anti-Dandruff Shampoo has worked incredibly well for me. After just a few washes, I noticed a big reduction in flakes and scalp itching. The selenium sulfide formula is very effective, especially if youâve struggled with stubborn dandruff. What I really like about this version is the added aloe, it helps keep my scalp from feeling dry, which can happen with some medicated shampoos. My hair feels clean, soft, and not stripped after rinsing. A little goes a long way, and the 3-pack is a great value since it lasts a long time. I use it a few times a week and have seen consistent results. If you deal with dandruff, scalp irritation, or flaking, this shampoo is definitely worth trying. Reliable, effective, and gentle enough to use regularly. Highly recommend!"
+                    ]
+                }
+            },
+            {
+                "period": "2026-03",
+                "reviews": 46,
+                "average_rating": 4.565,
+                "average_sentiment": 0.891,
+                "cluster_distribution": {
+                    "9": 0.717,
+                    "0": 0.13,
+                    "2": 0.109,
+                    "8": 0.022,
+                    "1": 0.022
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Iâve been to the dermatologist, tried prescriptions, and used plenty of fancy shampoos. Somehow, this simple sulfur shampoo works better than anything else for my scalp. Quick facts about my experience: â¢ Psoriasis control: No itch, no flakes. I wear black constantly, and my shoulders stay snow-free. â¢ The smell: Yes, it smells medicinal. Think âdog shampoo at the vet.â Worth it. â¢ Hair type: I have 3C curls and naturally dry hair. It doesnât dry my hair out any more than a typical shampoo. â¢ Bonus benefit: The sulfur also helps calm acne around my hairline. â¢ My routine: I use it 6 days a week, then follow with KÃ©rastase conditioner, which makes my hair smell amazing. Iâve been using this shampoo for about 5 years, and itâs still my main one. Once a week, I switch to purple shampoo for my gray, but this is my daily driver. Bottom line: Dermatologist prescriptions didnât solve my scalp. This did.",
+                        "My doctor described me to use Selsun Blue as body soap due to me getting a skin infection. At the time we couldn't tell if I was having an allergic reaction or not. And I have to say this stuff works wonders. I love the smell of this and it doesn't break irritate my skin as I have eczema. Easily worth the money!",
+                        "It feels so nice on scalp. Very cool and the smell is minty and fresh. Gives a good cleanse and my itch goes away after using it. My only issue was itching not dandruff so I cannot comment on the dandruff part. I double cleanse so using this is the second step. The color is ominously blue though.",
+                        "Every winter my scalp begins to flake. I tried Selsun Blue Moisturizing Shampoo, and it helps control the flaking. This shampoo makes my hair feel silkier after use. I am so use to the typical dandruff shampoo that I was surprised at how pleasant this one smells. It's well worth a try.",
+                        "This shampoo actually worked for my scalp dryness/flakes. I can see my natural scalp again. Doesnât feel itchy and felt clean longer. Make sure to shake bottle before using as it activates the suds otherwise it wonât lather enough."
+                    ],
+                    "negative_reviews": [
+                        "Selsun Blue Itchy Dry Scalp Shampoo seems to work like any other dandruff shampoo. Nothing special. Still have noticeable flakes. Arrived on time. Smell is OK.",
+                        "I bought this shampoo last year because my dermatologist recommended it. I was going through a period of dermatitis and had a lot of dandruff and sores on my scalp, in addition to losing a lot of hair. And this shampoo changed everything. Now I only use it once a week, but my dermatitis hasn't returned since the treatment. I really recommend it if you're going through something similar. The only thing that's a little annoying, and that's why I gave it 4 stars, is the mineral smell that lingers in your hair once it's dry, but it's a minor detail that doesn't change my opinion of its results.",
+                        "This works well for my daughter, who has straight, fine-ish, oily hair, but terrible for me, who has coarse, dry, curly hair. It has a not-unpleasant, medicinal smell and it really does take care of any flakes. It's also reasonably priced and a bottle lasts a long time. if you have the right hair type and dandruff, this stuff is great.",
+                        "Iâve been to the dermatologist, tried prescriptions, and used plenty of fancy shampoos. Somehow, this simple sulfur shampoo works better than anything else for my scalp. Quick facts about my experience: â¢ Psoriasis control: No itch, no flakes. I wear black constantly, and my shoulders stay snow-free. â¢ The smell: Yes, it smells medicinal. Think âdog shampoo at the vet.â Worth it. â¢ Hair type: I have 3C curls and naturally dry hair. It doesnât dry my hair out any more than a typical shampoo. â¢ Bonus benefit: The sulfur also helps calm acne around my hairline. â¢ My routine: I use it 6 days a week, then follow with KÃ©rastase conditioner, which makes my hair smell amazing. Iâve been using this shampoo for about 5 years, and itâs still my main one. Once a week, I switch to purple shampoo for my gray, but this is my daily driver. Bottom line: Dermatologist prescriptions didnât solve my scalp. This did.",
+                        "My doctor described me to use Selsun Blue as body soap due to me getting a skin infection. At the time we couldn't tell if I was having an allergic reaction or not. And I have to say this stuff works wonders. I love the smell of this and it doesn't break irritate my skin as I have eczema. Easily worth the money!"
+                    ]
+                }
+            },
+            {
+                "period": "2026-04",
+                "reviews": 61,
+                "average_rating": 4.623,
+                "average_sentiment": 0.906,
+                "cluster_distribution": {
+                    "9": 0.459,
+                    "0": 0.279,
+                    "2": 0.098,
+                    "8": 0.049,
+                    "5": 0.049,
+                    "3": 0.033,
+                    "1": 0.033
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I love these Selsun blue shampoos. I first tried using them for my dog for itchy skin in the summer when he had hotspots and seasonal allergies and it has been with us for years since then. When I developed some seborhea-like scabs on my scalp I knew what to reach for. And guess what - it worked great! I actually introduced this shampoo into my regular routine so that my dry scalp does not come back. It is healing but not drying my scalp and it is amazing for my dogs skin as well. tough for healing but gentle on the skin. Also the consistency is really nice and thick and you can just use a little bit of it and it foams up fast.",
+                        "I only used this once. I am not sure about the smell itâs definitely sulfur smell. But i normally have a itchy burn scalp after i wash and it did not happen. I dont see any flakes after use. I will say i am white with 3b curly hair that is normally super dry. I have been on a hunt for a dandruff shampoo that will not dry out my curls. I came across this name in a thread on ethnic hair and so far i am glad i tried it.",
+                        "After using this shampoo, I can say that it is a very effective option for combating dandruff without damaging the hair. Unlike other products that leave hair dry, this one contains moisturizing aloe that helps keep it soft and manageable. A highly effective, reliable, and balanced shampooâideal for those looking to eliminate dandruff without drying out their hair. Perfect for regular use if you experience flaking or itching.",
+                        "I bought this shampoo for my boyfriend because he has dandruff and itching. I also had the same problem, and this shampoo helped me a lot. After just a few uses, I noticed a big difference. I highly recommend it 100%.",
+                        "I use Selsun to help manage my pretty severe dandruff breakouts. This is the only over the counter brand I use because I've had success in managing my out of control dandruff with it."
+                    ],
+                    "negative_reviews": [
+                        "I have used this product for at least 30 years. They just recently changed the formula and the scent. I DO NOT like the new scent. I do not feel that the new formula controls dandruff or affects the conditioning my hair. My scalp is constantly itching. Even the color of the shampoo has changed from orange to a bluish-greenish color.",
+                        "The shampoo is quite good, it does what it's supposed to do, BUT it smells a little strange, like medicinal mint, and that smell lasts all day",
+                        "I love these Selsun blue shampoos. I first tried using them for my dog for itchy skin in the summer when he had hotspots and seasonal allergies and it has been with us for years since then. When I developed some seborhea-like scabs on my scalp I knew what to reach for. And guess what - it worked great! I actually introduced this shampoo into my regular routine so that my dry scalp does not come back. It is healing but not drying my scalp and it is amazing for my dogs skin as well. tough for healing but gentle on the skin. Also the consistency is really nice and thick and you can just use a little bit of it and it foams up fast.",
+                        "I only used this once. I am not sure about the smell itâs definitely sulfur smell. But i normally have a itchy burn scalp after i wash and it did not happen. I dont see any flakes after use. I will say i am white with 3b curly hair that is normally super dry. I have been on a hunt for a dandruff shampoo that will not dry out my curls. I came across this name in a thread on ethnic hair and so far i am glad i tried it.",
+                        "After using this shampoo, I can say that it is a very effective option for combating dandruff without damaging the hair. Unlike other products that leave hair dry, this one contains moisturizing aloe that helps keep it soft and manageable. A highly effective, reliable, and balanced shampooâideal for those looking to eliminate dandruff without drying out their hair. Perfect for regular use if you experience flaking or itching."
+                    ]
+                }
+            },
+            {
+                "period": "2026-05",
+                "reviews": 74,
+                "average_rating": 4.919,
+                "average_sentiment": 0.98,
+                "cluster_distribution": {
+                    "9": 0.527,
+                    "0": 0.216,
+                    "1": 0.135,
+                    "8": 0.081,
+                    "2": 0.027,
+                    "4": 0.014
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I kind of wish Selsun Blue would drop the \"dry itchy scalp\" branding, because this is not a shampoo for a dry scalp. This is a shampoo for intense oil and buildup. A combination of genetics and prescriptions that I take make my skin/hair extremely oily. This is the only shampoo I've found that really gets rid of the plaques of greasy dead scalp skin and completely breaks down the oil on my scalp and stops the redness and itching. It doesn't make my hair feel dry or tangled after using. I use an intense moisturizer conditioner afterward and I don't feel that I need to use a leave-in conditioner, hair oil, or other products to moisturize my hair. I don't bleach or style my hair with heat though, so YMMV. It smells a little different now that they've changed the formula, and I don't know if I like the new formula as much overall, but it's still the best and the most affordable. I miss the transparent blue bottle.",
+                        "Over the winter, I had a case of very intense dandruff. I was on the market for something that would help my dandruff, and after reading the reviews for this product, I decided to give it a shot. It's works insanely well! Not only that it leave my head feeling tingly and minty (in other words, feeling super clean), but I definitely noticed a decrease in dandruff. I became less self-conscious when out in public, knowing that I didn't have to worry about dandruff on my clothes or falling out whenever I would exercise. I will say, though, that you should not use this product on a daily basis/every time you're showering. It's a pretty intense medication, so it can leave your hair feeling very dry if you use it too often. I didn't know this, and so I got to a point where my hair was feeling very crispy. I just wanted to make this disclaimer, but overall, it's an affordable product that gets the job done!",
+                        "I usually never review a product but this deserves it .... I don't know if I had dandruff or just product build up so I didn't think that this product would help me but to my surprise it very much did! I had like a 2 inch perimeter of flaky scalp that I would just scrape off with a comb allll the time and I would never understand why. Was it dry scalp? Was it dandruff? Was it product build up ? No clue but I bought this in November of 2025 and I still use it til this day and it has worked wonders. I shampoo with this twice and then go in with a deep conditioner and then conditioner and it has worked great for my fine 3B curly hair!!! Literally saved me I couldn't even brush my hair without flakes showing up but now there's no problem at all.",
+                        "Wow! I've tried the central oil, teatree no fraction any coconut oil, all kinds of shampoos, then on youtube watch dermatologist talk about what causes patches on scalps. He recommended four different shampoos and i chose this one! I tried it for the fist time today and honestly it kind of stung, but after my hair dried i lightly ran my fingers over my drive spots and felt a smoothness and my spots were no longer dry or had these patches of scaly roughness.. i will wash my hair ahain in 3 days and see between now and then and if it continues to get better. I also bought a handheld shower head with softwater beads in the candle because my water is very hard. Hopefully between these two things ill achieve my goal of having a normal scalp again..",
+                        "This helps my itchy scalp. The only Selsun Blue shampoo that does. I have tried the other but they make matters worse. I use regular shampoo and wash my hair 5 times a week. Overdrying is probably the cause of my itchy scalp but it's what it takes to keep my hair clean and oil-free, so not washing often is not an option for my kind of hair. If I skip a day or two without washing, my scalp starts to itch and get flakey. I use Selsun 2 x a week to control that itchiness and the flakes. And this is the only one I have been using for years as it's effective and cheaper than Nizarol."
+                    ],
+                    "negative_reviews": [
+                        "So I was recommend this product all over the internet because I have those little white spots on my skin to rid my skin of those, but it didnât work. The top % 2 was the highly recommended on to get but you canât find that any where to buy., so everyone had to use this % one but it takes longer, it unfortunately didnât work after using it for 2 months and I smelled like menthol every night.",
+                        "I started using this shampoo about few weeks ago after dealing with stubborn dandruff that just would not go away. The product definitely works for clearing up flakes and reducing the itching on my scalp. After just two washes I noticed real improvement which was encouraging. The medicated formula contains selenium sulfide and it does what it claims to do. My scalp feels cleaner and the embarrassing white flakes on my shoulders are mostly gone now. I appreciate that a little bit of product goes a long way so the bottle should last me several months. However, there are some things that keep this from being perfect. The smell is very strong and medicinal. It has that menthol scent which reminds me of being in a pharmacy. While the smell does not linger too much after rinsing, it can be a bit overwhelming during the shower itself. Another issue is that I need to use a good conditioner after every wash because the shampoo can leave my hair feeling a bit dry and stiff. Without conditioner my hair looks dull and feels rough to the touch. I also noticed that my hair seems slightly more brittle than before I started using it. The price is reasonable and the bottle size is decent. I only use it twice per week as recommended and alternate with my regular shampoo on other days. This helps prevent too much dryness while still keeping the dandruff under control",
+                        "Iâve been using this for about a month now. I used it once a week, and another shampoo once a week as well, so basically alternating between two shampoos. Honestly, the results were amazing when it comes to dandruff. It completely cleared it, which I was really impressed with. The only downside for me was how drying it is. My hair felt very dry, and even my scalp felt kind of dry too. So overall, itâs definitely effective and does what itâs supposed to do, but just be aware that it can be a bit harsh if you use it regularly.",
+                        "Always use a good organic conditioner. As with most sulfur based shampoos, it can dry the hair out. I wouldn't use it everyday.",
+                        "I kind of wish Selsun Blue would drop the \"dry itchy scalp\" branding, because this is not a shampoo for a dry scalp. This is a shampoo for intense oil and buildup. A combination of genetics and prescriptions that I take make my skin/hair extremely oily. This is the only shampoo I've found that really gets rid of the plaques of greasy dead scalp skin and completely breaks down the oil on my scalp and stops the redness and itching. It doesn't make my hair feel dry or tangled after using. I use an intense moisturizer conditioner afterward and I don't feel that I need to use a leave-in conditioner, hair oil, or other products to moisturize my hair. I don't bleach or style my hair with heat though, so YMMV. It smells a little different now that they've changed the formula, and I don't know if I like the new formula as much overall, but it's still the best and the most affordable. I miss the transparent blue bottle."
+                    ]
+                }
+            },
+            {
+                "period": "2026-06",
+                "reviews": 55,
+                "average_rating": 4.873,
+                "average_sentiment": 0.968,
+                "cluster_distribution": {
+                    "9": 0.564,
+                    "0": 0.255,
+                    "1": 0.091,
+                    "8": 0.055,
+                    "2": 0.036
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Here's what makes this product the best of all. I have used many other sulfur based shampoos, and they are all the same - the sulfur separates and settles to the bottom. No matter how much you shake the bottle, or store it upside down, or whatever, it still separates and when you get to the bottom you have a yellow MESS! This product is thick, which some people complain about. Hey folks, this is what makes it so good! I'm at the bottom of the bottle now, and it's still the same blue and has worked the same throughout the bottle, no separation at all. I put a pump in the bottle (from an old bottle of lotion), so it's easy to dispense. I just hope I can continue to purchase this product since it's the only one that keeps my itchy flaky scalp in check. Of course, sulfur products don't smell all that well, and can sometimes dry out your hair, but the smell goes away quickly, and I can use conditioner. Also, now that my symptoms are in check I don't have to use it every time I shampoo. No one asked for my review, and I got nothing in return. Didn't want anything, just wanted everyone to know what a great product this is.",
+                        "Iâve been using this Selsun Blue Medicated Shampoo for months now, and have been very satisfied with the results. My cousin recommended it to me. I had severely itchy scalp and could not wear protective styes due to thick uncomfortable flakes on my scalp. It lathers well, leaves my hair feeling extra clean, and has helped reduce the appearance of flakes on my scalp. I have 4C hair and every time I use this shampoo my curl pattern look so defined and cute ð¥°. This formula feels refreshing, and a little goes a long way. Overall, itâs become a regular part of my hair care routine, and I am on my 4th bottle now and have 3 extra backups waiting to be used. Iâm hooked on these for sure â¾ï¸",
+                        "Honestly, my dandruff wasn't bad but I think I had a yeast or fungal situation going on. I just couldn't stand the smell of my hair. Head and Shoulders, Ketokanzole, and tea tree shampoo did not work. THIS DID. If youre worried about it drying your hair out, just focus it on your scalp. Leave it sit for 5 minutes. It's the only thing that has worked for me.",
+                        "Got this for my boyfriend who has huge issue with his scalp. His head looks like a strawberry in a bad way. We have tried many type of shampoo (including head and shoulders etc...). This is the only shampoo that works for him and within a few use, you can see the results. I am not letting him change shampoo ever again.",
+                        "Ive used this product for literally 50 years. Participated as a teen in the testing of the product when it came to market as a way to lessen Acne/Oil on face. It is absolutely effective as an anti dandruff shampoo. I love the Aloe version. Would give it 10 stars if I could"
+                    ],
+                    "negative_reviews": [
+                        "I actually used this product when I was jail & was surprised something like that cured my hair after a lifetime of finding dandruff products that work. It was so good, I ordered it when I was released. Unfortunately, like jails, they didnât give me the ingredient information, which led me to believe that it was all safe. I donât like products that say warning for a/or cancer product(s), especially, if I wanted to use this product for the rest of my life. I hope it doesnât give me cancer though. I will do more research on Selenium Sulfide. In the state of CA, it is a cancer causing agent & is banned over there, which is sort of concerning to me. Overall, the product leaves my hair dry but does help cure the dandruff/patches. I always use a little bit of conditioner (any but preferably a dandruff one) to help the dryness of the shampoo. The smell is a bit of a strong medicine smell, which is how you know itâs getting the job done. I would give this product five stars if it wasnât for the, most importantly, cancer causing agent & dryness of hair after use! I am still using the shampoo!",
+                        "Iâve used this shampoo many years ago go when I had dandruffs and the smell of the shampoo wasnât the best. But after one use my dandruff problem was gone. Now this one has a nice smell but it doesnât work like it used to. Iâve used it 3 times and I still have dry itchy scalp. Not as much as before but it did not get rid of the problem. Wish they kept the old formula.",
+                        "Works as well as the Selsun Blue with the red cap (Medicated Maximum Strength) which is the one I buy normally. I was surprised that this shampoo wasn't blue. It's a peachy orange...like orange sherbet or mango smoothie. And didn't have the menthol smell that I like...instead, it smells ambiguously florally-fruity. It's not an annoying or overpowering scent. It's very clean. But you can still smell the sulfur from the active ingredient. Unlike other reviewers, I love the blue color, menthol scent, and tingly sensation of the Selsun Blue Medicated Maximum Strength shampoo, so I was disappointed that this was different than what I was used to. After using it a bit more, I do like that this is not as drying as the maximum strength. And even though it is not maximum strength, it works just as well and it helps me keep my stress eczema (on my scalp) under control. I almost have no flair ups now as long as I use this shampoo a couple times a week. Just massage it onto your scalp and let it sit there for a few minutes before rinsing out. If you don't like the menthol fragrance or the minty/tingly sensation from the other Selsun shampoo, but you still need to use medicated shampoo, give this one a try! NOTE: My dog gets the occasional dermatitis flair up and I use this on him as well. It works on dogs, too. Just keep it away from their face and eyes.",
+                        "Here's what makes this product the best of all. I have used many other sulfur based shampoos, and they are all the same - the sulfur separates and settles to the bottom. No matter how much you shake the bottle, or store it upside down, or whatever, it still separates and when you get to the bottom you have a yellow MESS! This product is thick, which some people complain about. Hey folks, this is what makes it so good! I'm at the bottom of the bottle now, and it's still the same blue and has worked the same throughout the bottle, no separation at all. I put a pump in the bottle (from an old bottle of lotion), so it's easy to dispense. I just hope I can continue to purchase this product since it's the only one that keeps my itchy flaky scalp in check. Of course, sulfur products don't smell all that well, and can sometimes dry out your hair, but the smell goes away quickly, and I can use conditioner. Also, now that my symptoms are in check I don't have to use it every time I shampoo. No one asked for my review, and I got nothing in return. Didn't want anything, just wanted everyone to know what a great product this is.",
+                        "Iâve been using this Selsun Blue Medicated Shampoo for months now, and have been very satisfied with the results. My cousin recommended it to me. I had severely itchy scalp and could not wear protective styes due to thick uncomfortable flakes on my scalp. It lathers well, leaves my hair feeling extra clean, and has helped reduce the appearance of flakes on my scalp. I have 4C hair and every time I use this shampoo my curl pattern look so defined and cute ð¥°. This formula feels refreshing, and a little goes a long way. Overall, itâs become a regular part of my hair care routine, and I am on my 4th bottle now and have 3 extra backups waiting to be used. Iâm hooked on these for sure â¾ï¸"
+                    ]
+                }
+            },
+            {
+                "period": "2026-07",
+                "reviews": 172,
+                "average_rating": 4.331,
+                "average_sentiment": 0.833,
+                "cluster_distribution": {
+                    "9": 0.552,
+                    "0": 0.203,
+                    "2": 0.093,
+                    "8": 0.07,
+                    "1": 0.052,
+                    "5": 0.023,
+                    "4": 0.006
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Selsun Blue Dandruff Control Shampoo with Conditioner has clearly made a significant impact on managing your dandruff concerns, a testament to its effectiveness for those with persistent scalp issues. Your experience suggests that even without a formal diagnosis, possibly of eczema, this medicated shampoo has provided reliable relief where other brands have been part of your regimen, such as Head and Shoulders. The recommendation to use just a dime-sized amount daily underlines the product's efficiency and helps justify the cost, despite its smaller size compared to other options. Your approach to hair washing, balancing the need to manage oiliness with the advice against daily shampooing, is a common dilemma. Particularly for those with longer hair that tends to get oily, the temptation to wash more frequently is understandable. It's noteworthy that Selsun Blue not only addresses dandruff but also contributes to your hair feeling beautiful, dry, and voluminous. This dual benefit of controlling dandruff while enhancing hair's aesthetic qualities, even in the face of challenges like oiliness and styling habits, highlights Selsun Blue's value in your hair care routine. Your practical insights into managing dandruff with Selsun Blue, alongside other brands for variety, offer a helpful perspective for anyone struggling with similar issues. It serves as a reminder that finding the right hair care product can involve trial, personalization, and sometimes, balancing effectiveness with frequency of use and cost.",
+                        "I tried Selsun Blue 2-in-1 Antidandruff Shampoo & Conditioner (Maximum Strength) because I was looking for something stronger than typical drugstore dandruff shampoos, and overall it lived up to the treatment claims â with a few trade-offs. Right from the first wash, I noticed it felt more therapeutic than most ordinary shampoos. The scent isnât as alluring as regular hair products, but it has a clean, medicinal note that actually feels like itâs working. During the first couple of uses, my scalp felt less itchy and tight â a nice change if youâre used to flaky, irritated spots. The 2-in-1 formula is convenient. It lathers like a shampoo but also rinses out smoother than some other heavy dandruff washes, so my hair didnât feel overly stripped afterward. I didnât need to follow up with a separate conditioner, which saves time and keeps the shower routine simple. On the âmaximum strengthâ effectiveness, it definitely performed better than most budget drugstore options Iâve used. I saw a reduction in visible flakes after just a few washes, which is impressive for a product at this price point.",
+                        "Finally, a dandruff shampoo that doesnât dry out my hair! âI have been using Selsun Blue for Dry Scalp for a few weeks now, and it has completely transformed my hair routine. Most dandruff shampoos leave my hair feeling like straw, but this formula is different. âPros: âEffective Flake Control: It eliminated my dandruff and relieved scalp itchiness after just a few uses. âHydrating Formula: My hair feels soft, moisturized, and manageable, which is rare for a medicated shampoo. âGreat Scent: Unlike other clinical shampoos, this one actually smells fresh and clean. âCons: âYou need to make sure to rinse it out thoroughly, as it is quite rich. âOverall, it delivers exactly what it promises. Highly recommended for anyone struggling with a dry scalp who still wants soft hair!",
+                        "I have been using a very popular brand (Head&S) and had no good result, it was getting worst every day. Then I tried two products here at Amazon, one is Nizoral A-D Anti-Dandruff Shampoo that I use once or twice a week and this one Selsun Blue Medicated Drandruff Shampoo... I won't use H&S again, this has worked perfect, now I can get my hair cut, people can now touch my hair without me feeling bad about it, my black t-shirt now does not have white spots on it... really amazing! Also my face and hair feel cleaner and not grease. Can't believe I have been using other things for years (since I was kid) and had no result, and this thing took just three days to solve it!",
+                        "I've finally broken up with the clingy dandruff on my scalp. Before I found Selsum Blue, my sscalp is very itchy. It's embarassing to scratch or to even touch may hair in public due to worry dandruff might show up on the top of my head or if I'm wearing black. The first time using this shampoo, the coolness on my scalp gave me relief. I felt hope this is it. Selsum blue is the one. I'm right. Very effective in eliminating dandruff. I found the blue shampoo color calming. It doesn't leave my scalp dry but it did change how confident I am now with my scalp and hair. It is worth it! It's Selsum Blue shampoo and conditioner and I highly recommend!"
+                    ],
+                    "negative_reviews": [
+                        "When I had trouble finding this product in my local grocery stores, I purchased is through Amazon. The bottle came as expected...the ubiquitous blue color...and I expected the shampoo to have the same, deep blue color. It's been like this for decades. But the color of this \"new\" version is peachy-cream, and it was a disappointment. But, we could live with this, thinking that maybe the blue dye is not good for the planet. What we find obnoxious, however, is the odor of this product. SULPHUR foulness permeates the shower while shampooing, and it sticks to everything. PLUS, there's no pleasant tingling sensation. Both the smell and tingling came from the menthol infused in this product. We'll be looking for a similar product from a different company from now on.",
+                        "Selsun has completely redesigned this product and it is basically something all-new in the old packaging. The new version is green, not tan and stinks horribly. It is also terrible at cleaning your hair leaves it feeling as it had never been washed at all. If it could be retuned I would have done so but sadly this product is not eligible for returns. I tried calling Selsun customer support but it has been moved overseas and of course they can't do anything. I highly recommend buying the regular Selsun Blue or considering other products instead.",
+                        "I really liked the old orange formula of Selsun Blue 2-in-1 â it worked great for my dandruff and had a unique scent I didnât mind. Unfortunately, theyâve changed it to a blue formula now, and it smells just like all the other Selsun Blue products, which I find unpleasant. The new scent is a big downside for me, and it doesnât feel quite the same. Still effective, but I miss the old version.",
+                        "I donât recommend as it stinks,and then after a very wash after my hair dried I instantly saw dandruff. Other products kept dandruff away for at least a couple days but this just didn't work at all and to top it off with itâs awful smell I recommend not using your towel to dry your hair when using this shampoo unless u want it to stink even after wash.",
+                        "I've used this for 15+years and liked it when it was the \"orang-ish\" color and scent. This new blue color \"cleaner\" forumula with the supposedly \"better\" scent smells terrible to me - like Baby Powder and not in a pleasant way. Makes me want to stop using it and find an alternative. Why Selsun? Why change it after so long?"
+                    ]
+                }
+            }
+        ],
+        "review_volume": {
+            "current": 227,
+            "previous": 135,
+            "change_pct": 68.15
+        },
+        "rating": {
+            "current": 4.462,
+            "previous": 4.785,
+            "change": -0.323
+        },
+        "sentiment": {
+            "current": 0.866,
+            "previous": 0.947,
+            "change": -0.081
+        },
+        "emerging_clusters": [
+            {
+                "cluster": 9,
+                "share": 0.558,
+                "change": 0.065
+            },
+            {
+                "cluster": 2,
+                "share": 0.065,
+                "change": 0.002
+            },
+            {
+                "cluster": 8,
+                "share": 0.062,
+                "change": -0.003
+            },
+            {
+                "cluster": 4,
+                "share": 0.003,
+                "change": -0.004
+            },
+            {
+                "cluster": 1,
+                "share": 0.071,
+                "change": -0.013
+            }
+        ],
+        "declining_clusters": [
+            {
+                "cluster": 0,
+                "share": 0.229,
+                "change": -0.018
+            },
+            {
+                "cluster": 3,
+                "share": 0,
+                "change": -0.017
+            },
+            {
+                "cluster": 1,
+                "share": 0.071,
+                "change": -0.013
+            },
+            {
+                "cluster": 5,
+                "share": 0.011,
+                "change": -0.013
+            },
+            {
+                "cluster": 4,
+                "share": 0.003,
+                "change": -0.004
+            }
+        ]
+    }
+}

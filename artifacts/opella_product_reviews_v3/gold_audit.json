@@ -1,0 +1,34 @@
+{
+    "subject_id": "ASIN",
+    "recommended_algorithm": "GMM",
+    "encoding": {
+        "one_hot": [
+            "BRAND_NAME"
+        ],
+        "rare_label": [
+            "BRAND_NAME"
+        ],
+        "binary_cast": []
+    },
+    "transformations": {
+        "yeo_johnson": []
+    },
+    "scaling": {
+        "robust": [],
+        "standard": [],
+        "min_max": [
+            "STAR_RATING"
+        ]
+    },
+    "text_embeddings": {
+        "embed_columns": [
+            "TEXT"
+        ]
+    },
+    "use_parquet": true,
+    "sentiment": {
+        "strategy": "rating",
+        "source_column": "STAR_RATING",
+        "confidence": 0.9
+    }
+}

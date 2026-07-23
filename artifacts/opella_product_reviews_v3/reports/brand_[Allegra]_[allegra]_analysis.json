@@ -1,0 +1,1755 @@
+{
+    "product": {
+        "report_type": "brand",
+        "group_by": "BRAND_NAME",
+        "identifier": "Allegra",
+        "brand_name": "Allegra",
+        "products": 50,
+        "asin": [
+            "B0046XC2OE",
+            "B0D1QRRSKR",
+            "B00J42CH7Y",
+            "B0FX5Z1QZW",
+            "B0FX5WTV5B",
+            "B01AVKLQUQ",
+            "B0077DKZEY",
+            "B00OEQ6NMK",
+            "B012FUNRDO",
+            "B012FUP5MK",
+            "B07147WM8P",
+            "B09SVT92GW",
+            "B0FCZR92SB",
+            "B0FX5Y975J",
+            "B0046X8NCO",
+            "B00FQR9VP2",
+            "B00I9GQ95M",
+            "B00TDFTVFI",
+            "B01IAIC830",
+            "B09WKNMP3C",
+            "B007D4R4ZK",
+            "B00E7D8RGA",
+            "B00JKN34ME",
+            "B09XNBY4HZ",
+            "B0FCZRNWB8",
+            "B0CW2XQNZT",
+            "B01B5AQEYY",
+            "B0046XDXXS",
+            "B00II934TY",
+            "B00V4I2R5I",
+            "B0C4CS7YM9",
+            "B0D5RG49KG",
+            "B0046XC500",
+            "B004RZTM3A",
+            "B00MTSHNLU",
+            "B01D3KRQBY",
+            "B0DXLJG34M",
+            "B01AVK2A38",
+            "B0DZF6N5H6",
+            "B0046XC1U4",
+            "B0D1845R1D",
+            "B0777VLBNB",
+            "B0FCZB7KTM",
+            "B0DZG78B1F",
+            "B079C87W2D",
+            "B01LX58JLV",
+            "B018L8K1RE",
+            "B074PYHDVP",
+            "B0CJMCZNHT",
+            "B0DTRCJR8X"
+        ],
+        "reviews": 2270,
+        "average_rating": 4.38,
+        "average_sentiment": 0.845
+    },
+    "macro_personas": [
+        {
+            "cluster": 6,
+            "universal_persona": {
+                "population": 5088,
+                "population_pct": 9.33,
+                "certainty": 0.995,
+                "positive_pct": 78.3,
+                "neutral_pct": 5.76,
+                "negative_pct": 15.94,
+                "avg_rating": 4.2,
+                "brand_distribution": {
+                    "Dulcolax": {
+                        "reviews": 1835,
+                        "share": 36.07
+                    },
+                    "Allegra": {
+                        "reviews": 1028,
+                        "share": 20.2
+                    },
+                    "Unisom": {
+                        "reviews": 743,
+                        "share": 14.6
+                    },
+                    "Xyzal": {
+                        "reviews": 443,
+                        "share": 8.71
+                    },
+                    "Nasacort": {
+                        "reviews": 324,
+                        "share": 6.37
+                    },
+                    "Zantac": {
+                        "reviews": 179,
+                        "share": 3.52
+                    },
+                    "Gold Bond": {
+                        "reviews": 159,
+                        "share": 3.12
+                    },
+                    "ACT": {
+                        "reviews": 116,
+                        "share": 2.28
+                    },
+                    "Cortizone 10": {
+                        "reviews": 75,
+                        "share": 1.47
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 66,
+                        "share": 1.3
+                    },
+                    "Icy Hot": {
+                        "reviews": 48,
+                        "share": 0.94
+                    },
+                    "Aspercreme": {
+                        "reviews": 25,
+                        "share": 0.49
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 23,
+                        "share": 0.45
+                    },
+                    "Selsun Blue": {
+                        "reviews": 12,
+                        "share": 0.24
+                    },
+                    "Buscapina": {
+                        "reviews": 11,
+                        "share": 0.22
+                    },
+                    "Magne B6": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Symptom Relief Seekers",
+                    "summary": "Customers looking for fast, effective relief from acute symptoms.",
+                    "decision_drivers": [
+                        "Fast-acting",
+                        "Proven effectiveness",
+                        "Long-lasting relief",
+                        "Minimal side effects"
+                    ],
+                    "satisfaction_drivers": [
+                        "Quickly alleviates symptoms",
+                        "Long duration of effects",
+                        "No harsh side effects",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short-lived effects",
+                        "Unpleasant side effects",
+                        "Inconvenient usage"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 6,
+                "share": 0.453,
+                "certainty": 0.997,
+                "reviews": 1028,
+                "average_rating": 4.42,
+                "average_sentiment": 0.856
+            },
+            "comparison": {
+                "share_lift": 4.86,
+                "rating_delta": 0.22
+            }
+        },
+        {
+            "cluster": 0,
+            "universal_persona": {
+                "population": 11231,
+                "population_pct": 20.6,
+                "certainty": 0.997,
+                "positive_pct": 86.88,
+                "neutral_pct": 4.03,
+                "negative_pct": 9.08,
+                "avg_rating": 4.49,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 3735,
+                        "share": 33.26
+                    },
+                    "Dulcolax": {
+                        "reviews": 1768,
+                        "share": 15.74
+                    },
+                    "Cortizone 10": {
+                        "reviews": 1000,
+                        "share": 8.9
+                    },
+                    "Icy Hot": {
+                        "reviews": 985,
+                        "share": 8.77
+                    },
+                    "ACT": {
+                        "reviews": 904,
+                        "share": 8.05
+                    },
+                    "Allegra": {
+                        "reviews": 743,
+                        "share": 6.62
+                    },
+                    "Aspercreme": {
+                        "reviews": 657,
+                        "share": 5.85
+                    },
+                    "Selsun Blue": {
+                        "reviews": 403,
+                        "share": 3.59
+                    },
+                    "Nasacort": {
+                        "reviews": 293,
+                        "share": 2.61
+                    },
+                    "Xyzal": {
+                        "reviews": 253,
+                        "share": 2.25
+                    },
+                    "Unisom": {
+                        "reviews": 215,
+                        "share": 1.91
+                    },
+                    "Zantac": {
+                        "reviews": 215,
+                        "share": 1.91
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 27,
+                        "share": 0.24
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 22,
+                        "share": 0.2
+                    },
+                    "Buscapina": {
+                        "reviews": 11,
+                        "share": 0.1
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Daily Wellness Maintainers",
+                    "summary": "Customers seeking reliable products to support everyday health routines and prevention.",
+                    "decision_drivers": [
+                        "Effectiveness",
+                        "Quality",
+                        "Trusted brand",
+                        "Ease of use"
+                    ],
+                    "satisfaction_drivers": [
+                        "Long-lasting relief",
+                        "Meets daily needs",
+                        "Minimal side effects",
+                        "Trusted solution"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short duration",
+                        "Unpleasant side effects",
+                        "Poor value"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 0,
+                "share": 0.327,
+                "certainty": 0.997,
+                "reviews": 743,
+                "average_rating": 4.56,
+                "average_sentiment": 0.889
+            },
+            "comparison": {
+                "share_lift": 1.59,
+                "rating_delta": 0.07
+            }
+        },
+        {
+            "cluster": 2,
+            "universal_persona": {
+                "population": 2128,
+                "population_pct": 3.9,
+                "certainty": 1.0,
+                "positive_pct": 91.92,
+                "neutral_pct": 2.11,
+                "negative_pct": 5.97,
+                "avg_rating": 4.67,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 556,
+                        "share": 26.13
+                    },
+                    "Icy Hot": {
+                        "reviews": 272,
+                        "share": 12.78
+                    },
+                    "Selsun Blue": {
+                        "reviews": 258,
+                        "share": 12.12
+                    },
+                    "Cortizone 10": {
+                        "reviews": 222,
+                        "share": 10.43
+                    },
+                    "Dulcolax": {
+                        "reviews": 199,
+                        "share": 9.35
+                    },
+                    "Allegra": {
+                        "reviews": 143,
+                        "share": 6.72
+                    },
+                    "ACT": {
+                        "reviews": 136,
+                        "share": 6.39
+                    },
+                    "Aspercreme": {
+                        "reviews": 123,
+                        "share": 5.78
+                    },
+                    "Buscapina": {
+                        "reviews": 97,
+                        "share": 4.56
+                    },
+                    "Unisom": {
+                        "reviews": 50,
+                        "share": 2.35
+                    },
+                    "Xyzal": {
+                        "reviews": 38,
+                        "share": 1.79
+                    },
+                    "Zantac": {
+                        "reviews": 16,
+                        "share": 0.75
+                    },
+                    "Nasacort": {
+                        "reviews": 13,
+                        "share": 0.61
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 4,
+                        "share": 0.19
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.05
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Oral Hygiene Prioritizers",
+                    "summary": "Customers focused on maintaining good oral health through daily routines.",
+                    "decision_drivers": [
+                        "Dentist recommended",
+                        "Proven effectiveness",
+                        "Kid-friendly options",
+                        "Convenient usage"
+                    ],
+                    "satisfaction_drivers": [
+                        "Fresh breath",
+                        "Prevents cavities/gum issues",
+                        "Easy to use",
+                        "Pleasant taste/scent"
+                    ],
+                    "frustration_drivers": [
+                        "Unpleasant taste/smell",
+                        "Ineffective results",
+                        "Difficult to use",
+                        "Harsh ingredients"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 2,
+                "share": 0.063,
+                "certainty": 1.0,
+                "reviews": 143,
+                "average_rating": 4.82,
+                "average_sentiment": 0.955
+            },
+            "comparison": {
+                "share_lift": 1.62,
+                "rating_delta": 0.15
+            }
+        },
+        {
+            "cluster": 5,
+            "universal_persona": {
+                "population": 4604,
+                "population_pct": 8.45,
+                "certainty": 0.995,
+                "positive_pct": 22.26,
+                "neutral_pct": 13.66,
+                "negative_pct": 64.07,
+                "avg_rating": 2.21,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 3046,
+                        "share": 66.16
+                    },
+                    "Cortizone 10": {
+                        "reviews": 312,
+                        "share": 6.78
+                    },
+                    "Icy Hot": {
+                        "reviews": 242,
+                        "share": 5.26
+                    },
+                    "Aspercreme": {
+                        "reviews": 216,
+                        "share": 4.69
+                    },
+                    "ACT": {
+                        "reviews": 211,
+                        "share": 4.58
+                    },
+                    "Dulcolax": {
+                        "reviews": 157,
+                        "share": 3.41
+                    },
+                    "Allegra": {
+                        "reviews": 139,
+                        "share": 3.02
+                    },
+                    "Nasacort": {
+                        "reviews": 87,
+                        "share": 1.89
+                    },
+                    "Xyzal": {
+                        "reviews": 68,
+                        "share": 1.48
+                    },
+                    "Zantac": {
+                        "reviews": 58,
+                        "share": 1.26
+                    },
+                    "Selsun Blue": {
+                        "reviews": 42,
+                        "share": 0.91
+                    },
+                    "Unisom": {
+                        "reviews": 17,
+                        "share": 0.37
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 3,
+                        "share": 0.07
+                    },
+                    "Buscapina": {
+                        "reviews": 3,
+                        "share": 0.07
+                    },
+                    "Magne B6": {
+                        "reviews": 2,
+                        "share": 0.04
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Product Experience Critics",
+                    "summary": "Customers focused on product usability and delivery mechanisms over ingredients.",
+                    "decision_drivers": [
+                        "Ease of application",
+                        "Convenient packaging",
+                        "Innovative delivery"
+                    ],
+                    "satisfaction_drivers": [
+                        "Hassle-free usage",
+                        "Precise application",
+                        "Portable packaging"
+                    ],
+                    "frustration_drivers": [
+                        "Difficult application",
+                        "Faulty packaging/sprayers",
+                        "Messy or wasteful"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 5,
+                "share": 0.061,
+                "certainty": 0.988,
+                "reviews": 139,
+                "average_rating": 2.3,
+                "average_sentiment": 0.326
+            },
+            "comparison": {
+                "share_lift": 0.72,
+                "rating_delta": 0.09
+            }
+        },
+        {
+            "cluster": 3,
+            "universal_persona": {
+                "population": 6176,
+                "population_pct": 11.33,
+                "certainty": 0.999,
+                "positive_pct": 84.5,
+                "neutral_pct": 5.04,
+                "negative_pct": 10.46,
+                "avg_rating": 4.42,
+                "brand_distribution": {
+                    "ACT": {
+                        "reviews": 5502,
+                        "share": 89.09
+                    },
+                    "Dulcolax": {
+                        "reviews": 324,
+                        "share": 5.25
+                    },
+                    "Xyzal": {
+                        "reviews": 104,
+                        "share": 1.68
+                    },
+                    "Allegra": {
+                        "reviews": 78,
+                        "share": 1.26
+                    },
+                    "Gold Bond": {
+                        "reviews": 74,
+                        "share": 1.2
+                    },
+                    "Icy Hot": {
+                        "reviews": 24,
+                        "share": 0.39
+                    },
+                    "Cortizone 10": {
+                        "reviews": 21,
+                        "share": 0.34
+                    },
+                    "Zantac": {
+                        "reviews": 14,
+                        "share": 0.23
+                    },
+                    "Unisom": {
+                        "reviews": 13,
+                        "share": 0.21
+                    },
+                    "Aspercreme": {
+                        "reviews": 10,
+                        "share": 0.16
+                    },
+                    "Selsun Blue": {
+                        "reviews": 9,
+                        "share": 0.15
+                    },
+                    "Buscapina": {
+                        "reviews": 1,
+                        "share": 0.02
+                    },
+                    "Nasacort": {
+                        "reviews": 1,
+                        "share": 0.02
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Pediatric Care Facilitators",
+                    "summary": "Parents/caregivers seeking safe, effective solutions for children's health needs.",
+                    "decision_drivers": [
+                        "Kid-friendly formulations",
+                        "Gentle ingredients",
+                        "Proven effectiveness",
+                        "Pediatrician recommended"
+                    ],
+                    "satisfaction_drivers": [
+                        "Easy administration",
+                        "Fast-acting relief",
+                        "No harsh side effects",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Unpleasant taste/smell",
+                        "Difficulty administering",
+                        "Lack of results",
+                        "Harsh side effects"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 3,
+                "share": 0.034,
+                "certainty": 1.0,
+                "reviews": 78,
+                "average_rating": 4.67,
+                "average_sentiment": 0.917
+            },
+            "comparison": {
+                "share_lift": 0.3,
+                "rating_delta": 0.25
+            }
+        },
+        {
+            "cluster": 1,
+            "universal_persona": {
+                "population": 12457,
+                "population_pct": 22.85,
+                "certainty": 0.994,
+                "positive_pct": 84.42,
+                "neutral_pct": 5.59,
+                "negative_pct": 9.99,
+                "avg_rating": 4.43,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 9823,
+                        "share": 78.86
+                    },
+                    "Cortizone 10": {
+                        "reviews": 1986,
+                        "share": 15.94
+                    },
+                    "Icy Hot": {
+                        "reviews": 180,
+                        "share": 1.44
+                    },
+                    "Aspercreme": {
+                        "reviews": 177,
+                        "share": 1.42
+                    },
+                    "Selsun Blue": {
+                        "reviews": 102,
+                        "share": 0.82
+                    },
+                    "Allegra": {
+                        "reviews": 75,
+                        "share": 0.6
+                    },
+                    "ACT": {
+                        "reviews": 50,
+                        "share": 0.4
+                    },
+                    "Dulcolax": {
+                        "reviews": 39,
+                        "share": 0.31
+                    },
+                    "Xyzal": {
+                        "reviews": 10,
+                        "share": 0.08
+                    },
+                    "Magne B6": {
+                        "reviews": 8,
+                        "share": 0.06
+                    },
+                    "Nasacort": {
+                        "reviews": 6,
+                        "share": 0.05
+                    },
+                    "Unisom": {
+                        "reviews": 1,
+                        "share": 0.01
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Skin Condition Soothers",
+                    "summary": "Customers looking for effective relief from persistent skin irritations and conditions.",
+                    "decision_drivers": [
+                        "Fast-acting",
+                        "Gentle formulation",
+                        "Proven ingredients",
+                        "Dermatologist recommended"
+                    ],
+                    "satisfaction_drivers": [
+                        "Reduces itching/irritation",
+                        "Promotes healing",
+                        "Long-lasting effects",
+                        "Safe for sensitive skin"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective results",
+                        "Further irritation",
+                        "Short-lived relief",
+                        "Harsh ingredients"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 1,
+                "share": 0.033,
+                "certainty": 1.0,
+                "reviews": 75,
+                "average_rating": 4.45,
+                "average_sentiment": 0.863
+            },
+            "comparison": {
+                "share_lift": 0.14,
+                "rating_delta": 0.02
+            }
+        },
+        {
+            "cluster": 4,
+            "universal_persona": {
+                "population": 339,
+                "population_pct": 0.62,
+                "certainty": 1.0,
+                "positive_pct": 97.94,
+                "neutral_pct": 1.47,
+                "negative_pct": 0.59,
+                "avg_rating": 4.81,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 132,
+                        "share": 38.94
+                    },
+                    "Cortizone 10": {
+                        "reviews": 42,
+                        "share": 12.39
+                    },
+                    "Dulcolax": {
+                        "reviews": 30,
+                        "share": 8.85
+                    },
+                    "Allegra": {
+                        "reviews": 28,
+                        "share": 8.26
+                    },
+                    "Selsun Blue": {
+                        "reviews": 26,
+                        "share": 7.67
+                    },
+                    "ACT": {
+                        "reviews": 25,
+                        "share": 7.37
+                    },
+                    "Aspercreme": {
+                        "reviews": 17,
+                        "share": 5.01
+                    },
+                    "Icy Hot": {
+                        "reviews": 14,
+                        "share": 4.13
+                    },
+                    "Zantac": {
+                        "reviews": 8,
+                        "share": 2.36
+                    },
+                    "Nasacort": {
+                        "reviews": 7,
+                        "share": 2.06
+                    },
+                    "Xyzal": {
+                        "reviews": 7,
+                        "share": 2.06
+                    },
+                    "Buscapina": {
+                        "reviews": 1,
+                        "share": 0.29
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 1,
+                        "share": 0.29
+                    },
+                    "Unisom": {
+                        "reviews": 1,
+                        "share": 0.29
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Trusted Solution Seekers",
+                    "summary": "Customers prioritizing proven, reliable products from trusted brands.",
+                    "decision_drivers": [
+                        "Trusted brand reputation",
+                        "Proven effectiveness",
+                        "Quality ingredients",
+                        "Good value"
+                    ],
+                    "satisfaction_drivers": [
+                        "Delivers expected results",
+                        "Long-lasting effects",
+                        "Minimal side effects",
+                        "Worth the cost"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short duration of effects",
+                        "Unpleasant side effects",
+                        "Poor value for money"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 4,
+                "share": 0.012,
+                "certainty": 1.0,
+                "reviews": 28,
+                "average_rating": 4.89,
+                "average_sentiment": 0.973
+            },
+            "comparison": {
+                "share_lift": 1.94,
+                "rating_delta": 0.08
+            }
+        },
+        {
+            "cluster": 7,
+            "universal_persona": {
+                "population": 4657,
+                "population_pct": 8.54,
+                "certainty": 0.995,
+                "positive_pct": 74.38,
+                "neutral_pct": 6.81,
+                "negative_pct": 18.81,
+                "avg_rating": 4.07,
+                "brand_distribution": {
+                    "Icy Hot": {
+                        "reviews": 2496,
+                        "share": 53.6
+                    },
+                    "Aspercreme": {
+                        "reviews": 1197,
+                        "share": 25.7
+                    },
+                    "Gold Bond": {
+                        "reviews": 548,
+                        "share": 11.77
+                    },
+                    "Cortizone 10": {
+                        "reviews": 190,
+                        "share": 4.08
+                    },
+                    "Dulcolax": {
+                        "reviews": 120,
+                        "share": 2.58
+                    },
+                    "Magne B6": {
+                        "reviews": 24,
+                        "share": 0.52
+                    },
+                    "Allegra": {
+                        "reviews": 22,
+                        "share": 0.47
+                    },
+                    "ACT": {
+                        "reviews": 19,
+                        "share": 0.41
+                    },
+                    "Zantac": {
+                        "reviews": 12,
+                        "share": 0.26
+                    },
+                    "Xyzal": {
+                        "reviews": 7,
+                        "share": 0.15
+                    },
+                    "Buscapina": {
+                        "reviews": 7,
+                        "share": 0.15
+                    },
+                    "Selsun Blue": {
+                        "reviews": 6,
+                        "share": 0.13
+                    },
+                    "Unisom": {
+                        "reviews": 4,
+                        "share": 0.09
+                    },
+                    "Nasacort": {
+                        "reviews": 3,
+                        "share": 0.06
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 2,
+                        "share": 0.04
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Pain Relief Prioritizers",
+                    "summary": "Customers seeking effective, targeted relief from muscle/joint pains.",
+                    "decision_drivers": [
+                        "Fast pain relief",
+                        "Long-lasting effects",
+                        "Targeted application",
+                        "Ease of use"
+                    ],
+                    "satisfaction_drivers": [
+                        "Quickly reduces pain",
+                        "Long duration of effects",
+                        "Convenient application",
+                        "No mess or residue"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective results",
+                        "Short-lived relief",
+                        "Difficult application",
+                        "Unpleasant smell/feel"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 7,
+                "share": 0.01,
+                "certainty": 0.99,
+                "reviews": 22,
+                "average_rating": 4.36,
+                "average_sentiment": 0.841
+            },
+            "comparison": {
+                "share_lift": 0.12,
+                "rating_delta": 0.29
+            }
+        },
+        {
+            "cluster": 8,
+            "universal_persona": {
+                "population": 6837,
+                "population_pct": 12.54,
+                "certainty": 0.99,
+                "positive_pct": 85.61,
+                "neutral_pct": 3.89,
+                "negative_pct": 10.5,
+                "avg_rating": 4.44,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 6144,
+                        "share": 89.86
+                    },
+                    "Aspercreme": {
+                        "reviews": 242,
+                        "share": 3.54
+                    },
+                    "Icy Hot": {
+                        "reviews": 161,
+                        "share": 2.35
+                    },
+                    "Selsun Blue": {
+                        "reviews": 96,
+                        "share": 1.4
+                    },
+                    "Cortizone 10": {
+                        "reviews": 72,
+                        "share": 1.05
+                    },
+                    "Dulcolax": {
+                        "reviews": 48,
+                        "share": 0.7
+                    },
+                    "ACT": {
+                        "reviews": 41,
+                        "share": 0.6
+                    },
+                    "Allegra": {
+                        "reviews": 13,
+                        "share": 0.19
+                    },
+                    "Nasacort": {
+                        "reviews": 7,
+                        "share": 0.1
+                    },
+                    "Unisom": {
+                        "reviews": 5,
+                        "share": 0.07
+                    },
+                    "Magne B6": {
+                        "reviews": 5,
+                        "share": 0.07
+                    },
+                    "Xyzal": {
+                        "reviews": 2,
+                        "share": 0.03
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.01
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Comfort First Consumers",
+                    "summary": "Customers focused on products that provide comfort, freshness and prevent irritation.",
+                    "decision_drivers": [
+                        "Prevents chafing/irritation",
+                        "Absorbs moisture/sweat",
+                        "Long-lasting freshness",
+                        "Gentle formulation"
+                    ],
+                    "satisfaction_drivers": [
+                        "Stays dry and fresh",
+                        "Soothes irritated skin",
+                        "Easy to apply",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective absorption",
+                        "Short duration of effects",
+                        "Unpleasant smell/residue",
+                        "Causes further irritation"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 8,
+                "share": 0.006,
+                "certainty": 0.98,
+                "reviews": 13,
+                "average_rating": 4.77,
+                "average_sentiment": 0.942
+            },
+            "comparison": {
+                "share_lift": 0.05,
+                "rating_delta": 0.33
+            }
+        },
+        {
+            "cluster": 9,
+            "universal_persona": {
+                "population": 994,
+                "population_pct": 1.82,
+                "certainty": 1.0,
+                "positive_pct": 81.69,
+                "neutral_pct": 4.12,
+                "negative_pct": 14.19,
+                "avg_rating": 4.31,
+                "brand_distribution": {
+                    "Selsun Blue": {
+                        "reviews": 976,
+                        "share": 98.19
+                    },
+                    "Cortizone 10": {
+                        "reviews": 5,
+                        "share": 0.5
+                    },
+                    "Gold Bond": {
+                        "reviews": 4,
+                        "share": 0.4
+                    },
+                    "ACT": {
+                        "reviews": 4,
+                        "share": 0.4
+                    },
+                    "Icy Hot": {
+                        "reviews": 4,
+                        "share": 0.4
+                    },
+                    "Allegra": {
+                        "reviews": 1,
+                        "share": 0.1
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Scalp Care Specialists",
+                    "summary": "Customers dealing with persistent scalp issues like dandruff or dryness.",
+                    "decision_drivers": [
+                        "Proven effectiveness",
+                        "Dermatologist recommended",
+                        "Gentle formulation",
+                        "Convenient usage"
+                    ],
+                    "satisfaction_drivers": [
+                        "Eliminates flakes/itchiness",
+                        "Soothes scalp irritation",
+                        "Easy to use",
+                        "No harsh ingredients"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Further irritation",
+                        "Unpleasant smell",
+                        "Drying effects"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 9,
+                "share": 0.0,
+                "certainty": 1.0,
+                "reviews": 1,
+                "average_rating": 5.0,
+                "average_sentiment": 1.0
+            },
+            "comparison": {
+                "share_lift": 0.0,
+                "rating_delta": 0.69
+            }
+        }
+    ],
+    "trend_analysis": {
+        "timeline": [
+            {
+                "period": "2024-12",
+                "reviews": 187,
+                "average_rating": 3.829,
+                "average_sentiment": 0.707,
+                "cluster_distribution": {
+                    "0": 0.364,
+                    "6": 0.289,
+                    "5": 0.203,
+                    "2": 0.053,
+                    "3": 0.043,
+                    "4": 0.027,
+                    "8": 0.011,
+                    "7": 0.011
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I am very very allergic to livestock. I get allergy induced asthma and once it starts its dangerous, but I love horses and my friends own a ranch and we went to a rodeo and I didn't want to miss out. This was spectacular. I was able to hug and snuggle the horses and I sat 3 hours through the whole rodeo without missing a beat! Now I can relax for next year knowing exactly which meds to take. Did notfeel sleepy at all, but I did have lots of coffee",
+                        "These are prescribed by my doctor due to my allergies. I take these every day in combination with my prescribed allergy medication. I love the convenience and the lower price from Amazon, plus I don't have to go out and get them. When I have been close to running out, they are conveniently sent to me within a day or two, so I don't miss a dosage.",
+                        "Excellent product. after tying five others that did not help. This product worked and stopped the hives in their tracks. Now I use it and it alone every time I get a flare up",
+                        "Always use Allegra, it doesnât make me drowsy which is great. It helps a lot. This was really good deal too. I didnât get side effects, but some people may experience.",
+                        "Es bueno para la alergia, pero hay que usarlo con precauciÃ³n y cuando sea realmente necesario, porque el oftalmÃ³logo me dijo que contribuye a la resequedad de los ojos."
+                    ],
+                    "negative_reviews": [
+                        "Love Childrenâs Allegra as Iâm medicine-sensitive, however, this bottle was past its expiration date when I received it. I called Amazon and my charge card was credited.",
+                        "Received a 70 pill container of Allegra allergy meds - expiration date five weeks. Won't buy again without knowing expiration date on box being sold.",
+                        "It amazes me how a lot of stuff on amazon is overpriced you pay for prime but the price is raised up , the product is fine just price hiking,,,sad got here fast , just stop charging. You are already charging for prime hum wonder who get the over price extra",
+                        "I ordered two bottles and one of them came in a torn with the expiration date part torn as well, carefully taped together to make it look like it was the original packaging. Can't return - buyer beware.",
+                        "no wonder it is so cheap, bottle says MADE IN INDIA, NOT MADE IN GERMANY AS ADVERTISED. I am done with trusting amazon, they lie all the time about where products are made."
+                    ]
+                }
+            },
+            {
+                "period": "2025-01",
+                "reviews": 52,
+                "average_rating": 3.923,
+                "average_sentiment": 0.731,
+                "cluster_distribution": {
+                    "0": 0.404,
+                    "6": 0.327,
+                    "5": 0.135,
+                    "2": 0.058,
+                    "4": 0.038,
+                    "7": 0.019,
+                    "1": 0.019
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "We have used for years and it works 100%. Always have extra boxes at Home. Amazon Price is 50% cheaper that My local Rite Aid",
+                        "The size was correct and the quality was good the box was not open or damaged. The medicine had the seal on it. The value of money was good the same price as the stores but I didn't have to go out to get it less wear and tear on my car.",
+                        "I have found that this does not give 24 hour relief--12 hours max for me, so I use 2 per day, 12 hours apart.",
+                        "Arrived fast. It was out of stock at my local store . Received it in Jan 2025. Expires July 2025.",
+                        "These 2 small boxes were in same package as the larger heavier box of trash bags. As you can see, Allegra boxes are crushed."
+                    ],
+                    "negative_reviews": [
+                        "I purchased a 70-count bottle of Allegra with the intention of being prepared for next year's allergy season. Unfortunately, upon arrival, I discovered the medication expires in only 6 months. This significantly reduces the value of the product, as a large portion will be unusable before the next allergy season rolls around. For those looking for long-term allergy relief, this particular product is not ideal. It would be helpful if expiration dates were more prominently displayed during the checkout process. I will be returning this item and will likely look elsewhere for my allergy medication needs.",
+                        "I am sensitive to antihistamines and I purchased this so I could take a childâs dose and see how I react. I took the 5ml dose and was in a terrible mood for days, my runny nose dried up, but I felt like a psychopath. I was drowsy but my heart was racing. I would never give this to a child. Iâll never take it again. I took it to clear up my runny nose which it did but the side effects are not worth it. I would rather have a runny nose.",
+                        "Allegra is great. It works and I love it. The pictures above show what I received from Amazon. This means that it was either stolen or taken out of the trash. Also, the box was open when I received it. This is just so insanely dangerous. I told Amazon and they refunded me and marked it as âDamaged in Transitâ which is a lie and means that they are not addressing the issue. I will never buy anything that I consume from Amazon again and would advise everyone to do the same.",
+                        "Bottle says 1 capsule every 24 hours. Unfortunately after 12 hours symptoms return. But, during those 12 hours, it worked well.",
+                        "Itâs cheaper for a reason than others. These need to have at least a year before they expire rather than merely six months."
+                    ]
+                }
+            },
+            {
+                "period": "2025-02",
+                "reviews": 10,
+                "average_rating": 4.3,
+                "average_sentiment": 0.825,
+                "cluster_distribution": {
+                    "0": 0.6,
+                    "6": 0.2,
+                    "5": 0.1,
+                    "1": 0.1
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "The name brand of this product has gotten ridiculously expensive and I hope they learn a lesson. I started using this and it seems to take two or three days to fully get into my system to match the efficacy of the other brand-name product. Since then, I have noticed no difference in how well it works. I'm tired of corporations gouging customers just so they can line their pockets so I will always buy this generic option from now on."
+                    ],
+                    "negative_reviews": [
+                        "The name brand of this product has gotten ridiculously expensive and I hope they learn a lesson. I started using this and it seems to take two or three days to fully get into my system to match the efficacy of the other brand-name product. Since then, I have noticed no difference in how well it works. I'm tired of corporations gouging customers just so they can line their pockets so I will always buy this generic option from now on."
+                    ]
+                }
+            },
+            {
+                "period": "2025-03",
+                "reviews": 19,
+                "average_rating": 4.105,
+                "average_sentiment": 0.776,
+                "cluster_distribution": {
+                    "6": 0.368,
+                    "0": 0.211,
+                    "3": 0.211,
+                    "5": 0.105,
+                    "4": 0.053,
+                    "2": 0.053
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Works! Best to take 1st. thing in morning, to give time to release. 1 a day for about 2 weeks and symptoms should improve to taper off. Higher count cheapest overall. Seller/Co. FABULOUS!",
+                        "Terrible product. Did not work for me. I will need to try something else that doesn't make claims about an entire group of people."
+                    ],
+                    "negative_reviews": [
+                        "Terrible product. Did not work for me. I will need to try something else that doesn't make claims about an entire group of people.",
+                        "Works! Best to take 1st. thing in morning, to give time to release. 1 a day for about 2 weeks and symptoms should improve to taper off. Higher count cheapest overall. Seller/Co. FABULOUS!"
+                    ]
+                }
+            },
+            {
+                "period": "2025-04",
+                "reviews": 32,
+                "average_rating": 4.375,
+                "average_sentiment": 0.844,
+                "cluster_distribution": {
+                    "6": 0.375,
+                    "0": 0.312,
+                    "5": 0.188,
+                    "3": 0.125
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Perfect for my littles during allergy season. They say âyummyâ when I pull the bottle out. They actually want to take their medicine.",
+                        "starts working in 1 hour from my sneezing, runny nose and itchy nose. It works great with no drowsy . Just Great !",
+                        "I have to say that I purchase this once every 2 months if not monthly. Price is comparable to other stores as well. The kids give me no fuse because it tastes great and is super effective. I like that it is 12hrs vs the 24hrs.",
+                        "No issue with product. My only complaint is Amazon ships a lot of items in those useless, recyclable paper mailers that result in whatever your order arrives crushed. Stop it.",
+                        "The product is probably fine; however, do not say it will come Tuesday and then email - just kidding - it will arrive Wednesday. That is happening more and more. Tell me again why I'm paying a HUGE amount for prime??"
+                    ],
+                    "negative_reviews": [
+                        "The product is probably fine; however, do not say it will come Tuesday and then email - just kidding - it will arrive Wednesday. That is happening more and more. Tell me again why I'm paying a HUGE amount for prime??",
+                        "Perfect for my littles during allergy season. They say âyummyâ when I pull the bottle out. They actually want to take their medicine.",
+                        "starts working in 1 hour from my sneezing, runny nose and itchy nose. It works great with no drowsy . Just Great !",
+                        "I have to say that I purchase this once every 2 months if not monthly. Price is comparable to other stores as well. The kids give me no fuse because it tastes great and is super effective. I like that it is 12hrs vs the 24hrs.",
+                        "No issue with product. My only complaint is Amazon ships a lot of items in those useless, recyclable paper mailers that result in whatever your order arrives crushed. Stop it."
+                    ]
+                }
+            },
+            {
+                "period": "2025-05",
+                "reviews": 62,
+                "average_rating": 4.629,
+                "average_sentiment": 0.907,
+                "cluster_distribution": {
+                    "6": 0.629,
+                    "3": 0.145,
+                    "0": 0.129,
+                    "2": 0.081,
+                    "5": 0.016
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I donât experience severe allergies like many of the rest of my family does, I grabbed this for them to keep with the other allergy stuff in the medicine cabinetâ¦.the added tissue was nice to pop in my purse instead of stuffing a crumpled handful of clean tissue(or toilet paper) in it and will be handy. None of my family has tried this yet, but I believe theyâve used it before - and I know theyâll like the non drowsy part too.",
+                        "Review for: Allegra Adult 24-Hour Allergy Relief Tablets with Bonus Tissue Pack, Non-Drowsy Indoor and Outdoor Allergy Medicine, 180 mg Fexofenadine HCI Antihistamine Pill, 100-Count Allegra is my preferred OTC allergy medication. I will usually do Allegra one allergy season & Zyrtec the next just to switch things up. This was a good deal, and the bonus tissues are a cute & convenient idea. As always please consult your dr to know which OTC meds are okay for you. Everyone is unique.",
+                        "Perhaps itâs just me, but I found the included tissues to be a waste. They were cheaply made and very small, but I guess they could be handy in a pinch if I cared to tuck them away somewhere. Otherwise, the pills work great for my allergies. I didnât encounter any drowsiness or other side effects, which was very nice. I think the price point is spot on with other competitors and similar products. Overall, I would highly recommend these.",
+                        "This is the regular 60-ct Allegra Allergy 24-Hour Gelcaps in their standard retail packaging, bundled with a bonus tissue pack. The gelcaps look exactly the same as the regular ones and work just as great. The issue pack is small and great for travel. It includes 10 x 3-ply tissues made in China. The gelcaps are from Germany. Overall, a great bundle. No-brainer to get this over the 60-ct product by itself for around the same price.",
+                        "Allegra gelcaps I'm glad I got a chance to try these out. They are rounder then the normal allegra and have a coating that makes them go down much easier. These work great for when you dont want to feel drowsy and last all day, at least for me."
+                    ],
+                    "negative_reviews": [
+                        "Allegra provided zero relief to me. I'm a die-hard, old-school Claritin-D user, but haven't used it in over a decade. Recently started noticing allergies again. This unfortunately did nothing to alleviate the congestion or help improve breathing. The package is wasteful, the box is twice the size of the pill bottle, there's even a tab at the bottom to trick the buyer in to thinking the bottle is bigger and has more by pushing it higher in the packaging. And the included tissues are a very cheap, tiny package of plain tissues, maybe enough for one or two uses. And such low quality compared to a name brand product and all its fancy packaging feels like a weird pairing.",
+                        "This bundle has 2 types of medications. Adult gelcaps and child liquid is included. The medication does work but tends to make me sleepier than some. I take it at night. I do not think that is a great value.",
+                        "Letâs start with the good news: Allegra works. Itâs one of the heavy hitters in the modern antihistamine world â non-drowsy, long-lasting, and generally effective at keeping your nose from turning into a faucet. It uses fexofenadine, which is known for being one of the least sedating antihistamines out there (nice if you like being able to, you know, function). Iâve used Allegra on and off, and it does a decent job keeping my seasonal sneeze-storms in check. That said, if Iâm being honest, I think I might lean slightly toward Claritin when push comes to pollen. Still, this oneâs in the same ballpark. Call it the Pepsi to Claritinâs Coke. Now, letâs talk price. At $36.99 for 60 pills, this âvalue sizeâ makes me feel a little less valued. There are generics out there â same active ingredient, same 180mg â for about half the price (or less). So unless youâre deeply loyal to brand-name Allegra or have a coupon burning a hole in your digital wallet, itâs hard not to raise an eyebrow at the cost-per-sneeze. As for the gelcap format â itâsâ¦ fine? If you have trouble swallowing tablets, this might go down easier, but otherwise it doesnât seem to make much of a difference in how quickly it kicks in. Oh, and it comes with a little bonus tissue pack! Which is either thoughtfulâ¦ or a quiet admission that this might not be a miracle cure. \"Here's something for your nose â and something for when it keeps running anyway.\" Honestly? Kinda cute. Bottom line: Effective and convenient, but a little overpriced unless youâre a die-hard Allegra fan. Worth trying â especially if you like your meds with side gifts.",
+                        "I havenât been taking the gelcaps for long, but so far, so good. Iâve had no ill effects from taking one a day, with water, as recommended. Non-drowsy is a must for us & these live up to that well. The pill bottles arrived properly sealed & has a clear batch number & expiration date of 12/2026 (over a year & a half out) stamped on the side of the bottle. So far, all of the capsules have been full, no leaking & arenât too terribly big, so theyâre easy to take. The childrenâs liquid is a berry flavor thatâs pleasant. My niece has had no complaints when taking it. The liquid bottle arrived properly sealed & has a clear batch number & expiration date of 10/2026 (over a year & a half out) stamped on the side of the bottle. Not a fan of the normal sized pill bottles being sent in an largely empty paperboard product boxes that are over twice the size of the bottles. At least the bottle of childrenâs liquid is packed more economically in a properly sized (not oversized) paperboard product box. I appreciate that both the gelcaps & liquid are made in Germany by a solid & established company. They seem to be of high quality & I can surely recommend them.",
+                        "I've been using Allegra for many years, back before it was OTC. Though I often buy generics, I prefer this gelcap style from the name brand for the worst part of allergy season. Why? It just seems to work consistently for the full 24 hours. Sometimes the generics don't feel like they go the distance. Now, this is not the variety with the decongestant (which was what I wanted for travel to a place where you can't bring products with Pseudoephedrine in them). I do prefer the D version at times as well. But for the fringe part of pollen season, this is great. The particular bottle I ordered was good for another 16 months after I received it, so it's fresh. The foil seal under the lid was unbroken. One other nice feature is the caplets are not perfectly round, they have slightly flattened sides, which mean they don't roll off the counter! The tissues were just fine, but of course not enough for two months!"
+                    ]
+                }
+            },
+            {
+                "period": "2025-06",
+                "reviews": 21,
+                "average_rating": 4.714,
+                "average_sentiment": 0.929,
+                "cluster_distribution": {
+                    "0": 0.476,
+                    "6": 0.429,
+                    "8": 0.048,
+                    "4": 0.048
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "These tablets are a nice standard size, easy to swallow and virtually no scent. I havenât noticed anything unusual in taste/smell and have had no digestive issues or other side effects. The price is on par for this brand, a powerhouse in the field of allergy meds. Itâs hard to speak to the effectiveness because if itâs something you're already taking itâs hard to notice a difference in the way you look and/or feel. At the same time, if itâs new to you/your system, it usually takes a while for any real benefits to show up. Itâs been several weeks and I havenât noticed a dramatic difference in the way I feel but if that changes over time Iâll update my review accordingly. Thank you for reading my review, I hope it was helpful!",
+                        "This is great for maintaining a base level of allergy management. When I feel allergies starting to create congestion, I switch over to the Allegra D from my pharmacy. Remember to not take this with the Allegra D, as they are the same meds, and you would be causing a double dose!",
+                        "I have been using Allegra for years for my allergies. It works great for me. Other allergy meds either don't work for me or put me to sleep. I can also swallow these without a problem.",
+                        "Have always worked well for me. This product is one I have used on and off over the years. No issues with it causing any negative reactions when I use it. Easy enough for me to swallow these oval shaped tablets. I have not had issues with this brand not working so I will keep using it as needed.",
+                        "Good product to easy the effects (runny nose and sneezing) of allergies. My spouse gets about 80-90% relief from his allergy symptoms. I would highly recommend this medication for allergy symptoms."
+                    ],
+                    "negative_reviews": [
+                        "Good product to easy the effects (runny nose and sneezing) of allergies. My spouse gets about 80-90% relief from his allergy symptoms. I would highly recommend this medication for allergy symptoms.",
+                        "These tablets are a nice standard size, easy to swallow and virtually no scent. I havenât noticed anything unusual in taste/smell and have had no digestive issues or other side effects. The price is on par for this brand, a powerhouse in the field of allergy meds. Itâs hard to speak to the effectiveness because if itâs something you're already taking itâs hard to notice a difference in the way you look and/or feel. At the same time, if itâs new to you/your system, it usually takes a while for any real benefits to show up. Itâs been several weeks and I havenât noticed a dramatic difference in the way I feel but if that changes over time Iâll update my review accordingly. Thank you for reading my review, I hope it was helpful!",
+                        "This is great for maintaining a base level of allergy management. When I feel allergies starting to create congestion, I switch over to the Allegra D from my pharmacy. Remember to not take this with the Allegra D, as they are the same meds, and you would be causing a double dose!",
+                        "I have been using Allegra for years for my allergies. It works great for me. Other allergy meds either don't work for me or put me to sleep. I can also swallow these without a problem.",
+                        "Have always worked well for me. This product is one I have used on and off over the years. No issues with it causing any negative reactions when I use it. Easy enough for me to swallow these oval shaped tablets. I have not had issues with this brand not working so I will keep using it as needed."
+                    ]
+                }
+            },
+            {
+                "period": "2025-07",
+                "reviews": 174,
+                "average_rating": 4.316,
+                "average_sentiment": 0.829,
+                "cluster_distribution": {
+                    "6": 0.379,
+                    "0": 0.328,
+                    "3": 0.115,
+                    "2": 0.08,
+                    "5": 0.069,
+                    "7": 0.023,
+                    "4": 0.006
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "These have been pretty helpful for me during this allergy season. These do not make me drowsy at all which is great to be able to take in the morning and have be effective all day long. This is such a great value for all that you get! you get 2 packs with 60 soft gels in each which work faster, and you get a kids liquid so you dont have to worry about getting them separate! Worth buying to be honest.",
+                        "I love this product as it allows me to have a life even within allergy season. It helps with my itchy nose, itchy eyes and helps with sneezes. Allows me to get a better sleep and more productive day. Great value for your money and one of the highest quality allergy products currently on the market. The product simply works.",
+                        "I have been using the Allegra for a little over a month now and there has been a huge improvement in my allergies. I take it first thing in the morning and it provides relief all day. No more watering eyes or runny nose. It's a little more expensive than other brands, but is worth the cost.",
+                        "I basically live off of this product. Iâm allergic to my cats and since I refuse to get rid of them, I take this daily to manage the symptoms. It works great and I can definitely tell when it wears off. Super effective and the pills are not so big that they are hard to swallow.",
+                        "I take Allegra every morning to keep away the sniffling, sneezing, and the itchy watery eyes. When I miss a dose, ooooh am I sorry. ð¤§ I take it in the morning and it works all day and night without making me sleepy. Definitely a five star product."
+                    ],
+                    "negative_reviews": [
+                        "I made the mistake & bought this. I didnât see that it was 12 hour, so you have to take it twice a day. It works, but just taking two is a pain!",
+                        "This medicine is not cheap. And they sent me a bottle that expires in just 2 months. I received it only a couple of days ago. I think I should have been able to use it for more than 2 months. ð¤·ð»ââï¸",
+                        "See above. I have been taking Chlortrimeton for almost 50 years. It still works great. They stopped making time-released a while ago. I need something that will last more than 4 hours. This isnât it.",
+                        "I like that it works fast but it made me sleepy. Iâm retired but drive 2 times a week 45 miles one way to pick granddaughter up from highschool I could not take it on those days.",
+                        "More affordable than any competitors yet still very costly. Allergy relief: Helps tremendously with my severe outdoor & food allergies!"
+                    ]
+                }
+            },
+            {
+                "period": "2025-08",
+                "reviews": 80,
+                "average_rating": 4.538,
+                "average_sentiment": 0.884,
+                "cluster_distribution": {
+                    "6": 0.438,
+                    "0": 0.388,
+                    "5": 0.062,
+                    "3": 0.062,
+                    "2": 0.038,
+                    "4": 0.012
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Itâs Allegra. You know how most allergy pills you have to rotate brands because you sort of become temporarily resistant? For me Allegra isnât one of those, Iâve never had to rotate it like I do Claritin and Zertec, dunno why but itâs the reason I only buy Allegra anymore",
+                        "It is hard to find Allegra caplets (as opposed to tablets) in stores. Easy to order online. Expiration dates are far out (like a year out).. My allergist recommended taking Allegra & it does not make me drowsy.",
+                        "This is my go-to allergy medicine. It works fast and lasts all day without making me drowsy. It helps with both indoor and outdoor allergies and doesnât cause any side effects for me. A must-have during allergy season!",
+                        "I've got allergies to pollen. I take one of these in the morning and I'm covered for the whole day. It does not make me drowsy one bit.",
+                        "Alegra es un antihistamÃ­nico muy bueno Para personas mayores con alergias El Clariton y otros son buenos pero pueden causar desmayos . El Allegra trabaja sin perjuicio"
+                    ],
+                    "negative_reviews": [
+                        "This item can't be returned or a refund issued when it was not my issue. The package has been tampered with and is not safe to consume. A refund should be issued.",
+                        "Helps stop my more intense allergy symptoms, but it takes a few days of use, and I havenât found it to be overwhelmingly successful. Zyrtec has been the only allergy medication to alleviate all of my reactions.",
+                        "This took 2&half hours to stop my nose from running & dripping. Then it was affected with dripping off & on.",
+                        "The 12 hour is good, but I would just recommend getting the 24 hour one. For the price its better to get the other bottle. Same product just longer lasting.",
+                        "Itâs Allegra. You know how most allergy pills you have to rotate brands because you sort of become temporarily resistant? For me Allegra isnât one of those, Iâve never had to rotate it like I do Claritin and Zertec, dunno why but itâs the reason I only buy Allegra anymore"
+                    ]
+                }
+            },
+            {
+                "period": "2025-09",
+                "reviews": 48,
+                "average_rating": 4.333,
+                "average_sentiment": 0.833,
+                "cluster_distribution": {
+                    "6": 0.604,
+                    "0": 0.167,
+                    "5": 0.125,
+                    "2": 0.083,
+                    "7": 0.021
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "If your medical professional has recommended these, Iâve found Amazon offers the best price around. And yesâthese really are non-drowsy! That said, I strongly suggest checking with your healthcare provider before self-diagnosing any condition. Itâs also wise to consult your pharmacist to ensure there are no interactions with your current prescriptions. If everything checks out, grab them here and save some money!",
+                        "I've tried other brands that are supposedly generics of Allegra. Normally I'm fine with generics, but for some reason my sniffling sneezing and runny eyes don't respond to generics the same way as they do Allegra. I take it everyday especially during the spring months. With 100 of them in the package, plus bonus tissue, I think this is very reasonable.",
+                        "I am an adult woman with histamine intolerance. Many antihistamines make me groggy the next day, even when they say non drowsy. Allegra 24 hour made me groggy. This did not. I took it in the evening and I felt good the next day.",
+                        "Allegra was recommended to me by a friend. He has had great success with it but I havenât had the same success. Tried this after unsuccessful treatment with prescription product. Maybe Iâll try another product till I find one for me.",
+                        "This 60 mg Allegra works great for my spring and fall allergies and it doesnât sedate me like virtually everything else Iâve tried. Iâve definitely found the name brand to be better than the generics."
+                    ],
+                    "negative_reviews": [
+                        "I am one of the rare people, my MD tells.me that experienced gaps in my working memory on this drug. Once I stopped my memory returned to usual. I had no idea this was a possibility. Just FYI.",
+                        "I can't 100% say it won't work for everyone, because everyone is built differently. If it works for you then great, but if not like myself then find something else.",
+                        "If your medical professional has recommended these, Iâve found Amazon offers the best price around. And yesâthese really are non-drowsy! That said, I strongly suggest checking with your healthcare provider before self-diagnosing any condition. Itâs also wise to consult your pharmacist to ensure there are no interactions with your current prescriptions. If everything checks out, grab them here and save some money!",
+                        "I've tried other brands that are supposedly generics of Allegra. Normally I'm fine with generics, but for some reason my sniffling sneezing and runny eyes don't respond to generics the same way as they do Allegra. I take it everyday especially during the spring months. With 100 of them in the package, plus bonus tissue, I think this is very reasonable.",
+                        "I am an adult woman with histamine intolerance. Many antihistamines make me groggy the next day, even when they say non drowsy. Allegra 24 hour made me groggy. This did not. I took it in the evening and I felt good the next day."
+                    ]
+                }
+            },
+            {
+                "period": "2025-10",
+                "reviews": 77,
+                "average_rating": 4.494,
+                "average_sentiment": 0.873,
+                "cluster_distribution": {
+                    "0": 0.39,
+                    "6": 0.338,
+                    "2": 0.208,
+                    "5": 0.039,
+                    "9": 0.013,
+                    "4": 0.013
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "What impresses me the most is the speed and duration of its effect. The 12-hour formula provides constant and uninterrupted relief, allowing children to focus on their games and activities without the hassle of sneezing, itching or congestion. And the best of all is that it is a formula without drowsiness, which means that it does not affect your school performance or your daily energy.",
+                        "This Childrenâs Allegra works great for my kidâs allergies. Itâs non-drowsy, effective for both indoor and outdoor symptoms, and the grape flavor makes it easier for my child to take. I also like that itâs alcohol and dye free. Very reliable product!",
+                        "Once a day forever at least 10 years when I stop my hands itch and my head is plugged I do take half in milder seasons",
+                        "Allergy relief for days.I donât need to use very often but when I do it helps a lot with allergy relief,easy to swallow.Non drowsy.Would highly recommend.",
+                        "Esto es lo mejor para aliviar la alergia por polen que tiene mi hijo en las maÃ±ana tiene buen sabor y no da sueÃ±o"
+                    ],
+                    "negative_reviews": [
+                        "Arrived smashed up and broken, but unable to return. Don't buy since you can't return and don't know what you are getting.",
+                        "My product is fine, but some of the drivers are not paying attention to where I wanted my packages left. They left at the front door and I specifically said leave at side door!!!!!!",
+                        "I shift antihistamines after every other bottle, and it was the time for Allegra. I like it. Itâs not full-proof, but is helpful.",
+                        "What impresses me the most is the speed and duration of its effect. The 12-hour formula provides constant and uninterrupted relief, allowing children to focus on their games and activities without the hassle of sneezing, itching or congestion. And the best of all is that it is a formula without drowsiness, which means that it does not affect your school performance or your daily energy.",
+                        "This Childrenâs Allegra works great for my kidâs allergies. Itâs non-drowsy, effective for both indoor and outdoor symptoms, and the grape flavor makes it easier for my child to take. I also like that itâs alcohol and dye free. Very reliable product!"
+                    ]
+                }
+            },
+            {
+                "period": "2025-11",
+                "reviews": 459,
+                "average_rating": 4.229,
+                "average_sentiment": 0.807,
+                "cluster_distribution": {
+                    "6": 0.516,
+                    "0": 0.298,
+                    "1": 0.089,
+                    "2": 0.046,
+                    "5": 0.022,
+                    "7": 0.013,
+                    "8": 0.011,
+                    "4": 0.004
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I broke out in hives for an unknown reason and couldnât find anything to help. Tried Claritin and Zyrtec which did nothing for the itching, Benadryl helped but I couldnât take it during the day due to the drowsiness. Read the reviews on this Allegra Hives and thought Iâd give it a shot. Took about 8-9 hours to start feeling noticeable improvement on the first day, 2nd day woke up with itching (it was 22 hours since last dose) but within an hour after taking 2nd dose it greatly subsided. Iâm on day three and the majority of the hives are starting to disappear, doesnât last the full 24 hrs for me but itâs still well worth it because itâs the only thing that helped! Try it first instead of last like I did, Iâm very happy with this purchase! Update: 2 weeks later Iâm still hive free, doctor says to switch daily Claritin to the Allegra Hives, has been proven safe for every day use. Fantastic buy, Iâm back for my second box Iâm now back for the 3rd time, am going to put it on Amazon subscribe and save, much lower price here than at big box stores and drug store. Continue to be hive free without drowsiness or jitters",
+                        "We always like to have some allergy relief tablets around for our guests incase they forget to bring their allergy medication with them. This pack is great because it has a value pack and a smaller 24 capsule pack that you can use as a travel size. It's Allegra; most people that have allergies know if this works well for you or not; I'm not going to go too in depth regarding how well it works. You can always get the off brand option as well, these gelcaps are nice but I don't think there's any real difference between them and the pill version. I do wish they could cut some more off the cost by reducing packaging, the boxes are massive for the size of the bottles; I'm assuming this is because they already have the tooling setup for this size and the cost to change over would be substantial. Overall, this can be a good option if you want the name brand allergy relief. However it is expensive for that name brand increase compared to generic fexofenadine.",
+                        "For the longtime allergy sufferers in the world, Allegra is the de-facto standard for fexofenadine medication. If you have any concerns about the quality of generics, like I do, sticking with Allegra means quality that I feel comfortable with, especially for medication my family takes twice daily. So in the general sense, if you've been using Allegra without any problems, I don't see any additional value or effectiveness from buying the gelcap formulation. But if you're suffering from discomfort from the tablet pill, and you're willing to pay a premium, then the gelcaps may aid making your dosing more comfortable. But other than the tablet, the medication contained within is the same, so with the same effectiveness and functionality. If that's worth the higher price to you, then this is great. as for me, I have no issue with normal Allegra, so I'll be trying to save money with the normal caplet version. These are definitely pricy.",
+                        "I have many allergies and have to take anti-allergens every day, year round. I joke that Iâm allergic to my life but thatâs actually true - Iâm allergic to pollen, dogs, cats and birds - and Iâve got a dog, a parrot and am an avid gardener, so yeah, allergic to the life I choose to live. But, there are effective anti-allergens with no or few side effects, and Allegra is one of the best of them! These are super easy to use since itâs just one gelcap a day, and the gelcap format makes them easy to swallow. They donât make me sleepy or keep me from sleeping, which is a huge plus. This set of 2 bottles is 84 days worth of treatment, so the price is quite reasonable in my opinion.",
+                        "I have struggled with really bad allergies my entire life in the spring and fall season. I've tried just about every other solution out there and these by far have worked the best for me! I really enjoy just having to take the one in the morning and not have to be worried about anything else for the rest of the day. The capsules are also pretty small and easy to swallow which I appreciate. They act super fast, by the time I'm done with breakfast they've already kicked in, and there's no sleepiness or drowsiness! These are a great value, and a quality product!"
+                    ],
+                    "negative_reviews": [
+                        "I had hives from a allergic reaction to a antibiotic I tried several things And seen this online And decided to try it I wish I would've saved my money The first time I took it the itching did calm down about 3 hours after I took it Worked for about 4 hours then it was back full force The 2nd night it did NOTHING! The 3rd time same thing NOTHING Not saying it won't help hives from other things But it doesn't do no good for nothing For hives from a allergic reaction to a medicine So I can't give a good review I wouldn't give it 1 star really I wish I could've got my money back. Because the regular Allegra for allergies Doesn't work for me either But thought it's for hives So maybe this will be different Nope! Actually the active ingredients in the regular Allegra Are the same in the Allegra for hives Witch is odd And seems boogies to me!?!",
+                        "I didn't do my research before buying...the active ingredient in this \"hives\" Allegra is the exact same, at the same dose, as the active ingredient in regular Allegra - but (when I bought this product, at least) the \"hives\" Allegra costs $3.00 more. I already knew regular Allegra doesn't work for my hives, as I take regular Allegra daily for my dog allergy, which it does a great job with, yet recently developed major hives. I assumed this was something different...nope! Same Allegra! As \"hives\" Allegra, this gets one star from me, partly because it doesn't work for hives for me and partly because it seems deceptive or just weird to repackage and even rename the product and charge more for it! (As regular Allegra, for my dog allergy, it gets five stars!)",
+                        "Iâm only giving it a low score because it is the exact same product, just marked up for being supposedly specially tailored to hives. I bought it because Iâve never had hives and had a pretty severe reaction and I thought this might help. I probably should have looked closer before I bought it, but when I received the box and compared it to the Allegra I already had, there was no difference in active ingredients. From what I can see, most Allegra and off brands are just 180mg of fexofenadine. I suggest looking for the lowest cost per pill of 180mg fexofenadine if you want this.",
+                        "Other reviewers have noted that Allegra and Allegra Hives are the same product. Desperate, I tried Allegra Hives, which I wouldn't have done if I had known it was the same as Allegra, which has never worked for me even for regular allergies. I wish I had read the reviews before I blew 18 bucks on the deceptive product. It says that it reduces hives and relieves itching due to hives. Two doses in, nothing has been reduced or relieved.",
+                        "I had high hopes but this medicine did not provide me with relief. I know every person is different. This medicine made me feel sort of strange, and I wasn't able to sleep all night. I'm very sensitive to a lot of medicines so this is just one more I know I cannot take. Other antihistamines help only slightly so perhaps I am just resistant to them? Good luck if you are dealing with hives, they are no fun!"
+                    ]
+                }
+            },
+            {
+                "period": "2025-12",
+                "reviews": 120,
+                "average_rating": 4.308,
+                "average_sentiment": 0.827,
+                "cluster_distribution": {
+                    "6": 0.45,
+                    "0": 0.308,
+                    "2": 0.083,
+                    "1": 0.067,
+                    "5": 0.05,
+                    "3": 0.033,
+                    "7": 0.008
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "My whole family has awful allergies (seasonal, pet, dust, mold, you name itâ¦) except for me. Lucky, right? I was asked to keep allergy meds on hand for when they visit me because I have pets and donât clean as obsessively as they do. The facial tissues were kind of random, but everyone has expressed gratitude at me having these and they seem to work well for everyone that has taken them!",
+                        "I basically live off of this product. Iâm allergic to my cats and since I refuse to get rid of them, I take this daily to manage the symptoms. It works great and I can definitely tell when it wears off. Super effective and the pills are not so big that they are hard to swallow.",
+                        "Works for my hard to handle all year allergies. I really like the gelcaps because they seem to work faster and last longer for me than other things. I have really noticed difference since taking them. Also they donât make me sleepy so can still have a productive day.",
+                        "I take Allegra every morning to keep away the sniffling, sneezing, and the itchy watery eyes. When I miss a dose, ooooh am I sorry. ð¤§ I take it in the morning and it works all day and night without making me sleepy. Definitely a five star product.",
+                        "Works great for my grandchildren who are allergic to my cats. One is also allergic to dogs and breaks out so Allegra to the rescue and it takes care of all the symptoms. I have no dogs but other relatives do."
+                    ],
+                    "negative_reviews": [
+                        "If youâre like me, you get hives with pretty much every allergen uptick. I have been looking for something that is specifically for hives in hopes that it will help better than normal allergy meds. Got this thinking it was different than my original Allegra. Unfortunately, this is literally the same exact thing. Donât let the âHivesâ label convince you to buy or pay more. Itâs the original Allegra with a different label. Works okay for hives but does not prevent or lessen them when there are high allergens in the air.",
+                        "I had the hives and was desperate. I was itchy from head to toe and was desperate to find something to work. When I saw this was advertised as âhivesâ I jumped on it. After consuming, it did not work at all. I was still itchy and had a fierce rash. I think this is a marketing tactic and I would not purchase again.",
+                        "See above. I have been taking Chlortrimeton for almost 50 years. It still works great. They stopped making time-released a while ago. I need something that will last more than 4 hours. This isnât it.",
+                        "Zyrtec es un poco mejor, en el sentido que esta tienes que ser muy puntual a la hora de tomÃ¡rtela , si no te la tomas a las 24 hrs te empieza a dar la alergia, mientras que Zyrtec dependiendo la alergia puedes durar hasta 2 dÃ­as sin tomarla",
+                        "Helps stop my more intense allergy symptoms, but it takes a few days of use, and I havenât found it to be overwhelmingly successful. Zyrtec has been the only allergy medication to alleviate all of my reactions."
+                    ]
+                }
+            },
+            {
+                "period": "2026-01",
+                "reviews": 30,
+                "average_rating": 4.933,
+                "average_sentiment": 0.983,
+                "cluster_distribution": {
+                    "6": 0.433,
+                    "0": 0.4,
+                    "1": 0.067,
+                    "8": 0.067,
+                    "2": 0.033
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Within the past coupe of years, I've come down with a weird condition where I'll get itchy, bumpy hives that take on weird squiggly patterns over random parts of my body, most commonly near my armpits, thighs, or chest. I have no idea what causes them as there are no patterns with my diet or levels of stress as my self diagnosed Anti-Histamine intollerance suggests. BUT, these do the trick and give me near complete relief for several hours! Just about the 24 hours that are advertised. Medicine is often over priced, but these had their quality and lasted me a bit. Would buy again. The packaging is overkill, though. Too much cardboard for such a SMALL LITTLE CONTAINER that they're actually in. Very easy to fit in a purse.",
+                        "As I get older, my metabolism changes from decades of burning sun and -20 degree Fahrenheit winters and I started to itch at night. Consulted the internet itchers and several people said they worked well. These are the 180 mg tabs and will open your nose and airway so you can breathe and quells the itching. These work for me and your experience may differ but they are a great antihistamine anyway.",
+                        "My son is very allergic to our kitten. Ever since he started taking the Allegra, he has been so much better. It lasts easily through the next pill the next day. Itâs a pill so thereâs no taste and itâs a normal size pill. It works great and itâs well worth the money!",
+                        "Great value for money and relief! I get hives often and these helped keep them away and didn't cause drowsiness!",
+                        "My friend asked me to order this for her I guess it works cuz she orders it all the time"
+                    ],
+                    "negative_reviews": [
+                        "Within the past coupe of years, I've come down with a weird condition where I'll get itchy, bumpy hives that take on weird squiggly patterns over random parts of my body, most commonly near my armpits, thighs, or chest. I have no idea what causes them as there are no patterns with my diet or levels of stress as my self diagnosed Anti-Histamine intollerance suggests. BUT, these do the trick and give me near complete relief for several hours! Just about the 24 hours that are advertised. Medicine is often over priced, but these had their quality and lasted me a bit. Would buy again. The packaging is overkill, though. Too much cardboard for such a SMALL LITTLE CONTAINER that they're actually in. Very easy to fit in a purse.",
+                        "As I get older, my metabolism changes from decades of burning sun and -20 degree Fahrenheit winters and I started to itch at night. Consulted the internet itchers and several people said they worked well. These are the 180 mg tabs and will open your nose and airway so you can breathe and quells the itching. These work for me and your experience may differ but they are a great antihistamine anyway.",
+                        "My son is very allergic to our kitten. Ever since he started taking the Allegra, he has been so much better. It lasts easily through the next pill the next day. Itâs a pill so thereâs no taste and itâs a normal size pill. It works great and itâs well worth the money!",
+                        "Great value for money and relief! I get hives often and these helped keep them away and didn't cause drowsiness!",
+                        "My friend asked me to order this for her I guess it works cuz she orders it all the time"
+                    ]
+                }
+            },
+            {
+                "period": "2026-02",
+                "reviews": 58,
+                "average_rating": 4.017,
+                "average_sentiment": 0.754,
+                "cluster_distribution": {
+                    "6": 0.31,
+                    "0": 0.19,
+                    "5": 0.155,
+                    "2": 0.121,
+                    "1": 0.121,
+                    "3": 0.086,
+                    "7": 0.017
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "My allergist recommended this to me over other over the counter allergy medications. Iâm allergic to trees and grass. I take this daily and breathe so much better because of it!",
+                        "This is a great deal on Allegra compared to big box stores and pharmacies around my house. The packaging and the tablets are exactly the same so why pay more?",
+                        "Have trouble swallowing pills. Children's liquid Allegra seems to work almost as well as pills and I don't have to deal with swallowing pills.",
+                        "I take a med that makes me itch all over. Was told to try this, Works well. seems fresh. Is a good product.",
+                        "This product is well worth itâs price to me. I have 5 cats and an allergic reaction to cat dander. They are all over me and sometimes sleep with me. This works for me, as a cat lady, with no side effects at all. Also it works quickly for visitors, if they get itchy eyes etc. I have a friend that asks for one when she comes in, as she is allergic to cats and loves petting my mine."
+                    ],
+                    "negative_reviews": [
+                        "I'm sure the medication works just fine, but this flavor is absolutely terrible. I initially bought it for my son but ended up having allergies myself, so I gave it a try. It has a horrible chemical like taste and I had to spit it out immediately. There was no way my son was going to take these. Ended up throwing in the garbage and going with Zyrtec.",
+                        "This company should be ashamed of a product that they promote for children. Aspartame a well documented carcinogen and other UNSAFE additivesâ¦really!!?? Please be informed and read all ingredients before purchasing. Not only that but the taste is unbearable.",
+                        "This stuff tasted horrible. There is nothing orange cream about it. It tastes like chewing up an aspirin. My daughter hated it. The liquid berry is much better.",
+                        "This medication is expiring in 5 months. Itâs very disappointing to receive âas neededâ medication that doesnât give you at least 1 year to use. It doesnât help that you canât return unopened product too.",
+                        "Item was shipped in a padded envelope & arrived completely crushed. Tablets are not usable as they are crushed to powder. Poor packaging from seller. Refund or replacement is needed these are not cheap meds!"
+                    ]
+                }
+            },
+            {
+                "period": "2026-03",
+                "reviews": 41,
+                "average_rating": 4.878,
+                "average_sentiment": 0.97,
+                "cluster_distribution": {
+                    "6": 0.683,
+                    "0": 0.22,
+                    "3": 0.098
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Last a while! My husband had horrible allergies and this helps him amazingly and it doesnât make him sleepy at all.",
+                        "I think it would serve me better to take earlier in the day. Taking it later in my case help break up the congestion while trying to rest. Take it early is my note to self.",
+                        "What can I say? My kid loves the taste. Itâs the only medicine she actually asks for which is great because she uses it daily in the spring.",
+                        "I like the product but the seller did not send all gelcaps. Sent only 24 gelcaps and the rest were large tablets, which I don't like and did not order. I would not buy from this seller again."
+                    ],
+                    "negative_reviews": [
+                        "I like the product but the seller did not send all gelcaps. Sent only 24 gelcaps and the rest were large tablets, which I don't like and did not order. I would not buy from this seller again.",
+                        "Last a while! My husband had horrible allergies and this helps him amazingly and it doesnât make him sleepy at all.",
+                        "I think it would serve me better to take earlier in the day. Taking it later in my case help break up the congestion while trying to rest. Take it early is my note to self.",
+                        "What can I say? My kid loves the taste. Itâs the only medicine she actually asks for which is great because she uses it daily in the spring."
+                    ]
+                }
+            },
+            {
+                "period": "2026-04",
+                "reviews": 104,
+                "average_rating": 4.846,
+                "average_sentiment": 0.962,
+                "cluster_distribution": {
+                    "6": 0.615,
+                    "0": 0.163,
+                    "1": 0.067,
+                    "2": 0.058,
+                    "3": 0.038,
+                    "7": 0.029,
+                    "5": 0.019,
+                    "4": 0.01
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I've suffered from allergies all my life, and Allegra has been a lifesaver -- the least sedating of the antihistamines, and that includes the other supposedly non-sedating antihistamines. First generation anthistamines like Benadryl are the worst -- they really knock you out and I don't think most would want to take them regularly. (I was told by my allergist, however, that in an emergency, Benadryl is the fastest acting.) The newest generation of antihistamines doesn't cross the blood/brain barrier so causes less sedation. This bundle has a twist for it, a single pill for travel! My first reaction was that it was a cute gimmick, but in fact it's in a robust blister pack that you can put in your wallet or purse and use if you find yourself sneezing and happen to be away from home and serves as a useful backstop. East to recommend, as long as per unit prices are comparable -- in my experience, Allegra is frequently on sale in various forms.",
+                        "To me, this looked like a pretty reasonable value for a 90-count bottle of allergy pills. This set also included a single-dose travel pack, which should come in handy for me when Iâm out on an overnight business trip. I have taken Allegra for many years, and I appreciate how well it has worked for me. Iâm so glad they have this 24-hour pill that can last me the whole day. I also appreciate this non-drowsy formula of antihistamine, because I need to be able to concentrate on work and other daily tasks without feeling tired or worn down. These pills are easy for me to incorporate into my daily routine. Iâm really happy with how well these Allegra pills have helped me so far, and I could easily see myself reordering this particular set again. I have no reason at the moment not to give these five stars.",
+                        "As someone who relies on daily allergy medication, finding a reliable non-drowsy solution is keyâand this product is a five-star winner. The active ingredient, Fexofenadine Hydrochloride (180 mg), is the same powerful, non-dsedating antihistamine found in major brand names, but at a fantastic value. Taking one tablet daily provides full 24-hour relief that effectively handles my toughest indoor and outdoor allergy symptoms, including sneezing, itchy eyes, and nasal congestion. The absolute best part is that I can rely on this medication to be truly non-drowsy. It allows me to stay focused and alert throughout my workday without any of the sedating effects that come with older antihistamines. If you struggle with seasonal allergies or year-round pet dander and need a dependable, all-day solution that won't compromise your energy or focus, this is the one to choose. It offers excellent value for professional-strength relief.",
+                        "Really great! My first time trying Allegra, but I'm assuming it's not much different than any of the other ones. I feel like it worked like Zyrtec but without the drowsiness and maybe not as instantaneous (but you can never tell if medicines that knock you out actually work or you're just..ya know..sleep). A quick google search did let me know that is pretty much the case. I'm not totally sure if allegra will be the go-to for me because I have pretty severe allergies, but it may be a good option for when my eyes are irritated and I can't use drops. I also really appreciated that it was a gel cap so there wasnt a weird aftertaste AND it came with a travel size for my purse.",
+                        "I have used Allegra for many years, but I have never tried the 24-hour gelcaps before. They are fantastic! We are currently fostering a 4 week old kitten that loves to snuggle and get right up in your face, which is really sweet but also really terrible for my allergies. I woke up extremely stuffy and with itchy eyes, and within an hour of taking one of these, I can breathe normally again and feel so much better. These will definitely be a must to keep on hand. It is non-drowsy, and this pack comes with a bottle of 60 for the gelcaps and then a separate single pill which is perfect to keep in your purse for whenever you may need it."
+                    ],
+                    "negative_reviews": [
+                        "I have had allergies all my life. Things like weeds, grasses, dust, mold, and a number of environmental allergens have been problems for me for as long as I can remember. I did go through three rounds of desensitization programs as a kid taking allergy shots. Then, as a young adult, I tried the sublingual drops protocol, but Iâm not sure any of it did me much good. So, Iâve been taking antihistamines for decades. Allegra has been my usual go-to daily pill for the last several years. It has worked well for me, and I really appreciate that they have this non-drowsy formula that doesnât slow me down or tire me out during the day. These 24-hour gelcaps are really easy for me to incorporate into my daily routine. The gel coating makes them easy for me to swallow, and I really like that they last the whole day. I have tried the tablet form of these pills before, but I prefer this gelcap style. It has the distinctive purple and white color that makes it easy for me to know what it is when mixed among my other daily vitamins and supplements in my weekly pill case. Iâm very pleased with how these allergy pills have worked for me so far in taking them. I also appreciate that they included a little bonus single-tablet travel pack, which should come in handy for when Iâm out on a day trip. However, I have to say that for 60 gelcaps and a single tablet, I just donât think this is that great of a value. I usually order the 100-count bottles, which are a more budget-friendly option for me. That's really the only reason for giving these four stars.",
+                        "Iâm allergic to my 15 yr old cat, my sons 2 yr old service dog â¦.my doctor order same dosage under a medical label name with side note âAllegra â the cost at the pharmacy is much moreâ¦.Amazon is much better price and no cost for gas.",
+                        "I have been on Allegra for my sulphite food allergy for almost 15 yrs. It keeps the hives away and saves my life! I have this on subscription and was disappointed that they recently reduced the quantity.",
+                        "I needed a decongestent for my cold. But couldn't get to the pharmacy. So I bought this instead. Even though it's for allergies, it still works. Pretty good. It's just not strong enough for chest congestion.",
+                        "I give these to my dog for sensitive skin and it works really well. Just one pill a day for an 85 pound doberman pinscher."
+                    ]
+                }
+            },
+            {
+                "period": "2026-05",
+                "reviews": 72,
+                "average_rating": 4.861,
+                "average_sentiment": 0.965,
+                "cluster_distribution": {
+                    "6": 0.653,
+                    "0": 0.278,
+                    "3": 0.028,
+                    "1": 0.014,
+                    "2": 0.014,
+                    "4": 0.014
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Allegra Hives es un antihistamÃ­nico que ofrece alivio efectivo de la urticaria (ronchas) durante 24 horas. En general, el producto cumple muy bien con lo que promete: ayuda a reducir la picazÃ³n, el enrojecimiento y la inflamaciÃ³n asociados a las colmenas, permitiendo continuar con las actividades diarias con normalidad. Uno de sus mayores beneficios es que no provoca somnolencia en la mayorÃ­a de los casos, lo que lo hace ideal para uso diurno, trabajo o estudio. Las tabletas son fÃ¡ciles de tomar y el alivio se percibe de forma progresiva y constante a lo largo del dÃ­a. Es una opciÃ³n confiable para quienes sufren de urticaria frecuente y buscan control prolongado sin efectos secundarios molestos.",
+                        "This is the 5th allergy pill Iâve tried and it worked in less than 2 hours and I am so relieved and happy. I would give 100 stars if I could. I was sneezing, had watery eyes, and blocked ears and they all went away and my friend that was over said I did a 180 since she was over.",
+                        "As always, I need this or I would be miserable. I got two of these as this was the cheaper route and gave me an extra 20 more pills than it would have had I gotten the 70 count. I love Allegra!",
+                        "I like to breathe who doesn't. This weather is great with all the pollen in the air. Not so much for me. I have to take something daily, allegra is my choice. The others didn't work, not at all.",
+                        "I take care of my seasonal allergies with this non- drowsy medication. Allegra does not cause me to feel foggy but it does stop my sneezing and post nasal drip . Works for me!"
+                    ],
+                    "negative_reviews": [
+                        "No warning on label that if taken for a long time, should wean yourself off over a number of weeks to avoid side affects.",
+                        "I heard great things about Allegra because itâs known for not making kids drowsy, which was the main reason I chose it. Everything about the packaging was great. The bottle comes with a small dosing cup that has the Allegra label on it, which makes measuring and pouring the liquid easy and convenient. I purchased the grape flavor. The only issue for us is that my child doesnât like it, so she refused to take it. Because of that, I canât really say whether it helped with her allergies or not. Just something to keep in mind: the liquid is a thicker white consistency, and some kids may not like the texture or taste. Iâm hoping my child might be more open to it in the future, since I do like that itâs a non-drowsy option.",
+                        "I've been taking this product before it became over the counter. It works well for my allergies. The decongestion variety is very expensive now.",
+                        "Allegra Hives es un antihistamÃ­nico que ofrece alivio efectivo de la urticaria (ronchas) durante 24 horas. En general, el producto cumple muy bien con lo que promete: ayuda a reducir la picazÃ³n, el enrojecimiento y la inflamaciÃ³n asociados a las colmenas, permitiendo continuar con las actividades diarias con normalidad. Uno de sus mayores beneficios es que no provoca somnolencia en la mayorÃ­a de los casos, lo que lo hace ideal para uso diurno, trabajo o estudio. Las tabletas son fÃ¡ciles de tomar y el alivio se percibe de forma progresiva y constante a lo largo del dÃ­a. Es una opciÃ³n confiable para quienes sufren de urticaria frecuente y buscan control prolongado sin efectos secundarios molestos.",
+                        "This is the 5th allergy pill Iâve tried and it worked in less than 2 hours and I am so relieved and happy. I would give 100 stars if I could. I was sneezing, had watery eyes, and blocked ears and they all went away and my friend that was over said I did a 180 since she was over."
+                    ]
+                }
+            },
+            {
+                "period": "2026-06",
+                "reviews": 553,
+                "average_rating": 4.476,
+                "average_sentiment": 0.869,
+                "cluster_distribution": {
+                    "0": 0.42,
+                    "6": 0.407,
+                    "2": 0.071,
+                    "5": 0.049,
+                    "4": 0.022,
+                    "1": 0.013,
+                    "3": 0.011,
+                    "7": 0.005,
+                    "8": 0.004
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Okay. So, our 3.5 yo daughter has anaphylactic food allergies so we see a pediatric allergist. She also has some mild, run of the mill, seasonal/environmental allergies...like live oak, pollen, etc. Children's Chewable Allegra is the ONLY antihistamine we will use with her. It's been wonderful for us. Our daughter is NOT good with taking medications, even liquids, and she takes this chewable as if it were a piece of candy...that easy. It tastes amazing too...I tried it first. I'll go into all of this below.... A few things to note.....please keep in mind that I am NOT a doctor, I am only relaying our experiences and what we have been told by our Pediatrician, Pediatric Allergist, her colleagues, and her staff.... Claritin and Zyrtec have a side effect in common.....personality changes (Singulair also has a very small chance of this side effect too though we have not had to use that medication so far). This is because both of these medications cross the blood-brain barrier. Personality changes with these two medications happen in children more often than most are aware. Both medications caused major personality changes in our daughter. She was extremely grumpy/moody, angry/aggressive, and extremely emotional (not typical for her). She even told us \"I don't feel like myself\" several times - to hear that from our 3.5 year old was absolutely heartbreaking. It was terrible. The Claritin was tried for seasonal allergies. It was stopped after personality changes and temporarily replaced with a decongestant until the stuffies were gone. The Zyrtec was tried to relieve a persistent case of viral hives brought on by a very nasty cold...her first cold or sickness ever (she is never sick). The Zyrtec was even worse than the Claritin. We hung in with the Zyrtec for a month. Stopped for a week to see if the hives had been suppressed long enough to be gone for good. They were not. They came back. And there was NO way we were doing Zyrtec again......in comes Allegra..... We found they had a chewable and that's what the doc said to try. It has been WONDERFUL. I have my daughter back to her sweet, happy self. The taste is so much better too. Zyrtec was similar, with Citrus flavor, and it tasted good but it left a pretty nasty aftertaste. The Allegra is Orange Cream and tastes way better than Zyrtec with no aftertaste. It's awesome! The only drawback is that the Allegra chewable is a 12 hour, so it's taken in the morning and at night. But that's a small concession and one I'll happily take. Allegra does not cross the blood-brain barrier and thus there are no chances for personality changes (as told to us by our pediatric allergist and pediatrician). Thank G-d. Our pediatric allergist told us that, concerning suppression of hives, Zyrtec is the strongest, Claritin is in the middle, and Allegra comes in third. So, it took almost 48 hours for the Allegra to get in her system well enough to make the breakthrough hives go away and stay away. After that 48 hour mark, they were suppressed. They are still suppressed (this is all recent). So, even though the Allegra is 2 times a day, it works well once in the system and it tastes really good without the aftertaste. It dissolves very quickly after you crunch on it too. And, it's much easier to break in half (our daughter likes to do two halves). It doesn't really crumble like the Zyrtec did. Our daughter is super picky, so the fact that she takes this without any fight or questions is wonderful. Doc said once the hives are suppressed for a while, she can go to half a pill every 12 hours or any combo that maintains until they are gone for good without antihistamines. Bottom line....if your child has struggled with seasonal allergies, food allergies, hives, or anything requiring an antihistamine, and you have had issues with personality changes or mood issues with Claritin and/or Zyrtec...Allegra is what you need. ***The medication DOES say ages 6 and up. We were directed by a physician to give this to our daughter. You should ALWAYS seek medical advice from your physician before trying this. For reference, our daughter is 3.5 years old and is 44 pounds and her pediatric allergist directed us to give her one full pill in the AM and one in the PM. Please speak to your physician before making any decisions. I am only offering our experiences with what we have gone through. Hope this information has been helpful! Good luck!*** ****UPDATE**** So, we started our daughter on the Children's Chewable Allegra mid February of 2019. Today (22 April 2019) she is no longer on this medication - though we do keep a box on hand at all times just in case. We were able to stop the Allegra a little over a week ago. Her case of viral hives has NOT returned, thank G-d. Just as a side note, she had what's called Traveling Hives. They were small, almost like a gnat or flea bite. It would be one small spot; or sometimes three or four small spots in a tight group. I initially thought they were bites. We live in the Deep South (cars are lime green/yellow smothered in pollen every stinkin' day here) and we are outside a lot plus, we have an indoor/outdoor cat so we have to watch out for the rogue flea. I would rub some Benadryl cream on the spot(s) and they would go away only to look over 5 or 10 minutes later and see another spot somewhere else on her body - or see her scratching. These weren't what most think of as hives. They were NOT full body - they weren't large, angry red splotches. So at first, we weren't aware they were actually hives. It wasn't until I reached out to a fellow food allergy mom and sent photos; and she suggested hives. Next came a confirmation from her Pediatric Allergist. Just. Ugh. Anyway.....the Allegra was AMAZING...and will be our Go-To if this ever happens again. I saw some reviews about a nasty aftertaste. This is NOT our experience. Our daughter is a SUPER picky eater. If it's the least bit nasty or bitter (even an aftertaste) she will refuse it and the jaws of life wont be able to pry her mouth open. I took a whole pill to taste. It was yummy and I experienced NO aftertaste whatsoever. What our daughter preferred to do was to have me break the pill in half (easy to do by hand) and she would chew up the half and then she takes a sip or 2 of milk and then she takes the second half...again followed by a sip or 2 of milk. Perhaps this eliminated any hint of aftertaste for her. But, if there was an aftertaste...she would have VERY loudly let me know about it, lol. She never once complained. As far as dosing - she will be 4 end of May this year. She is VERY tall and slender. She is taller than every single 5 year old we know. She weighs 44 pounds, and a full pill was fine for her twice daily (as directed by her pediatric allergist). She took one full pill around breakfast (with milk) every morning and the second full pill right before crawling in bed at night (always with her milk lol). It never hyped her up nor made her sleepy. One thing to note - she is VERY sensitive to any medication, like Daddy. So, we did notice a slight increase in grumpiness at times toward the end of the course. Her big brother would do something and it would agitate her a bit more than normal. Nothing huge. We stopped the Allegra a little over a week ago and after 24 hours of no Allegra, that little bit of extra agitation vanished. It could have had nothing at all to do with the Allegra, or it could have. This will NOT stop me from immediately giving her the Allegra again if its needed. It appeared the last week or two out of the 2 months she was taking it. Another side note....for the every day seasonal (more like year round down here lol) allergies [pollen, live oak, etc] she takes Flonase (prescription - though I think it's the same dose as the OTC)....one spray in each nostril once or twice daily depending on how bad. We do that right before bed every night. If it's bad, morning and night - still one spray per nostril morning and night. It seems to keep her \"environmental\" allergies under control. Like I said, she is very sensitive to medications so that may be why it works so well alone for our girl. The Allegra we will only use if hives are an issue again; or unless directed to use it again by one of her doctors. I stand by my original review - The Children's Chewable Allegra is WONDERFUL! If you have experienced mood/personality changes in your child (or yourself) after using Zyrtec or Claritin (or even Singulair) then this is the antihistamine you need to get! Again, good luck and I hope this info has helped you!****",
+                        "I randomly started breaking out in hives for absolutely no reason. No change in skincare, toiletries, laundry soaps etc. no environmental changes other than the season changes. It was getting to the point that I would itch and scratch until I was covered in scabs. Nothing worked. Started taking the Allegra for hives, and instantly starting on day 1 the itch and hives disappeared!!! They are non drowsy and provide no side effects.. itâs been over a week now, taking 1 a day and I have been give and itchy free. 10/10 I will continue to use this everyday for as long as this weird new condition of mine wants to be a burden.",
+                        "This product really works! My \"seasonal allergies\" are all year long, as I heat with wood, and hauling wood in several times each day, close to my nose, will send me over the moon. Especially if there's even a whiff of mold in a stick of wood. I know what's coming, so take one tablet, and I'm good for 24 hours. Wouldn't know what to do without it, no matter what the season. Now, in springtime, with all the trees around my house and pollen levels off the charts, I couldn't survive without it, especially when I'm outside trying to get gardening done.",
+                        "OK, So the bottle contains 20 tablets...which are plenty for my son. He only uses it when allergies bother him, but can be taken every day. No confusion or headaches, dizziness or drowsiness. Doesn't affect sleep. Takes care of problem and life moves on. I have used it too and I am always on alot of medications and it works well and safe. It is a small bottle that I purchase and tablet comes right out. Allegra is not cheap... It can be anywhwere from $20-$29 for this bottle... so worth it.",
+                        "We live in a very rural area with TONS of trees. As soon as Spring hit, My husband and I both were miserable! I have never tried Allegra, but I am really glad I did. Only 1 dose a day. Not a good idea to take in the evening as your thoughts will run wild ( at least mine did ) Now I take it with my morning vitamins and the relief is incredible. I got a 100 ct pk PLUS, there was a coupon. My new choice from here on out!"
+                    ],
+                    "negative_reviews": [
+                        "The pills are what you would call hard compared to many tablets you would take. They are not fast acting if you are looking for immediate allergy relief. So, what do you do? You take them at night thinking that your morning allergies will never show 8 hours later.....they still do! If this product is for relief it is only marginally at best. I've contacted Allegra about this. Their repsonse was to consider it a \"side effect\" rather than an issue with their product. What a waste of money",
+                        "I've been having terrible airborne allergies this spring so I tried Allegra. I haven't noticed any benefit yet after 10 days. The post nasal drip , coughing and sneezing has not decreased with Allegra. Very disappointed.",
+                        "This allergy medicine is not working for the allergies I currently have. The return window closed so I am unable to return . I want my money back!!!!!",
+                        "The claim is non drowsy but for me it didnât work. The ingredients are all on the side of drowsy. Not recommended for daytime use",
+                        "This doesnât really workâ¦ childrenâs Benadryl works better than this stuff donât buy it even if itâs life or death."
+                    ]
+                }
+            },
+            {
+                "period": "2026-07",
+                "reviews": 71,
+                "average_rating": 4.746,
+                "average_sentiment": 0.937,
+                "cluster_distribution": {
+                    "6": 0.648,
+                    "0": 0.211,
+                    "5": 0.056,
+                    "3": 0.042,
+                    "2": 0.028,
+                    "8": 0.014
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I try to opt for the store brands due to the price difference but I saw these at a great price and Allegra has worked well for me in the past. The brand I feel like should not make much of the different cause its the same drug and amount but the generic ones I had were just not doing much for me. So I got these and I have noticed quite a difference in my allergies. I read on the reviews some people have had issues with this particular one. I have not had any problems and as you've read these have worked better than what I had before (same drug just different brand name). What I got was just as pictured and it did come in the manufactures box, not just the bottle it self that was put in the packaging to ship. I'll definitely be buying more soon since I'm going straight into allergy season. I have seasonal allergies.",
+                        "We have been using Allegra for our daughter for many years for year round allergies. For her, it works much better than the other brands of childrens allergy medicine. It is non-drowsy and also doesn't cause the opposite. It costs more than the alternatives. This is because the patents on the liquid childrens Allegra haven't expired yet so there aren't any generics available to help bring the price down. This will change in a couple years when the relevant patents expire. However, if you use it regularly then the 8 ounce bottle is worth it. It would be nice if Amazon made the 8 ounce bottle available with subscribe and save. As of the time I am writing this, it is not.",
+                        "If you ever took Seldane and which was taken off the market due to side effects when taken with Erythromycin than you probably remember it was one powerful antihistamine. The only one that even comes close is Allegra. My doctor told me that it is made by the same pharmaceutical company that made Seldane and that the chemical structure is almost identical. It works better for me than Zyrtec, Clairitin and anything else still on the market. Works great if you suffer from chronic sinusitis and does not make you sleepy nor does it make you hyper. Works great during all pollen seasons especially ragweed season. It also doesn't cause a dry mouth like Zyrtec did.",
+                        "As far as I am concerned, Allegra works perfectly well. However, I also want to post this review to tell people that my experience with this seller (Pietro Enterprises) was not so negative as it happens to have been for other customers. Perhaps I simply got lucky, but my product arrived sealed, in its original box, and with a fairly acceptable expiration date (I purchased it on March 4, 2016 âit expires 02/2018) I am posting two photos. This is not to doubt other peopleâs negative reviews (I have been there too, sadly!), but simply to add my own experience to the mix. I paid $22.87/70pills.",
+                        "I was unsure about purchasing because of the review about expired Allegra but for the price I decided to try anyway. I ordered this the beginning of Dec 2013. The package arrived in just a few days. The expiration date is Sept 2014. When I saw this I ordered 2 more packs of 2. They arrived promptly too. To my surprise the expiration date on all of these is July 2015! So I now have a 6 months supply of the Brand Allegra and paid less than the generic versions I bought in the past. Will definitely purchase again. Thank you."
+                    ],
+                    "negative_reviews": [
+                        "I was disappointed when I received my bundle. I only received part of the bundle (the 100 tablet bottle) and not the package of 24 additional tablets.",
+                        "This is what my MD Rx'd to me for runny nose. Not allergy related but it is an antihistamine, so it works. I keep it handy for bad days or for cold symptoms, but rarely take it. It seems if I have symptoms this stuff will help, it comes back 5x worse when it wears off. That isn't unique to this allergy medicine, for me. Best I don't take it if I don't have to. But my MD, and he's a good one, believes this is the best stuff out there. If you believe my trust in my MD... this stuff is for you. Seems pricey to me. Amazon usually does have the best price though. I've stopped searching around. Besides, I think they guarantee best price, don't they? I think so... Disclaimer... always consult your MD for everything. Never take anything without consulting a professional. (They think we're stupid, and some folks are... or they wouldn't have these ridiculous warnings).",
+                        "Allergies works best for my allergies and I like the 12 hour because I get too dried out with the 24 hour. The product is great - shipping could be better. Envelopes are **not** best shipping practices for little cardboard boxes. They were all squashed in shipping but thanks to the blister packaging of the actual tablets, the tablets were in perfect condition.",
+                        "Iâve used Allegra for many years. I can only use the gelcaps. The tablet is too hard to swallow and even the caplet is. Iâve looked at the many generic and store brands but they cost almost the same amount or donât come in gelcaps. So by default I keep using the Allegra 24. They cost more than most of my rx!",
+                        "Cordial saludo. El 2 de marzo hice el pedido de una caja de Allegra de 40 tabletas, y me llegÃ³ de 30 tabletas, como se ve en la foto. Gracias....."
+                    ]
+                }
+            }
+        ],
+        "review_volume": {
+            "current": 624,
+            "previous": 176,
+            "change_pct": 254.55
+        },
+        "rating": {
+            "current": 4.507,
+            "previous": 4.852,
+            "change": -0.345
+        },
+        "sentiment": {
+            "current": 0.877,
+            "previous": 0.963,
+            "change": -0.086
+        },
+        "emerging_clusters": [
+            {
+                "cluster": 0,
+                "share": 0.315,
+                "change": 0.095
+            },
+            {
+                "cluster": 5,
+                "share": 0.052,
+                "change": 0.043
+            },
+            {
+                "cluster": 2,
+                "share": 0.049,
+                "change": 0.013
+            },
+            {
+                "cluster": 8,
+                "share": 0.009,
+                "change": 0.009
+            },
+            {
+                "cluster": 4,
+                "share": 0.011,
+                "change": -0.001
+            }
+        ],
+        "declining_clusters": [
+            {
+                "cluster": 6,
+                "share": 0.527,
+                "change": -0.107
+            },
+            {
+                "cluster": 1,
+                "share": 0.006,
+                "change": -0.034
+            },
+            {
+                "cluster": 7,
+                "share": 0.002,
+                "change": -0.012
+            },
+            {
+                "cluster": 3,
+                "share": 0.026,
+                "change": -0.007
+            },
+            {
+                "cluster": 4,
+                "share": 0.011,
+                "change": -0.001
+            }
+        ]
+    }
+}

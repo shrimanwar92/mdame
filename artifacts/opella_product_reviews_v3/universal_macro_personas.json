@@ -1,0 +1,1452 @@
+{
+    "0": {
+        "cluster_id": 0,
+        "population": 11231,
+        "population_pct": 20.6,
+        "certainty": 0.997,
+        "positive_pct": 86.88,
+        "neutral_pct": 4.03,
+        "negative_pct": 9.08,
+        "avg_rating": 4.49,
+        "brand_distribution": {
+            "Gold Bond": {
+                "reviews": 3735,
+                "share": 33.26
+            },
+            "Dulcolax": {
+                "reviews": 1768,
+                "share": 15.74
+            },
+            "Cortizone 10": {
+                "reviews": 1000,
+                "share": 8.9
+            },
+            "Icy Hot": {
+                "reviews": 985,
+                "share": 8.77
+            },
+            "ACT": {
+                "reviews": 904,
+                "share": 8.05
+            },
+            "Allegra": {
+                "reviews": 743,
+                "share": 6.62
+            },
+            "Aspercreme": {
+                "reviews": 657,
+                "share": 5.85
+            },
+            "Selsun Blue": {
+                "reviews": 403,
+                "share": 3.59
+            },
+            "Nasacort": {
+                "reviews": 293,
+                "share": 2.61
+            },
+            "Xyzal": {
+                "reviews": 253,
+                "share": 2.25
+            },
+            "Unisom": {
+                "reviews": 215,
+                "share": 1.91
+            },
+            "Zantac": {
+                "reviews": 215,
+                "share": 1.91
+            },
+            "Dulcolax Pink": {
+                "reviews": 27,
+                "share": 0.24
+            },
+            "Unisom Sleepgels": {
+                "reviews": 22,
+                "share": 0.2
+            },
+            "Buscapina": {
+                "reviews": 11,
+                "share": 0.1
+            }
+        },
+        "semantic_evidence": [
+            "Unisom Sleepgels|positive|It was time to stock up I need this.",
+            "Unisom|positive|Helps me fall asleep and stay asleep!!! \u00f0\u009f\u0098\u00b4\u00f0\u009f\u0098\u00b4\u00f0\u009f\u0098\u00b4\u00f0\u009f\u0098\u00b4\u00f0\u009f\u0098\u00b4",
+            "Selsun Blue|positive|High quality that gets the job done right!",
+            "Selsun Blue|positive|Original product, excelent quality. It's so hard to find it!!",
+            "Allegra|negative|This is how it came in the package, It tried to get a new one and was told no",
+            "Selsun Blue|positive|Quality product that I have come to depend upon.",
+            "Selsun Blue|positive|I like it so far. I might rebuy just waiting for the bills to finish",
+            "Selsun Blue|negative|The Orange is real the Blue one is Fake.",
+            "Selsun Blue|negative|I do not know if the one I got was defective, how it did literally nothing",
+            "Allegra|negative|This was late and already opened I will not give this to my child!!!",
+            "Nasacort|positive|I found it to be a very good product.",
+            "Nasacort|positive|Quality, effectiveness and price. Amazon hits all 3.",
+            "Aspercreme|positive|Love \u00f0\u009f\u00ab\u00b6 the aspercreme. It's works great \u00f0\u009f\u0091\u008d",
+            "Icy Hot|positive|This works great and has a pleasant sent!",
+            "Gold Bond|positive|Hoping it will work. Great price for the money.",
+            "Gold Bond|negative|The item box was damaged and it had been opened and maybe used. It is not worth returning so I will throw it away.",
+            "Icy Hot|negative|It is fake, it is not the real one !!\u00f0\u009f\u0098",
+            "Cortizone 10|negative|The thumb drive had ineffective insructions. The delays is transmissipon are poor, The person left befpre I could get the voice to work. The motion sensor is way too short.",
+            "Gold Bond|positive|This product is \"as advertised.\" We will purchase again.",
+            "Gold Bond|negative|Forgive me but this might be fake goldbond. I\u00e2\u0080\u0099ve bought goldbond straight from the Pharmacy and the quality is waayy better than this. This one doesn\u00e2\u0080\u0099t moisturize or last. Your skin literally feels like paper after application and skin dries out after use. Also definitely does NOT last through handwashing.",
+            "Dulcolax Pink|positive|The service was excellent as always. The product is very good. Thank you.",
+            "Dulcolax|negative|product is fine but I did not sighn anything",
+            "Dulcolax|negative|These were old and hard when i received them , couldn\u00e2\u0080\u0099t use them",
+            "Zantac|positive|They don\u00e2\u0080\u0099t carry these in the store anymore so I order them off Amazon it\u00e2\u0080\u0099s definitely cheaper and subscribe and save helps me remember to take it and re-order when needed",
+            "Zantac|positive|These have been a lifesaver! I definitely will be purchasing more!",
+            "Buscapina|positive|Thanks, it very important for me, thank you so much. Thanks.",
+            "Xyzal|positive|Works great, and is a great value for the money.",
+            "Gold Bond|positive|They have been sold out at target for awhile now. Was glad I was able to order a large size for a good price. This was rated high on the Yuka app and has been working great, even through winter.",
+            "Aspercreme|positive|I love this product and I couldn't find it at Walmart.",
+            "Xyzal|negative|I would write a truthful review, but unless its glowing and remarkable, the Amazon review reviewers will say it doesn't meet the community standards.",
+            "Allegra|negative|Order a month before you need this. I had to go to Walmart to get some to hold me over.",
+            "Cortizone 10|positive|I was so happy that Amazon had this I couldn't find it at the store this was perfect.",
+            "Dulcolax|positive|Originally gave this one star because I was afraid to use it because it didn\u00e2\u0080\u0099t have a lot number or expiration date\u00e2\u0080\u0094or so I thought. Upon examining it closer I saw that the numbers are \u00e2\u0080\u009cetched\u00e2\u0080\u009d into the package without ink and the product was well within the expiration date.",
+            "Gold Bond|positive|This is a wonderful product. Items arrived in pristine condition, well packed, and quick shipping. Very Pleased with this seller and with this product.",
+            "Cortizone 10|negative|Great idea, but did not work for us.",
+            "Xyzal|negative|Had to put a star but is not worth it Item was open box and the seal of the bottle been broken this is a kids product..",
+            "Icy Hot|positive|Exactly what I ordered and arrived on time",
+            "ACT|positive|Product is good and the price is nice.",
+            "Gold Bond|positive|Great quality, arrived on time, and exceeded expectations. I will continue purchasing from this seller! Very satisfied.",
+            "Aspercreme|negative|Zero Stars the product does not come out of the bottle been trying for days and nothing",
+            "ACT|positive|It's wonderful. Better and cheaper than I buy at my local stores.",
+            "Icy Hot|negative|Nice rugged case. I put a 500 GB SSD in and plugged it into a USB 3.0 port. It wasn't recognized by Windows 10. I tried on two more systems with no luck. I returned it for a refund.",
+            "Allegra|positive|Really good price and the product works good for me.It was a really good price too.",
+            "ACT|negative|If I could give this a -5 star rating I would! I have been using this product for years. However, the new packaging is impossible for a someone with hand issues. I always have to have someone open the bottles for m, and that is ok, but this style of",
+            "Allegra|positive|Came on time. Price is good for the quantity",
+            "ACT|positive|Five stars for the value of the product-price/quantity. Extra step to good hygiene, but it\u00e2\u0080\u0099s worth it!",
+            "Gold Bond|negative|Two stars because this is pretty spendy for such a small container. Feels greedy to me. I won't repurchase, there's better alternatives out there.",
+            "Aspercreme|negative|Wish I could put one star it doesnt numb that well",
+            "Unisom|positive|The product is great but unfortunately I can't find it anymore anywhere.....my loss!",
+            "Buscapina|positive|Is good to have this option in Amazon.",
+            "Gold Bond|negative|Why would you discontinue a product that gets 4or 5 Stars across the board ,that is so stupid !!! 1 star because of stupidness!!!!!0",
+            "Dulcolax|negative|Can\u00e2\u0080\u0099t give it one star didn\u00e2\u0080\u0099t work at all after 4 days taking 2 a day",
+            "Allegra|positive|This product is a great value on Amazon",
+            "Unisom|negative|I tried to cancel this product before it was shipped. Amazon refused. Not worth rewrapping & returning.",
+            "Unisom Sleepgels|positive|I tried to put 5 stars but for some reason it would not work. This stuff works great! I don't feel it. It doesn't force me to sleep but it allows me to stay asleep better. No groggy feeling at all the next day. I've had the best sleep the",
+            "Aspercreme|negative|This is not a real product\u00e2\u0080\u00a6 even the scanning code is fake!",
+            "Icy Hot|negative|Not as strong as the roll on and doesn\u00e2\u0080\u0099t last as long. If you need maximum strength go with roll on. If you want a more mild relief this one will work.",
+            "Gold Bond|positive|Why did you pick this product vs others?: Chosen for claims in reviews. Damn, it really works!",
+            "Unisom|negative|This gave me anxiety! I threw everything in the trash!",
+            "Cortizone 10|positive|Why did you pick this product vs others?: Works well!"
+        ],
+        "cluster_profile": {
+            "name": "Daily Wellness Maintainers",
+            "summary": "Customers seeking reliable products to support everyday health routines and prevention.",
+            "decision_drivers": [
+                "Effectiveness",
+                "Quality",
+                "Trusted brand",
+                "Ease of use"
+            ],
+            "satisfaction_drivers": [
+                "Long-lasting relief",
+                "Meets daily needs",
+                "Minimal side effects",
+                "Trusted solution"
+            ],
+            "frustration_drivers": [
+                "Lack of results",
+                "Short duration",
+                "Unpleasant side effects",
+                "Poor value"
+            ],
+            "confidence": "High"
+        }
+    },
+    "1": {
+        "cluster_id": 1,
+        "population": 12457,
+        "population_pct": 22.85,
+        "certainty": 0.994,
+        "positive_pct": 84.42,
+        "neutral_pct": 5.59,
+        "negative_pct": 9.99,
+        "avg_rating": 4.43,
+        "brand_distribution": {
+            "Gold Bond": {
+                "reviews": 9823,
+                "share": 78.86
+            },
+            "Cortizone 10": {
+                "reviews": 1986,
+                "share": 15.94
+            },
+            "Icy Hot": {
+                "reviews": 180,
+                "share": 1.44
+            },
+            "Aspercreme": {
+                "reviews": 177,
+                "share": 1.42
+            },
+            "Selsun Blue": {
+                "reviews": 102,
+                "share": 0.82
+            },
+            "Allegra": {
+                "reviews": 75,
+                "share": 0.6
+            },
+            "ACT": {
+                "reviews": 50,
+                "share": 0.4
+            },
+            "Dulcolax": {
+                "reviews": 39,
+                "share": 0.31
+            },
+            "Xyzal": {
+                "reviews": 10,
+                "share": 0.08
+            },
+            "Magne B6": {
+                "reviews": 8,
+                "share": 0.06
+            },
+            "Nasacort": {
+                "reviews": 6,
+                "share": 0.05
+            },
+            "Unisom": {
+                "reviews": 1,
+                "share": 0.01
+            }
+        },
+        "semantic_evidence": [
+            "ACT|negative|these do nothing!! in fact they only made me thirsty",
+            "Aspercreme|positive|This product helps a little. Not greasy at all.",
+            "Selsun Blue|positive|I was using this shampoo for a very long time. It's very helpful for reducing dandruff. You don't feel greasy but don't feel very soft like after using other brands. Sometime you may feel a little bit dry, but I still like it and will continue using it.",
+            "Aspercreme|positive|I use this 2 times daily but works and Not greasy or smells. I cannot Be without it.",
+            "Selsun Blue|positive|Good fix for scalp eczema, good price fast shipping, excellent seller!",
+            "Aspercreme|positive|Great for numbing eczema itching! It allows me to sleep throughout the night.",
+            "Aspercreme|negative|Put one on neck and didn't do a thing....they came dried out. No medicine on them at all!!!!",
+            "Cortizone 10|negative|This product is supposed to help eczema and other skin conditions but it's got EDTA which is paint stripper so I would refuse for anybody to purchase this product ... I didn't even want to give it a one",
+            "Icy Hot|positive|LOVEEEE these patches. Always helps get rid of a stiff neck.",
+            "Icy Hot|positive|I love these for my neck and shoulder",
+            "Icy Hot|positive|Not too expensive and helps to alleviate what ails you. It probably my favorite version of IcyHot. Good portability too.",
+            "Cortizone 10|negative|This cream made my hands worse and itch even more\u00f0\u009f\u0092\u00af and it burned when I put it on which should not happen. Must be all the alcohol in the product. I\u00e2\u0080\u0099m going a different route and trying a antimicrobial spray that I found on Amazon (says excema therapy on it)",
+            "Cortizone 10|negative|Didn't do anything for eczema as advertised, sticky and not effective even with hydrocortisone as active ingredient. Don't waste your money.",
+            "Cortizone 10|negative|I bought this to try for the first time for a bad patch of eczema on my shoulder, but the box was not sealed and the tube itself was also not sealed. It looks like someone opened it and possibly used it then wiped the tube clean.",
+            "Cortizone 10|negative|I will try it tonight and post review in the morning. I eczema on my face, around my eyes, cheeks and some on my chest and neck. I pray this takes the redness and itchy burning sensation away and swelling.",
+            "Cortizone 10|negative|This cream didn't work for my daughter who had bad enzema.",
+            "Cortizone 10|positive|I've used prescription and OTC things for my eczema, this is by far the best! It moisturizes while eliminating the itch.",
+            "Cortizone 10|negative|This did not clear up my eczema, pretty pointless",
+            "Cortizone 10|positive|Helps with eczema and contact dermatitis. Relieves itching and soothes the skin, easily absorbed.",
+            "Cortizone 10|positive|This has been the ONLY cream that has ever actually worked on my eczema and dry skin.. and I have tried so many lotions and natural remedies - prescription ointments do not even work. Whenever I have a flare up I will put this on throughout the day and especially",
+            "Cortizone 10|positive|After trying different creams, this is the only one that works for my daughter\u00e2\u0080\u0099s eczema. I just wish they made a bigger size so it would last longer.",
+            "Gold Bond|positive|It works but you have to use it everyday. AM &PM I use it on my arms mostly. Look it does some justice is not much but anything is better than nothing. It does leave the skin soft, blends in, it has no harsh smell.",
+            "Gold Bond|positive|Very satisfied with this product. Arms feel less rough and smooth again. The only issue I had was packaging as pump top became loose from cap during shipment. I finally finagled it back in place. Highly recommend this product!",
+            "Gold Bond|positive|I swear this product has got to be the best on the market. My arms just tightened up just like they said they would very good product for your money.",
+            "Gold Bond|negative|This product is making my skin peel. Don't see any crepe reduction results. Plan on returning it.",
+            "Gold Bond|negative|Horrible and greasy. Bring back the old formula!",
+            "Gold Bond|negative|Been using for several months, doesn\u00e2\u0080\u0099t do anymore for crepe than any other lotion. It also is drying not moisturizing",
+            "Gold Bond|negative|Not worth it..doesn't fix help or elimante creppy skin. I guess we all need collogen for that. I use coconut oil oh well",
+            "Gold Bond|negative|Works like any other lotion. Doesn't help with crepe skin. Nothing special about it.",
+            "Gold Bond|negative|I have used this lotion every day for two weeks and have seen no visible change to the crepey skin on my arms. So, I will not be wasting any more money on this product.",
+            "Gold Bond|negative|Hasn't done anything for crepey skin on inside of elbows and inner upper arm. Would not purchase again.",
+            "Gold Bond|negative|I used this lotion on arms and legs to reduce appearance of crepy skin. It made no difference.",
+            "Gold Bond|positive|Love this product gets rid of your cre pe skin.",
+            "Gold Bond|positive|This cream worked well to soften skin @ does help as a crepe corrector . Highly recommend",
+            "Gold Bond|positive|I\u00e2\u0080\u0099ve used this lotion on and off for years. Occasionally I try something new to see if it will work better but nothing really does. Usually the options I decide to try are much more expensive and just not worth it. I looked closely at my arms the other day",
+            "Allegra|positive|Always meet expectations and love that it came asap because it was needed for My eczema",
+            "Dulcolax|negative|It\u00e2\u0080\u0099s cause soooo much cramps \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad before doing the job",
+            "Gold Bond|negative|Liked it but it has alcohol in it which leads to further drying of the skin.",
+            "Allegra|positive|I tried this product for allergies with excessive dry eye. Did not help for my particular problem. If you have excessive dry eye (due to allergies) I would highly recommend using Refresh celluvisc lubricant gel eye drops and a cortisone CREAM on your eyelids only (per my ophthalmologist). Both are",
+            "Gold Bond|positive|It's good, absorbs a quick 2 minutes full absorbs,, not grease,",
+            "Icy Hot|positive|This is my go to when I\u00e2\u0080\u0099m having a bad neck day. These are LIFESAVERS. I really like how this one comes in one resealable bag! Super easy to grab and go!",
+            "Gold Bond|positive|I recently bought this because I have been on a weight loss journey for the last 18 months. I have some loose skin on my next under my chin.. AKA as Turkey Wobble. I was leery on buying this at first.. However it does work. Its not 100% foolproof, but",
+            "Icy Hot|positive|I love this product. I put it on before a workout like hot yoga and feel amazing. It lasts so many uses and I use it all over my neck and back.",
+            "Cortizone 10|positive|Get this if you have mild psoriasis!!! I had some spots around my eyes/eyelids that were itchy and dry, I couldn\u00e2\u0080\u0099t wear any makeup and it made me feel gross lol After applying this twice a day for 3 days straight, dry spots are gone, no more itchy ness, &",
+            "Gold Bond|positive|This is the second time purchasing this product and I love it! It truly works - I use it in the morning and at bedtime. I\u00e2\u0080\u0099ve seen a big difference on my neck, will purchase again!",
+            "Cortizone 10|positive|Very good moisturising and healing cream! It helped me a lot with my sensitive skin that broke out into a rash due to allergies from the chlorine and other chemical swimming pool water cleaning and maintenance products.",
+            "Aspercreme|positive|I love it.. it\u00e2\u0080\u0099s not greasy., it doesn\u00e2\u0080\u0099t have a strong smell, Easy to put on, I bought two and I just placed another order of four bottles, I really like the product.\u00f0\u009f\u0091\u008d",
+            "Aspercreme|negative|I\u00e2\u0080\u0099ve tried this product on a finger, back, neck and an armpit. This cream never relieved any pain nor did it numb anything. All instructions followed, easy stuff. I do not understand how this many people could say it\u00e2\u0080\u0099s amazing and it did nothing for me anywhere in my body.",
+            "Gold Bond|positive|Highly recommended for dry cracked skin Makes it smooth n soft",
+            "Icy Hot|positive|This is great. I use it on My Wife. I even got her massaging table and I use it on my shoulders.",
+            "Allegra|positive|Prioritizing fall season beauty products is essential for maintaining optimal health.",
+            "Icy Hot|positive|Don't do it, or you'll wish you had washed in jalapeno pepper instead",
+            "Cortizone 10|positive|Couldn\u00e2\u0080\u0099t find this on the store. I prefer ointment over the cream. The cream isn\u00e2\u0080\u0099t as effective",
+            "Selsun Blue|positive|I purchased it for my yorkie who has skinprkblems. Ive been thru 3 diffshampoos and this seldom blue seems to do the trick",
+            "Allegra|positive|Helped clear my rash and worth the money I spent",
+            "Gold Bond|negative|First, it arrived damaged. Initially, I thought it was just a fluke but after reviewing others\u00e2\u0080\u0099 experiences, it seems like a defective product is being mailed. Second, after more than a week of use, I do not see any difference in my skin. It doesn\u00e2\u0080\u0099t even moisturize as my previous",
+            "Gold Bond|negative|I REALLY wanted this to work. I NEVER am the person that breaks out with ANYTHING. But this is the only thing I\u00e2\u0080\u0099ve changed in my routine and it made me get weird clear zit like bumps all over my forearms. So I\u00e2\u0080\u0099m letting my husband use it because he",
+            "Selsun Blue|positive|Picked up Selsun Blue Medicated Shampoo to help treat tinea versicolor on my back, and it\u00e2\u0080\u0099s worked really well for that purpose. Cleared up the spots quickly and helped keep things under control. Just a heads-up\u00e2\u0080\u0094leaving it on overnight might be too harsh, and I noticed some mild chemical burns",
+            "Dulcolax|positive|It makes you go really well ! My wife put me on to this ! I'm glad she did !!",
+            "Cortizone 10|positive|I occasionally break out during the Summer months. I purchased this and it took the itch out in no time."
+        ],
+        "cluster_profile": {
+            "name": "Skin Condition Soothers",
+            "summary": "Customers looking for effective relief from persistent skin irritations and conditions.",
+            "decision_drivers": [
+                "Fast-acting",
+                "Gentle formulation",
+                "Proven ingredients",
+                "Dermatologist recommended"
+            ],
+            "satisfaction_drivers": [
+                "Reduces itching/irritation",
+                "Promotes healing",
+                "Long-lasting effects",
+                "Safe for sensitive skin"
+            ],
+            "frustration_drivers": [
+                "Ineffective results",
+                "Further irritation",
+                "Short-lived relief",
+                "Harsh ingredients"
+            ],
+            "confidence": "High"
+        }
+    },
+    "2": {
+        "cluster_id": 2,
+        "population": 2128,
+        "population_pct": 3.9,
+        "certainty": 1.0,
+        "positive_pct": 91.92,
+        "neutral_pct": 2.11,
+        "negative_pct": 5.97,
+        "avg_rating": 4.67,
+        "brand_distribution": {
+            "Gold Bond": {
+                "reviews": 556,
+                "share": 26.13
+            },
+            "Icy Hot": {
+                "reviews": 272,
+                "share": 12.78
+            },
+            "Selsun Blue": {
+                "reviews": 258,
+                "share": 12.12
+            },
+            "Cortizone 10": {
+                "reviews": 222,
+                "share": 10.43
+            },
+            "Dulcolax": {
+                "reviews": 199,
+                "share": 9.35
+            },
+            "Allegra": {
+                "reviews": 143,
+                "share": 6.72
+            },
+            "ACT": {
+                "reviews": 136,
+                "share": 6.39
+            },
+            "Aspercreme": {
+                "reviews": 123,
+                "share": 5.78
+            },
+            "Buscapina": {
+                "reviews": 97,
+                "share": 4.56
+            },
+            "Unisom": {
+                "reviews": 50,
+                "share": 2.35
+            },
+            "Xyzal": {
+                "reviews": 38,
+                "share": 1.79
+            },
+            "Zantac": {
+                "reviews": 16,
+                "share": 0.75
+            },
+            "Nasacort": {
+                "reviews": 13,
+                "share": 0.61
+            },
+            "Unisom Sleepgels": {
+                "reviews": 4,
+                "share": 0.19
+            },
+            "Dulcolax Pink": {
+                "reviews": 1,
+                "share": 0.05
+            }
+        },
+        "semantic_evidence": [
+            "ACT|positive|La limpieza con el cepillo electrico mas el waterpick con este enjuague bucal act no tiene comparaci\u00c3\u00b3n.",
+            "ACT|positive|El sabor es realmente a canela, te enjuagas la boca y te queda el mal sabor, el mal olor. Todo me encanta el sabor a canela. Est\u00c3\u00a1 buen\u00c3\u00adsimo",
+            "ACT|positive|Esta pasta de dientes le encanta a mis hijos",
+            "ACT|positive|Muy bueno a mi ni\u00c3\u00b1o le encanta el sabor",
+            "ACT|positive|Buen sabor, me gusta la forma para usarlo, eficaz",
+            "ACT|positive|Super buena ni se siente fuerte pero agradables trngio enc\u00c3\u00ada delicada.",
+            "ACT|positive|Deja un aliento muy fresco y mata el mal olor",
+            "ACT|positive|a mi hija le encanta para su enjuague bucal",
+            "ACT|positive|Si tienes hijos entre dos a\u00c3\u00b1os y 10 a\u00c3\u00b1os se los recomiendo para uso diario",
+            "ACT|positive|Bueno en \u00c3\u00a9l cuidado dental de los ni\u00c3\u00b1os.",
+            "ACT|positive|Me agrad\u00c3\u00b3 que no pod\u00c3\u00ada hacer que uno de mis dos nietos no quer\u00c3\u00ada enjuagarse la boca con ning\u00c3\u00ban enjuague y con este lo iso incre\u00c3\u00adble \u00f0\u009f\u0098\u008a me fascina \u00f0\u009f\u00a5\u00b0",
+            "ACT|positive|Es excelente ya que padezco el s\u00c3\u00adndrome de Sjogren y para eso me los recomend\u00c3\u00b3 el Dr",
+            "ACT|positive|Creo que esta crema me va a durar por un buen tiempo!! La compr\u00c3\u00a9 cuando mi beb\u00c3\u00a9 le empez\u00c3\u00b3 a salir sus primeros dientes y hasta ahora le sigue gustando",
+            "ACT|positive|Muy bonita se la compr\u00c3\u00a9 a mi beb\u00c3\u00a9 es la segunda vez que la pido",
+            "ACT|positive|Est\u00c3\u00a1 muy buena la e estado usando para mi beb\u00c3\u00a9 hace algunas semanas y est\u00c3\u00a1 muy buena a \u00c3\u00a9l le encanta",
+            "ACT|positive|Est\u00c3\u00a1 Esta es la mejor pasta papa bebe tiene un sabor dulce a mis hijos les encanta",
+            "ACT|positive|Me encantaron son ricos y el sabor dura",
+            "ACT|negative|A mis ni\u00c3\u00b1os les encanto, lo triste es que compre un kit de 4 pastas dentales y solo le lleg\u00c3\u00b3 1\u00e2\u0080\u00a6 cuidado con las promociones del art\u00c3\u00adculo ya que tomando en cuenta la entrega es mejor pagar por una crema (esa segura si llega)",
+            "ACT|negative|Muy peque\u00c3\u00b1o para el precio Way to small for the price",
+            "Allegra|positive|Yo padezco de sinusitis y me ayudan mucho",
+            "Allegra|positive|El mejor antial\u00c3\u00a9rgico del mercado, con una presentaci\u00c3\u00b3n m\u00c3\u00a1s grande.",
+            "Allegra|positive|Muy \u00c3\u00batil Y en buen momento que pude conseguir",
+            "Allegra|positive|Es el \u00c3\u00banico m\u00c3\u00a9dicamente que puedo recomendar para la rinitis al\u00c3\u00a9rgica, es milagrosa una sola pastilla y pasas s\u00c3\u00baper bien el d\u00c3\u00ada entero y lo mejor de todo es que no da sue\u00c3\u00b1o. As\u00c3\u00ad que si tienes rinitis al\u00c3\u00a9rgica no dudes en probarlo",
+            "Allegra|positive|Muy recomendable para m\u00c3\u00ad lo mejor para alergia",
+            "Allegra|positive|Amo mis alegras! No s\u00c3\u00a9 qu\u00c3\u00a9 har\u00c3\u00ada sin ellas!",
+            "Allegra|positive|Llevo tomando ALLEGRA 24 horas gel la recomiendo 100%.",
+            "Allegra|positive|Me estan muy buenas .las recomiendo un \u00f0\u009f\u0092\u00af",
+            "Allegra|positive|Est\u00c3\u00a1 medicina me resulta muy bien!! Estoy tan agradecida de descubrirla , porque llevo m\u00c3\u00a1s de un a\u00c3\u00b1o con Rinitis al\u00c3\u00a9rgica, he probado de todo, algunos me daba mucho sue\u00c3\u00b1o y otros simplemente no me ayudaba.y ALLEGRA \u00e2\u0080\u009c en la primera toma ya puedo respirar mejor.la recomiendo mucho! \u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0099\u0082",
+            "Allegra|positive|La mejor opci\u00c3\u00b3n contra las alergias de mis mellizos",
+            "Allegra|positive|Uno de los mejores a mis ni\u00c3\u00b1os les viene muy bien para las alergias",
+            "Allegra|positive|Esto es lo mejor para aliviar la alergia por polen que tiene mi hijo en las ma\u00c3\u00b1ana tiene buen sabor y no da sue\u00c3\u00b1o",
+            "Allegra|positive|Si tu ni\u00c3\u00b1o es al\u00c3\u00a9rgico al fr\u00c3\u00ado, este producto es para el, solo se lo doy en las noches y el duerme como un angelito, sin tos.",
+            "Allegra|positive|De lo mejor para tratar alergias. Ademas trae unos peque\u00c3\u00b1os pa\u00c3\u00b1uelos desechables.",
+            "Allegra|positive|Es bueno para la alergia, pero hay que usarlo con precauci\u00c3\u00b3n y cuando sea realmente necesario, porque el oftalm\u00c3\u00b3logo me dijo que contribuye a la resequedad de los ojos.",
+            "Allegra|positive|Me ha funcionado muy bien, siempre tengo alergia por el clima y el polen y las pastillas funcionan rapido",
+            "Allegra|negative|No me ayuda, para mi condici\u00c3\u00b3n de URTICARIA CR\u00c3\u0093NICA. Lo ped\u00c3\u00ad con la esperanza de q me ayudara con mis brotes de Urticaria, pero no me funcion\u00c3\u00b3. En mi caso no funciona.",
+            "Allegra|negative|No es.responsabilidad del vendedor sino de quien lo manufactura. Probablemente el principio activo no sea equivalente con el original. No reduce s\u00c3\u00adntomas de las alergias [rinitis, prurito, estornudos].",
+            "Aspercreme|positive|Este producto es excepcional tuve una ca\u00c3\u00adda hace 1 semana y me di justo en el coxis, compr\u00c3\u00a9 demasiadas cosas y remedios y este fue el que me baj\u00c3\u00b3 el dolor durante 6 d\u00c3\u00adas, hay que sab\u00c3\u00a9rselo poner, se recomienda es colocarlo donde hace conexi\u00c3\u00b3n el dolor con las venas",
+            "Aspercreme|positive|Muy buena calidad el producto, bien protegido una envoltura muy buena, gracias por hacerme llegar este producto",
+            "Aspercreme|positive|La versi\u00c3\u00b3n en rolon es espectacular. El producto aspercreme me ayuda tanto para cualquier dolor. Me encanta!!",
+            "Aspercreme|positive|Pero me llego abierto, nose si fue usado.",
+            "Aspercreme|positive|\u00e2\u0080\u009cEste spray es maravilloso para aliviar el dolor. Se aplica f\u00c3\u00a1cilmente, seca r\u00c3\u00a1pido y no tiene olor. Me gusta que se puede usar en cualquier \u00c3\u00a1ngulo y empieza a hacer efecto casi de inmediato. Lo he usado para dolores musculares y tensi\u00c3\u00b3n y siempre me ayuda. Muy \u00c3\u00batil tenerlo en",
+            "Aspercreme|positive|Es un buen producto que se puede usar para m\u00c3\u00baltiples usos, es un must have en tu hogar, no tiene olor fuerte, se abre facil, y tiene un buen tama\u00c3\u00b1o",
+            "Aspercreme|positive|Excelente, llevo aproximadamente una semana us\u00c3\u00a1ndolo junto a la rodillera estabilizadora y me han ayudado demasiado, por un excelente precio, lo recomiendo mucho",
+            "Aspercreme|positive|me encant\u00c3\u00b3 este producto realmente me funciona muy bien",
+            "Aspercreme|positive|Lo us\u00c3\u00a9 para poder aguantar mucho tiempo de pie con zapatos altos... muy bueno",
+            "Aspercreme|positive|Yo he podido llevar esta presentaci\u00c3\u00b3n a los parques y luego de un d\u00c3\u00ada largo caminado, haciendo colar poder colocar un poco en los pies sin estarme embarrando las manos y sentir ese alivio",
+            "Aspercreme|positive|Ayuda mucho a la hora de usar tacones",
+            "Aspercreme|positive|Lo s\u00c3\u00baper amo, funciona muy bien, lo utilizo para pon\u00c3\u00a9rmelo en los pies y as\u00c3\u00ad poder aguantar los tacones y me va de maravilla, desde que me lo pongo puedo bailar, brincar, correr y durar hasta m\u00c3\u00a1s de 6 horas con ellos",
+            "Aspercreme|positive|Funciona pero hay que echarse mucho y no dura tanto su efecto",
+            "Aspercreme|positive|Si quieres aliviar alg\u00c3\u00ban dolor de tu cuerpo este es el producto indicado para ello, en minutos sientes que te vas aliviando",
+            "Aspercreme|positive|Mi mam\u00c3\u00a1 dice que le alivia el dolor",
+            "Aspercreme|positive|Esta crema puede ayudar al dolor fuerte de pies yo la compr\u00c3\u00a9 porque har\u00c3\u00ada unos viajes seguidor en avi\u00c3\u00b3n a parques y creo que era la fina m\u00c3\u00a1s pr\u00c3\u00a1ctica para poder aplicarla y me funcion\u00c3\u00b3 muy bien",
+            "Aspercreme|positive|Este rollon al ser aplicado de absorbe r\u00c3\u00a1pidamente , lo implica que el efecto anest\u00c3\u00a9sico se sienta en poco tiempo.",
+            "Aspercreme|positive|Es lo m\u00c3\u00a1ximo!! Lo am\u00c3\u00a9! Bail\u00c3\u00a9 toda la noche con tacones y no me dolieron los pies!! Me encant\u00c3\u00b3",
+            "Aspercreme|positive|Esta crema es excelente para los dolores y el precio est\u00c3\u00a1 muy bueno.",
+            "Aspercreme|positive|Lo mejor que e comprado para los dolores",
+            "Aspercreme|positive|Me ha servido much\u00c3\u00adsimo para dolores musculares\u00e2\u0080\u00a6 penetra muy bien sin sensaci\u00c3\u00b3n de que quema",
+            "Aspercreme|positive|Si vas a los parques de Disney o estar\u00c3\u00a1s en un lugar donde caminar\u00c3\u00a1s demasiado esta crema te lo har\u00c3\u00a1 todo m\u00c3\u00a1s f\u00c3\u00a1cil duerme y relaja la us\u00c3\u00a1bamos cada 2 horas y no hubo queja de dolor",
+            "Aspercreme|positive|Es un producto excelente. Lo am\u00c3\u00a9 con locura es s\u00c3\u00baper practico , se debe aplicar el d\u00c3\u00ada antes para mejor funci\u00c3\u00b3n ."
+        ],
+        "cluster_profile": {
+            "name": "Oral Hygiene Prioritizers",
+            "summary": "Customers focused on maintaining good oral health through daily routines.",
+            "decision_drivers": [
+                "Dentist recommended",
+                "Proven effectiveness",
+                "Kid-friendly options",
+                "Convenient usage"
+            ],
+            "satisfaction_drivers": [
+                "Fresh breath",
+                "Prevents cavities/gum issues",
+                "Easy to use",
+                "Pleasant taste/scent"
+            ],
+            "frustration_drivers": [
+                "Unpleasant taste/smell",
+                "Ineffective results",
+                "Difficult to use",
+                "Harsh ingredients"
+            ],
+            "confidence": "High"
+        }
+    },
+    "3": {
+        "cluster_id": 3,
+        "population": 6176,
+        "population_pct": 11.33,
+        "certainty": 0.999,
+        "positive_pct": 84.5,
+        "neutral_pct": 5.04,
+        "negative_pct": 10.46,
+        "avg_rating": 4.42,
+        "brand_distribution": {
+            "ACT": {
+                "reviews": 5502,
+                "share": 89.09
+            },
+            "Dulcolax": {
+                "reviews": 324,
+                "share": 5.25
+            },
+            "Xyzal": {
+                "reviews": 104,
+                "share": 1.68
+            },
+            "Allegra": {
+                "reviews": 78,
+                "share": 1.26
+            },
+            "Gold Bond": {
+                "reviews": 74,
+                "share": 1.2
+            },
+            "Icy Hot": {
+                "reviews": 24,
+                "share": 0.39
+            },
+            "Cortizone 10": {
+                "reviews": 21,
+                "share": 0.34
+            },
+            "Zantac": {
+                "reviews": 14,
+                "share": 0.23
+            },
+            "Unisom": {
+                "reviews": 13,
+                "share": 0.21
+            },
+            "Aspercreme": {
+                "reviews": 10,
+                "share": 0.16
+            },
+            "Selsun Blue": {
+                "reviews": 9,
+                "share": 0.15
+            },
+            "Buscapina": {
+                "reviews": 1,
+                "share": 0.02
+            },
+            "Nasacort": {
+                "reviews": 1,
+                "share": 0.02
+            },
+            "Dulcolax Pink": {
+                "reviews": 1,
+                "share": 0.02
+            }
+        },
+        "semantic_evidence": [
+            "Xyzal|positive|Kids love the flavor- mom loves no dye",
+            "Xyzal|negative|The product is great but the website is not correct they discontinued tutti fruitti with bubble gum. So if you got a picky child like mine and is particular just be careful. You order this flavor they will send you bubble gum",
+            "Xyzal|negative|If you order Tutti Fruitti you will get Bubble gum flavor as apparently that's the new flavor to replace it but they do not tell you that. They let you order as Tutti Fruitti. Just a heads up for parents so you don't waste your time if your kid doesn't",
+            "Xyzal|negative|I have a 6 year old with horrible allergies. He gladly took the tutti fruity flavor for a couple of years. He absolutely HATES the bubblegum flavor and isn't much happier with the grape. They really should bring back the tutti fruity. It would help save my sanity.",
+            "Xyzal|negative|I specifically ordered this because it was Tutti Frutti on the picture and the text. It was not ! It can't be returned either. Most autistic children won't do bubblegum or grape. It seems like the manufacturer don't care when I called for a return. The company said they no",
+            "Xyzal|negative|My kid hates the bubblegum and I tried it myself and it\u00e2\u0080\u0099s pretty gross. Please bring back tutti fruitti!!!",
+            "Xyzal|positive|We love this product in general, but prefer the tutti fruity flavor. It is becoming harder to find but I was happy when I saw it here. However, when I received my order it is the bubble gum flavor. I'm fine with products changing but I expect the item listing",
+            "Xyzal|positive|Product was received with no issues, but it's Bubblegum flavor. I was looking to get tutti fruti as it's the one my child likes. Otherwise, it's the same medicine.",
+            "Xyzal|negative|Xyzal is awesome! But don\u00e2\u0080\u0099t order from Amazon you don\u00e2\u0080\u0099t get what you order. I specifically ordered this for the Tutti Fruity flavor because that is what my granddaughter likes. What I got was Bubble Gum (my granddaughter hates this flavor) AND YOU CANNOT RETURN IT!!! Nowhere in the description",
+            "Xyzal|negative|It is not the tutti fruity flavor that is shows it\u00e2\u0080\u0099s actually bubblegum",
+            "Unisom|positive|find these more and more nessacary as I grow older.",
+            "Unisom|positive|These babies will knock you out for the count. Can't go wrong!",
+            "Selsun Blue|positive|Great for kids who get styes, as suggested by the old folks lol",
+            "ACT|negative|Usually I buy the grape flavor of this product and my kids love it. So I tried the pineapple punch flavor and my kids thought it was terrible. I tried a litte of it and indeed it doesn't taste great. I would not recommend this flavor.",
+            "ACT|negative|Act is a great product but this line of its Act Product is bad. The packaging is so hard to open it up I broke and bloodied cut a corner of my right thumb nail off. The cap was so small as opposed to other larger Act bottle with larger",
+            "ACT|negative|Order this mouthwash for my daughter she wanted to try a new flavor, and she did not like it. I tried it myself to see how bad it was and it is a weird taste and leaves you with a bitter taste in your mouth.",
+            "ACT|negative|Warning. After about a week of use (2x day) my teeth started to get brown stains that won't go away. The culprit is apparently cetylpyridinium chloride (CPC), the rinse's active ingredient. \"CPC is an effective antibacterial that binds to a bacterium's membrane and ruptures it. The debris from the dead",
+            "ACT|negative|After a couple of weeks, my teeth became brown like a chain smoker\u00e2\u0080\u0099s teeth. Upon research, this rise has a chemical known to cause this in a small percentage of people. I\u00e2\u0080\u0099m giving two stars only because the bottle design is very useful, where it has a feature to help",
+            "ACT|negative|Beware. There is a plastic nozzle, which is inside the neck of the bottle. You can't pour the mouthwash into a cup. You must squeeze it into a cup, which can be messy. The nozzle can't be removed, not even with pliers. It's the worst design ever.",
+            "ACT|negative|This product has a reduced by half the % of sodium fluoride. If you are following Dr Ellie's protocol it is not recommended to use per one of her videos on YouTube. I was still able to find it in a local pharmacy.",
+            "ACT|negative|I love ACT mouthwash but this bottle design, ugh! 22 cents per FL oz versus 19 cents/oz for the 32 oz bottles and this uses the stupidest 'squeeze to fill' top design in the world. You remove the lid, squeeze the bottle and the tube inside pumps fluid into the",
+            "ACT|negative|This \"Restoring\" version of ACT has a ph of 5.6. That is way too acidic to leave in your mouth. It is also why so many people find it burns their mouths. I was using a prior version of ACT after rinsing with Listerine, a very acidic mouthwash. The ACT",
+            "ACT|negative|I have not recived this product yet to try. However, I just wanted to say they have an advertisement for FSA/HSA elgibility and that may be the case if you have specifc medical notes/permissions, but for most, most oral care products are not allowed.",
+            "ACT|negative|LOVE the mouthwash itself but the bottle sucks. Hate the top\u00e2\u0080\u00a6 as you use the mouthwash it\u00e2\u0080\u0099s hard to get out because the straw has to actually be inside the mouthwash. I kept using my finger to manipulate the straw\u00e2\u0080\u0099s position",
+            "ACT|negative|Groovy grape is disgusting. I thought I had let my toothbrush get mold on it. Nope this mouthwash tasted nasty. Now the watermelon is fantastic.",
+            "ACT|negative|The manufacturer either lied or changed formula because this is not bubblegum. A waste of time and money. I have a mint allergy so this ruined the rest of my morning. The only good thing is they take returns on open tubes but it's still annoying to have to return",
+            "ACT|negative|Same ingredients, half the fluoride concentration, bottle twice as large. Stick with ACT Restoring. (FDA? Doesn't allow over a certain amount of fluoride in a single container of product...so bigger container...same fluoride quantity...lower fluoride concentration...less helpful for your teeth. I feel scammed.",
+            "ACT|negative|Not spicy. Weak cinnamon. I was hoping for a Trident Cinnamon sugar free gum spicy flavor. This is bad. It has a questionable sweetened room temperature rose water type flavor. I don\u00e2\u0080\u0099t get the enthusiastic reviews. Doubt them. Read the negative reviews first.",
+            "ACT|negative|Company won\u00e2\u0080\u0099t disclose flavor ingredients. For anyone avoiding mint, they \u00e2\u0080\u009ccannot certify that this doesn\u00e2\u0080\u0099t contain mint\u00e2\u0080\u009d.",
+            "ACT|negative|I got no better results at the dentist by using this, so I decided why bother.",
+            "ACT|negative|very hard to get out of the bottle as you have to squeeze it and the plastic is very hard. not only do kids may like bubble gum mouthwash also grown ups who dislike the medicinal flavors of listerine",
+            "ACT|negative|Contains cetylpyridinium chloride (CPC), an ingredient known to stain teeth in approx 3% of the population. The ADA, NIH, and other professionals recommend against using CPC if you are prone to staining. Good to know, although WHY put it in here in the first place? Trying to find a fluoride",
+            "ACT|positive|This is great tasting fresh for my mouth experience. No alcohol so it\u00e2\u0080\u0099s great for your teeth. It helps keep my mouth beautiful and fresh daily.",
+            "ACT|negative|The smell reminds me of household cleaner and tastes revolting. Mint flavored, it is not. After holding my nose to use this mouthwash, it did not even whiten my teeth. Maybe I'll use the rest of it to clean the floor.",
+            "Dulcolax|negative|I broke my molar biting in to one of these. Aside from that the taste was ok and it worked but uh.. I rather be constipated than need dental work.",
+            "Cortizone 10|positive|First time I found Witch Hazel with no alcohol is at Amazon I, thanks",
+            "Allegra|positive|The liquid color is white and on the thicker side.",
+            "Allegra|positive|The brand speaks for itself. My wife and I like the dye free option.",
+            "Allegra|positive|Use daily! It\u00e2\u0080\u0099s not too heavy for the kids and taste ok so I don\u00e2\u0080\u0099t have to fight them to take it.",
+            "Allegra|positive|Why did you pick this product vs others?: Kids love the flavor",
+            "Allegra|positive|Excellent product. Well packaged. Relieves my sinus allergies when others don't work. If it were a chewable I would give it 5 stars.",
+            "Aspercreme|negative|I'd love to give a full review, but it's impossible to open. And one of my ribs is what is hurting me, so I can't even put all of my strength into it. I understand that keeping kids safe is paramount, but there must be a better way.",
+            "Aspercreme|positive|Why did you pick this product vs others?: I can carry it in my pocket and it\u00e2\u0080\u0099s not messy",
+            "Allegra|positive|White in appearance and my kids willingly take it when they are fighting allergies, so it must not taste bad.",
+            "ACT|positive|Gets the job done! Perfect for girl toddlers",
+            "ACT|positive|My kiddo LOVES this. The taste is great. It\u00e2\u0080\u0099s a simple step to add to his oral care routine to help prevent cavities. The bottle has an interesting kid-friendly dispenser. You squeeze the bottle and it draws up the correct amount of mouthwash to the top, then they pour it",
+            "ACT|positive|Reccommended to me by my dentist. Definitely helps my weakening enamel and is an excellent addition to my daily teeth care routine.",
+            "ACT|positive|Best thing for my son\u00e2\u0080\u0099s teeth. Hasn\u00e2\u0080\u0099t had cavities since. And he loves the flavor.",
+            "ACT|positive|everything you need in a mouthwash according to my dentist, the measuring lid is nice. Great basic mouthwash",
+            "ACT|positive|A MUST FOR DRY MOUTH! Regular mints, gum, etc. has too much alcohol- witch drus the mouth even more- great as a substitute too for breath mint, most important, dry mouth!",
+            "ACT|positive|Kids love the flavor. Good value for your money.",
+            "ACT|positive|Bought for my granddaughter and she loves it. She is four and looks forward to using. I was out of mouthwash and decided to try and it isn\u00e2\u0080\u0099t bad at all. The taste is not too strong, and there is no burning or medicinal taste whatsoever. Couldn\u00e2\u0080\u0099t be happier.",
+            "ACT|positive|This contains no alcohol so there is no burning of the mouth and I like the flavor. Plus Amazon delivery can\u00e2\u0080\u0099t be beat!!",
+            "ACT|positive|Squeeze bottle to fill metered amount of mouth wash",
+            "ACT|positive|Love this! I'm an adult and have issues with mint flavors in dental products. I love the flavor, and no alcohol! It does have a weird kinda bitter aftertaste that I don't like, but not a deal breaker and still better than mint, or bubblegum \u00f0\u009f\u0098\u0086 I use this with",
+            "ACT|positive|This mouthwash was recommended to me by my dentist as I have been dealing with dry mouth causing issues with cavities and since using this twice a day the improvements have been most impressive. This is an alcohol free mouth wash as well. A great mouthwash from a great company!",
+            "Dulcolax|positive|It works. Get the Mint flavor or your on your own. The Mint flavor is sometimes hard to find for unknown reasons...so get two when available. No lingering taste or sickness. No stimulants. This stuff is rock and roll hootchie koo!",
+            "Dulcolax|positive|Tasty little morsels that make life more tolerable.",
+            "Dulcolax|positive|These are awesome for my 7 year old so far",
+            "Dulcolax|positive|These were crucial for me post-surgery when I was on pain killers. They definitely do the job. The taste is fine. That said, I don\u00e2\u0080\u0099t understand why they are colored, shaped and wrapped just like bubblegum. Not a complaint, but just felt weird actually chewing up and swallowing what seemed"
+        ],
+        "cluster_profile": {
+            "name": "Pediatric Care Facilitators",
+            "summary": "Parents/caregivers seeking safe, effective solutions for children's health needs.",
+            "decision_drivers": [
+                "Kid-friendly formulations",
+                "Gentle ingredients",
+                "Proven effectiveness",
+                "Pediatrician recommended"
+            ],
+            "satisfaction_drivers": [
+                "Easy administration",
+                "Fast-acting relief",
+                "No harsh side effects",
+                "Trusted brand"
+            ],
+            "frustration_drivers": [
+                "Unpleasant taste/smell",
+                "Difficulty administering",
+                "Lack of results",
+                "Harsh side effects"
+            ],
+            "confidence": "High"
+        }
+    },
+    "4": {
+        "cluster_id": 4,
+        "population": 339,
+        "population_pct": 0.62,
+        "certainty": 1.0,
+        "positive_pct": 97.94,
+        "neutral_pct": 1.47,
+        "negative_pct": 0.59,
+        "avg_rating": 4.81,
+        "brand_distribution": {
+            "Gold Bond": {
+                "reviews": 132,
+                "share": 38.94
+            },
+            "Cortizone 10": {
+                "reviews": 42,
+                "share": 12.39
+            },
+            "Dulcolax": {
+                "reviews": 30,
+                "share": 8.85
+            },
+            "Allegra": {
+                "reviews": 28,
+                "share": 8.26
+            },
+            "Selsun Blue": {
+                "reviews": 26,
+                "share": 7.67
+            },
+            "ACT": {
+                "reviews": 25,
+                "share": 7.37
+            },
+            "Aspercreme": {
+                "reviews": 17,
+                "share": 5.01
+            },
+            "Icy Hot": {
+                "reviews": 14,
+                "share": 4.13
+            },
+            "Zantac": {
+                "reviews": 8,
+                "share": 2.36
+            },
+            "Nasacort": {
+                "reviews": 7,
+                "share": 2.06
+            },
+            "Xyzal": {
+                "reviews": 7,
+                "share": 2.06
+            },
+            "Buscapina": {
+                "reviews": 1,
+                "share": 0.29
+            },
+            "Unisom Sleepgels": {
+                "reviews": 1,
+                "share": 0.29
+            },
+            "Unisom": {
+                "reviews": 1,
+                "share": 0.29
+            }
+        },
+        "semantic_evidence": [],
+        "cluster_profile": {
+            "name": "Trusted Solution Seekers",
+            "summary": "Customers prioritizing proven, reliable products from trusted brands.",
+            "decision_drivers": [
+                "Trusted brand reputation",
+                "Proven effectiveness",
+                "Quality ingredients",
+                "Good value"
+            ],
+            "satisfaction_drivers": [
+                "Delivers expected results",
+                "Long-lasting effects",
+                "Minimal side effects",
+                "Worth the cost"
+            ],
+            "frustration_drivers": [
+                "Lack of results",
+                "Short duration of effects",
+                "Unpleasant side effects",
+                "Poor value for money"
+            ],
+            "confidence": "High"
+        }
+    },
+    "5": {
+        "cluster_id": 5,
+        "population": 4604,
+        "population_pct": 8.45,
+        "certainty": 0.995,
+        "positive_pct": 22.26,
+        "neutral_pct": 13.66,
+        "negative_pct": 64.07,
+        "avg_rating": 2.21,
+        "brand_distribution": {
+            "Gold Bond": {
+                "reviews": 3046,
+                "share": 66.16
+            },
+            "Cortizone 10": {
+                "reviews": 312,
+                "share": 6.78
+            },
+            "Icy Hot": {
+                "reviews": 242,
+                "share": 5.26
+            },
+            "Aspercreme": {
+                "reviews": 216,
+                "share": 4.69
+            },
+            "ACT": {
+                "reviews": 211,
+                "share": 4.58
+            },
+            "Dulcolax": {
+                "reviews": 157,
+                "share": 3.41
+            },
+            "Allegra": {
+                "reviews": 139,
+                "share": 3.02
+            },
+            "Nasacort": {
+                "reviews": 87,
+                "share": 1.89
+            },
+            "Xyzal": {
+                "reviews": 68,
+                "share": 1.48
+            },
+            "Zantac": {
+                "reviews": 58,
+                "share": 1.26
+            },
+            "Selsun Blue": {
+                "reviews": 42,
+                "share": 0.91
+            },
+            "Unisom": {
+                "reviews": 17,
+                "share": 0.37
+            },
+            "Unisom Sleepgels": {
+                "reviews": 3,
+                "share": 0.07
+            },
+            "Buscapina": {
+                "reviews": 3,
+                "share": 0.07
+            },
+            "Magne B6": {
+                "reviews": 2,
+                "share": 0.04
+            },
+            "Dulcolax Pink": {
+                "reviews": 1,
+                "share": 0.02
+            }
+        },
+        "semantic_evidence": [
+            "ACT|positive|this is some pretty great stuff as well!..if you like \"cinnamin flavor?..you can put in in a water-bottle sprayer and spray it around your home!..really AWESOME!...also?..it's cheaper buying it from amazon than REASORS..",
+            "Gold Bond|negative|This product was defective (won't spray (yes, it's unlocked)) and you cannot return the item.",
+            "Gold Bond|negative|I have purchased this 3 or 4 times now. This is the second time the sprayer will not spray! Seriously! What's the problem? It's useless if I can't even get it out of the can! I am not going to waste my money on products that fail to work properly.",
+            "Gold Bond|negative|Awful quality control. Came to me with no nozzle and you can see scratches on the packaging, showing it must have been an older item.",
+            "Gold Bond|positive|I\u00e2\u0080\u0099m always skeptical of beauty \u00e2\u0080\u009cpotions.\u00e2\u0080\u009d At the tender age of 65, I was starting to get that crepey skin. Decided to give this Gold Bond lotion a try before just giving in to what I figured was inevitable. The reviews were mostly positive, so it seemed worth a shot.",
+            "Gold Bond|negative|The spray will fail after a few uses. There is a design flaw and should not be sold. I tried giving this a 1 star review but the lowest it will accept is 2 stars for some reason.",
+            "Gold Bond|negative|Runs out of propellant after a few uses with plenty of product still in the can",
+            "Gold Bond|negative|Second can that doesn\u00e2\u0080\u0099t spray. After maybe 5% gone, it stops spraying.",
+            "Gold Bond|positive|It is hard to spray! It burns I feel nothing cooking. I love the powder but is messy! I have no burning with the powder just saying!",
+            "Gold Bond|positive|Easy to use. Works well and keeps me dry all day long. Sprayer does not clog up, sprays easily. Would buy again. Larend",
+            "Gold Bond|negative|The spray has become terrible. More often than not the nozzle clogs and it is completely useless. In fact, I just recently purchased 3 bottles and all clogged within 5 seconds of use! Ridiculous.",
+            "Gold Bond|positive|This is a great product except is hard to spray , when the sprayer works and it does not come out easy !!!! And sometimes the sprayer doesn\u00e2\u0080\u0099t even work at all !!!! the company should check all sprayers to see if they work and not just assume !! This",
+            "Gold Bond|negative|I love Goldbond, but I don't recommend buying it. As several others have posted, the can doesn't spray. It's sprayed a little bit when I first received it so I figured it would soon spray normally but instead of getting better it got worse. Now I have a full can",
+            "Gold Bond|negative|2 stars for the product itself, but zero for the container it's in. This has happened with every can of Gold Bond Spray I've ever ordered in the recent past. It works great for maybe the first 3rd of the can, then the sprayer gets progressively worse until it stops",
+            "Nasacort|negative|It states 60 sprays. I only got about 30. Terrible for the amount of money for this. I will be looking for another solution.",
+            "Nasacort|positive|Cheapest Price so far this is the spray that does not interrupt with med and works",
+            "Gold Bond|positive|Better value than the expensive spray. Looks like a roll on deodorant. Tends to dry out if not used up in a month. Not much of a scent.",
+            "Nasacort|positive|Have been using this product for years. This is a good price. I like this spray the best because it does not have an annoying fragrance to irritate me.",
+            "Gold Bond|positive|I like this but wish it came in a spray that didnt sting",
+            "Gold Bond|negative|This works so good for me staying dry and cool. Only issue is the twist to spray on top didn\u00e2\u0080\u0099t let the can spray. Sheesh I wish it had a different nozzle spray. Had to throw it out what a waste !",
+            "Gold Bond|negative|Do not buy this product! Spray bottles are defective. Troubleshooting tips don\u00e2\u0080\u0099t work. Non-returnable. No refunds given. Do not buy this product.",
+            "Gold Bond|positive|I BOUGHT & USED GOLD BOND & DID HAVE SOME PROBLEMS WITH GETTING IT TO SPRAY-THE LAST ONE I BOUGHT IS WORKENG FINE BUT I THINK IT HAS A \"SWEET SPOT\" WHICH YOU HAVE TO FIND ON THE LARGE AREA AVAILABLE TO SPRAY. I ALSO BOUGHT A ARMAND HAMMER DRY",
+            "Aspercreme|positive|I love that you can spray in any direction even upside down. Provides quick relief, but does not last too long.",
+            "Aspercreme|negative|I love the product itself but the one that was sent to me was sent without the sprayer.",
+            "Aspercreme|positive|Good product. We finally got the cap off, and fortunately there was a nozzle in there. It sprays fine, doesn\u00e2\u0080\u0099t dribble. And for a little while there\u00e2\u0080\u0099s relief of neuropathy.",
+            "Aspercreme|positive|Sprays on cool& works in about 15 mins.",
+            "Cortizone 10|positive|Works well, just spray in a well vented area.",
+            "Cortizone 10|positive|Really helpful. And it sprays all over, but really cold. But it works",
+            "Aspercreme|positive|Can is small enough for your pocket book Spray feels cool Instant relief Doesn\u00e2\u0080\u0099t smell bad",
+            "Aspercreme|positive|Nice to have it spray in any direction. I have another spray that only goes straigh from the container. This one warks at any angle. Already order number another. I use this for hemorrhoids.",
+            "Cortizone 10|positive|The spray is easy to use and works well. It covers a lot of area and the cooling effect is awesome. Because this just sprays on and I don't have to use my fingers on the affected area to apply it, I love that it doesn't end up irritating the",
+            "Gold Bond|positive|The yellow cans only have an issue with the spray nozzles clogging up. I'm not sure why these cans malfunction after a few sprays.",
+            "Nasacort|negative|Far too expensive given the low number of sprays per unit...",
+            "Nasacort|negative|For some reason, this nassl spray took almost a month to arrive and when it got here I see that it expires in about 6 weeks. And this item is not returnable. I'll never buy a non-returnable item again.",
+            "Magne B6|positive|Absolutely love this product. Such great quality. I bought it because of the stunning design and was bored with ugly bottles. I took mine on a weekend away to make sure I get enough sleep. Surprised how much I like the super fine mist and how it is NOT oily,",
+            "Nasacort|negative|Defective sprayer. even after following instructions in box.",
+            "Icy Hot|positive|This is great for spraying at any angle and has plenty of power . Does a good temporary job with pain control.",
+            "Icy Hot|positive|I was previously using a 3oz spray can from another brand. It didn't last long at all, and it wasn't great despite the popularity of the brand. This spray works great, and despite it only being 33% more product, it's already lasted twice as long as doesn't feel like I've",
+            "Icy Hot|positive|Works, I love this spray nothing to get on my hands.",
+            "Icy Hot|negative|TERRIBLE!! I had the same problem as others! When it came time for me to use either of these it did not spray?? WHAT A WASTE!!",
+            "Icy Hot|positive|Fast relied and the spray reaches but does not last long.",
+            "Icy Hot|positive|Works great and love the fact that it is a spray and you do not get on hands to apply",
+            "Icy Hot|negative|No of the four cans would spray and the window for returned closed.",
+            "Icy Hot|positive|Works great. Love that you can spray it.",
+            "Icy Hot|positive|The sprayer is defective! Just got it yesterday and it\u00e2\u0080\u0099s not working. Waste of money.",
+            "Cortizone 10|positive|Effective spray less is more works as intended no issues with longevity it does well when out camping this is a must have.",
+            "Cortizone 10|positive|This product works great. I've been using it, in different forms, spray is my fave, for several years. It does what it claims. Highly recommend!",
+            "Cortizone 10|negative|Needed spray type can to spray itchy back but the button to produce product was too hard to push,",
+            "Cortizone 10|negative|Doesn\u00e2\u0080\u0099t work. I tried several times and the spray has overwhelming fumes and doesn\u00e2\u0080\u0099t provide any relief!!!!",
+            "Cortizone 10|negative|Very hard to spray wish it was easier to spray won't be buying again",
+            "Icy Hot|negative|Just got this a couple of days ago and it isn\u00e2\u0080\u0099t working. Both hubby and I tried to spray it and no go.",
+            "Icy Hot|negative|This product doesn\u00e2\u0080\u0099t even spray when you press the button it doesn\u00e2\u0080\u0099t even hit. I can\u00e2\u0080\u0099t return it. This is the worst ever!",
+            "Icy Hot|negative|I was not able to press the Cao to get the spray to work. I tried several times thinking I was crazy. I turned the cap made sure it was open but nothing. And then I found out I can't return it. So my money went down the drain.",
+            "Icy Hot|negative|Item was defective and not eligible for a replacement. The sprayer did not work even when item in unlocked position.",
+            "Icy Hot|positive|Prefer the dry spray. To the other type .",
+            "Icy Hot|negative|Product will not dispense from can, total waste of money",
+            "Aspercreme|positive|Love that it's a spray on bottle , making it easy to use..",
+            "Aspercreme|negative|This spray pain reliever was about average but it was so hard getting the cap off the can",
+            "Cortizone 10|positive|Why did you pick this product vs others?: I picked this for the convenience of a spray and it works very well for me!",
+            "Cortizone 10|positive|This is really works great and being in a spray is awesome too!"
+        ],
+        "cluster_profile": {
+            "name": "Product Experience Critics",
+            "summary": "Customers focused on product usability and delivery mechanisms over ingredients.",
+            "decision_drivers": [
+                "Ease of application",
+                "Convenient packaging",
+                "Innovative delivery"
+            ],
+            "satisfaction_drivers": [
+                "Hassle-free usage",
+                "Precise application",
+                "Portable packaging"
+            ],
+            "frustration_drivers": [
+                "Difficult application",
+                "Faulty packaging/sprayers",
+                "Messy or wasteful"
+            ],
+            "confidence": "High"
+        }
+    },
+    "6": {
+        "cluster_id": 6,
+        "population": 5088,
+        "population_pct": 9.33,
+        "certainty": 0.995,
+        "positive_pct": 78.3,
+        "neutral_pct": 5.76,
+        "negative_pct": 15.94,
+        "avg_rating": 4.2,
+        "brand_distribution": {
+            "Dulcolax": {
+                "reviews": 1835,
+                "share": 36.07
+            },
+            "Allegra": {
+                "reviews": 1028,
+                "share": 20.2
+            },
+            "Unisom": {
+                "reviews": 743,
+                "share": 14.6
+            },
+            "Xyzal": {
+                "reviews": 443,
+                "share": 8.71
+            },
+            "Nasacort": {
+                "reviews": 324,
+                "share": 6.37
+            },
+            "Zantac": {
+                "reviews": 179,
+                "share": 3.52
+            },
+            "Gold Bond": {
+                "reviews": 159,
+                "share": 3.12
+            },
+            "ACT": {
+                "reviews": 116,
+                "share": 2.28
+            },
+            "Cortizone 10": {
+                "reviews": 75,
+                "share": 1.47
+            },
+            "Unisom Sleepgels": {
+                "reviews": 66,
+                "share": 1.3
+            },
+            "Icy Hot": {
+                "reviews": 48,
+                "share": 0.94
+            },
+            "Aspercreme": {
+                "reviews": 25,
+                "share": 0.49
+            },
+            "Dulcolax Pink": {
+                "reviews": 23,
+                "share": 0.45
+            },
+            "Selsun Blue": {
+                "reviews": 12,
+                "share": 0.24
+            },
+            "Buscapina": {
+                "reviews": 11,
+                "share": 0.22
+            },
+            "Magne B6": {
+                "reviews": 1,
+                "share": 0.02
+            }
+        },
+        "semantic_evidence": [
+            "ACT|negative|I get confused I was looking for that brand but for cough",
+            "ACT|positive|I\u00e2\u0080\u0099ve purchased this 3 times now for my mother who is going through chemo and heart failure at the same time. She is limited in sodium and fluids right now and I\u00e2\u0080\u0099m so happy we have been able to find something to help her. I may look into other flavors",
+            "ACT|negative|cough drops will do the same thing and cost much less",
+            "ACT|positive|They work great but not so good if you need one in the middle of the night. Then you have to stay awake until it\u00e2\u0080\u0099s all gone.",
+            "ACT|positive|A better cough drop when you really beed a good one, but I went back to the generic Amazon ones. They do the job, and are lot more economical.",
+            "ACT|positive|My hygienist recommended this product before going to bed at night. The cinammon is great, and I've used this product for five years or more.",
+            "ACT|positive|I've been using this for years and it works great especially for Sjogren's! I mainly use it at night before I go to bed.",
+            "ACT|positive|I bought these because my ADHD meds turn my mouth into the Mojave. I popped one in and suddenly I could swallow like a functioning human again. No drama, no weird aftertaste, no regrets. They taste decent, they work, and I didn\u00e2\u0080\u0099t feel like I was sucking on chemicals. That\u00e2\u0080\u0099s",
+            "ACT|positive|This works, mild but pleasant taste, usually can get through the night with one but sometimes wake up around 3 or 4 and have to take another.",
+            "Xyzal|negative|I don\u00e2\u0080\u0099t normally leave reviews but I feel I must with this one.. I took it and had the WORST night of sleep.. then woke up with a massive headache.. felt so groggy and even more stuffed up then before I took it.. the medicine sucks.. doesn\u00e2\u0080\u0099t work for me",
+            "Xyzal|negative|I was on this OTC since Claritin and Zyrtec stopped working. After a month I thought it was helping. Three months in I noticed sinus issues, anxiety, sleep trouble and nightmares. Anxiety was paired with higher heart rate and increase in blood pressure. I didn\u00e2\u0080\u0099t take it last night and",
+            "Xyzal|negative|Took it at 7 PM and by 11 AM the next morning my runny nose was running, That is NOT 24 hour relief. Left me feeling very groggy. Stopped the terrible itch in my left eye somewhat but not a good value for the outrageous price.",
+            "Xyzal|negative|Had high hopes for Xyzal. It hasn't worked for me. Will not buy again.",
+            "Xyzal|negative|My doctor has said it is best to occasionally switch allergy medications. So I went from Allegra to this and I have to say this made my allergies a mess. My eyes became infected. My sinus congestion was awful. Just didn\u00e2\u0080\u0099t work for me. I went back on Allegra and",
+            "Unisom|positive|I have developed a tolerance to melatonin, so I only use this if I have had not slept well the previous night. You do get a deep sleep, however I was groggy all day the following day. I still managed to go to the gym and work, but I was",
+            "Unisom|positive|If you take them late at night, if you did you would be drowsy most of the day. Other than that they are wonderful.",
+            "Unisom|positive|I love Unisom. I helps me with my sleeping problem. It works its magic every night.",
+            "Unisom|positive|I have a hard time sleeping at times. This helps ensure I get to sleep within 1-1.5hrs.",
+            "Unisom|positive|I\u00e2\u0080\u0099m 5 months pregnant and Unisom SleepTabs (doxylamine) have been the only thing keeping me asleep through (most of) the night. After checking with my OB, I started using these and noticed the difference immediately\u00e2\u0080\u0094fewer 2 a.m. wide-awake moments and I\u00e2\u0080\u0099m not wiped out the next morning. A couple notes",
+            "Unisom|negative|It did not help with sleep at all. I relied on the reviews. This is worthless, but I cannot return it! Waste of money.",
+            "Unisom|negative|If you have insomnia, these alone will not work.",
+            "Unisom|negative|I still lie in bed for 5+ hours without falling asleep. It doesn't work.",
+            "Unisom|negative|Only got side effects and didn't help me sleep. Threw it away.",
+            "Unisom|negative|I took this at night to sleep. While driving in the morning I had a seizure & totaled my car. I had another seizure at the hospital. My neurologist says this product was the cause.",
+            "Unisom|positive|These are the only sleeping pills I will take. Works great for me and helps me fall asleep quickly.",
+            "Unisom|positive|I was using melatonin but it wasn't working so I read that Doxylamine works best and it does. I fall asleep easier with Unisom and I feel rested when I wake up.",
+            "Unisom|positive|These do the job when it comes to helping me fall asleep, but to be honest, I much prefer diphenhydramine-based sleep aids. With these, I feel noticeably groggy well into the next day\u00e2\u0080\u0094like, around 1 p.m. I\u00e2\u0080\u0099m still moving in slow motion and questioning all my life choices. Diphenhydramine, on",
+            "Unisom|positive|I often struggle with sleeplessness, and I've found that these tablets are highly effective. Their active ingredient is diphenhydramine, the same as in Benadryl. This is a product I consistently repurchase.",
+            "Unisom|positive|On nights I can\u00e2\u0080\u0099t turn my mind off \u00f0\u009f\u0098\u0082",
+            "Unisom|negative|Made me feel very bad after I took just 1 pill 1 hour before going to bed. The next evening I decided to just a half of the pill and it made me again feel lousy all the next day. I quit taking them\u00f0\u009f\u0091\u008e\u00f0\u009f\u008f\u00bb",
+            "Unisom|positive|I\u00e2\u0080\u0099ve been using Unisom Nighttime Sleep-Aid Gels for a while now, and they\u00e2\u0080\u0099ve made a world of difference in my sleep quality. The 50mg dosage of diphenhydramine HCI helps me fall asleep quickly without any grogginess the next day. I love how easy the gels are to swallow, and they",
+            "Unisom|positive|If you\u00e2\u0080\u0099re having a lot of anxiety, you can\u00e2\u0080\u0099t sleep. This will put you out. I love it for anyone that\u00e2\u0080\u0099s having like bad hangover anxiety take this. Youll sleep through the whole night.",
+            "Unisom|positive|I had the most restful sleep after taking my first dose of Unisom. I have to admit it last alot longer than I expected.",
+            "Unisom|negative|I took one pill and felt like I took a horse tranquilizer. It will knock you out, which is why I gave two stars. However, I was barely able to function the next day. And did not feel I had a good night's rest. Started to feel like myself about",
+            "Unisom|negative|I suffer from chronic insomnia and am desperate for some help. Sad to say this did nothing for me.",
+            "Unisom|positive|I had to stop taking my other sleep meds due to being pregnant. So these were about my only option. They seem to work fairly well. They are easy to take, very small pills. Ive never noticed much of a taste from the pill.",
+            "Unisom|negative|I read what others wrote, so I cautiously took only 1/2 tablet at 8 p.m. Yes, it put me right to sleep after about 30 minutes, and I slept through the night. However here it is 9:30 a.m. -- 13 hours later -- and I am still feeling a bit",
+            "Unisom|negative|It\u00e2\u0080\u0099s a little bit nutty to me that the company is allowed to call two completely different medications \u00e2\u0080\u009cUnisom.\u00e2\u0080\u009d This is the same drug as Benadryl. The one I was looking for is only in the tabs, not the gel. I made the mistake of searching for Unisom and picking",
+            "Unisom|negative|dont do it...tooth rot,this stuff really dry's your mouth out which destroys all the enamel on your teeth so then they start to fall apart and you will needs to have them capped.try magnesium glycinate it's not bad for you,taking stuff like excedren pm's and this unisom dry's out your",
+            "Unisom|negative|I found I was allergic to Unisom and found online that a potential reaction. is red swelling on one's face. Red swelling and itching on both of my lower cheeks occurred. It happened after using around 7 times. The last few times I only took 1/2 tablet since I found",
+            "Unisom|negative|Made me very agitated and spiked my anxiety with only quarter of a pill. I couldn\u00e2\u0080\u0099t sleep all night long",
+            "Unisom|negative|This is not a sleep aid. It is for those looking to stay up all night. Be warned.",
+            "Allegra|negative|This allergy medicine is not working for the allergies I currently have. The return window closed so I am unable to return . I want my money back!!!!!",
+            "Allegra|negative|This does not work better than benadryl! It lasted 3 hrs for me",
+            "Allegra|negative|These allergy pills certainly don't work for 12 hours as stated. They work 4 hours max!",
+            "Allegra|negative|Product does not work for hives. Got better results with Benadryl.",
+            "Allegra|negative|This product did nothing for my allergies. Sorry!",
+            "Allegra|negative|I am one of the rare people, my MD tells.me that experienced gaps in my working memory on this drug. Once I stopped my memory returned to usual. I had no idea this was a possibility. Just FYI.",
+            "Allegra|negative|I am sensitive to antihistamines and I purchased this so I could take a child\u00e2\u0080\u0099s dose and see how I react. I took the 5ml dose and was in a terrible mood for days, my runny nose dried up, but I felt like a psychopath. I was drowsy but my",
+            "Allegra|negative|Made me horribly drowsy. I'll never take again!",
+            "Allegra|positive|This product really works! My \"seasonal allergies\" are all year long, as I heat with wood, and hauling wood in several times each day, close to my nose, will send me over the moon. Especially if there's even a whiff of mold in a stick of wood. I know what's",
+            "Allegra|positive|The Gelcaps are a little easier to swallow than their tablets.",
+            "Allegra|positive|I have been on Allegra for my sulphite food allergy for almost 15 yrs. It keeps the hives away and saves my life! I have this on subscription and was disappointed that they recently reduced the quantity.",
+            "Allegra|positive|Great taste for our toddler and has actually helped our son\u00e2\u0080\u0099s allergies,",
+            "Allegra|positive|My son has lots of allergies and needs this often. Much easier just buying in here monthly.",
+            "Allegra|positive|As always, I need this or I would be miserable. I got two of these as this was the cheaper route and gave me an extra 20 more pills than it would have had I gotten the 70 count. I love Allegra!",
+            "Allegra|positive|I like to breathe who doesn't. This weather is great with all the pollen in the air. Not so much for me. I have to take something daily, allegra is my choice. The others didn't work, not at all.",
+            "Allegra|positive|I have tried other allergy products and none of them work as good as Allegra for me. The price is great for what you get",
+            "Allegra|positive|Within the past coupe of years, I've come down with a weird condition where I'll get itchy, bumpy hives that take on weird squiggly patterns over random parts of my body, most commonly near my armpits, thighs, or chest. I have no idea what causes them as there are no",
+            "Allegra|positive|I have nickel, cobalt allergies and histamine intolerance, this is the only medicine that works for me. I can finally enjoy a cup of coffee without any reaction. If it works for me with all of my issues, it can work for anybody."
+        ],
+        "cluster_profile": {
+            "name": "Symptom Relief Seekers",
+            "summary": "Customers looking for fast, effective relief from acute symptoms.",
+            "decision_drivers": [
+                "Fast-acting",
+                "Proven effectiveness",
+                "Long-lasting relief",
+                "Minimal side effects"
+            ],
+            "satisfaction_drivers": [
+                "Quickly alleviates symptoms",
+                "Long duration of effects",
+                "No harsh side effects",
+                "Trusted brand"
+            ],
+            "frustration_drivers": [
+                "Lack of results",
+                "Short-lived effects",
+                "Unpleasant side effects",
+                "Inconvenient usage"
+            ],
+            "confidence": "High"
+        }
+    },
+    "7": {
+        "cluster_id": 7,
+        "population": 4657,
+        "population_pct": 8.54,
+        "certainty": 0.995,
+        "positive_pct": 74.38,
+        "neutral_pct": 6.81,
+        "negative_pct": 18.81,
+        "avg_rating": 4.07,
+        "brand_distribution": {
+            "Icy Hot": {
+                "reviews": 2496,
+                "share": 53.6
+            },
+            "Aspercreme": {
+                "reviews": 1197,
+                "share": 25.7
+            },
+            "Gold Bond": {
+                "reviews": 548,
+                "share": 11.77
+            },
+            "Cortizone 10": {
+                "reviews": 190,
+                "share": 4.08
+            },
+            "Dulcolax": {
+                "reviews": 120,
+                "share": 2.58
+            },
+            "Magne B6": {
+                "reviews": 24,
+                "share": 0.52
+            },
+            "Allegra": {
+                "reviews": 22,
+                "share": 0.47
+            },
+            "ACT": {
+                "reviews": 19,
+                "share": 0.41
+            },
+            "Zantac": {
+                "reviews": 12,
+                "share": 0.26
+            },
+            "Xyzal": {
+                "reviews": 7,
+                "share": 0.15
+            },
+            "Buscapina": {
+                "reviews": 7,
+                "share": 0.15
+            },
+            "Selsun Blue": {
+                "reviews": 6,
+                "share": 0.13
+            },
+            "Unisom": {
+                "reviews": 4,
+                "share": 0.09
+            },
+            "Nasacort": {
+                "reviews": 3,
+                "share": 0.06
+            },
+            "Dulcolax Pink": {
+                "reviews": 2,
+                "share": 0.04
+            }
+        },
+        "semantic_evidence": [
+            "ACT|positive|ive had sensitive teeth to temperature for years and using this a a good toothpaste for a few weeks and ive got almost no pain now",
+            "Aspercreme|negative|I\u00e2\u0080\u0099d give it zero stars if I could. Product arrived late and once it arrived it was neither icy or hot. Not out of date but also had no smell or active ingredients. Not returnable. Complete waste of money and time. Just get it from Walmart.",
+            "Aspercreme|negative|Doesn't work. For cold ice bottle for heat and heating pad",
+            "Aspercreme|negative|I have chronic back pain and spasms. I tried this to see if it worked any better than bio freeze or tiger balm and it really fell short. There is not the sensation of warming/cooling and doesn\u00e2\u0080\u0099t touch the spasms at all.",
+            "Aspercreme|negative|Icy hot is great but getting to it can be very difficult.This is the worst child proof cap I ever encountered and if you needed icy for you hand may be impossible to open.",
+            "Cortizone 10|positive|Worked when nothing else did. All tests normal, just this sudden crazy pain out of nowhere that felt like I was burned downstairs and touching the burn with razor blades. Months and no answers and felt like I was going insane. Did my own research, found this product, read review",
+            "Cortizone 10|positive|Ice been using over 10 years, the best",
+            "Cortizone 10|negative|I don\u00e2\u0080\u0099t recommend this product. It has something in it like a menthol or something that makes your lady parts burn. I put just a tiny bit on to try before I actually needed to use this and with in seconds it started to feel warm and just got worse.",
+            "Icy Hot|positive|I use this for back pain, I have my husband apply it for me but its much better than the patches as the patches hurt when you take them off if you wear too long. Perfect for applying and letting dry before bedtime if you want to have relief without",
+            "Icy Hot|positive|I prefer the patches but I don\u00e2\u0080\u0099t always need a full patch and this is easier to apply.",
+            "Icy Hot|positive|Relief patches with great prices and on my doorstep!",
+            "Icy Hot|positive|Came packed perfectly nice and clean! This works very good I mean very good. My Son said it was hot, buy he didn't care, cause the pain went away!\u00f0\u009f\u0098 It's summer an where having a heat wave. So his body was extra hot. But he didn't feel the pain anymore,",
+            "Icy Hot|negative|These are very difficult to apply and once on they do nothing to help with pain. No heat or cold. Totally worthless!",
+            "Icy Hot|negative|Barely held on. Very disappointing. Patches didn't work on me at all.",
+            "Icy Hot|negative|The patches barely stick on to my shoulders!",
+            "Icy Hot|negative|These patches do not stick well. I would have given it more points if it would\u00e2\u0080\u0099ve stayed on long enough to work.",
+            "Icy Hot|negative|This thing doesn't stick. It keeps on falling off. This is a waste of money",
+            "Icy Hot|negative|I have used all the Icy Hot sprays and creams for years. This 1 did absolutely NOTHING to ease inflammation and pain in my arthritic joints- do not bother!!",
+            "Icy Hot|negative|They didn\u00e2\u0080\u0099t stay on. Very disappointing and a waste of money!",
+            "Icy Hot|negative|I tried every way I knew to get these to stick to my skin. They do not, will not. I wiped, I washed, I tried everything. They feel sticky but just will not do the job. I don't know if the medication works because I really didn't get to use",
+            "Icy Hot|negative|I really hoped this Icy Hot Max Strength Lotion would work to help my knee pain. I was disappointed to discover that it didn't work at all. I felt nothing when I put it on my knee, and nothing on my hands after applying it, absolutely nothing. The only use",
+            "Icy Hot|negative|Doesn\u00e2\u0080\u0099t really help. Don\u00e2\u0080\u0099t feel any icy nor hot. No pain relief. Tried 3 packs. Want real relief try Tiger balm. Tried & true for years. Got the patches cause my husband isn\u00e2\u0080\u0099t always here, but at work , to put cream on my back.",
+            "Icy Hot|negative|Maybe I got a bad batch but this didn\u00e2\u0080\u0099t work at all. No feeling hot or cold.",
+            "Icy Hot|negative|Don't stick very well. Should have listened to other reviews.",
+            "Icy Hot|negative|I used this as soon as it came, it stinks and does NOTHING. I was shocked, I have used regular Icy Hot for decades, because THAT works. THIS stuff stinks, even the cats couldn't stand it, I could not touch them until I washed my hands 3 times! There is",
+            "Icy Hot|negative|At first I thought it was just me, but after reading reviews, I realized others have had same experience. I followed directions, placing pad on clean dry skin, but it did nothing, absolutely nothing! No cool, no warmth. A waste of money for me. Wish I could return but I",
+            "Icy Hot|negative|I\u00e2\u0080\u0099ve used this exact form of icyhot before so I know what to expect. This one from Amazon gives me no cooling/hot feeling whatsoever. It\u00e2\u0080\u0099s as if I\u00e2\u0080\u0099m puting lotion on my body.",
+            "Icy Hot|negative|I had no relief using this patch. Truly a waste on money. I was told to try Voltaren - wonderful!!!!",
+            "Icy Hot|negative|The box says five patches come in the box. There is only one patch. I have been scammed!",
+            "Icy Hot|negative|Not hot at all. You could put this on your face and not be irritated Very disappointed.",
+            "Icy Hot|negative|Hurt my back in a fall a week ago, and wondered if these larger icy hots would give me more relief. I\u00e2\u0080\u0099m a senior citizen who lives alone, so I was not able to get one of the pads attached to my back. They twisted and turned on each other.",
+            "Icy Hot|negative|Please know this: Product does not stick to skin for very long\u00e2\u0080\u00a6.only for a few minutes!",
+            "Icy Hot|negative|This car phone holder held my cell phone nicely, but after 4-7 months the suction cup would no longer stay stuck to the dashboard with the weights of the phone! I purchased two over time and both stopped working!. Cleaning the suction cup and the dash did not help! Grandma",
+            "Icy Hot|positive|I\u00e2\u0080\u0099m a big fan of Icy Hot. Particularly since I injured myself over six months ago and still am in pain. I typically go for the original pads, but decided to try this. It\u00e2\u0080\u0099s equally as effective as the original and in a much more convenient form of application. I\u00e2\u0080\u0099ve",
+            "Aspercreme|positive|Soon i hope to start receiving my patches. They work very well with my pains.",
+            "Gold Bond|positive|I started walking recently and it's been quite warm. I ended up with small blisters on my chest from a sunburn. This lotion is amazing on how it softens my skin and takes the sting out. I usually don't like cream lotions, but this one is amazing, not greasy and",
+            "Aspercreme|negative|Garbage pads. Does not stick to anything but itself and the ones you do get applied properly come off within 1-2 minutes... terrible adhesive. terrible application method. even with using medical tape to hold these down it doesn't help with pain whatsoever. this is the second box i bought (one",
+            "Allegra|positive|I\u00e2\u0080\u0099ve used this product on and off for years, it is excellent, always works, no headache!",
+            "Aspercreme|negative|Have tightness in area of my back. No relief at all. Also - the instructions say use ONCE in 8 hours - and don't use with heating pad. Waste of money.",
+            "Aspercreme|negative|It won\u00e2\u0080\u0099t stick or stay on very long.",
+            "Aspercreme|negative|I\u00e2\u0080\u0099m not sure if I received a defective package or not. But only one patch actually stuck to my back. The other me fell off immediately. This has never happened to patches I\u00e2\u0080\u0099ve purchased directly from the store.",
+            "Aspercreme|negative|Doesn't work for me unfortunately. Neither hot or cold...can't feel anything working. I've tried other brands that works way better!!!",
+            "Aspercreme|negative|No pain relief. No icy. No hot. Nothing.",
+            "Aspercreme|negative|Did not work for me. Never felt cold or hot.",
+            "Aspercreme|negative|Not icy or hot...or even numb, it literally did nothing biggest waste of money",
+            "Aspercreme|negative|This is horrible! Icy Hot is suppose to be Icy and Hot hence the NAME. This does NEITHER!!!!! Total waste of money!!!",
+            "Aspercreme|negative|This literally did nothing. Didn\u00e2\u0080\u0099t get hot. Didn\u00e2\u0080\u0099t get icy. I\u00e2\u0080\u0099ve tried biofreeze and it works great.",
+            "Aspercreme|negative|Thinking I was ordering Icy/Hot in a roller type application, I jumped at the idea of a neater more precise application for Icy/Hot. BEWARE! It's just 1% lidocaine and nothing else. A big waste of money. JUNK. DON'T WASTE YOUR MONEY.",
+            "Gold Bond|positive|Was getting heat bumps behind knees,only need to apply about three times a month, if one occurs before then I treat it within a day it's gone",
+            "Gold Bond|positive|Feels good all over! I\u00e2\u0080\u0099d recommend especially during winter where the weather dries out our skin.",
+            "Icy Hot|negative|They are very difficult to apply and they don't stick to your skin very well at all. Overall I would not purchase these ever again. Waste of money!!!",
+            "Icy Hot|negative|these patches do not stay put; so if you have a way to fasten them or simply won't be moving they're effective",
+            "Icy Hot|negative|Doesn't stick. Not as effective as cream. Very disappointed",
+            "Icy Hot|positive|I'm a dad of two young kids, so I'm always picking up and bending down and flipping little people. I also work a tech job from home, so I'm in front of a computer for many hours a day. My body gets pretty sore, especially when I work out. I've",
+            "Icy Hot|positive|Patches work more good than the spray and cream but this is expensive",
+            "Icy Hot|positive|Why did you pick this product vs others?: Patches are huge and stay on very well! Worked an 8 hr shift at the hospital and it stayed on no problem!",
+            "Icy Hot|positive|These patches provide quick and soothing relief for muscle and joint pain. The cooling menthol kicks in fast and helps ease soreness without feeling too intense. The fabric is soft and flexible so it stays in place comfortably even while moving. Both the medium and large sizes are useful depending",
+            "Icy Hot|positive|I luv icy hot spray its great to get those hard to reach spots. its fantastic",
+            "Icy Hot|positive|If I could give this 10 stars, I would. Hands down, one of the best Icy Hot products.",
+            "Icy Hot|positive|Pretty good patches, they are cooling and mess free. Unlike the actual balm that leaves your skin sticky. Quick and easy to apply. Just doesn\u00e2\u0080\u0099t feel super strong for pain relief. It does ok for about an hour or two, then it loses power"
+        ],
+        "cluster_profile": {
+            "name": "Pain Relief Prioritizers",
+            "summary": "Customers seeking effective, targeted relief from muscle/joint pains.",
+            "decision_drivers": [
+                "Fast pain relief",
+                "Long-lasting effects",
+                "Targeted application",
+                "Ease of use"
+            ],
+            "satisfaction_drivers": [
+                "Quickly reduces pain",
+                "Long duration of effects",
+                "Convenient application",
+                "No mess or residue"
+            ],
+            "frustration_drivers": [
+                "Ineffective results",
+                "Short-lived relief",
+                "Difficult application",
+                "Unpleasant smell/feel"
+            ],
+            "confidence": "High"
+        }
+    },
+    "8": {
+        "cluster_id": 8,
+        "population": 6837,
+        "population_pct": 12.54,
+        "certainty": 0.99,
+        "positive_pct": 85.61,
+        "neutral_pct": 3.89,
+        "negative_pct": 10.5,
+        "avg_rating": 4.44,
+        "brand_distribution": {
+            "Gold Bond": {
+                "reviews": 6144,
+                "share": 89.86
+            },
+            "Aspercreme": {
+                "reviews": 242,
+                "share": 3.54
+            },
+            "Icy Hot": {
+                "reviews": 161,
+                "share": 2.35
+            },
+            "Selsun Blue": {
+                "reviews": 96,
+                "share": 1.4
+            },
+            "Cortizone 10": {
+                "reviews": 72,
+                "share": 1.05
+            },
+            "Dulcolax": {
+                "reviews": 48,
+                "share": 0.7
+            },
+            "ACT": {
+                "reviews": 41,
+                "share": 0.6
+            },
+            "Allegra": {
+                "reviews": 13,
+                "share": 0.19
+            },
+            "Nasacort": {
+                "reviews": 7,
+                "share": 0.1
+            },
+            "Unisom": {
+                "reviews": 5,
+                "share": 0.07
+            },
+            "Magne B6": {
+                "reviews": 5,
+                "share": 0.07
+            },
+            "Xyzal": {
+                "reviews": 2,
+                "share": 0.03
+            },
+            "Dulcolax Pink": {
+                "reviews": 1,
+                "share": 0.01
+            }
+        },
+        "semantic_evidence": [
+            "Xyzal|positive|Co-worker recommended and could not thank her enough! Live in the PNW and come in great for the Spring and Fall. Highly recommend.",
+            "ACT|positive|Love love love! Helps keep my enamel in tact",
+            "ACT|positive|I wish it didn't have the faintly oily, chemical aftertaste, almost like it's fake mint or something. Other than that, can't say for sure if it's fit for purpose.",
+            "Selsun Blue|positive|I use this as a foot wash to avoid athlete\u00e2\u0080\u0099s foot from climbing gym. Hasn\u00e2\u0080\u0099t flared up since. So it works great. Kind of a tough scent though.",
+            "Selsun Blue|positive|I use this as body wash in the warm months. Lather and leave on for 3 min. Tinea goes away in about 2 weeks.",
+            "Xyzal|positive|Very pleased so far \u00e2\u0080\u00a6I use it mostly on casual clothes, not work clothes.",
+            "Cortizone 10|positive|This anti-itch cream stops the itch and also helps to heal chafing incidents. It worked well after some chafing to my inner thighs.",
+            "Cortizone 10|positive|My boys spend a lot of time standing in the bay water, fishing. They wear very old torn up converse sneakers. They will spend hours down there fishing, and often they will get rashes on the sides of their feet, under the ankle above the sole of their feet. This",
+            "Gold Bond|positive|It is the real Gold Bond powder so of course it was high quality and worked exactly as it should. Keeps you cool and dry all day long. This product really helps to keep you dry and comfortable all year round, but especially on hot, sweaty days. Also helps to",
+            "Gold Bond|positive|Put a blast on your feet before socks and feel the lubrication.",
+            "Gold Bond|positive|This powder is awesome. It really does absorb sweat (oops, sorry mom, perspiration). Especially under boob sweat. Doesn\u00e2\u0080\u0099t clump and works like a charm. Thanks Gold Bond for the great product.",
+            "Gold Bond|positive|After the scare about talc an the lawsuits with shower to shower, I decided to throw away my shower to shower and choose a talc free powder. After reading most of the lower rating reviews, it seemed that the complaints were so trivial (the sprinkler cap broke, doesn't open easy...)",
+            "Gold Bond|positive|Gold Bond Medicated Original Strength Body Powder is excellent for keeping skin dry, comfortable, and irritation-free. It absorbs moisture quickly and has a light, clean scent that isn\u00e2\u0080\u0099t overpowering. The medicated formula helps soothe minor itching and prevents chafing, making it ideal for daily use or after workouts. Overall, a",
+            "Gold Bond|negative|It smells ok but the white residue shows and it rubs off on my shoes or sandals. I thought you spray it and the white residue goes away, it does not it leaves my feet white and I have to wipe it off so no I will not be purchasing",
+            "Gold Bond|negative|I usually use talc free baby powder to prevent sweating & chaffing. I decided to try Gold Bond medicated. It burned my chaffing skin! Reg Gold Bond may have been better. I've gone back to using the baby powder.",
+            "Gold Bond|negative|NO LONGER HAS TALCUM POWDER, NOW MADE WITH CORN STARCH, Bacteria or fungi can grow in cornstarch, especially if it comes into contact with moisture AND YOU PUT THIS ON YOUR SWEATY FEET???",
+            "Gold Bond|negative|I love Gold Bond Powder. I was very disappointed, however, with my order. The container was partially crushed and some of the powder must have leaked out because I could smell it strongly. I'm disabled and can't get to the post office to return it for a replacement. I guess",
+            "Gold Bond|negative|This is not body powder. It is foot powder which when used on some body areas burns and must be washed off quickly.",
+            "Gold Bond|negative|I haven't used this yet. The podiatrist said to get Gold Bond Ultimate. The Amazon listing says it's Ultimate. But when I received the order, I discovered that the bottle doesn't say \"Ultimate\" anywhere. I think this is advertised as Ultimate, but it's not. Looking at other listings, some of",
+            "Gold Bond|positive|Tired of making sourdough proofs in your pits, back of the knees and other chaff friendly areas on a hot balmy day? But you are tired of powder getting everywhere? As you inhale the fine powdered mist reminiscent of asbestos and lead painted walls, thinking how much more can I",
+            "Gold Bond|positive|Absorbs sweat and odors! Less stinky feet=happy household",
+            "Gold Bond|negative|I live in NYC and today (06-23-25), it was a sweltering 96 degrees and tomorrow promises to be 98. Now add in the humidity, traffic, steaming sauna subways underground, and we're talking hot. I saw this product and decided to give it a go. Out I ventured today to a",
+            "Gold Bond|negative|Gold Bond Powder came 1/2 full. What is up with that????",
+            "Aspercreme|positive|Took this to aid our tired tootsies after a lot of walking at Disneyland. This was amazing and I don\u00e2\u0080\u0099t know if it actually helped or if my mind just believed it. Honestly just the rollerball itself on my tired, achy feet was MAGICAL!!!!",
+            "Aspercreme|positive|my daughter is in the army and she will call crying that her feet are really hurting in those army boots so I was able to find this product to ship to her to ease the pain once she received it and started working. She said her feet felt so",
+            "Allegra|positive|I've used this for years during spring, summer, & fall. It works reliably, so I will continue to use it. This vendor offers fast turnaround with a good price.",
+            "Aspercreme|positive|I used this for my feet during my wedding day and it worked great.",
+            "Gold Bond|negative|Goldbond lotion was crushed inside the package and contents spilled. First time to get Goldbond in damaged condition.",
+            "Gold Bond|negative|Purchased to help with friction on my thighs but it did not really help at all unfortunately.",
+            "Gold Bond|negative|I thought Goldbond changed their formula. This lotion had a scent and Goldbond doesn't normally have a scent and it was thin. I could just tell it wasn't the same. I went to the store and bought some and it was the same as always. I think someone switched product",
+            "Gold Bond|negative|Works ok. It stinks so bad, I can't use it. I love Gold bond products but, I can't get past the smell on this.",
+            "Gold Bond|negative|This talc is so fine grain and light weight it doesn\u00e2\u0080\u0099t adhere to the body, doesn\u00e2\u0080\u0099t work for me at all",
+            "Gold Bond|negative|Is not talc as advertised. Purchased because I wanted a talc based powder. It isn\u00e2\u0080\u0099t.",
+            "Gold Bond|negative|The foot powder seems good; keeps my foot odor in check. But, the unprotected top of the container popped off in shipping and I received a mailing bag full of powder.",
+            "Gold Bond|negative|Really miss the talc version. I think they should have kept the talc and maybe have the cornstarch and the talc for us to make our own choice. Had used this for decades and decades\u00e2\u0080\u0094 at 70 years old. Have tried to like cornstarch. I feel like it feeds or",
+            "Gold Bond|negative|In my experience, it seems that Gold Bond uses basically the same formula & just slaps different names on the tubes. I have yet to use even one of their products that makes one bit of noticeable difference except to provide some temporary moisture/softness to the skin; wherever you put",
+            "Gold Bond|negative|It appeared to be used and the same as the true Gold Bonds product. I'm pissed!",
+            "Gold Bond|negative|Product doesn't do what it's supposed to do. Talc free powder made with corn starch is a waste of money.",
+            "Gold Bond|negative|The scent gives me a headache because I'm sensitives to smells. I LOVE original and extra strength good bond and will be sticking to them. If it isn't broken, don't fix it. I love the gold bond products, just not this specific scent.",
+            "Dulcolax|positive|It is a very good powder, we are pleased",
+            "Icy Hot|negative|This product is different from than stick version, with no effect and smells!",
+            "Icy Hot|positive|I spray both knees before I put my elastic knee braces on before tennis !!!!!",
+            "Icy Hot|negative|Whatever was placed in these \"packets\" was inconsistently created throughout the entire vest. Some packets are entirely liquid, some are solid chunks and others are some white crystalline-looking formations. It did not keep me cool in the 95\u00c2\u00b0 weather spell we just went through. I need something that works for",
+            "Icy Hot|positive|This is perfect for before your longer runs. I use it on my hip and knee before longer training runs and races. Helps a ton!",
+            "Icy Hot|positive|I really like this excellent Help me to exercise",
+            "Allegra|positive|This is a regular product for the summer. I buy it because it works. Packaging was more than adequate.",
+            "Gold Bond|positive|I could not find this in my local store and am glad I could pick it up at Amazon. Some days during the summer I wear no socks with my sneakers, and this could lead to foot odor, but the powder worked well keeping my feet nice and dry and",
+            "Gold Bond|negative|I was recommended this for thigh chafing, but it only works for a little while. right after you put it on, there's no chafing, but once it starts absorbing into your skin, I would argue that it makes the chafing even worse because then your skin is partially dry and",
+            "Gold Bond|negative|I immensely dislike the fragrance of this product. Using it in my shoes is barely tolerable. Opinions will probably vary regarding the scent, but I shan\u00e2\u0080\u0099t purchase this again.",
+            "Dulcolax|positive|Great product. Needs to be in a cold container they melt in the summer",
+            "Dulcolax|positive|This works faster than any powder that I've been using for years now. The only thing that I don't like is the taste/texture.",
+            "Gold Bond|positive|This talc is wonderful and works great and lasts a long time.",
+            "Gold Bond|positive|Husband loves this and has used consistently. No powder = no foot print mess on my floor from application. Worth the buy!",
+            "Gold Bond|positive|Gold Bond Healing Foot Cream is a good product.",
+            "Gold Bond|positive|The only powder I trust to keep me dry with its fresh scent in this Texas weather! No irritation, non gritty texture whatsoever and goes on smooth. Doesn\u00e2\u0080\u0099t clump after application. I really enjoy the fresh scent.",
+            "Gold Bond|positive|This glides on easily and prevents rubbing so I highly recommend it. I bought it through amazon because I tried to find an anti-chafing stick locally, but was unsuccessful. However, I admit I did not specifically look at a drugstore.",
+            "Gold Bond|positive|I\u00e2\u0080\u0099ve always had issues with my thighs rubbing because of my weight, but this product has been a game-changer! No more rashes, and it goes on so smoothly that you don\u00e2\u0080\u0099t even feel it on your skin.",
+            "Gold Bond|positive|This is a lifesaver for the girlies with thick thighs. This little stick has saved me from chafing thighs more than I can count. The convenience of being able to pop this in my purse and refresh when needed is unbeatable. One application in the early morning can last me",
+            "Gold Bond|positive|i have tried many brands before. I even use little shorts to help chafing. this is the first brand that has lasted a long time and i feel comfortable all day. only need to apply again if its too hot or its been over 6 hours",
+            "Gold Bond|positive|Gold Bond is the best but it comes in a container that is deceptive. Container is large and powder is about a forth full."
+        ],
+        "cluster_profile": {
+            "name": "Comfort First Consumers",
+            "summary": "Customers focused on products that provide comfort, freshness and prevent irritation.",
+            "decision_drivers": [
+                "Prevents chafing/irritation",
+                "Absorbs moisture/sweat",
+                "Long-lasting freshness",
+                "Gentle formulation"
+            ],
+            "satisfaction_drivers": [
+                "Stays dry and fresh",
+                "Soothes irritated skin",
+                "Easy to apply",
+                "Trusted brand"
+            ],
+            "frustration_drivers": [
+                "Ineffective absorption",
+                "Short duration of effects",
+                "Unpleasant smell/residue",
+                "Causes further irritation"
+            ],
+            "confidence": "High"
+        }
+    },
+    "9": {
+        "cluster_id": 9,
+        "population": 994,
+        "population_pct": 1.82,
+        "certainty": 1.0,
+        "positive_pct": 81.69,
+        "neutral_pct": 4.12,
+        "negative_pct": 14.19,
+        "avg_rating": 4.31,
+        "brand_distribution": {
+            "Selsun Blue": {
+                "reviews": 976,
+                "share": 98.19
+            },
+            "Cortizone 10": {
+                "reviews": 5,
+                "share": 0.5
+            },
+            "Gold Bond": {
+                "reviews": 4,
+                "share": 0.4
+            },
+            "ACT": {
+                "reviews": 4,
+                "share": 0.4
+            },
+            "Icy Hot": {
+                "reviews": 4,
+                "share": 0.4
+            },
+            "Allegra": {
+                "reviews": 1,
+                "share": 0.1
+            }
+        },
+        "semantic_evidence": [
+            "ACT|negative|Why do you put blue lakenand other artificial colors that cause cancer? Why? Just make it clear. Marketing over life?",
+            "Allegra|positive|Once a day forever at least 10 years when I stop my hands itch and my head is plugged I do take half in milder seasons",
+            "Cortizone 10|positive|I suffered from seborrheic dermatitis covering 1/3 of my scalp for about a year. I tried many different medicated shampoos and even tea tree oil but nothing provided much relief. I decided to try this cortizone with the applicator because it seemed less messy to apply than a cream. I",
+            "Cortizone 10|positive|I apply a small amount around areas of my facial hair (mustache mainly) that develop flaky skin sometime. Instead of having beard dandruff, this stuff saves the day and my skin remains soft and healthy. I only need to use it once or twice a week. It's also great for",
+            "Gold Bond|positive|I use this every day and it works just great. I especially like it on my bald head.",
+            "Gold Bond|negative|It stinks! Doesn't work at all! I'm so sick of products promising results but it's all FALSE ADVERTISING! From lotions, crea ms, make up, hair products & everything in between it's all mostly lies!",
+            "Selsun Blue|positive|I've tried every other anti itch dandruff shampoo and finally bought this, absolutely love it. Makes my hair look so good and healthy, no flakes and no itch.",
+            "Selsun Blue|positive|The ONLY shampoo that helps with my dandruff, works great, smell not so good",
+            "Selsun Blue|positive|Works great on itchy scalp and leaves my hair soft and shiny.",
+            "Selsun Blue|positive|Excelente producto y funciona de maravillas para la caspa,lo recomiendo 100% Excellent product and works wonders for dandruff, I recommend it 100%.",
+            "Selsun Blue|positive|It is the best anti dandruff shampoo on the market. It does it job very well. Worth every penny. Does not have a strong fragrance.",
+            "Selsun Blue|positive|This got rid of my flakes and bumps, that a normal shampoo had no noticeable effect on. --- It contains 1% selenium sulfide (hospitals use 2.5% selenium sulfide in some treatments. --- Wikipedia's article seems to like it, but NOT on DAMAGED SKIN (due to getting inside the body).",
+            "Selsun Blue|positive|Same quality shampoo as the big stores sell.",
+            "Selsun Blue|positive|Here's what makes this product the best of all. I have used many other sulfur based shampoos, and they are all the same - the sulfur separates and settles to the bottom. No matter how much you shake the bottle, or store it upside down, or whatever, it still separates",
+            "Selsun Blue|positive|Far better product, then head and shoulders at least for me. So happy that I gave this a try. I am literally flake free since using it.",
+            "Selsun Blue|positive|It cleans well, especially contains salicylic acid fir scalp treatment. You also use very little.",
+            "Selsun Blue|positive|Selsun blue medicated shampoo is fabulous for anyone with a delicate scalp. I use it every time I wash my hair daily.",
+            "Selsun Blue|positive|I\u00e2\u0080\u0099ve been to the dermatologist, tried prescriptions, and used plenty of fancy shampoos. Somehow, this simple sulfur shampoo works better than anything else for my scalp. Quick facts about my experience: \u00e2\u0080\u00a2 Psoriasis control: No itch, no flakes. I wear black constantly, and my shoulders stay snow-free. \u00e2\u0080\u00a2 The smell:",
+            "Selsun Blue|positive|It clears the dandruff very nicely and quickly",
+            "Selsun Blue|positive|My husband likes this antidandruff shampoo because it is a 2 in 1 product. Much easier to pack when he is traveling and only needs one bottle instead of one for shampoo and one for conditioner. Found that the product does make red stains on our white tile in our",
+            "Selsun Blue|positive|It has been really helpful controlling my dry scalp, not other product controlled it like this shampoo, totally recommend, the scalp stopped from the first shower.",
+            "Selsun Blue|positive|Selsun Blue Moisturizing Antidandruff has been a game changer for me! I\u00e2\u0080\u0099ve struggled with dandruff for a while, but this shampoo effectively tackles the issue while keeping my scalp moisturized. The formula feels gentle on my skin and doesn\u00e2\u0080\u0099t leave it feeling dry, which is something I really appreciate. After",
+            "Selsun Blue|positive|I used Selsun Blue Medicated Anti-Dandruff Shampoo mainly to control dandruff, and it really worked for me. After a few washes, the flakes and itching reduced a lot. The menthol gives a nice cooling feeling and makes my scalp feel fresh. It\u00e2\u0080\u0099s easy to use and does exactly what it",
+            "Selsun Blue|positive|Selsun Blue is great for itchy scalps with or without dandruff. The smell is pleasant, it lathers well and leaves my hair soft and my scalp is moisturized and \u00e2\u0080\u009ccalm\u00e2\u0080\u009d if you know what I mean.",
+            "Selsun Blue|positive|My dandruffs are gone. Works perfectly and I find it's price good.",
+            "Selsun Blue|positive|This is the only product I swear by to get rid of dandruff and I am mixed with coarse curly thick hair!",
+            "Selsun Blue|positive|I absolutely love the Selsun Blue Medicated Shampoo! After just two uses, my dandruff was completely gone it really works fast. The formula is strong and effective, and you can tell it\u00e2\u0080\u0099s doing its job right away. The shampoo itself is blue and has a very strong smell, but I",
+            "Selsun Blue|positive|My favorite shampoo really does the job you can feel the clean and a conditioner just as to how good of a shampoo it is",
+            "Selsun Blue|positive|\u00f0\u009f\u0092\u0086\u00e2\u0080\u008d\u00e2\u0099\u0082\u00ef\u00b8\u008f Best Shampoo for Dandruff and Dry Scalp! - \u00f0\u009f\u00a7\u00b4 Effectiveness: Works great \u00e2\u0080\u0094 removes dandruff almost completely most of the time. - \u00f0\u009f\u009a\u00bf Usage: I use it almost every shower or space it out so it doesn\u00e2\u0080\u0099t dry my scalp too much. - \u00f0\u009f\u0094\u0081 Consistency: You have to keep",
+            "Selsun Blue|positive|Maximum strength Selsun Blue Medicated Shampoo delivers noticeable relief for persistent dandruff and scalp irritation. The selenium sulfide formula works quickly to reduce flakes and itching after just a few uses. Texture is thick and lathers well, making it easy to apply and rinse out without residue. Scent is classic",
+            "Selsun Blue|positive|So far so good i have seen a reduction in flakes in my scalp but it could be temporary. Ill rotate with nizoral and others in case. But this and conditioner has done wonders for my scalp.",
+            "Selsun Blue|positive|It\u00e2\u0080\u0099s working for the dandruff in my head",
+            "Selsun Blue|positive|I have been using this shampoo for ages. Recently it\u00e2\u0080\u0099s bottle changed and hard to differentiate the this one from the other Selsun\u00e2\u0080\u0099s. It looks like Amazon is the best place to buy it in terms of price and and finding the right item.",
+            "Selsun Blue|positive|He is my favorite, goodbye to dandruff, I can't stop using him, his refreshing aroma",
+            "Selsun Blue|positive|I've been using Selsun Blue Moisturizing Anti-Dandruff Shampoo with Aloe for years, ever since my pediatrician recommended it over 15 years ago. The results have been consistently impressive. The shampoo effectively eliminates dandruff and soothes my scalp, leaving it feeling refreshed and itch-free. The addition of aloe helps to moisturize",
+            "Selsun Blue|positive|Never used this shampoo before, but thank God I have found it. Was so worth the money. I used to got the itch hair, sometimes no where at no sign I need to scratch my hair for the itching. I wash my hair every 2 day, and still happen the",
+            "Selsun Blue|positive|I don\u00e2\u0080\u0099t know where to begin I spent years of searching for something to help me with my dry scalp and this was my last stop twice of using this I saw results",
+            "Selsun Blue|positive|I already used one and already bought a new one! It really helped me a lot especially in the winter when my scalp is dry and the flakes just keep appearing even after having enough sleep and such. I am not diagnosed with any scalp abnormalities or anything it was",
+            "Selsun Blue|positive|I use this every two days and my scalp still itches",
+            "Selsun Blue|positive|My first time using this shampoo, Head and shoulders was not helping my itchy scalp and dandruff. My hair has been falling out since I had VSG surgery and I truly feel this has saved it, I have less hair fall out, with a small amount it goes a long",
+            "Selsun Blue|positive|This shampoo really helps control dandruff and leaves my scalp feeling clean and refreshed. It lathers well, and the moisturizing formula keeps my hair from feeling too dry. I\u00e2\u0080\u0099ve noticed a big improvement after just a few washes.",
+            "Selsun Blue|positive|It is one dandruff shampoo that doesn\u00e2\u0080\u0099t damage my hair.",
+            "Selsun Blue|positive|I've tried everything from salon products to natural remedies and everything in between. This is the only product that truly works to control my dry scalp.",
+            "Selsun Blue|positive|I've tried about 20 shampoos meant to help with itch and dryness. I bought several at the same time to compare them. This is by far the best...so far.",
+            "Selsun Blue|positive|I bought this product for my friend as she always has itchy scalp and it has been helping her miraculously. It smells really good too when she is using it. I still need to get one for myself.",
+            "Selsun Blue|positive|Not sure what the itch on the lower back of my head is, but this shampoo has calmed it. There is no obvious reason for the itch. Does leave my hair a bit dry-ish, but conditioner may help that. Just was so relieved to not have the constant itch that",
+            "Selsun Blue|positive|Bought this from a friend's recommendation when I told her about me finding dandruff right after a head wash and oily hair on the second day. This completely solved my dandruff problem and keeps my scalp from getting oily for an extra day compared to regular shampoos. I used to",
+            "Selsun Blue|positive|I have been suffering from extreme scalp scum (no better way to describe it) on the back of my head. I would literally scrape and come away with all this yellowish matter under my nails. I wondered how my hair could even grow through it. I peeled off big hunks",
+            "Selsun Blue|negative|Do not like the way it smells and did not work on my flakes at all. Such a waste of money.",
+            "Selsun Blue|negative|I feel like this ruined my hair. It made it extremely dry, frizzy, and hard to comb through. I would not recommend.",
+            "Selsun Blue|negative|So this has worked for me in the past but it\u00e2\u0080\u0099s hit or miss. I really can\u00e2\u0080\u0099t stand the scent though (neither can my girlfriend). At first I thought it was the dueling scents of this shampoo the the conditioner I chose to use with it but it\u00e2\u0080\u0099s really just",
+            "Selsun Blue|negative|This does not work and reversed my hair and scalp from being dandruff free to being super itchy, flakey with more dandruff",
+            "Selsun Blue|negative|I've used this for 15+years and liked it when it was the \"orang-ish\" color and scent. This new blue color \"cleaner\" forumula with the supposedly \"better\" scent smells terrible to me - like Baby Powder and not in a pleasant way. Makes me want to stop using it and find",
+            "Selsun Blue|negative|Yellow coloring inside my shampoo, threw them out.",
+            "Selsun Blue|negative|It only smells good but doesn't help. It makes itching worse and doesn't help the flaking or the dandruff only the medicated version works",
+            "Selsun Blue|negative|I have used this product for at least 30 years. They just recently changed the formula and the scent. I DO NOT like the new scent. I do not feel that the new formula controls dandruff or affects the conditioning my hair. My scalp is constantly itching. Even the color",
+            "Selsun Blue|negative|This one I got I know selsun blue doesn't smell like this it smells like Sewage.",
+            "Selsun Blue|negative|Used Selsun Blue Medicated for tinea versicolor\u00e2\u0080\u0094the hypopigmented spots that refuse to tan.There was zero change after a month - not very kind to hair either",
+            "Selsun Blue|negative|Great lather, great smell, but that\u00e2\u0080\u0099s not what I purchased it for. It has yet to rid me of my dandruff. Very disappointed. And I bought two.",
+            "Selsun Blue|negative|I\u00e2\u0080\u0099m not sure if it\u00e2\u0080\u0099s an ingredient in the shampoo or what, but this caused my entire scalp to bleed and feel burnt/raw, and my hair to fall out. I\u00e2\u0080\u0099ve used many different dandruff shampoos & have never experienced anything like this!"
+        ],
+        "cluster_profile": {
+            "name": "Scalp Care Specialists",
+            "summary": "Customers dealing with persistent scalp issues like dandruff or dryness.",
+            "decision_drivers": [
+                "Proven effectiveness",
+                "Dermatologist recommended",
+                "Gentle formulation",
+                "Convenient usage"
+            ],
+            "satisfaction_drivers": [
+                "Eliminates flakes/itchiness",
+                "Soothes scalp irritation",
+                "Easy to use",
+                "No harsh ingredients"
+            ],
+            "frustration_drivers": [
+                "Lack of results",
+                "Further irritation",
+                "Unpleasant smell",
+                "Drying effects"
+            ],
+            "confidence": "High"
+        }
+    }
+}

@@ -1,0 +1,1802 @@
+{
+    "product": {
+        "report_type": "brand",
+        "group_by": "BRAND_NAME",
+        "identifier": "Cortizone 10",
+        "brand_name": "Cortizone 10",
+        "products": 59,
+        "asin": [
+            "B00314GCJU",
+            "B012FUT4DQ",
+            "B0D125JSLB",
+            "B0GSCD31MN",
+            "B0CMVYX6VN",
+            "B0D14WLCY1",
+            "B0GNTCMTTZ",
+            "B0BJMH1Q41",
+            "B0GNTLLF5Y",
+            "B0BJMQBSKJ",
+            "B0D14Y6QF9",
+            "B0DKRBQZ4W",
+            "B00E4MJQ1Y",
+            "B01IAI1A5W",
+            "B0BJMVFGZF",
+            "B0D14XWJ1B",
+            "B0FCZRC8T2",
+            "B004FNKHO2",
+            "B01IAI1BRE",
+            "B01NAIKBLE",
+            "B0DP3DYHLQ",
+            "B001VLY328",
+            "B00E4MPWLM",
+            "B01IAI9P2C",
+            "B07JQ7R9DF",
+            "B0BJMDMDCX",
+            "B002OTNU3Y",
+            "B00433JIE4",
+            "B00E4MI142",
+            "B01IAHZXYW",
+            "B01IAI1ETE",
+            "B0CMVJFWX7",
+            "B0DQXFF821",
+            "B0F5D3M32S",
+            "B0BJMTXLL9",
+            "B0D182XFPY",
+            "B0BJMF8GSD",
+            "B0D14XVZZZ",
+            "B0BJMFJHKB",
+            "B001KYA8KW",
+            "B002CVV1HQ",
+            "B00GMP4QNO",
+            "B0CXF6TM9D",
+            "B0CXF8H1VH",
+            "B0D123MLD1",
+            "B0D1258X2B",
+            "B002CVV1GW",
+            "B0C8VGDNHX",
+            "B002CVV1H6",
+            "B0C8VHSVPW",
+            "B0DP3D4MYB",
+            "B0D14Y22V3",
+            "B0FBXTLXWG",
+            "B0BJM6SPVR",
+            "B0D14WZWYV",
+            "B001P0GV84",
+            "B001AZTD52",
+            "B00IZHXUM0",
+            "B01CJY0Y5K"
+        ],
+        "reviews": 3925,
+        "average_rating": 4.45,
+        "average_sentiment": 0.864
+    },
+    "macro_personas": [
+        {
+            "cluster": 1,
+            "universal_persona": {
+                "population": 12457,
+                "population_pct": 22.85,
+                "certainty": 0.994,
+                "positive_pct": 84.42,
+                "neutral_pct": 5.59,
+                "negative_pct": 9.99,
+                "avg_rating": 4.43,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 9823,
+                        "share": 78.86
+                    },
+                    "Cortizone 10": {
+                        "reviews": 1986,
+                        "share": 15.94
+                    },
+                    "Icy Hot": {
+                        "reviews": 180,
+                        "share": 1.44
+                    },
+                    "Aspercreme": {
+                        "reviews": 177,
+                        "share": 1.42
+                    },
+                    "Selsun Blue": {
+                        "reviews": 102,
+                        "share": 0.82
+                    },
+                    "Allegra": {
+                        "reviews": 75,
+                        "share": 0.6
+                    },
+                    "ACT": {
+                        "reviews": 50,
+                        "share": 0.4
+                    },
+                    "Dulcolax": {
+                        "reviews": 39,
+                        "share": 0.31
+                    },
+                    "Xyzal": {
+                        "reviews": 10,
+                        "share": 0.08
+                    },
+                    "Magne B6": {
+                        "reviews": 8,
+                        "share": 0.06
+                    },
+                    "Nasacort": {
+                        "reviews": 6,
+                        "share": 0.05
+                    },
+                    "Unisom": {
+                        "reviews": 1,
+                        "share": 0.01
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Skin Condition Soothers",
+                    "summary": "Customers looking for effective relief from persistent skin irritations and conditions.",
+                    "decision_drivers": [
+                        "Fast-acting",
+                        "Gentle formulation",
+                        "Proven ingredients",
+                        "Dermatologist recommended"
+                    ],
+                    "satisfaction_drivers": [
+                        "Reduces itching/irritation",
+                        "Promotes healing",
+                        "Long-lasting effects",
+                        "Safe for sensitive skin"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective results",
+                        "Further irritation",
+                        "Short-lived relief",
+                        "Harsh ingredients"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 1,
+                "share": 0.506,
+                "certainty": 0.998,
+                "reviews": 1986,
+                "average_rating": 4.66,
+                "average_sentiment": 0.915
+            },
+            "comparison": {
+                "share_lift": 2.21,
+                "rating_delta": 0.23
+            }
+        },
+        {
+            "cluster": 0,
+            "universal_persona": {
+                "population": 11231,
+                "population_pct": 20.6,
+                "certainty": 0.997,
+                "positive_pct": 86.88,
+                "neutral_pct": 4.03,
+                "negative_pct": 9.08,
+                "avg_rating": 4.49,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 3735,
+                        "share": 33.26
+                    },
+                    "Dulcolax": {
+                        "reviews": 1768,
+                        "share": 15.74
+                    },
+                    "Cortizone 10": {
+                        "reviews": 1000,
+                        "share": 8.9
+                    },
+                    "Icy Hot": {
+                        "reviews": 985,
+                        "share": 8.77
+                    },
+                    "ACT": {
+                        "reviews": 904,
+                        "share": 8.05
+                    },
+                    "Allegra": {
+                        "reviews": 743,
+                        "share": 6.62
+                    },
+                    "Aspercreme": {
+                        "reviews": 657,
+                        "share": 5.85
+                    },
+                    "Selsun Blue": {
+                        "reviews": 403,
+                        "share": 3.59
+                    },
+                    "Nasacort": {
+                        "reviews": 293,
+                        "share": 2.61
+                    },
+                    "Xyzal": {
+                        "reviews": 253,
+                        "share": 2.25
+                    },
+                    "Unisom": {
+                        "reviews": 215,
+                        "share": 1.91
+                    },
+                    "Zantac": {
+                        "reviews": 215,
+                        "share": 1.91
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 27,
+                        "share": 0.24
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 22,
+                        "share": 0.2
+                    },
+                    "Buscapina": {
+                        "reviews": 11,
+                        "share": 0.1
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Daily Wellness Maintainers",
+                    "summary": "Customers seeking reliable products to support everyday health routines and prevention.",
+                    "decision_drivers": [
+                        "Effectiveness",
+                        "Quality",
+                        "Trusted brand",
+                        "Ease of use"
+                    ],
+                    "satisfaction_drivers": [
+                        "Long-lasting relief",
+                        "Meets daily needs",
+                        "Minimal side effects",
+                        "Trusted solution"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short duration",
+                        "Unpleasant side effects",
+                        "Poor value"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 0,
+                "share": 0.255,
+                "certainty": 0.996,
+                "reviews": 1000,
+                "average_rating": 4.71,
+                "average_sentiment": 0.927
+            },
+            "comparison": {
+                "share_lift": 1.24,
+                "rating_delta": 0.22
+            }
+        },
+        {
+            "cluster": 5,
+            "universal_persona": {
+                "population": 4604,
+                "population_pct": 8.45,
+                "certainty": 0.995,
+                "positive_pct": 22.26,
+                "neutral_pct": 13.66,
+                "negative_pct": 64.07,
+                "avg_rating": 2.21,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 3046,
+                        "share": 66.16
+                    },
+                    "Cortizone 10": {
+                        "reviews": 312,
+                        "share": 6.78
+                    },
+                    "Icy Hot": {
+                        "reviews": 242,
+                        "share": 5.26
+                    },
+                    "Aspercreme": {
+                        "reviews": 216,
+                        "share": 4.69
+                    },
+                    "ACT": {
+                        "reviews": 211,
+                        "share": 4.58
+                    },
+                    "Dulcolax": {
+                        "reviews": 157,
+                        "share": 3.41
+                    },
+                    "Allegra": {
+                        "reviews": 139,
+                        "share": 3.02
+                    },
+                    "Nasacort": {
+                        "reviews": 87,
+                        "share": 1.89
+                    },
+                    "Xyzal": {
+                        "reviews": 68,
+                        "share": 1.48
+                    },
+                    "Zantac": {
+                        "reviews": 58,
+                        "share": 1.26
+                    },
+                    "Selsun Blue": {
+                        "reviews": 42,
+                        "share": 0.91
+                    },
+                    "Unisom": {
+                        "reviews": 17,
+                        "share": 0.37
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 3,
+                        "share": 0.07
+                    },
+                    "Buscapina": {
+                        "reviews": 3,
+                        "share": 0.07
+                    },
+                    "Magne B6": {
+                        "reviews": 2,
+                        "share": 0.04
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Product Experience Critics",
+                    "summary": "Customers focused on product usability and delivery mechanisms over ingredients.",
+                    "decision_drivers": [
+                        "Ease of application",
+                        "Convenient packaging",
+                        "Innovative delivery"
+                    ],
+                    "satisfaction_drivers": [
+                        "Hassle-free usage",
+                        "Precise application",
+                        "Portable packaging"
+                    ],
+                    "frustration_drivers": [
+                        "Difficult application",
+                        "Faulty packaging/sprayers",
+                        "Messy or wasteful"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 5,
+                "share": 0.079,
+                "certainty": 0.993,
+                "reviews": 312,
+                "average_rating": 2.31,
+                "average_sentiment": 0.327
+            },
+            "comparison": {
+                "share_lift": 0.93,
+                "rating_delta": 0.1
+            }
+        },
+        {
+            "cluster": 2,
+            "universal_persona": {
+                "population": 2128,
+                "population_pct": 3.9,
+                "certainty": 1.0,
+                "positive_pct": 91.92,
+                "neutral_pct": 2.11,
+                "negative_pct": 5.97,
+                "avg_rating": 4.67,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 556,
+                        "share": 26.13
+                    },
+                    "Icy Hot": {
+                        "reviews": 272,
+                        "share": 12.78
+                    },
+                    "Selsun Blue": {
+                        "reviews": 258,
+                        "share": 12.12
+                    },
+                    "Cortizone 10": {
+                        "reviews": 222,
+                        "share": 10.43
+                    },
+                    "Dulcolax": {
+                        "reviews": 199,
+                        "share": 9.35
+                    },
+                    "Allegra": {
+                        "reviews": 143,
+                        "share": 6.72
+                    },
+                    "ACT": {
+                        "reviews": 136,
+                        "share": 6.39
+                    },
+                    "Aspercreme": {
+                        "reviews": 123,
+                        "share": 5.78
+                    },
+                    "Buscapina": {
+                        "reviews": 97,
+                        "share": 4.56
+                    },
+                    "Unisom": {
+                        "reviews": 50,
+                        "share": 2.35
+                    },
+                    "Xyzal": {
+                        "reviews": 38,
+                        "share": 1.79
+                    },
+                    "Zantac": {
+                        "reviews": 16,
+                        "share": 0.75
+                    },
+                    "Nasacort": {
+                        "reviews": 13,
+                        "share": 0.61
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 4,
+                        "share": 0.19
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.05
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Oral Hygiene Prioritizers",
+                    "summary": "Customers focused on maintaining good oral health through daily routines.",
+                    "decision_drivers": [
+                        "Dentist recommended",
+                        "Proven effectiveness",
+                        "Kid-friendly options",
+                        "Convenient usage"
+                    ],
+                    "satisfaction_drivers": [
+                        "Fresh breath",
+                        "Prevents cavities/gum issues",
+                        "Easy to use",
+                        "Pleasant taste/scent"
+                    ],
+                    "frustration_drivers": [
+                        "Unpleasant taste/smell",
+                        "Ineffective results",
+                        "Difficult to use",
+                        "Harsh ingredients"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 2,
+                "share": 0.057,
+                "certainty": 1.0,
+                "reviews": 222,
+                "average_rating": 4.61,
+                "average_sentiment": 0.902
+            },
+            "comparison": {
+                "share_lift": 1.46,
+                "rating_delta": -0.06
+            }
+        },
+        {
+            "cluster": 7,
+            "universal_persona": {
+                "population": 4657,
+                "population_pct": 8.54,
+                "certainty": 0.995,
+                "positive_pct": 74.38,
+                "neutral_pct": 6.81,
+                "negative_pct": 18.81,
+                "avg_rating": 4.07,
+                "brand_distribution": {
+                    "Icy Hot": {
+                        "reviews": 2496,
+                        "share": 53.6
+                    },
+                    "Aspercreme": {
+                        "reviews": 1197,
+                        "share": 25.7
+                    },
+                    "Gold Bond": {
+                        "reviews": 548,
+                        "share": 11.77
+                    },
+                    "Cortizone 10": {
+                        "reviews": 190,
+                        "share": 4.08
+                    },
+                    "Dulcolax": {
+                        "reviews": 120,
+                        "share": 2.58
+                    },
+                    "Magne B6": {
+                        "reviews": 24,
+                        "share": 0.52
+                    },
+                    "Allegra": {
+                        "reviews": 22,
+                        "share": 0.47
+                    },
+                    "ACT": {
+                        "reviews": 19,
+                        "share": 0.41
+                    },
+                    "Zantac": {
+                        "reviews": 12,
+                        "share": 0.26
+                    },
+                    "Xyzal": {
+                        "reviews": 7,
+                        "share": 0.15
+                    },
+                    "Buscapina": {
+                        "reviews": 7,
+                        "share": 0.15
+                    },
+                    "Selsun Blue": {
+                        "reviews": 6,
+                        "share": 0.13
+                    },
+                    "Unisom": {
+                        "reviews": 4,
+                        "share": 0.09
+                    },
+                    "Nasacort": {
+                        "reviews": 3,
+                        "share": 0.06
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 2,
+                        "share": 0.04
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Pain Relief Prioritizers",
+                    "summary": "Customers seeking effective, targeted relief from muscle/joint pains.",
+                    "decision_drivers": [
+                        "Fast pain relief",
+                        "Long-lasting effects",
+                        "Targeted application",
+                        "Ease of use"
+                    ],
+                    "satisfaction_drivers": [
+                        "Quickly reduces pain",
+                        "Long duration of effects",
+                        "Convenient application",
+                        "No mess or residue"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective results",
+                        "Short-lived relief",
+                        "Difficult application",
+                        "Unpleasant smell/feel"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 7,
+                "share": 0.048,
+                "certainty": 0.988,
+                "reviews": 190,
+                "average_rating": 4.26,
+                "average_sentiment": 0.814
+            },
+            "comparison": {
+                "share_lift": 0.56,
+                "rating_delta": 0.19
+            }
+        },
+        {
+            "cluster": 6,
+            "universal_persona": {
+                "population": 5088,
+                "population_pct": 9.33,
+                "certainty": 0.995,
+                "positive_pct": 78.3,
+                "neutral_pct": 5.76,
+                "negative_pct": 15.94,
+                "avg_rating": 4.2,
+                "brand_distribution": {
+                    "Dulcolax": {
+                        "reviews": 1835,
+                        "share": 36.07
+                    },
+                    "Allegra": {
+                        "reviews": 1028,
+                        "share": 20.2
+                    },
+                    "Unisom": {
+                        "reviews": 743,
+                        "share": 14.6
+                    },
+                    "Xyzal": {
+                        "reviews": 443,
+                        "share": 8.71
+                    },
+                    "Nasacort": {
+                        "reviews": 324,
+                        "share": 6.37
+                    },
+                    "Zantac": {
+                        "reviews": 179,
+                        "share": 3.52
+                    },
+                    "Gold Bond": {
+                        "reviews": 159,
+                        "share": 3.12
+                    },
+                    "ACT": {
+                        "reviews": 116,
+                        "share": 2.28
+                    },
+                    "Cortizone 10": {
+                        "reviews": 75,
+                        "share": 1.47
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 66,
+                        "share": 1.3
+                    },
+                    "Icy Hot": {
+                        "reviews": 48,
+                        "share": 0.94
+                    },
+                    "Aspercreme": {
+                        "reviews": 25,
+                        "share": 0.49
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 23,
+                        "share": 0.45
+                    },
+                    "Selsun Blue": {
+                        "reviews": 12,
+                        "share": 0.24
+                    },
+                    "Buscapina": {
+                        "reviews": 11,
+                        "share": 0.22
+                    },
+                    "Magne B6": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Symptom Relief Seekers",
+                    "summary": "Customers looking for fast, effective relief from acute symptoms.",
+                    "decision_drivers": [
+                        "Fast-acting",
+                        "Proven effectiveness",
+                        "Long-lasting relief",
+                        "Minimal side effects"
+                    ],
+                    "satisfaction_drivers": [
+                        "Quickly alleviates symptoms",
+                        "Long duration of effects",
+                        "No harsh side effects",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short-lived effects",
+                        "Unpleasant side effects",
+                        "Inconvenient usage"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 6,
+                "share": 0.019,
+                "certainty": 0.941,
+                "reviews": 75,
+                "average_rating": 4.31,
+                "average_sentiment": 0.827
+            },
+            "comparison": {
+                "share_lift": 0.2,
+                "rating_delta": 0.11
+            }
+        },
+        {
+            "cluster": 8,
+            "universal_persona": {
+                "population": 6837,
+                "population_pct": 12.54,
+                "certainty": 0.99,
+                "positive_pct": 85.61,
+                "neutral_pct": 3.89,
+                "negative_pct": 10.5,
+                "avg_rating": 4.44,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 6144,
+                        "share": 89.86
+                    },
+                    "Aspercreme": {
+                        "reviews": 242,
+                        "share": 3.54
+                    },
+                    "Icy Hot": {
+                        "reviews": 161,
+                        "share": 2.35
+                    },
+                    "Selsun Blue": {
+                        "reviews": 96,
+                        "share": 1.4
+                    },
+                    "Cortizone 10": {
+                        "reviews": 72,
+                        "share": 1.05
+                    },
+                    "Dulcolax": {
+                        "reviews": 48,
+                        "share": 0.7
+                    },
+                    "ACT": {
+                        "reviews": 41,
+                        "share": 0.6
+                    },
+                    "Allegra": {
+                        "reviews": 13,
+                        "share": 0.19
+                    },
+                    "Nasacort": {
+                        "reviews": 7,
+                        "share": 0.1
+                    },
+                    "Unisom": {
+                        "reviews": 5,
+                        "share": 0.07
+                    },
+                    "Magne B6": {
+                        "reviews": 5,
+                        "share": 0.07
+                    },
+                    "Xyzal": {
+                        "reviews": 2,
+                        "share": 0.03
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.01
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Comfort First Consumers",
+                    "summary": "Customers focused on products that provide comfort, freshness and prevent irritation.",
+                    "decision_drivers": [
+                        "Prevents chafing/irritation",
+                        "Absorbs moisture/sweat",
+                        "Long-lasting freshness",
+                        "Gentle formulation"
+                    ],
+                    "satisfaction_drivers": [
+                        "Stays dry and fresh",
+                        "Soothes irritated skin",
+                        "Easy to apply",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective absorption",
+                        "Short duration of effects",
+                        "Unpleasant smell/residue",
+                        "Causes further irritation"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 8,
+                "share": 0.018,
+                "certainty": 0.976,
+                "reviews": 72,
+                "average_rating": 4.65,
+                "average_sentiment": 0.913
+            },
+            "comparison": {
+                "share_lift": 0.14,
+                "rating_delta": 0.21
+            }
+        },
+        {
+            "cluster": 4,
+            "universal_persona": {
+                "population": 339,
+                "population_pct": 0.62,
+                "certainty": 1.0,
+                "positive_pct": 97.94,
+                "neutral_pct": 1.47,
+                "negative_pct": 0.59,
+                "avg_rating": 4.81,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 132,
+                        "share": 38.94
+                    },
+                    "Cortizone 10": {
+                        "reviews": 42,
+                        "share": 12.39
+                    },
+                    "Dulcolax": {
+                        "reviews": 30,
+                        "share": 8.85
+                    },
+                    "Allegra": {
+                        "reviews": 28,
+                        "share": 8.26
+                    },
+                    "Selsun Blue": {
+                        "reviews": 26,
+                        "share": 7.67
+                    },
+                    "ACT": {
+                        "reviews": 25,
+                        "share": 7.37
+                    },
+                    "Aspercreme": {
+                        "reviews": 17,
+                        "share": 5.01
+                    },
+                    "Icy Hot": {
+                        "reviews": 14,
+                        "share": 4.13
+                    },
+                    "Zantac": {
+                        "reviews": 8,
+                        "share": 2.36
+                    },
+                    "Nasacort": {
+                        "reviews": 7,
+                        "share": 2.06
+                    },
+                    "Xyzal": {
+                        "reviews": 7,
+                        "share": 2.06
+                    },
+                    "Buscapina": {
+                        "reviews": 1,
+                        "share": 0.29
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 1,
+                        "share": 0.29
+                    },
+                    "Unisom": {
+                        "reviews": 1,
+                        "share": 0.29
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Trusted Solution Seekers",
+                    "summary": "Customers prioritizing proven, reliable products from trusted brands.",
+                    "decision_drivers": [
+                        "Trusted brand reputation",
+                        "Proven effectiveness",
+                        "Quality ingredients",
+                        "Good value"
+                    ],
+                    "satisfaction_drivers": [
+                        "Delivers expected results",
+                        "Long-lasting effects",
+                        "Minimal side effects",
+                        "Worth the cost"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short duration of effects",
+                        "Unpleasant side effects",
+                        "Poor value for money"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 4,
+                "share": 0.011,
+                "certainty": 1.0,
+                "reviews": 42,
+                "average_rating": 4.81,
+                "average_sentiment": 0.952
+            },
+            "comparison": {
+                "share_lift": 1.77,
+                "rating_delta": 0.0
+            }
+        },
+        {
+            "cluster": 3,
+            "universal_persona": {
+                "population": 6176,
+                "population_pct": 11.33,
+                "certainty": 0.999,
+                "positive_pct": 84.5,
+                "neutral_pct": 5.04,
+                "negative_pct": 10.46,
+                "avg_rating": 4.42,
+                "brand_distribution": {
+                    "ACT": {
+                        "reviews": 5502,
+                        "share": 89.09
+                    },
+                    "Dulcolax": {
+                        "reviews": 324,
+                        "share": 5.25
+                    },
+                    "Xyzal": {
+                        "reviews": 104,
+                        "share": 1.68
+                    },
+                    "Allegra": {
+                        "reviews": 78,
+                        "share": 1.26
+                    },
+                    "Gold Bond": {
+                        "reviews": 74,
+                        "share": 1.2
+                    },
+                    "Icy Hot": {
+                        "reviews": 24,
+                        "share": 0.39
+                    },
+                    "Cortizone 10": {
+                        "reviews": 21,
+                        "share": 0.34
+                    },
+                    "Zantac": {
+                        "reviews": 14,
+                        "share": 0.23
+                    },
+                    "Unisom": {
+                        "reviews": 13,
+                        "share": 0.21
+                    },
+                    "Aspercreme": {
+                        "reviews": 10,
+                        "share": 0.16
+                    },
+                    "Selsun Blue": {
+                        "reviews": 9,
+                        "share": 0.15
+                    },
+                    "Buscapina": {
+                        "reviews": 1,
+                        "share": 0.02
+                    },
+                    "Nasacort": {
+                        "reviews": 1,
+                        "share": 0.02
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Pediatric Care Facilitators",
+                    "summary": "Parents/caregivers seeking safe, effective solutions for children's health needs.",
+                    "decision_drivers": [
+                        "Kid-friendly formulations",
+                        "Gentle ingredients",
+                        "Proven effectiveness",
+                        "Pediatrician recommended"
+                    ],
+                    "satisfaction_drivers": [
+                        "Easy administration",
+                        "Fast-acting relief",
+                        "No harsh side effects",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Unpleasant taste/smell",
+                        "Difficulty administering",
+                        "Lack of results",
+                        "Harsh side effects"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 3,
+                "share": 0.005,
+                "certainty": 1.0,
+                "reviews": 21,
+                "average_rating": 4.0,
+                "average_sentiment": 0.75
+            },
+            "comparison": {
+                "share_lift": 0.04,
+                "rating_delta": -0.42
+            }
+        },
+        {
+            "cluster": 9,
+            "universal_persona": {
+                "population": 994,
+                "population_pct": 1.82,
+                "certainty": 1.0,
+                "positive_pct": 81.69,
+                "neutral_pct": 4.12,
+                "negative_pct": 14.19,
+                "avg_rating": 4.31,
+                "brand_distribution": {
+                    "Selsun Blue": {
+                        "reviews": 976,
+                        "share": 98.19
+                    },
+                    "Cortizone 10": {
+                        "reviews": 5,
+                        "share": 0.5
+                    },
+                    "Gold Bond": {
+                        "reviews": 4,
+                        "share": 0.4
+                    },
+                    "ACT": {
+                        "reviews": 4,
+                        "share": 0.4
+                    },
+                    "Icy Hot": {
+                        "reviews": 4,
+                        "share": 0.4
+                    },
+                    "Allegra": {
+                        "reviews": 1,
+                        "share": 0.1
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Scalp Care Specialists",
+                    "summary": "Customers dealing with persistent scalp issues like dandruff or dryness.",
+                    "decision_drivers": [
+                        "Proven effectiveness",
+                        "Dermatologist recommended",
+                        "Gentle formulation",
+                        "Convenient usage"
+                    ],
+                    "satisfaction_drivers": [
+                        "Eliminates flakes/itchiness",
+                        "Soothes scalp irritation",
+                        "Easy to use",
+                        "No harsh ingredients"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Further irritation",
+                        "Unpleasant smell",
+                        "Drying effects"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 9,
+                "share": 0.001,
+                "certainty": 1.0,
+                "reviews": 5,
+                "average_rating": 4.2,
+                "average_sentiment": 0.8
+            },
+            "comparison": {
+                "share_lift": 0.05,
+                "rating_delta": -0.11
+            }
+        }
+    ],
+    "trend_analysis": {
+        "timeline": [
+            {
+                "period": "2024-12",
+                "reviews": 34,
+                "average_rating": 4.735,
+                "average_sentiment": 0.934,
+                "cluster_distribution": {
+                    "1": 0.441,
+                    "0": 0.324,
+                    "7": 0.088,
+                    "8": 0.059,
+                    "5": 0.029,
+                    "2": 0.029,
+                    "4": 0.029
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Is what it says. Works like you'd expect. My bathroom gets super hot because I run a dehumidifier in there. This causes the product to get runny. Just something to keep in mind.",
+                        "This *ointment stays in places and seems to work better than a cream for me. Also, it arrived in a product box inside the shipping box in perfect condition.",
+                        "Sensitive skin causes reactions that induce itch and burn sensations and this creme knocks out that sensation. Would not be without it. Recommended.",
+                        "This cream is exactly what it states, \"moisturizing, soothing and anti-itch\". It worked very well for my neck area and did a great job of moisturizing. It is a bit pricey, but to me, it is worth getting rid of the itch!",
+                        "I don't get itchy a lot but a friend recommended this for scars and it has made one nasty scar i have in my arm to stat fading asway. I would recommend for this and itchiness ."
+                    ],
+                    "negative_reviews": [
+                        "I do not like the new stuff where the old was like lotion this stuff is greasy and does not last as long",
+                        "Does not work , i was really hoping i would get some relief just for one minute but got nothing",
+                        "I applied this product to my skin after getting bitten by bugs. It doesnât work immediately for me, but after 5 minutes the itching, swelling and redness went away. I like the ointment type the best because it goes on quickly and is water resistant. The price has gone up a bit on this product.",
+                        "Is what it says. Works like you'd expect. My bathroom gets super hot because I run a dehumidifier in there. This causes the product to get runny. Just something to keep in mind.",
+                        "This *ointment stays in places and seems to work better than a cream for me. Also, it arrived in a product box inside the shipping box in perfect condition."
+                    ]
+                }
+            },
+            {
+                "period": "2025-01",
+                "reviews": 67,
+                "average_rating": 4.403,
+                "average_sentiment": 0.851,
+                "cluster_distribution": {
+                    "1": 0.463,
+                    "0": 0.313,
+                    "5": 0.104,
+                    "2": 0.09,
+                    "7": 0.03
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Nice 1% hydrocortisone cream with aloe. This is a household staple for rashes. We have a lot of excema at our house.",
+                        "I tend to get rashes from my fit bit band if it gets wet but I need the Fitbit and I love the look of the band and it has sentimental value. So Iâve been using this cream when I start to get itchy and it works like a charm.",
+                        "In the winter a slightly dry, itchy patch can turn into a rash quickly because I start scratching too much. Now at the slightest hint of an itch ( usually on my legs) I run and grab this, put a small amount on the itchy area and it Immediately and long term stops the itch in it tracks! I never let myself run out!",
+                        "This product works very well and stops rashes and itching for me. I wish it would be offered in a larger size and be priced accordingly",
+                        "I have been using this product for years. Because it's a cream and not an ointment, it's not greasy after you rub it in and has no annoying odor. It really does give relief from itching from many causes - on hands, skin folds, anywhere you need relief. Often I use it on chapped areas of my hands and find it gives soothing relief from the dryness and itching."
+                    ],
+                    "negative_reviews": [
+                        "I thought this would work for insect bites but didnât work for me. The mosquitos were eating me alive this last summer and I needed desperate relief which this did not bring. I should add that I have sensitive skin so Iâm not sure if that may have made a difference in how I reacted to the cream.",
+                        "I brought 2 packs of this item and one of them was used, because it showed someone squeezed a little bit out of the tube.",
+                        "Cortisone tube arrived open about 1/8th full. I was able to apply salvage enough poor quality medication for one application. Disappointed with No noticeable soothing with single application.",
+                        "My genius housemate neglected to give his dog flea treatment for two months because he said he thought fleas hibernate in the winter. I am highly allergic to fleas and was in agony for two days. I could not sleep and could barely work because I had to concentrate on not scratching. This hydrocortisone cream saved the day. It dulled the itching almost right away, and it's been working well (I reapply it a few times a day).",
+                        "Nice 1% hydrocortisone cream with aloe. This is a household staple for rashes. We have a lot of excema at our house."
+                    ]
+                }
+            },
+            {
+                "period": "2025-02",
+                "reviews": 55,
+                "average_rating": 4.091,
+                "average_sentiment": 0.773,
+                "cluster_distribution": {
+                    "0": 0.345,
+                    "1": 0.327,
+                    "5": 0.182,
+                    "6": 0.036,
+                    "7": 0.036,
+                    "2": 0.036,
+                    "8": 0.036
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I purchased this cream based on my dermatologistâs recommendation after a procedure, and it worked perfectly. It provided effective itch relief and did exactly what I needed it to do. The packaging is convenient, coming in a well-sized tube thatâs easy to use. The price is very affordable, making it a great item to keep on hand for general itch relief. This is definitely a household essential, and I highly recommend it.",
+                        "I was getting a rash on my ankle (turned out to be caused by exercise ankle straps) and suffered for a couple of months with a constant itching. This stuff knocked that down every time until I figured out the root cause and now no longer need to use it :-) Worked for me. Recommend",
+                        "The Cortizone 10 Maximum Strength Anti-Itch Cream is a lifesaver! The 1% hydrocortisone works quickly to relieve itching and irritation, and the soothing aloe really helps calm and hydrate the skin. Itâs perfect for everything from bug bites to skin rashes. The 2 oz size is convenient and easy to carry in my bag. I always keep a tube of this on hand because itâs incredibly effective. Highly recommend for anyone dealing with itchy skin! ð¿ð§",
+                        "Cortizone-10 is very soothing for anything that itches on your body. Iâve used it for many years. Good for mosquito bites too.",
+                        "This worked wonders for tricky tattoo spots, I was able to sit through a long session on my elbow and felt nothing."
+                    ],
+                    "negative_reviews": [
+                        "Didnât help too much with my hives so it wasnât very effective. It did soothe it very slightly but probably wouldnât buy again",
+                        "I dont know how I feel about this. I feel like it does not work but my mom said it should in continuous use. my itch is not relieve. although one thing i like is that it is not sticky and it actually dries fast. but I am not 100% sure if I like it. I will have to use it more and update my review.",
+                        "I purchased this cream based on my dermatologistâs recommendation after a procedure, and it worked perfectly. It provided effective itch relief and did exactly what I needed it to do. The packaging is convenient, coming in a well-sized tube thatâs easy to use. The price is very affordable, making it a great item to keep on hand for general itch relief. This is definitely a household essential, and I highly recommend it.",
+                        "I was getting a rash on my ankle (turned out to be caused by exercise ankle straps) and suffered for a couple of months with a constant itching. This stuff knocked that down every time until I figured out the root cause and now no longer need to use it :-) Worked for me. Recommend",
+                        "The Cortizone 10 Maximum Strength Anti-Itch Cream is a lifesaver! The 1% hydrocortisone works quickly to relieve itching and irritation, and the soothing aloe really helps calm and hydrate the skin. Itâs perfect for everything from bug bites to skin rashes. The 2 oz size is convenient and easy to carry in my bag. I always keep a tube of this on hand because itâs incredibly effective. Highly recommend for anyone dealing with itchy skin! ð¿ð§"
+                    ]
+                }
+            },
+            {
+                "period": "2025-03",
+                "reviews": 47,
+                "average_rating": 4.064,
+                "average_sentiment": 0.766,
+                "cluster_distribution": {
+                    "1": 0.404,
+                    "0": 0.319,
+                    "5": 0.149,
+                    "2": 0.128
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Padezco de alergias en mi piel y me recomendaron esta crema, dÃ©jame decirte que es una muy buena, calma la picazÃ³n, las rojeces y ademÃ¡s te hidrata, te la recomiendo si padeces de alergias",
+                        "Love this. Used to clear up a bad rash on my husband's head within a few days it was all cleared up.",
+                        "My \"go to\" treatment for every (even little) irritation/break in the skin. The very soothing thick cream smooths evenly on the challenged skin. KUDOS!",
+                        "I got bit by flea and it itchy so bad. I thought this cream will help to reduce the itch but it doesn't work.",
+                        "Box was not sealed. No security foil was on tube. I don't feel that this product is safe to use. A return was not an option for this vendor."
+                    ],
+                    "negative_reviews": [
+                        "I got bit by flea and it itchy so bad. I thought this cream will help to reduce the itch but it doesn't work.",
+                        "Box was not sealed. No security foil was on tube. I don't feel that this product is safe to use. A return was not an option for this vendor.",
+                        "It would have been great had I got the 4 pack like I ordered. I only got a 1 pack.",
+                        "Padezco de alergias en mi piel y me recomendaron esta crema, dÃ©jame decirte que es una muy buena, calma la picazÃ³n, las rojeces y ademÃ¡s te hidrata, te la recomiendo si padeces de alergias",
+                        "Love this. Used to clear up a bad rash on my husband's head within a few days it was all cleared up."
+                    ]
+                }
+            },
+            {
+                "period": "2025-04",
+                "reviews": 47,
+                "average_rating": 4.66,
+                "average_sentiment": 0.915,
+                "cluster_distribution": {
+                    "0": 0.383,
+                    "1": 0.362,
+                    "2": 0.085,
+                    "5": 0.085,
+                    "7": 0.043,
+                    "8": 0.043
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "A mi hijo por la escuela y la poca limpieza que hay, le saliÃ³ una mancha de salpullido y cuando le puse esta crema la verdad le ayudÃ³ muchÃ­simo en poco tiempo se le quitÃ³ . Lo mejor que puede existir",
+                        "Esta crema es muy bueno ami bebe le salÃ­an como sarpullido en la cara me recomendaron esta crema le empeze a ponerlo en su cara a los dos dias se le fue quitando lo recomiendo",
+                        "Awesome cream kills the itch fast , not greasy, ease to apply, we keep it all the time its awesome",
+                        "Itch relief for me and breakouts during Spring season. I prefer this over the creme version. This one is more manageable when it comes to bumps and hives.",
+                        "Purchased this for my new camping first-aid kit, so now I have a first aid kit for household use AND one with the camping gear. I occasionally get an itch on my arm that doctors havenât been able to solve. I use a little of these cream and it goes away almost immediately."
+                    ],
+                    "negative_reviews": [
+                        "A mi hijo por la escuela y la poca limpieza que hay, le saliÃ³ una mancha de salpullido y cuando le puse esta crema la verdad le ayudÃ³ muchÃ­simo en poco tiempo se le quitÃ³ . Lo mejor que puede existir",
+                        "Esta crema es muy bueno ami bebe le salÃ­an como sarpullido en la cara me recomendaron esta crema le empeze a ponerlo en su cara a los dos dias se le fue quitando lo recomiendo",
+                        "Awesome cream kills the itch fast , not greasy, ease to apply, we keep it all the time its awesome",
+                        "Itch relief for me and breakouts during Spring season. I prefer this over the creme version. This one is more manageable when it comes to bumps and hives.",
+                        "Purchased this for my new camping first-aid kit, so now I have a first aid kit for household use AND one with the camping gear. I occasionally get an itch on my arm that doctors havenât been able to solve. I use a little of these cream and it goes away almost immediately."
+                    ]
+                }
+            },
+            {
+                "period": "2025-05",
+                "reviews": 50,
+                "average_rating": 4.68,
+                "average_sentiment": 0.92,
+                "cluster_distribution": {
+                    "1": 0.5,
+                    "0": 0.22,
+                    "5": 0.14,
+                    "6": 0.06,
+                    "8": 0.04,
+                    "2": 0.02,
+                    "7": 0.02
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "This little spray works really well to help mild itchiness. If you sometimes get random, single hives for no apparent reason, suggest keeping this on hand to help. Doesn't leave a chalky film or sticky residue on the skin and feels cool going on. Small bottle won't take a lot of space and you don't need to apply a lot.",
+                        "The spray is easy to use and works well. It covers a lot of area and the cooling effect is awesome. Because this just sprays on and I don't have to use my fingers on the affected area to apply it, I love that it doesn't end up irritating the affected areas further. This is great to carry around too!",
+                        "This is a small canister, easy to travel with or have in a first-aid kit. The top twists to open and close the sprayer, so if you turn it \"off\" you wont accidentally activate it in your bag. It has a nice uniformed spray and it does feel cooling on your skin. I don't have any itchy spots right now, but it is really convenient to have and use.",
+                        "This spray is super easy to use! That is probably my favorite thing about it. It does not have a super strong scent which is nice. I will say that it does leave a bit of an oily feeling but that soaks in completely about an hour later. I noticed that it did take a little bit for the itchy to go away, about 20 minutes, but it last a long time. Super easy to use for kids too!",
+                        "The size of this spray bottle is small enough to keep in my hiking backpack first aid kit and with the simple twist cap protector of the spray nozzle there should not be any accidental spraying inside my pack. When I tested this Hydrocortisone Spray on a very itchy patch of skin I received almost instant relief that lasted for hours so it seems to work very quickly."
+                    ],
+                    "negative_reviews": [
+                        "Effective spray less is more works as intended no issues with longevity it does well when out camping this is a must have.",
+                        "This 2.7 oz bottle of Cortisone 10 spray is the perfect travel-sized option, offering the same reliable effectiveness as the regular version. Itâs easy to toss into a bag and can be indispensable when you need itâif you know, you know. At the time of review, itâs priced at $8.50, which is somewhat reasonable given the size and convenience factor. While youâre definitely paying a premium for portability, itâs a handy option to have on hand for those who frequently need cortisone spray on the go. Overall, itâs a functional product, and whether itâs worth the price depends on how much you value the convenience of the compact size.",
+                        "I tried this Cortizone 10 Maximum Strength Itch Relief Cooling Spray, and it's been a lifesaver. I used it on some bug bites, and it worked fast to stop the itching. The spray is easy to use and doesn't make a mess. It's a bit on the pricey side, but for how well it works, I think it's worth it.",
+                        "This little spray works really well to help mild itchiness. If you sometimes get random, single hives for no apparent reason, suggest keeping this on hand to help. Doesn't leave a chalky film or sticky residue on the skin and feels cool going on. Small bottle won't take a lot of space and you don't need to apply a lot.",
+                        "The spray is easy to use and works well. It covers a lot of area and the cooling effect is awesome. Because this just sprays on and I don't have to use my fingers on the affected area to apply it, I love that it doesn't end up irritating the affected areas further. This is great to carry around too!"
+                    ]
+                }
+            },
+            {
+                "period": "2025-06",
+                "reviews": 134,
+                "average_rating": 4.642,
+                "average_sentiment": 0.91,
+                "cluster_distribution": {
+                    "1": 0.463,
+                    "0": 0.321,
+                    "2": 0.09,
+                    "5": 0.037,
+                    "6": 0.03,
+                    "7": 0.03,
+                    "3": 0.015,
+                    "4": 0.015
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Burns a bit, does the job, itâs a cream so I find these not that moisturising but as someone with eczema itâs needed, I think itâs too harsh for my skin. Stops the itching so thatâs the big deal. A little goes a long way as itâs a steroid, watch out as this can bleach skin from overuse",
+                        "A mi hijo se salieron unas ampollas por usar zapatos en la playa y el rose de la arena con el tenis tuvo consecuencias y esta crema fue lo mejor se la colocÃ³ por las noches y en 3 dÃ­as estÃ¡ sÃºper sana y a mi hijo le encanta porque da frescura y quita la comezÃ³n tambiÃ©n",
+                        "Tengo mucho contacto con las frutas en especial con las piÃ±as y sentÃ­a que eso me estaba causando alergia en mis brazos pero este producto asido mi soluciÃ³n muy bueno 100% recomendado",
+                        "This cream really works. I used it for an itchy skin rash and felt relief almost instantly. Itâs gentle, non-irritating, and helps reduce inflammation. Great to keep on hand, especially if you have sensitive skin or allergies. Highly recommended!",
+                        "Okay, my ears have been itching like crazy because of all the pollen in the air (I guess). After going to the dermatologist and the advice didn't solve the issue, my sister and primary physician told me to try this product. Wow, it worked!"
+                    ],
+                    "negative_reviews": [
+                        "This has ingredients that destroyed my skin and should not be allowed on the market!! pls stick with plain hydrocortisone 1% in plain petroleum jelly urgent care prescribes!! how this remains available is beyond me!!",
+                        "When I opened my box for the hydrocortisone cream, the silver seal was already off of it. Iâm pretty apprehensive about using it. Not happy that the item has been opened.",
+                        "I really like this toothpaste â it works well and has a nice flavor. But the only downside is that the toothpaste often builds up around the cap.",
+                        "Pros Not too greasy, soothing relief from mild skin irritations (bug bites, eczema flareups), low smell, large tube size value for money Cons Sooths, but does not eliminate eczema flare ups",
+                        "This product Does what it's supposed to do simple and plain,I bought it online because I couldn't find it at the drug stores. It helped relieve the itch and the rash that I had on my arm."
+                    ]
+                }
+            },
+            {
+                "period": "2025-07",
+                "reviews": 130,
+                "average_rating": 4.562,
+                "average_sentiment": 0.89,
+                "cluster_distribution": {
+                    "1": 0.569,
+                    "0": 0.231,
+                    "5": 0.085,
+                    "2": 0.031,
+                    "7": 0.023,
+                    "8": 0.023,
+                    "6": 0.023,
+                    "3": 0.015
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "This product is the truthhhhhÄ¥hhh. I had eczema on my face and nothing helped, everything just irritated it or cause the affected areas to swell. This product is what cleared my face. I can eat dairy and not put on my cream for 2-3 days. It doesn't really have any smell to me. Dont have to use alot of the cream a little goes a long way. This is the best cream for eczema and itching!",
+                        "Why did you pick this product vs others?: I picked this for the convenience of a spray and it works very well for me!",
+                        "This stuff is amazing! I've suffered for years with Vasculitis otherwise known as Disney rash. After playing golf, the inside of both legs below the knee would be full of a deep red rash that was sensitive to the touch. And it would take days to heal. After buying this product, I tried for the first time applying it before I play. TADA! Rash was over 90% gone (did not appear). Yesterday it was 97 degrees and I applied it a couple hours before playing. I would say it's 95% gone and I haven't reapplied again. Wonderful! Wish I had this product years ago!",
+                        "My husband cant stop scratching. I bought all types of creams, lotion and sprays for him. I bought the spray for his back, either I can apply or he can do himself. He never said It didn't help, so I'm happy. I think he's happy also.",
+                        "Iâm allergic to every detergent, and my skin cracks and gets irritated whenever I wash dishes or clean anything. This cream is amazing â it softens my skin and heals the dryness and wounds."
+                    ],
+                    "negative_reviews": [
+                        "this doesnât seem to work as good as the cream or roll on donât buy it itâs a waste of money !!",
+                        "I got this in hopes it would help all these mosquito bites ive got on my legs that are driving me crazy itching. Sadly, it really isn't working good at all. I spray and it takes the edge off for a few minutes but then im right back to itching. The cream works much better. I dont know if the aerosol is too fine or what but its just not doing what an anti itch should do sadly. However it is so easy to apply and doesnt feel gross or sticky once it dries. It also doesnt have a super strong scent which I appreciated. But I needed it to stop the itch!",
+                        "Stings if the skin is irritated. For sensitive skin, ointment is a much better option. On the plus side, it works fast.",
+                        "It does help with the itch but the spray nozzle needs work it can collect a lot of liquid inside of the head then it runs out on your hand",
+                        "Stops itching temporarily. But being in a spray can it is extremely strong fumes after u spray it. Make sure you're in an open space and open a window"
+                    ]
+                }
+            },
+            {
+                "period": "2025-08",
+                "reviews": 126,
+                "average_rating": 4.429,
+                "average_sentiment": 0.857,
+                "cluster_distribution": {
+                    "1": 0.556,
+                    "0": 0.27,
+                    "5": 0.056,
+                    "2": 0.048,
+                    "7": 0.032,
+                    "4": 0.016,
+                    "8": 0.016,
+                    "6": 0.008
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "All three of my young boys have eczema and this stuff is great! we have tried a lot of eczema products and this by far is the best! Not only is it moisturizing but it hydrates into their skin quickly. There is not smell and having it in tube form is convenient for on the go and less mess, making it super easy to use.",
+                        "Bueno amigos les puedo recomendar este producto un 10/10, sin temor a lo que dirÃ¡n ya que lo comprÃ© para mandarlo a un familiar y pues le puedo decir que estÃ¡ pomada es para muchas cosas alivia temporalmente la soriazis la picazÃ³n , la irritaciÃ³n , inflamaciÃ³n y erupciones debido a eccema.",
+                        "The product works well. It feels cold going on but that stops the itching right away. I have eczema that flares up every now and again and this is perfect.",
+                        "This cream is remarkable! It helps me deal with itchy rashes l get whenever l do water aerobics and swim in the swimming pool. I have very sensitive skin and l am allergic to the chlorine and other chemicals in swimming pools.",
+                        "I occasionally break out during the Summer months. I purchased this and it took the itch out in no time."
+                    ],
+                    "negative_reviews": [
+                        "This item is twice the price of the same comparable product sold at Walmart (Equate brand). It was my fault for \"assuming\" the ounce quantity was the same as the Equate aerosol spray I previously used. This brand name performs no better and IS NOT worth the cost.",
+                        "Medication delivered with an open box!!! I am not sure if this is original product or the product is tampered with.",
+                        "This does help with some of the itching, but nowhere near what lidocaine is like. Get a prescription for lidocaine it's a really bad itch.",
+                        "Used once, the effect was not obvious. It wasn't as good as the advertisement. Let's just consider it as a form of psychological therapy. Not applying it might be even worse.",
+                        "All three of my young boys have eczema and this stuff is great! we have tried a lot of eczema products and this by far is the best! Not only is it moisturizing but it hydrates into their skin quickly. There is not smell and having it in tube form is convenient for on the go and less mess, making it super easy to use."
+                    ]
+                }
+            },
+            {
+                "period": "2025-09",
+                "reviews": 63,
+                "average_rating": 4.349,
+                "average_sentiment": 0.837,
+                "cluster_distribution": {
+                    "1": 0.603,
+                    "0": 0.222,
+                    "5": 0.111,
+                    "2": 0.032,
+                    "6": 0.016,
+                    "8": 0.016
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "After flying all around the pasture of products produced for dog's allergy hot-spots, I found this product did the job and at a much lower price than the ones marketed for dogs. Human grade products do the job and for less cost. This spray instantly works to cool hot spots. Works on humans as well, like a burned finger.",
+                        "I wish cortizone OINTMENT wasn't so hard to find because it stays on longer than the cream and in my opinion it is so much better.",
+                        "The product is great, especially when relieving pain and itching from yellow jacket stings. Unfortunately there was only one tube of cream in my order.",
+                        "I have very sensitive skin. I get heat rashes during summer, and any insect bite irritates my skin a lot. This Cortizone cream is a must have for me. I call it my skin saviour. Any heat rash or skin discomfort is rapidly addressed by this cream. You feel the releif the instant it touches your skin. It cools the skin and soothes itchiness right away. Any minor rash or skin issue will dramatically improve and heal within 72 hours. I like how it isn't greasy and it absorbs quickly. It doesn't have a scent either. I like this presentstion. The tube is big and you get many applications out of it. I am never without this product. It is a holy grail cream for me. I highly recommend it.",
+                        "I have itchy spots on my back and this spray has been a lifesaver! It sprays upside down so I can get the hard to reach spots. Very soothing and easy to use and fast acting for bug bites or burns or scratches I use it for my scrapes and scratches in the summer months. It works!"
+                    ],
+                    "negative_reviews": [
+                        "Because we have had an over abundance of skeeters around our home this year, I was searching for a good reliable anti itch product. I have used this spray twice now to quell the itch associated with skeeter bites. This anti itching spray doesnât seem to lessen the itching at all.",
+                        "Not effective for chiggers and other insect bites. Find a spray with Benadryl diphenhydramine instead. Was in misery expecting this to work for a severe case of chiggers",
+                        "This little bottle can't contain a lot of sprays. But it does work!! I tried everything on poison Ivy and this one is the only one that helped me",
+                        "I had high hopes for this spray, especially with the \"maximum strength\" label. While it does provide a cooling sensation and relieves the itch initially, the relief only lasts for a few seconds before the itching returns. It might work better for very mild irritation, but for more persistent issues like bug bites, I found myself reapplying constantly. Decent, but not as long-lasting as I hoped.",
+                        "Stops the itch and that's what counts. However, the packaging was not secure. The box containing the lotion was open and when I opened the lid of the lotion there was no seal."
+                    ]
+                }
+            },
+            {
+                "period": "2025-10",
+                "reviews": 115,
+                "average_rating": 4.6,
+                "average_sentiment": 0.9,
+                "cluster_distribution": {
+                    "1": 0.47,
+                    "0": 0.252,
+                    "2": 0.078,
+                    "5": 0.07,
+                    "7": 0.061,
+                    "4": 0.026,
+                    "8": 0.026,
+                    "6": 0.017
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Works great for eczema. Prior to buying this, I got a dermatologist prescribed oil-based ointment for my skin. It irritated my skin and made my eczema itch worse. I decided to buy this and it cleared up overnight. Iâll definitely be buying again.",
+                        "Muy buena esta crema para la picazÃ³n en nuestra piel muy eficaz en su adsorciÃ³n en la piel y un alivio total despuÃ©s de aplicar",
+                        "I personally love this product. The feeling of relief when you apply it after a mosquito bite or some allergic reaction is incredible. I even use it on my face when I have had an acne outbreak. Aloe vera is a magical component that makes this cream the best.",
+                        "I get a rash at the drop of a hat, I carry this small can in my backpack and it has saved me many times.",
+                        "Iâve been using this for years without a problem. However, for serious skin issues youâll need a stronger prescription from your doctor."
+                    ],
+                    "negative_reviews": [
+                        "Good product, but I shouldâve looked at fluid ounces because the spray bottle is very very small so I would say not a good good buy",
+                        "The photo makes the cans look normal size. The actual cans are tiny! I mean tiny! Way overpriced for what you get!!!",
+                        "If you're hoping to find a spray that works as well as the cream does....this is NOT the one to buy ð. I use this brand in the cream and it works great.I was wanting tge spray so I wouldn't have to touch my skin.It doesn't stop the itch.I tried it 2 different times thinking I didn't use enough product the 1st time. Nope, still didn't stop the itching,so I'm back to the cream which does.",
+                        "Warning: The 2 oz Cortizone 10 packaging could be a safety risk. The cardboard box it comes in is not sealed. The tube itself does not have a safety seal.",
+                        "Beware. This is not a full size container ð¤¦ð½ââï¸ its a lil ol baby can for the same price as a full can."
+                    ]
+                }
+            },
+            {
+                "period": "2025-11",
+                "reviews": 679,
+                "average_rating": 4.323,
+                "average_sentiment": 0.831,
+                "cluster_distribution": {
+                    "1": 0.465,
+                    "0": 0.237,
+                    "7": 0.131,
+                    "5": 0.078,
+                    "2": 0.057,
+                    "6": 0.012,
+                    "4": 0.009,
+                    "8": 0.006,
+                    "3": 0.004
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Worked when nothing else did. All tests normal, just this sudden crazy pain out of nowhere that felt like I was burned downstairs and touching the burn with razor blades. Months and no answers and felt like I was going insane. Did my own research, found this product, read review after review of women having the same issues. It was very helpful and I canât stress it enough. Three times a day now on day 5 and itâs the first time I donât want to punch a wall. Yes, it comes on icy hot for about 30 seconds but I welcomed the relief and it felt like I could manage for a several hours without the intense discomfort. 10 stars and buying a backup or two.",
+                        "I have eczema and this worked great to help clear it up. I will use a heavy hand cream like cereve or gold bond to help with the drying and flakes but sometimes that's not enough. So i tried this ointment and it was perfect. It's thick and oily and helps to stick on my skin and stay there for some time. I'd say it is water-resistant but not after several washes. It got rid of my eczema that was red and peeling in just a few days. Works wonders",
+                        "Weâve used this with my toddler for his occasional eczema flare ups for over 1 year now and we love it. He mostly has flare ups on his hands/wrists when the weather is cool/dry and this product quickly clears up the flare ups. Itâs very moisturizing but not overly sticky/oily. We continue to buy again and again because it works!",
+                        "I got this to use as part of a steroid taper to help with my sonâs eczema. I had been diluting prescription strength hydrocortisone cream with eczema moisturizer but it was too occlusive for his sensitive neck. This is much thinner so itâs easier to apply a small amount.",
+                        "Only thing that helps keep my sanity when inverse psoriasis flare strikes. Yes, that's an odd place to be affected, it is maddening, and has practically made me a recluse. But this cream is the only that helps calm the itch, especially when it's in this sensitive area."
+                    ],
+                    "negative_reviews": [
+                        "I donât recommend this product. It has something in it like a menthol or something that makes your lady parts burn. I put just a tiny bit on to try before I actually needed to use this and with in seconds it started to feel warm and just got worse. Either this product has been messed with or itâs just poor quality. Either way Iâm out all my money since I opened it. ðð¼",
+                        "This product is supposed to help eczema and other skin conditions but it's got EDTA which is paint stripper so I would refuse for anybody to purchase this product ... I didn't even want to give it a one",
+                        "I had the *sponge tip applicator\" version previously, but cold not find so I tried the rollerball....found it difficult to get the product to dispense. Have since found the sponge applicator and have returned to it.",
+                        "This was not only inadequate in getting rid of the. \"itch\" problem, but made it worse. The so-called \"cooling effect\", was awful and unpleasant., and may have lead to a further problem. Just get real non-additives hydrocortisone cream! Enjoy real \"anti-itch\"!",
+                        "I wanted this to work but it takes almost a half hour to become effective. I'm sitting here with three mosquito bites itching like crazy after I've applied this stuff multiple times... it just doesn't work great or at all"
+                    ]
+                }
+            },
+            {
+                "period": "2025-12",
+                "reviews": 87,
+                "average_rating": 4.011,
+                "average_sentiment": 0.753,
+                "cluster_distribution": {
+                    "1": 0.448,
+                    "0": 0.276,
+                    "5": 0.149,
+                    "7": 0.046,
+                    "6": 0.023,
+                    "8": 0.023,
+                    "2": 0.011,
+                    "3": 0.011,
+                    "4": 0.011
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Easy to spray even when you turn can upside down. Works great you can put a heavy application or a very light application on depending on your needs",
+                        "Sorks very well. Helps with skin irritation, doesnt smell, it is very effective and helps with rashes etc. it is worth the price",
+                        "It works- I sprayed it on the area I had a mole removed from - kept the itching down and healed fast!!",
+                        "This was recommended to me by my local pharmacist for a rash that I had on my wrist from my watch band. After one application, I was significantly better. It is also soothing on a sunburn.",
+                        "Useful, effective itch relief. Works quickly. That it contains Aloe is a big plus. I reorder this brand as necessary."
+                    ],
+                    "negative_reviews": [
+                        "At 77 years old, I had never known there was an aerosol this tiny. Of course I didnât read the 2.7 on the advertisement so old people be aware.",
+                        "Not got for my use think vasaline thatâs how this is. Pitched the cream that works better for my needs",
+                        "Amazon needs to correct there labeling of this product! Stop lying to your buyers, Please!!!Now I'm stuck with the wrong product that I can't even return!",
+                        "I have used Cortisone GEL for the past few years. That is GEL not the Cream. The package indicated it was gel but when received it is the cream. This is not returnable so I have four tubes of a product that I cannot use. Be sure you know what youâre looking for.",
+                        "My Mom can only use the Cortisone 10 that is simply \"INTENSIVE HEALING FORMULA\" not the moisturizing type. The order I placed clearly showed the intensive healing formula but it is not what she received. She says there is nothing that says intensive healing formula but only mention moisturizer. Does not work!!! Amazing that in the wisdom of improving a product, they makers of the product make it worse."
+                    ]
+                }
+            },
+            {
+                "period": "2026-01",
+                "reviews": 36,
+                "average_rating": 4.778,
+                "average_sentiment": 0.944,
+                "cluster_distribution": {
+                    "0": 0.417,
+                    "1": 0.389,
+                    "2": 0.083,
+                    "5": 0.056,
+                    "8": 0.028,
+                    "3": 0.028
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "OK, so I am getting old, and my skin is not holding up for me. I use lotions to help, but sometimes the itch is too much to handle. So, I use this product to ease the itch issue. Works well and it does not seem to be an issue with clothing.",
+                        "I ordered a very expensive anti itch cream on here that literally did nothing. The reviews of that product said the same and one buyer recommended this product. All I can say is: wow! It works. I have a sensitivity to synthetic clothing and I'm constantly itching in my neck/chest/underarm area. This cream takes away the itch almost immediately and provides much needed cooling relief. While I purge my wardrobe and transition to 100% cotton this stuff will be a savior for me. Great stuff.",
+                        "this is an excellent item; works well in stopping the itch from bugs. rolls on easy and not difficult to use",
+                        "This cream works well at taking the edge off of any nasty itch and I am one of those people that mosquitoes love to bite.",
+                        "This is the same product that you buy in a drug store or grocery store. Good stuff and works well."
+                    ],
+                    "negative_reviews": [
+                        "Proven Itch Relief That Works FastâA Medicine Cabinet Must-Have Cortizone-10 Maximum Strength Anti-Itch Cream with Aloe has earned its spot as one of those dependable household staples that just works. Whether itâs mosquito bites, poison ivy, or eczema flare-ups, this cream brings fast, noticeable relief within minutes. The 1% hydrocortisone is the same strength youâd get in most doctor-recommended OTC formulas, and the added aloe helps soothe irritation and moisturize dry skin instead of leaving it tight or flaky. I like that itâs non-greasy and fragrance-freeâit absorbs quickly and doesnât leave residue on clothing or sheets. Iâve used it on everything from mild allergic rashes to insect bites, and it consistently calms redness and itching overnight. For more persistent irritation, reapplying a few times a day keeps the symptoms fully under control. If thereâs any drawback, itâs that some tubes arrive without a seal, and the price can fluctuate more than it used to. Still, the effectiveness and versatility more than make up for that. Bottom line: A tried-and-true anti-itch cream that quickly relieves bites, rashes, and irritation while soothing skin with aloeâreliable, gentle, and always worth keeping on hand.",
+                        "Larger tubes are less money but I needed this travel size for convenience. Ordinarily, I would purchase a larger more economical size.",
+                        "OK, so I am getting old, and my skin is not holding up for me. I use lotions to help, but sometimes the itch is too much to handle. So, I use this product to ease the itch issue. Works well and it does not seem to be an issue with clothing.",
+                        "I ordered a very expensive anti itch cream on here that literally did nothing. The reviews of that product said the same and one buyer recommended this product. All I can say is: wow! It works. I have a sensitivity to synthetic clothing and I'm constantly itching in my neck/chest/underarm area. This cream takes away the itch almost immediately and provides much needed cooling relief. While I purge my wardrobe and transition to 100% cotton this stuff will be a savior for me. Great stuff.",
+                        "this is an excellent item; works well in stopping the itch from bugs. rolls on easy and not difficult to use"
+                    ]
+                }
+            },
+            {
+                "period": "2026-02",
+                "reviews": 523,
+                "average_rating": 4.342,
+                "average_sentiment": 0.836,
+                "cluster_distribution": {
+                    "1": 0.489,
+                    "0": 0.273,
+                    "5": 0.08,
+                    "2": 0.067,
+                    "7": 0.05,
+                    "4": 0.015,
+                    "6": 0.01,
+                    "8": 0.008,
+                    "9": 0.004,
+                    "3": 0.004
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "The Cortozone10 Eczema cream did nothing for my summer underboob psoriases itchy rashes that kept me awake at night. This Psoriasis one, however, works beautifully. I don't know why I suddently cannot find it locally in Pacific Northwest stores anymore, but as long as Amazon has it, I'm good.",
+                        "EstÃ¡ pomada es buena controla mucho la picazÃ³n provocada x moscos por hiedra venenosa ademÃ¡s yo se pongo a mis gatitos cuando se rascan mucho les controla mucho la picazÃ³n provocada x Ã¡caros o pulgas por eso le doy 5 estrellas",
+                        "Me encanta usar esta crema para las veces que siento que tengo alergia por usar mis joyas y el rose de mi piel con la joya me hace ronchitas siento una mejorÃ­a al instante",
+                        "Why did you pick this product vs others?: It's a good cream. I guarantee we should all have a cream like this at home. It's good for eczema rashes. Value for money.",
+                        "Este medicamento lo recomiendo 100% es sÃºper efectivo para cualquier tipo de lesiÃ³n en la piel , en tres dÃ­as comienzas a ver los resultados estoy sÃºper complacida"
+                    ],
+                    "negative_reviews": [
+                        "I bought this to try for the first time for a bad patch of eczema on my shoulder, but the box was not sealed and the tube itself was also not sealed. It looks like someone opened it and possibly used it then wiped the tube clean.",
+                        "This is an ointment, not a \"creme\" and thus will block oxygen to the affected area. Sometimes this is what you want, but I did NOT! Second time I have bought this by mistake and I really wish they would update their packaging, website and description. Ointments and creams are two entirely different things!",
+                        "i have used this ointment for years. never have had a problem. Opened this tube and there is a definite problem. Oil discharge, tried mixing it in the tube- no luck. It is like there is no medication in the tube- just the base lubricant. I believe the error occurred at the point of manufacturing and is not the distributor's fault but I still have to throw it away and am out the money.",
+                        "Bought it because my Dr. recommended it for poison ivy. Didn't do anything for me. Value was decent. No odor & wasn't sticky. Just didn't work for me",
+                        "My face has been itching nonstop, and Iâve tried everything on it but nothing seems to work. Total waste of money."
+                    ]
+                }
+            },
+            {
+                "period": "2026-03",
+                "reviews": 69,
+                "average_rating": 4.667,
+                "average_sentiment": 0.917,
+                "cluster_distribution": {
+                    "1": 0.652,
+                    "0": 0.203,
+                    "5": 0.072,
+                    "8": 0.058,
+                    "6": 0.014
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I have developed a condition that makes my skin very itchy especially when I am trying to sleep. This is the only thing that gives me any relief.",
+                        "Stops itching, non-greasy. Perfect for hours of relief from itching. Does not stain or cling to clothing after letting it dry for a few minutes.",
+                        "Love this product. I was looking for something to help me get my itchy back handled. This spray works great at an angle and gets my back perfectly.",
+                        "Sprays inverted so easy to reach those hard to get spots on your back. I smaller container than expected though.",
+                        "Effective Relief from Insect Bites: My Experience with Cortizone 10 Maximum Strengthâ Recently, I tried Cortizone 10 Maximum Strength for insect bites, and Iâm impressed. The fast-acting itch relief provided by this product is truly remarkable. After applying it to mosquito bites, I experienced immediate relief from itching and irritation. I especially like the convenient packaging of Cortizone 10. The massaging rollerball makes it easy to apply the product, gliding smoothly over the affected area. Additionally, the design ensures precise application without any confusion or excess. One of the key features for me is the economy of this product. A small amount goes a long way, so I can see it lasting for a long time despite its compact size."
+                    ],
+                    "negative_reviews": [
+                        "When spraying, it felt very pleasant on the skin, But when it was dry, IT MADE THE ITCHING MUCH WORSE!!!",
+                        "CAUTION! DO NOT USE THIS PRODUCT! Epecially if you have sensitive skin or any kind of skin problems. I used this product only one time and broke out in hives aand red itching blotches. all over my body. There should be a warning message in the amazon description.",
+                        "My husband is dealing with hives and this does not help that. He switched to bio freeze and the cooling helps him better.",
+                        "The Cortizone-10 Soothing Aloe Itch Relief Spray has become a must-have in my travel and home kit. Whether itâs a bug bite, poison ivy, or just irritated skin, this spray gives instant cooling relief that actually lasts. The 1% hydrocortisone formula calms itching, redness, and irritation within minutes, and the aloe adds a nice soothing touch without feeling greasy. The spray bottle design makes it super easy to apply â no mess, no touching the affected area. I especially love having the 3-pack, so I can keep one in the RV, one at home, and one in my travel bag. Itâs perfect for outdoor cooks, travelers, or anyone spending time on the road or in nature. If you deal with bug bites, rashes, or eczema flare-ups, this is a total lifesaver. Fast-acting, effective, and easy to use â five stars all the way!",
+                        "I used these to relieve flea and mosquito bites during the summer. When sprayed the smell is pretty strong and made me cough a bit, would reccomend using outside. It starts to work after around 10 minutes as there is still some itching after using it."
+                    ]
+                }
+            },
+            {
+                "period": "2026-04",
+                "reviews": 105,
+                "average_rating": 4.781,
+                "average_sentiment": 0.945,
+                "cluster_distribution": {
+                    "1": 0.514,
+                    "0": 0.305,
+                    "5": 0.067,
+                    "2": 0.057,
+                    "8": 0.038,
+                    "6": 0.01,
+                    "7": 0.01
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Esto pomadas es muy buena, por ejemplo, si tienes irritada la piel si tienes algÃºn granito o si te pica alguna hiervita, o un zancudo, o, un animalito es muy buena, porque te la pones menos de 1 hora se te quita la comezÃ³n se te quita la irritaciÃ³n, pues yo, la volverÃ© a comprar porque me gustÃ³ mucho. Siempre la he comprado. Me gusta mucho esta pomada. Ã a comprar y le doy",
+                        "Thank you my husband uses this to Relieve him from itching , he has broken out in Hives and this Helps him .",
+                        "This is very good for itchy skin. I like to add a cream with zinc over the C10, but itâs not necessary. It reduces redness, itch, swelling, heat relatively quicklyâ¦reducing the felt need to scratch. The effect lasts for several hours, and need for reapplication become unnecessary quickly.",
+                        "Amazing itch relief from this. I have tried many others that don't work as well for me. Fastest acting in my opinion.",
+                        "My dermatologist recommended this to me for a rash that was causing a lot of itching. Works like a charmâ¦ Highly recommend"
+                    ],
+                    "negative_reviews": [
+                        "The thumb drive had ineffective insructions. The delays is transmissipon are poor, The person left befpre I could get the voice to work. The motion sensor is way too short.",
+                        "I only received one tube after ordering and paying for the 4 pack. The one I did receive doesn't have the seal on it. I will not even use the ONE tube I did get.",
+                        "I ordered a (4) pack and I only received (1) tube. I need to receive the other (3) tubes or I need to be refunded for (3) tubes of Cortizone-10.",
+                        "I've had eczema since I was a toddler, so cortisone cream is an indispensable part of my life. I was hoping to purchase the \"cooling\" formula of this product, but I couldn't find it as a single tube, only a multipack. The \"soothing\" formula is no substituteâI can't detect any real difference between this product and a generic cortisone cream, despite the addition of aloe. Still, it's effective, non-greasy, and goes on smoothly.",
+                        "Esto pomadas es muy buena, por ejemplo, si tienes irritada la piel si tienes algÃºn granito o si te pica alguna hiervita, o un zancudo, o, un animalito es muy buena, porque te la pones menos de 1 hora se te quita la comezÃ³n se te quita la irritaciÃ³n, pues yo, la volverÃ© a comprar porque me gustÃ³ mucho. Siempre la he comprado. Me gusta mucho esta pomada. Ã a comprar y le doy"
+                    ]
+                }
+            },
+            {
+                "period": "2026-05",
+                "reviews": 71,
+                "average_rating": 4.887,
+                "average_sentiment": 0.972,
+                "cluster_distribution": {
+                    "1": 0.69,
+                    "0": 0.282,
+                    "2": 0.014,
+                    "7": 0.014
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Whoever created Corizone-10, you are such an angel. I had some form of cheilitis on the edges of my lips and the area surrounding my lips. One day, my lips were extra chapped and the are around my lips were red and constantly peeled. then skin would regrow and peel and the vicious cycle would start over again. When I left the area dry for a long time, the skin became crusty and peeled off just to continue being red. I lived with these clown-like lips for around 3 months and it was horrible. I changed my face wash/toothpaste and facial care with no avail. Lip balms became useless, and I also tried honey, coconut oil, and a honey/salt scrub. It kept coming back! Then I read recommendations to use Cortizone. Within 4 hours it was significantly better. In under a week, I was completely healed!! If you have a similar problem with your lips, make sure you do not lick any of it. I would put on a thin film of the cream on the inflamed area before going to bed, and another thin layer before starting my day. This cream also works for rashes of any kind (works for rashes from jewelery and fabric for me). fyi--this is around $5 at the Walmart near me, but might cost more or less depending on where you are",
+                        "This may be embarrassing but it might help the next person. I got this originally because of constant and sometimes painful itching/rashlike feeling around my anus and lower scrotum. Using this cream would allow me peace at work without suppressing every urge to itch in front of peers, and to sleep at night without being awoken by the insane urge to sate the itch. What I later discovered was, because i'd never read up on and so never invested in, technical underwear. I do a lot of Hiking and running. What was happening was that I was getting Chafed from both sweat (salts acting like sand paper on your sensitive areas) and plain old rubbing of parts. I invested in some sport / moisture wicking Boxer Briefs to help hold my goodies in place & wick away sweat, and combined with Gold Bond body powder before my activities, all of this itching sensation completely went away and i've no longer had to use this cream. + because it works. just... maybe you don't actually need it if you have something completely preventable in the first place.",
+                        "I shave daily with a double-edge blade and safety razor. I've very sensitive skin and nothing until C-10 Intensive Healing Formula has kept my skin irritation-free. I use it post-shave in the a.m. (the cream has a matt look, so no shiny face) after splashing on some witch hazel; and again as an evening night-time healing cream. The product works like no other, even better than expensive post-shave products I've used over the years. If you wet shave and are prone to irritation or just want to keep shaved skin in good order, this C-10 formulation will change the the way your skin feels post-shave and even pre-shave if you also apply it to your face in the evening--as an added benefit it also moisturizes. This is an excellent year-round facial cream for wet shavers.",
+                        "I use this on my pups when their bellies get irritated from laying on the grass. Works like a charm!!! this is my second order.",
+                        "This is a great, go to product. I always keep some on hand. Stops itching on contact. Perfect size---lasts a long time. I buy the cream because the jelly makes a mess and ends up on your clothes. Great value!"
+                    ],
+                    "negative_reviews": [
+                        "This salve works well and helps to stop the spread of the rash. It is super thick and does not soak into the skin, even after the skin has been thoroughly washed, it is thick as Crisco. I think that I like another brand a little better, but to run into the local store and find something handy, this is the one.",
+                        "Whoever created Corizone-10, you are such an angel. I had some form of cheilitis on the edges of my lips and the area surrounding my lips. One day, my lips were extra chapped and the are around my lips were red and constantly peeled. then skin would regrow and peel and the vicious cycle would start over again. When I left the area dry for a long time, the skin became crusty and peeled off just to continue being red. I lived with these clown-like lips for around 3 months and it was horrible. I changed my face wash/toothpaste and facial care with no avail. Lip balms became useless, and I also tried honey, coconut oil, and a honey/salt scrub. It kept coming back! Then I read recommendations to use Cortizone. Within 4 hours it was significantly better. In under a week, I was completely healed!! If you have a similar problem with your lips, make sure you do not lick any of it. I would put on a thin film of the cream on the inflamed area before going to bed, and another thin layer before starting my day. This cream also works for rashes of any kind (works for rashes from jewelery and fabric for me). fyi--this is around $5 at the Walmart near me, but might cost more or less depending on where you are",
+                        "This may be embarrassing but it might help the next person. I got this originally because of constant and sometimes painful itching/rashlike feeling around my anus and lower scrotum. Using this cream would allow me peace at work without suppressing every urge to itch in front of peers, and to sleep at night without being awoken by the insane urge to sate the itch. What I later discovered was, because i'd never read up on and so never invested in, technical underwear. I do a lot of Hiking and running. What was happening was that I was getting Chafed from both sweat (salts acting like sand paper on your sensitive areas) and plain old rubbing of parts. I invested in some sport / moisture wicking Boxer Briefs to help hold my goodies in place & wick away sweat, and combined with Gold Bond body powder before my activities, all of this itching sensation completely went away and i've no longer had to use this cream. + because it works. just... maybe you don't actually need it if you have something completely preventable in the first place.",
+                        "I shave daily with a double-edge blade and safety razor. I've very sensitive skin and nothing until C-10 Intensive Healing Formula has kept my skin irritation-free. I use it post-shave in the a.m. (the cream has a matt look, so no shiny face) after splashing on some witch hazel; and again as an evening night-time healing cream. The product works like no other, even better than expensive post-shave products I've used over the years. If you wet shave and are prone to irritation or just want to keep shaved skin in good order, this C-10 formulation will change the the way your skin feels post-shave and even pre-shave if you also apply it to your face in the evening--as an added benefit it also moisturizes. This is an excellent year-round facial cream for wet shavers.",
+                        "I use this on my pups when their bellies get irritated from laying on the grass. Works like a charm!!! this is my second order."
+                    ]
+                }
+            },
+            {
+                "period": "2026-06",
+                "reviews": 954,
+                "average_rating": 4.537,
+                "average_sentiment": 0.884,
+                "cluster_distribution": {
+                    "1": 0.482,
+                    "0": 0.265,
+                    "5": 0.075,
+                    "2": 0.067,
+                    "8": 0.029,
+                    "6": 0.026,
+                    "7": 0.026,
+                    "4": 0.016,
+                    "3": 0.01,
+                    "9": 0.002
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "This has been a great find for my husbandâs eczema. Weâve tried quite a few different products over time, and this one really stands out. It not only helps calm his flare-ups, but it also moisturizes his skin at the same time, which is a huge plus. The size it comes in lasts him a few weeks even with daily use, which we really appreciate. It also dries quickly after applying but still keeps his skin well moisturized, so itâs not greasy, sticky or uncomfortable. What I really like is that it doesnât seem to thin out his skin like some other steroid creams have in the past. Another big win for us is that his skin didnât âget used to itâ and stop respondingâsomething weâve run into before with other treatments. The âmaximum strengthâ claim really holds true, because his skin doesnât relapse when he consistently uses this product. Overall, this has been very effective and reliable for his eczema, and I would definitely recommend it to others dealing with similar skin issues.",
+                        "I've tried quite a few eczema creams and lotions in the past and have really tried to avoid using steroids if possible. I would apply these creams/lotions to my effected areas multiple times a day but the itching and dryness would not go away for months. Now that it's winter, my skin has been even more irritated, itchy, red, scaly, patchy, and dry. After reading all the rave reviews about this product, I decided to give it a try...I should have bought this a long time ago!! My skin felt better and more calm after the first application. It's only been a few days since I started using this product and my skin moisture barrier is finally being repaired. The dryness, flaking, scaling is subsiding. I'm only having to apply once in the morning and before bed. Amazing product and for a fraction of the price of some of these other expensive eczema creams/lotions. Sometimes you just need a steroid to effectively and quickly treat eczema!",
+                        "Cortisone 10 crema anti picazÃ³n sÃ­ es muy buena porque a veces cuando uno agarra algunas cositas o es alÃ©rgica algo en la piel yo me pongo esa pomadita inmediatamente me se me controla la comezÃ³n es muy buena cuando me sale algo granito en la cara pues yo me la pongo y enseguida se me seca he tenido muy buena experiencia con ella y la he comprado varias veces porque me gustÃ³ y creo que la seguirÃ© comprando la recomiendo porque tambiÃ©n se me quita la resequedad de la piel cuando la tengo muy reseca porque cuando uso mucho cloro que mis manos se resecan por usar muchos quÃ­micos entonces me ayuda bastante tambiÃ©n porque me suaviza mis manos y me quita la resequedad y la comezÃ³n que me da la recomiendo por eso le doy cinco estrellas",
+                        "My boys spend a lot of time standing in the bay water, fishing. They wear very old torn up converse sneakers. They will spend hours down there fishing, and often they will get rashes on the sides of their feet, under the ankle above the sole of their feet. This cream clears it right up, usually overnight. The put a small amount on wrap a gauze around it , put on a clean white sock. It is cleared or mostly cleared up with in 12 hours. That is why I buy it. It works to keep my kids' feet healthy.",
+                        "This stuff works WONDERS for eczema, and this is coming from someone who has tried countless remedies and brands of lotion. This literally clears up red, painful eczema on my hands within a matter of HOURS. It works even better overnight; it leaves my hands looking perfectly healed and smooth in the morning. I have no idea what they put in this to make it work so well but I will continue buying. It's also not greasy at all and absorbs quickly, which I love. You need this lotion if you have eczema!!!"
+                    ],
+                    "negative_reviews": [
+                        "Terrible product for bee stings. it does not help for immediate relief. Itâs possible that it may have helped overtime as it says it takes 1-2 days to work. However, the improvement is so minimal that you would get better results from antihistamines like Benadryl.",
+                        "I bought two and i wish i hadn't bought none this stull works but is creasy and if you wash your hands afterwards you'll never get the stuff off. I've been buying Cortizone-10 Psoriasis 3.4 oz for a long time and worked great not greasy and dries on your hands or body with no problem \" Why they changed a good product i just don't know ? But i can tell you one thing i won't be buying anymore !",
+                        "Unfortunately did not work for my shingles itch. Iâm having unreal itch from shingles rash being gone, and I canât seem to find anything to help",
+                        "Over a decade ago, I would have recommended this product. However, now I can't. The addition of Aloe to the product has made this impossible for me to use and in fact caused a small rash to actually get worse. Not everyone can use aloe. I wound up with severe contact dermatitis couldn't understand why. The tubes don't say that there's aloe in the product. It wasn't until I searched online that I discovered the inactive ingredients. I'm now stuck with 5 tubes of a product I can't use and mad that the addition of aloe wasn't made more obvious. It's not a medically necessary addition to the product. Just a disappointed former product user. Better product labeling is needed.",
+                        "The tube is half empty not happy with that it looks like it was used....it is not like a thick lotion it is almost a watery consistancy.....ugggg"
+                    ]
+                }
+            },
+            {
+                "period": "2026-07",
+                "reviews": 533,
+                "average_rating": 4.418,
+                "average_sentiment": 0.855,
+                "cluster_distribution": {
+                    "1": 0.619,
+                    "0": 0.174,
+                    "5": 0.083,
+                    "2": 0.038,
+                    "6": 0.032,
+                    "7": 0.03,
+                    "8": 0.015,
+                    "4": 0.008,
+                    "9": 0.002
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Pleasantly surprised at how well this works! I wash my hands a LOT at my new job at a pottery studio, and often with hot water. I have very sensitive skin so my hands get very dry and itchy. I had eczema as a child but now itâs coming back in my adulthood and with a vengeance lol. I developed a pretty large itchy, scaly, dry patch on my left hand below my thumb. Even when wearing gloves at work or covering the spot with a bandaid, it was still inflamed and irritated everyday. I was itching it till it bled and burned! Itâs been so hard to not scratch it when I feel the itch come back (the kind of itch that makes you want to bite yourself like a dog because it just itches too good.) After a bit of research, I came to the conclusion that what I was dealing with was nummular eczema. I was going to make an appointment with my GP but I figured theyâd just prescribe me an OTC cream anyway so I turned to this one. After just one use before bed, my dry patch was no longer looking as dry, the itchy feeling was diminished, and the color of the inflammation has very significantly improved! I regret not taking a before picture. I wasnât expecting it to do much but it really works. Itâs cheap and thankfully I got it quick because I was about to scratch my eczema patch until I reached bone! I will be using it while also continuing to wear gloves and maybe washing my hands at work less abrasively and with colder water. Iâll be keeping this lotion close while I work in case I have any more flare ups!",
+                        "This stuff works pretty good. Its not greasy and absorbs well. It does not take a lot of it either. A little dab goes a long way. It doesn't leave a gross residue behind which is why normally, I avoid lotion. My ears always had a lot of dead skin in them and would itch like crazy and some times turn bright red and be hot. I never thought anything of it but as I've gotten into my 30s its gotten a lot worse recently and more frequent. I looked up the symptoms and found out its likely eczema. I have it on my elbows as well. This stuff works. It took it a couple of days to make a big difference but boy has it made a massive difference! No more gross dead skin peeling in my ear or bleeding and the skin in my ear is nice and soft. No more itching and burning. Its not a massive tube but the quality for what you get is great and it goes a long way. So the price is really good in my opinion for how effective it is.",
+                        "I've tried quite a few eczema creams and lotions in the past and have really tried to avoid using steroids if possible. I would apply these creams/lotions to my effected areas multiple times a day but the itching and dryness would not go away for months. Now that it's winter, my skin has been even more irritated, itchy, red, scaly, patchy, and dry. After reading all the rave reviews about this product, I decided to give it a try...I should have bought this a long time ago!! My skin felt better and more calm after the first application. It's only been a few days since I started using this product and my skin moisture barrier is finally being repaired. The dryness, flaking, scaling is subsiding. I'm only having to apply once in the morning and before bed. Amazing product and for a fraction of the price of some of these other expensive eczema creams/lotions. Sometimes you just need a steroid to effectively and quickly treat eczema!",
+                        "I suffered from seborrheic dermatitis covering 1/3 of my scalp for about a year. I tried many different medicated shampoos and even tea tree oil but nothing provided much relief. I decided to try this cortizone with the applicator because it seemed less messy to apply than a cream. I dabbed it on the affected parts of my scalp before going to bed. I used enough to get my scalp and some of my hair pretty damp and at first I felt burning and stinging, but I waited about 30 minutes for it to dry and absorb, then went to sleep. When I woke up, the redness, bumps, flakes and itching were greatly diminished. I used it for 3 straight nights, and the seborrheic dermatitis completely disappeared. I use it occasionally now for one night if I feel a little itch coming back and it stops it before it flares up again.",
+                        "Iâm not usually one to write a review but I love this product so much, I need to rave about it. My infant son has bad eczema ask over his little body and Iâve tried so so so many products. From lotion to sprays Iâve tried many products and nothing helps like they say it will. Itâs so frustrating to see a baby itchy and uncomfortable and not be able to soothe him. That is until my sister in law recommended cortisone-10 eczema lotionâ¦she said itâs the only thing to help her n her skin, so I bought it with high hopes. It did not disappointâ¦I applied to his blotchy red irritated skin and the next day gone! Clear skin, just like that. I apply it everyday to his body and not one flare up since using it. Totally recommend to all!!"
+                    ],
+                    "negative_reviews": [
+                        "This cream made my hands worse and itch even moreð¯ and it burned when I put it on which should not happen. Must be all the alcohol in the product. Iâm going a different route and trying a antimicrobial spray that I found on Amazon (says excema therapy on it) because I found out that 70% of excema is caused by bacteria!! Makes sense since Iâm a hairdresser and touch peopleâs hair all day!! So Iâm going to try that spray along with Eucerin Excema cream which also had great reviews!!!",
+                        "I will try it tonight and post review in the morning. I eczema on my face, around my eyes, cheeks and some on my chest and neck. I pray this takes the redness and itchy burning sensation away and swelling.",
+                        "Didn't do anything for eczema as advertised, sticky and not effective even with hydrocortisone as active ingredient. Don't waste your money.",
+                        "This product came damaged. It delivered with a snip on the corner where the product was leaking out. They also donât give refunds, nor can do returns on this. Iâm very dissatisfied with the quality control of this. Someone could have easily tampered with the product and this has completely broken my trust of using this product. Do not buy this. Benadryl itch cream is a better alternative, and also wonât make your skin addicted.",
+                        "Petroleum toxic waste Also only calms the itch. It will come back until you treat it with real medicine (\"theoretically\") Dont trust big brands"
+                    ]
+                }
+            }
+        ],
+        "review_volume": {
+            "current": 1487,
+            "previous": 176,
+            "change_pct": 744.89
+        },
+        "rating": {
+            "current": 4.494,
+            "previous": 4.824,
+            "change": -0.329
+        },
+        "sentiment": {
+            "current": 0.874,
+            "previous": 0.956,
+            "change": -0.082
+        },
+        "emerging_clusters": [
+            {
+                "cluster": 5,
+                "share": 0.079,
+                "change": 0.046
+            },
+            {
+                "cluster": 6,
+                "share": 0.029,
+                "change": 0.024
+            },
+            {
+                "cluster": 2,
+                "share": 0.053,
+                "change": 0.017
+            },
+            {
+                "cluster": 7,
+                "share": 0.028,
+                "change": 0.016
+            },
+            {
+                "cluster": 4,
+                "share": 0.012,
+                "change": 0.012
+            }
+        ],
+        "declining_clusters": [
+            {
+                "cluster": 0,
+                "share": 0.22,
+                "change": -0.074
+            },
+            {
+                "cluster": 1,
+                "share": 0.551,
+                "change": -0.051
+            },
+            {
+                "cluster": 9,
+                "share": 0.002,
+                "change": 0.002
+            },
+            {
+                "cluster": 8,
+                "share": 0.022,
+                "change": 0.003
+            },
+            {
+                "cluster": 3,
+                "share": 0.005,
+                "change": 0.005
+            }
+        ]
+    }
+}

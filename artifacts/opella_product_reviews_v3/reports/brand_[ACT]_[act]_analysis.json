@@ -1,0 +1,1834 @@
+{
+    "product": {
+        "report_type": "brand",
+        "group_by": "BRAND_NAME",
+        "identifier": "ACT",
+        "brand_name": "ACT",
+        "products": 110,
+        "asin": [
+            "B01IAINP32",
+            "1506297595",
+            "B000YJXZ5E",
+            "B004UDM3IU",
+            "B00UJ5YPGQ",
+            "B01MY9A3HH",
+            "B0D14YQVGD",
+            "B0FCZQTGTN",
+            "B08T2ZF3WC",
+            "B0D14VTPDB",
+            "B0D14XVRH6",
+            "B0FCYYBKP2",
+            "B01L4ND4O0",
+            "B0D14XYKRH",
+            "B078YFQG9J",
+            "B0792MTR9P",
+            "B08D3WRZNW",
+            "B00J2KIU10",
+            "B011JD6MNU",
+            "B078MSXZ2L",
+            "B07QJ78SCH",
+            "B07QKNCQK6",
+            "B0815GZKH3",
+            "B0C1HB8T5X",
+            "B0D14Y1PPL",
+            "B0D14Y3VX4",
+            "B0D14YW3N8",
+            "B0FCZF4KRK",
+            "B0FF6G26QW",
+            "B0FVG8SKFF",
+            "B0G99GZXYG",
+            "B001349SQ4",
+            "B0058ID3OY",
+            "B007ZDSEEO",
+            "B00I5MVC66",
+            "B00IMN77NU",
+            "B078YGH4GR",
+            "B079F4N1B3",
+            "B0BWQ2734S",
+            "B0D14Y2LBZ",
+            "B0DBJC7T6F",
+            "B0DJYZ2KM5",
+            "B000TUMKPY",
+            "B001H54RAQ",
+            "B00FQR843C",
+            "B00OZ90I7M",
+            "B01IADVBYW",
+            "B0FCZX4GQK",
+            "B0012DX2VS",
+            "B079119TPM",
+            "B077DQ3M5P",
+            "B00CS6N1LY",
+            "B0167JYOK4",
+            "B0FCZRMF14",
+            "B01GREVQHS",
+            "B010CRERMC",
+            "B07MFPVCVF",
+            "B000YJU21O",
+            "B07DPQB381",
+            "B0D14WLVBD",
+            "B0D14XVTMF",
+            "B001MIZMJS",
+            "B00G3OD2F2",
+            "B00I9GQHEA",
+            "B01IA96KF6",
+            "B01IA99GIE",
+            "B01MR70WUO",
+            "B01N23FCL2",
+            "B0D14XRKCP",
+            "B0D14XR8LG",
+            "B00JOLJX1I",
+            "B078MZNH5P",
+            "B0CSFWFGDT",
+            "B00BTWAPIU",
+            "B001MS73GS",
+            "B01IADYLO4",
+            "B0D186XLJX",
+            "B0DDVDTBF3",
+            "B018QZHEIQ",
+            "B0012S4T8S",
+            "B00I5MQZDG",
+            "B00IU065ZG",
+            "B01HDNL7RG",
+            "B0D1QLBRQP",
+            "B0CJLRJ2FF",
+            "B0CZQWGFR6",
+            "B0D124DYP5",
+            "B0D1PZPHST",
+            "B0DP3CKZG4",
+            "B0CT631BFG",
+            "B0CNS56TNX",
+            "B0D14Y1D2X",
+            "B002F3RAKI",
+            "B00KOCM6PQ",
+            "B00R37ED06",
+            "B00T77638U",
+            "B018KS2PYW",
+            "B01IA97AKA",
+            "B076BVX8R9",
+            "B076BWB6ZS",
+            "B078YG7D6N",
+            "B078YGFS7R",
+            "B0CSCY8P5N",
+            "B0CSD33758",
+            "B0CZL2KT47",
+            "B0CZQRDRZX",
+            "B0D124BT8T",
+            "B0D124M3YR",
+            "B0D1QKJ1X1",
+            "B0DD4J5F14"
+        ],
+        "reviews": 7008,
+        "average_rating": 4.43,
+        "average_sentiment": 0.857
+    },
+    "macro_personas": [
+        {
+            "cluster": 3,
+            "universal_persona": {
+                "population": 6176,
+                "population_pct": 11.33,
+                "certainty": 0.999,
+                "positive_pct": 84.5,
+                "neutral_pct": 5.04,
+                "negative_pct": 10.46,
+                "avg_rating": 4.42,
+                "brand_distribution": {
+                    "ACT": {
+                        "reviews": 5502,
+                        "share": 89.09
+                    },
+                    "Dulcolax": {
+                        "reviews": 324,
+                        "share": 5.25
+                    },
+                    "Xyzal": {
+                        "reviews": 104,
+                        "share": 1.68
+                    },
+                    "Allegra": {
+                        "reviews": 78,
+                        "share": 1.26
+                    },
+                    "Gold Bond": {
+                        "reviews": 74,
+                        "share": 1.2
+                    },
+                    "Icy Hot": {
+                        "reviews": 24,
+                        "share": 0.39
+                    },
+                    "Cortizone 10": {
+                        "reviews": 21,
+                        "share": 0.34
+                    },
+                    "Zantac": {
+                        "reviews": 14,
+                        "share": 0.23
+                    },
+                    "Unisom": {
+                        "reviews": 13,
+                        "share": 0.21
+                    },
+                    "Aspercreme": {
+                        "reviews": 10,
+                        "share": 0.16
+                    },
+                    "Selsun Blue": {
+                        "reviews": 9,
+                        "share": 0.15
+                    },
+                    "Buscapina": {
+                        "reviews": 1,
+                        "share": 0.02
+                    },
+                    "Nasacort": {
+                        "reviews": 1,
+                        "share": 0.02
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Pediatric Care Facilitators",
+                    "summary": "Parents/caregivers seeking safe, effective solutions for children's health needs.",
+                    "decision_drivers": [
+                        "Kid-friendly formulations",
+                        "Gentle ingredients",
+                        "Proven effectiveness",
+                        "Pediatrician recommended"
+                    ],
+                    "satisfaction_drivers": [
+                        "Easy administration",
+                        "Fast-acting relief",
+                        "No harsh side effects",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Unpleasant taste/smell",
+                        "Difficulty administering",
+                        "Lack of results",
+                        "Harsh side effects"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 3,
+                "share": 0.785,
+                "certainty": 1.0,
+                "reviews": 5502,
+                "average_rating": 4.47,
+                "average_sentiment": 0.869
+            },
+            "comparison": {
+                "share_lift": 6.93,
+                "rating_delta": 0.05
+            }
+        },
+        {
+            "cluster": 0,
+            "universal_persona": {
+                "population": 11231,
+                "population_pct": 20.6,
+                "certainty": 0.997,
+                "positive_pct": 86.88,
+                "neutral_pct": 4.03,
+                "negative_pct": 9.08,
+                "avg_rating": 4.49,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 3735,
+                        "share": 33.26
+                    },
+                    "Dulcolax": {
+                        "reviews": 1768,
+                        "share": 15.74
+                    },
+                    "Cortizone 10": {
+                        "reviews": 1000,
+                        "share": 8.9
+                    },
+                    "Icy Hot": {
+                        "reviews": 985,
+                        "share": 8.77
+                    },
+                    "ACT": {
+                        "reviews": 904,
+                        "share": 8.05
+                    },
+                    "Allegra": {
+                        "reviews": 743,
+                        "share": 6.62
+                    },
+                    "Aspercreme": {
+                        "reviews": 657,
+                        "share": 5.85
+                    },
+                    "Selsun Blue": {
+                        "reviews": 403,
+                        "share": 3.59
+                    },
+                    "Nasacort": {
+                        "reviews": 293,
+                        "share": 2.61
+                    },
+                    "Xyzal": {
+                        "reviews": 253,
+                        "share": 2.25
+                    },
+                    "Unisom": {
+                        "reviews": 215,
+                        "share": 1.91
+                    },
+                    "Zantac": {
+                        "reviews": 215,
+                        "share": 1.91
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 27,
+                        "share": 0.24
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 22,
+                        "share": 0.2
+                    },
+                    "Buscapina": {
+                        "reviews": 11,
+                        "share": 0.1
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Daily Wellness Maintainers",
+                    "summary": "Customers seeking reliable products to support everyday health routines and prevention.",
+                    "decision_drivers": [
+                        "Effectiveness",
+                        "Quality",
+                        "Trusted brand",
+                        "Ease of use"
+                    ],
+                    "satisfaction_drivers": [
+                        "Long-lasting relief",
+                        "Meets daily needs",
+                        "Minimal side effects",
+                        "Trusted solution"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short duration",
+                        "Unpleasant side effects",
+                        "Poor value"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 0,
+                "share": 0.129,
+                "certainty": 0.997,
+                "reviews": 904,
+                "average_rating": 4.57,
+                "average_sentiment": 0.892
+            },
+            "comparison": {
+                "share_lift": 0.63,
+                "rating_delta": 0.08
+            }
+        },
+        {
+            "cluster": 5,
+            "universal_persona": {
+                "population": 4604,
+                "population_pct": 8.45,
+                "certainty": 0.995,
+                "positive_pct": 22.26,
+                "neutral_pct": 13.66,
+                "negative_pct": 64.07,
+                "avg_rating": 2.21,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 3046,
+                        "share": 66.16
+                    },
+                    "Cortizone 10": {
+                        "reviews": 312,
+                        "share": 6.78
+                    },
+                    "Icy Hot": {
+                        "reviews": 242,
+                        "share": 5.26
+                    },
+                    "Aspercreme": {
+                        "reviews": 216,
+                        "share": 4.69
+                    },
+                    "ACT": {
+                        "reviews": 211,
+                        "share": 4.58
+                    },
+                    "Dulcolax": {
+                        "reviews": 157,
+                        "share": 3.41
+                    },
+                    "Allegra": {
+                        "reviews": 139,
+                        "share": 3.02
+                    },
+                    "Nasacort": {
+                        "reviews": 87,
+                        "share": 1.89
+                    },
+                    "Xyzal": {
+                        "reviews": 68,
+                        "share": 1.48
+                    },
+                    "Zantac": {
+                        "reviews": 58,
+                        "share": 1.26
+                    },
+                    "Selsun Blue": {
+                        "reviews": 42,
+                        "share": 0.91
+                    },
+                    "Unisom": {
+                        "reviews": 17,
+                        "share": 0.37
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 3,
+                        "share": 0.07
+                    },
+                    "Buscapina": {
+                        "reviews": 3,
+                        "share": 0.07
+                    },
+                    "Magne B6": {
+                        "reviews": 2,
+                        "share": 0.04
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Product Experience Critics",
+                    "summary": "Customers focused on product usability and delivery mechanisms over ingredients.",
+                    "decision_drivers": [
+                        "Ease of application",
+                        "Convenient packaging",
+                        "Innovative delivery"
+                    ],
+                    "satisfaction_drivers": [
+                        "Hassle-free usage",
+                        "Precise application",
+                        "Portable packaging"
+                    ],
+                    "frustration_drivers": [
+                        "Difficult application",
+                        "Faulty packaging/sprayers",
+                        "Messy or wasteful"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 5,
+                "share": 0.03,
+                "certainty": 0.991,
+                "reviews": 211,
+                "average_rating": 2.63,
+                "average_sentiment": 0.408
+            },
+            "comparison": {
+                "share_lift": 0.36,
+                "rating_delta": 0.42
+            }
+        },
+        {
+            "cluster": 2,
+            "universal_persona": {
+                "population": 2128,
+                "population_pct": 3.9,
+                "certainty": 1.0,
+                "positive_pct": 91.92,
+                "neutral_pct": 2.11,
+                "negative_pct": 5.97,
+                "avg_rating": 4.67,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 556,
+                        "share": 26.13
+                    },
+                    "Icy Hot": {
+                        "reviews": 272,
+                        "share": 12.78
+                    },
+                    "Selsun Blue": {
+                        "reviews": 258,
+                        "share": 12.12
+                    },
+                    "Cortizone 10": {
+                        "reviews": 222,
+                        "share": 10.43
+                    },
+                    "Dulcolax": {
+                        "reviews": 199,
+                        "share": 9.35
+                    },
+                    "Allegra": {
+                        "reviews": 143,
+                        "share": 6.72
+                    },
+                    "ACT": {
+                        "reviews": 136,
+                        "share": 6.39
+                    },
+                    "Aspercreme": {
+                        "reviews": 123,
+                        "share": 5.78
+                    },
+                    "Buscapina": {
+                        "reviews": 97,
+                        "share": 4.56
+                    },
+                    "Unisom": {
+                        "reviews": 50,
+                        "share": 2.35
+                    },
+                    "Xyzal": {
+                        "reviews": 38,
+                        "share": 1.79
+                    },
+                    "Zantac": {
+                        "reviews": 16,
+                        "share": 0.75
+                    },
+                    "Nasacort": {
+                        "reviews": 13,
+                        "share": 0.61
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 4,
+                        "share": 0.19
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.05
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Oral Hygiene Prioritizers",
+                    "summary": "Customers focused on maintaining good oral health through daily routines.",
+                    "decision_drivers": [
+                        "Dentist recommended",
+                        "Proven effectiveness",
+                        "Kid-friendly options",
+                        "Convenient usage"
+                    ],
+                    "satisfaction_drivers": [
+                        "Fresh breath",
+                        "Prevents cavities/gum issues",
+                        "Easy to use",
+                        "Pleasant taste/scent"
+                    ],
+                    "frustration_drivers": [
+                        "Unpleasant taste/smell",
+                        "Ineffective results",
+                        "Difficult to use",
+                        "Harsh ingredients"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 2,
+                "share": 0.019,
+                "certainty": 1.0,
+                "reviews": 136,
+                "average_rating": 4.79,
+                "average_sentiment": 0.947
+            },
+            "comparison": {
+                "share_lift": 0.49,
+                "rating_delta": 0.12
+            }
+        },
+        {
+            "cluster": 6,
+            "universal_persona": {
+                "population": 5088,
+                "population_pct": 9.33,
+                "certainty": 0.995,
+                "positive_pct": 78.3,
+                "neutral_pct": 5.76,
+                "negative_pct": 15.94,
+                "avg_rating": 4.2,
+                "brand_distribution": {
+                    "Dulcolax": {
+                        "reviews": 1835,
+                        "share": 36.07
+                    },
+                    "Allegra": {
+                        "reviews": 1028,
+                        "share": 20.2
+                    },
+                    "Unisom": {
+                        "reviews": 743,
+                        "share": 14.6
+                    },
+                    "Xyzal": {
+                        "reviews": 443,
+                        "share": 8.71
+                    },
+                    "Nasacort": {
+                        "reviews": 324,
+                        "share": 6.37
+                    },
+                    "Zantac": {
+                        "reviews": 179,
+                        "share": 3.52
+                    },
+                    "Gold Bond": {
+                        "reviews": 159,
+                        "share": 3.12
+                    },
+                    "ACT": {
+                        "reviews": 116,
+                        "share": 2.28
+                    },
+                    "Cortizone 10": {
+                        "reviews": 75,
+                        "share": 1.47
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 66,
+                        "share": 1.3
+                    },
+                    "Icy Hot": {
+                        "reviews": 48,
+                        "share": 0.94
+                    },
+                    "Aspercreme": {
+                        "reviews": 25,
+                        "share": 0.49
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 23,
+                        "share": 0.45
+                    },
+                    "Selsun Blue": {
+                        "reviews": 12,
+                        "share": 0.24
+                    },
+                    "Buscapina": {
+                        "reviews": 11,
+                        "share": 0.22
+                    },
+                    "Magne B6": {
+                        "reviews": 1,
+                        "share": 0.02
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Symptom Relief Seekers",
+                    "summary": "Customers looking for fast, effective relief from acute symptoms.",
+                    "decision_drivers": [
+                        "Fast-acting",
+                        "Proven effectiveness",
+                        "Long-lasting relief",
+                        "Minimal side effects"
+                    ],
+                    "satisfaction_drivers": [
+                        "Quickly alleviates symptoms",
+                        "Long duration of effects",
+                        "No harsh side effects",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short-lived effects",
+                        "Unpleasant side effects",
+                        "Inconvenient usage"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 6,
+                "share": 0.017,
+                "certainty": 0.993,
+                "reviews": 116,
+                "average_rating": 3.96,
+                "average_sentiment": 0.739
+            },
+            "comparison": {
+                "share_lift": 0.18,
+                "rating_delta": -0.24
+            }
+        },
+        {
+            "cluster": 1,
+            "universal_persona": {
+                "population": 12457,
+                "population_pct": 22.85,
+                "certainty": 0.994,
+                "positive_pct": 84.42,
+                "neutral_pct": 5.59,
+                "negative_pct": 9.99,
+                "avg_rating": 4.43,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 9823,
+                        "share": 78.86
+                    },
+                    "Cortizone 10": {
+                        "reviews": 1986,
+                        "share": 15.94
+                    },
+                    "Icy Hot": {
+                        "reviews": 180,
+                        "share": 1.44
+                    },
+                    "Aspercreme": {
+                        "reviews": 177,
+                        "share": 1.42
+                    },
+                    "Selsun Blue": {
+                        "reviews": 102,
+                        "share": 0.82
+                    },
+                    "Allegra": {
+                        "reviews": 75,
+                        "share": 0.6
+                    },
+                    "ACT": {
+                        "reviews": 50,
+                        "share": 0.4
+                    },
+                    "Dulcolax": {
+                        "reviews": 39,
+                        "share": 0.31
+                    },
+                    "Xyzal": {
+                        "reviews": 10,
+                        "share": 0.08
+                    },
+                    "Magne B6": {
+                        "reviews": 8,
+                        "share": 0.06
+                    },
+                    "Nasacort": {
+                        "reviews": 6,
+                        "share": 0.05
+                    },
+                    "Unisom": {
+                        "reviews": 1,
+                        "share": 0.01
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Skin Condition Soothers",
+                    "summary": "Customers looking for effective relief from persistent skin irritations and conditions.",
+                    "decision_drivers": [
+                        "Fast-acting",
+                        "Gentle formulation",
+                        "Proven ingredients",
+                        "Dermatologist recommended"
+                    ],
+                    "satisfaction_drivers": [
+                        "Reduces itching/irritation",
+                        "Promotes healing",
+                        "Long-lasting effects",
+                        "Safe for sensitive skin"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective results",
+                        "Further irritation",
+                        "Short-lived relief",
+                        "Harsh ingredients"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 1,
+                "share": 0.007,
+                "certainty": 1.0,
+                "reviews": 50,
+                "average_rating": 4.22,
+                "average_sentiment": 0.805
+            },
+            "comparison": {
+                "share_lift": 0.03,
+                "rating_delta": -0.21
+            }
+        },
+        {
+            "cluster": 8,
+            "universal_persona": {
+                "population": 6837,
+                "population_pct": 12.54,
+                "certainty": 0.99,
+                "positive_pct": 85.61,
+                "neutral_pct": 3.89,
+                "negative_pct": 10.5,
+                "avg_rating": 4.44,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 6144,
+                        "share": 89.86
+                    },
+                    "Aspercreme": {
+                        "reviews": 242,
+                        "share": 3.54
+                    },
+                    "Icy Hot": {
+                        "reviews": 161,
+                        "share": 2.35
+                    },
+                    "Selsun Blue": {
+                        "reviews": 96,
+                        "share": 1.4
+                    },
+                    "Cortizone 10": {
+                        "reviews": 72,
+                        "share": 1.05
+                    },
+                    "Dulcolax": {
+                        "reviews": 48,
+                        "share": 0.7
+                    },
+                    "ACT": {
+                        "reviews": 41,
+                        "share": 0.6
+                    },
+                    "Allegra": {
+                        "reviews": 13,
+                        "share": 0.19
+                    },
+                    "Nasacort": {
+                        "reviews": 7,
+                        "share": 0.1
+                    },
+                    "Unisom": {
+                        "reviews": 5,
+                        "share": 0.07
+                    },
+                    "Magne B6": {
+                        "reviews": 5,
+                        "share": 0.07
+                    },
+                    "Xyzal": {
+                        "reviews": 2,
+                        "share": 0.03
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 1,
+                        "share": 0.01
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Comfort First Consumers",
+                    "summary": "Customers focused on products that provide comfort, freshness and prevent irritation.",
+                    "decision_drivers": [
+                        "Prevents chafing/irritation",
+                        "Absorbs moisture/sweat",
+                        "Long-lasting freshness",
+                        "Gentle formulation"
+                    ],
+                    "satisfaction_drivers": [
+                        "Stays dry and fresh",
+                        "Soothes irritated skin",
+                        "Easy to apply",
+                        "Trusted brand"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective absorption",
+                        "Short duration of effects",
+                        "Unpleasant smell/residue",
+                        "Causes further irritation"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 8,
+                "share": 0.006,
+                "certainty": 1.0,
+                "reviews": 41,
+                "average_rating": 4.61,
+                "average_sentiment": 0.902
+            },
+            "comparison": {
+                "share_lift": 0.05,
+                "rating_delta": 0.17
+            }
+        },
+        {
+            "cluster": 4,
+            "universal_persona": {
+                "population": 339,
+                "population_pct": 0.62,
+                "certainty": 1.0,
+                "positive_pct": 97.94,
+                "neutral_pct": 1.47,
+                "negative_pct": 0.59,
+                "avg_rating": 4.81,
+                "brand_distribution": {
+                    "Gold Bond": {
+                        "reviews": 132,
+                        "share": 38.94
+                    },
+                    "Cortizone 10": {
+                        "reviews": 42,
+                        "share": 12.39
+                    },
+                    "Dulcolax": {
+                        "reviews": 30,
+                        "share": 8.85
+                    },
+                    "Allegra": {
+                        "reviews": 28,
+                        "share": 8.26
+                    },
+                    "Selsun Blue": {
+                        "reviews": 26,
+                        "share": 7.67
+                    },
+                    "ACT": {
+                        "reviews": 25,
+                        "share": 7.37
+                    },
+                    "Aspercreme": {
+                        "reviews": 17,
+                        "share": 5.01
+                    },
+                    "Icy Hot": {
+                        "reviews": 14,
+                        "share": 4.13
+                    },
+                    "Zantac": {
+                        "reviews": 8,
+                        "share": 2.36
+                    },
+                    "Nasacort": {
+                        "reviews": 7,
+                        "share": 2.06
+                    },
+                    "Xyzal": {
+                        "reviews": 7,
+                        "share": 2.06
+                    },
+                    "Buscapina": {
+                        "reviews": 1,
+                        "share": 0.29
+                    },
+                    "Unisom Sleepgels": {
+                        "reviews": 1,
+                        "share": 0.29
+                    },
+                    "Unisom": {
+                        "reviews": 1,
+                        "share": 0.29
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Trusted Solution Seekers",
+                    "summary": "Customers prioritizing proven, reliable products from trusted brands.",
+                    "decision_drivers": [
+                        "Trusted brand reputation",
+                        "Proven effectiveness",
+                        "Quality ingredients",
+                        "Good value"
+                    ],
+                    "satisfaction_drivers": [
+                        "Delivers expected results",
+                        "Long-lasting effects",
+                        "Minimal side effects",
+                        "Worth the cost"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Short duration of effects",
+                        "Unpleasant side effects",
+                        "Poor value for money"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 4,
+                "share": 0.004,
+                "certainty": 1.0,
+                "reviews": 25,
+                "average_rating": 4.88,
+                "average_sentiment": 0.97
+            },
+            "comparison": {
+                "share_lift": 0.65,
+                "rating_delta": 0.07
+            }
+        },
+        {
+            "cluster": 7,
+            "universal_persona": {
+                "population": 4657,
+                "population_pct": 8.54,
+                "certainty": 0.995,
+                "positive_pct": 74.38,
+                "neutral_pct": 6.81,
+                "negative_pct": 18.81,
+                "avg_rating": 4.07,
+                "brand_distribution": {
+                    "Icy Hot": {
+                        "reviews": 2496,
+                        "share": 53.6
+                    },
+                    "Aspercreme": {
+                        "reviews": 1197,
+                        "share": 25.7
+                    },
+                    "Gold Bond": {
+                        "reviews": 548,
+                        "share": 11.77
+                    },
+                    "Cortizone 10": {
+                        "reviews": 190,
+                        "share": 4.08
+                    },
+                    "Dulcolax": {
+                        "reviews": 120,
+                        "share": 2.58
+                    },
+                    "Magne B6": {
+                        "reviews": 24,
+                        "share": 0.52
+                    },
+                    "Allegra": {
+                        "reviews": 22,
+                        "share": 0.47
+                    },
+                    "ACT": {
+                        "reviews": 19,
+                        "share": 0.41
+                    },
+                    "Zantac": {
+                        "reviews": 12,
+                        "share": 0.26
+                    },
+                    "Xyzal": {
+                        "reviews": 7,
+                        "share": 0.15
+                    },
+                    "Buscapina": {
+                        "reviews": 7,
+                        "share": 0.15
+                    },
+                    "Selsun Blue": {
+                        "reviews": 6,
+                        "share": 0.13
+                    },
+                    "Unisom": {
+                        "reviews": 4,
+                        "share": 0.09
+                    },
+                    "Nasacort": {
+                        "reviews": 3,
+                        "share": 0.06
+                    },
+                    "Dulcolax Pink": {
+                        "reviews": 2,
+                        "share": 0.04
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Pain Relief Prioritizers",
+                    "summary": "Customers seeking effective, targeted relief from muscle/joint pains.",
+                    "decision_drivers": [
+                        "Fast pain relief",
+                        "Long-lasting effects",
+                        "Targeted application",
+                        "Ease of use"
+                    ],
+                    "satisfaction_drivers": [
+                        "Quickly reduces pain",
+                        "Long duration of effects",
+                        "Convenient application",
+                        "No mess or residue"
+                    ],
+                    "frustration_drivers": [
+                        "Ineffective results",
+                        "Short-lived relief",
+                        "Difficult application",
+                        "Unpleasant smell/feel"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 7,
+                "share": 0.003,
+                "certainty": 0.988,
+                "reviews": 19,
+                "average_rating": 4.0,
+                "average_sentiment": 0.75
+            },
+            "comparison": {
+                "share_lift": 0.04,
+                "rating_delta": -0.07
+            }
+        },
+        {
+            "cluster": 9,
+            "universal_persona": {
+                "population": 994,
+                "population_pct": 1.82,
+                "certainty": 1.0,
+                "positive_pct": 81.69,
+                "neutral_pct": 4.12,
+                "negative_pct": 14.19,
+                "avg_rating": 4.31,
+                "brand_distribution": {
+                    "Selsun Blue": {
+                        "reviews": 976,
+                        "share": 98.19
+                    },
+                    "Cortizone 10": {
+                        "reviews": 5,
+                        "share": 0.5
+                    },
+                    "Gold Bond": {
+                        "reviews": 4,
+                        "share": 0.4
+                    },
+                    "ACT": {
+                        "reviews": 4,
+                        "share": 0.4
+                    },
+                    "Icy Hot": {
+                        "reviews": 4,
+                        "share": 0.4
+                    },
+                    "Allegra": {
+                        "reviews": 1,
+                        "share": 0.1
+                    }
+                },
+                "cluster_profile": {
+                    "name": "Scalp Care Specialists",
+                    "summary": "Customers dealing with persistent scalp issues like dandruff or dryness.",
+                    "decision_drivers": [
+                        "Proven effectiveness",
+                        "Dermatologist recommended",
+                        "Gentle formulation",
+                        "Convenient usage"
+                    ],
+                    "satisfaction_drivers": [
+                        "Eliminates flakes/itchiness",
+                        "Soothes scalp irritation",
+                        "Easy to use",
+                        "No harsh ingredients"
+                    ],
+                    "frustration_drivers": [
+                        "Lack of results",
+                        "Further irritation",
+                        "Unpleasant smell",
+                        "Drying effects"
+                    ],
+                    "confidence": "High"
+                }
+            },
+            "product_persona": {
+                "cluster": 9,
+                "share": 0.001,
+                "certainty": 1.0,
+                "reviews": 4,
+                "average_rating": 1.0,
+                "average_sentiment": 0.0
+            },
+            "comparison": {
+                "share_lift": 0.05,
+                "rating_delta": -3.31
+            }
+        }
+    ],
+    "trend_analysis": {
+        "timeline": [
+            {
+                "period": "2024-12",
+                "reviews": 411,
+                "average_rating": 4.27,
+                "average_sentiment": 0.818,
+                "cluster_distribution": {
+                    "3": 0.749,
+                    "0": 0.18,
+                    "5": 0.027,
+                    "2": 0.024,
+                    "4": 0.005,
+                    "1": 0.005,
+                    "6": 0.005,
+                    "8": 0.002,
+                    "7": 0.002
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "ACT mouthwash tastes very minty and fresh without being sickly sweet. It's a good balance. My wife doesn't prefer mouthwash with alcohol, so she doesn't especially like this but I don't mind alcohol in my mouthwash (gives it some punch! ha ha.) This product contains fluoride AND whitener. Some other mouthwashes make all sorts of other claims about what they do, but I just never like how they taste and I never feel like they do everything they claim they do. I have absolute faith in ACT whitening with fluoride. I trust my teeth and gums to it. As long as you're not sensitive to the ingredients you will not regret trying this mouthwash. Fluoride actually helps rebuild your damaged tooth enamel. So even if you have a history of neglecting your teeth a little bit this can actually reverse some of the damage! I used to get so many cavities. No longer! Oral health is PARAMOUNT! Take care of your teeth! They will help take care of you. And don't neglect your gums, either! I recommend ACT Flouride and Whitening, hands down.",
+                        "I was trying to find an alternative whitening method without needing to do strips or go out of my way to do some office treatments either. I decided with this mouthwash. I really really really like it already. I donât use this morning and night like I should but even so, when I use it just a few days, I can tell a subtle difference, itâs almost like a mind trick which Iâm sure if you took daily pictures then it would be obvious but Iâd rather not try to watch a pot of water boil, cause then the process would feel like itâs taking longer than expected. Iâm sure if I used this mouthwash twice a day every day, I would see even more results. The taste is still refreshing though, no issues there and thereâs no issues with the fluoride either as I know some are concerned with that, but Iâve had no problems at all. Definitely my go to wash now.",
+                        "My teeth were not badly stained, just not as bright as I like them to be. I noticed my teeth looked whiter within the first few days of twice-daily use. However, I do not drink coffee or red wine, which I know are associated with severe staining. I do drink iced green tea, though. I donât know if this would work on heavy stains. Maybe over time. I definitely feel that it has worked on mild stains and it is continuing to whiten more each day. I have mildly sensitive teeth and havenât noticed any increased sensitivity. No gum irritation either, which I have experienced with peroxide toothpaste in the past. I also like that it doesnât leave a film in my mouth like some alcohol-free mouthwash does.",
+                        "I was given this recommendation by my dentist, the best part is that she said another patient used it in their waterpik - WHOLLY COW - talk about a fresh mouth. I love that this mouthwash does not burn, and whether I use it with the waterpik or not, it feels so fresh, more than the other brand I was using. The best part is that it's alcohol free, my mouth is not dry and I now look forward to using mouthwash after I brush, before I would skip it, but now, it's a game changer, this stuff works and tastes awesome! You want a fresh mouth, ACT now and grab some!",
+                        "I have always had a problem with stain building up on my bottom front teeth. My dentist and I had ruled out all the possible causes and settled on the fact that some folks just have more stain buildup than others. I have tried multiple different mouthwashes in an attempt to reduce the stain. This one does an amazing job! My dentist and I can both tell a difference on my teeth. While it doesn't eliminate all the stain, it does a great job reducing it. My dentist and I are both extremely happy with this product. I use it once a day after I brush my teeth and floss. Excellent product!"
+                    ],
+                    "negative_reviews": [
+                        "Act is a great product but this line of its Act Product is bad. The packaging is so hard to open it up I broke and bloodied cut a corner of my right thumb nail off. The cap was so small as opposed to other larger Act bottle with larger cap size. Is that amount an effective restorative mouthwash. They made it difficult to difficult and expensive to return not even giving you the chance to print a label or digitally process it for my usual UPS store drop offâ so I am eating the total refund value and ordered the larger size with the larger cap that is easier to open but it too should be easier to open especially for older people live me.",
+                        "I must have purchased the wrong type of ACT mouthwash because this one is so hot that my mouth couldn't tolerate the strong, spicy taste. I had to spit it out way before the two minutes were done. I have used ACT for years at the suggestion of my dentist and have had no problem, but this flavor is terrible. I'd return it if I could, but the bottle is open and has been used ONCE! I'll look for another product with a milder taste.",
+                        "I got this as a backup because my usual fluoride was not available. This says \"zero alcohol\" but it burns like nothing I've ever had before. I'm throwing it out. It's torture. It actually makes my eyes water and is painful to use. Do not get this.",
+                        "The smell reminds me of household cleaner and tastes revolting. Mint flavored, it is not. After holding my nose to use this mouthwash, it did not even whiten my teeth. Maybe I'll use the rest of it to clean the floor.",
+                        "I won't buy this product any more because I don't need someone telling me how much mouthwash to put in my mouth. Come on, can't people do ANYTHING for themselves any more???"
+                    ]
+                }
+            },
+            {
+                "period": "2025-01",
+                "reviews": 97,
+                "average_rating": 4.082,
+                "average_sentiment": 0.771,
+                "cluster_distribution": {
+                    "3": 0.773,
+                    "0": 0.134,
+                    "5": 0.052,
+                    "6": 0.021,
+                    "2": 0.01,
+                    "1": 0.01
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "My child loves this bubble gum flavored toothpaste, and I couldnât be happier with how well it works. The mild, sweet flavor is perfect for kids, and it makes brushing fun without being too overwhelming. The toothpaste does an excellent job of cleaning teeth, and Iâve noticed a significant reduction in plaque buildup since we started using it. Itâs gentle enough for my childâs sensitive gums but still effective in keeping cavities at bay. The texture is smooth and easy to apply to the toothbrush, and it doesnât create a lot of foam, which is great for younger kids who might find that overwhelming. My child enjoys brushing with it, and Iâve seen improvement in their oral health after using it for just a few weeks. Itâs fluoride-based, which I love because it helps prevent cavities without being harsh on young teeth. The packaging is easy for my child to handle, and the 4.6-ounce tube lasts quite a while. I also appreciate that it doesnât have any artificial colors or flavors, which makes me feel confident about using it for my child. Overall, this has been a great addition to our daily oral care routine, and Iâd highly recommend it to other parents looking for a kid-friendly, effective toothpaste.",
+                        "The ACT Restoring Zero Alcohol Fluoride Mouthwash is a great choice for maintaining oral health without the burn of alcohol. Alcohol-Free: This mouthwash is gentle on the mouth, providing a refreshing clean without the harsh sting of alcohol. Fluoride Protection: It strengthens tooth enamel and helps prevent cavities, offering excellent protection for long-term oral health. Mint Burst Flavor: The mint burst flavor leaves your mouth feeling fresh and clean, with a long-lasting refreshing sensation. Safe and Effective: Ideal for those with sensitive gums or anyone who wants a mouthwash thatâs both effective and soothing. Large Size: The 33.8 fl. oz. bottle offers great value, lasting a long time with daily use.",
+                        "I bought this because I have GERD and can no longer use mint based toothpastes. It tastes really good and gets my teeth super clean. It's easy to rinse out and has a pleasant aftertaste. It creates plenty of foam when you brush your teeth. It says it's for kids but it also works great with my adult teeth.",
+                        "I find Amazon often has this a few dollars cheaper than in store, so I order it instead of buying it. It's exactly what you'd expect, act dry mouth mouthwash. It has xylitol which is good for your teeth and can increase saliva production, plus fluoride helps prevent cavities. It tastes pretty good for a mouthwash.",
+                        "Only negative is that it leaves white residue on your lips. I chew when driving and check my lips in the rear view mirror when I arrive at my destination. Nothing is better than this product for dry mouth issues. I used to buy it at my local Walgreens, but they discontinued it."
+                    ],
+                    "negative_reviews": [
+                        "For some reason this \"mint\" flavor burns the inside of my mouth - unlike the blue version of ACT mouthwash. I had to pour this down the drain after trying to use it a half dozen times and blue the blue version.",
+                        "I bought this because it said âgentle mintâ or something to that effect. But heck no it burned the heck out of my mouth. Why in Godâs name canât these companies make something that is not meant that wonât burn peopleâs mouths????",
+                        "This mouthwash bottle wasn't designed to be travel or shipping friendly. While the box was not packed well and the item was leaking, the bottle design isn't properly designed to be sturdy and user friendly",
+                        "It's twice the size with double the amount of water. Just read the back folks, its diluted. The % of fluoride is reduced and therefor less effective.",
+                        "I like the gum it helps dry mouth. I ordered 4 boxes. The expiration says 9/24 .i ordered and received 12/24???"
+                    ]
+                }
+            },
+            {
+                "period": "2025-02",
+                "reviews": 99,
+                "average_rating": 4.172,
+                "average_sentiment": 0.793,
+                "cluster_distribution": {
+                    "3": 0.707,
+                    "0": 0.172,
+                    "5": 0.051,
+                    "1": 0.04,
+                    "4": 0.02,
+                    "6": 0.01
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I dislike that they changed the large letters that say ALCOHOL FREE at the top of label, I sent back 2 bottles because they now have tiny little letters at bottom of label, I didn't see it and I thought they sent product with alcohol in it. I felt like a fool because I blamed Amazon for sending wrong product lol. Well at least I know now. FYI if you want alcohol free ACT they do have it. My apologies to Amazon.",
+                        "I've been using this mouthwash for quite awhile. Lately I have been struggling to find the larger size at stores. Target, Wegmans, and CVS did not have this size so I ordered online. A good price and just what you would expect. With a zero alcohol mouthwash there is no burn. The flavor is a nice mild spearmint. Fluoride mouthwash is definitely your best bet for dental longevity.",
+                        "I love the product and it works very well for me. The only problem is itâs never in stock and I have to keep switching back-and-forth back-and-forth and itâs annoying. I think everybodyâs buying it now and thatâs why they canât keep it in stock but I do love the mouthwash Works well. It works well. !!",
+                        "I donât want to jinx myself, but letâs just say itâs been nothing but good news at the dentist since Iâve used this. I was told not to use mouthwash with alcohol in it because my enamel is weak, lucky me. So I use this instead and itâs much more pleasant to rinse with anyway.",
+                        "My kids are so picky when it comes to toothpaste. Just like fluoride flavor at the dentist, bubble gum is the only flavor they will not complain about. Easy for them to squeeze and I love that the cap is attached and that it stands upright so that they put it back on."
+                    ],
+                    "negative_reviews": [
+                        "Iâm a dental hygienist. Iâve been buying ACT for years and recommending my dental patients use it. I may not be doing that anymore. I just got a new bottle today, 6.27.24. Itâs been completely watered down. Looks like half the strength it always has been. Iâll try this new mixture. If it HAS been watered down, my teeth and all of my patients will know it because our teeth will be more sensitive. Jack the price and dilute the product?? Not cool. Your CEOâs arenât rich enough already? This shrink-flation could seriously harm your well trusted reputation and decrease sales.",
+                        "I am leary about buying mouthwash online at Amazon. I don't know why but alarm bells were going off but I bought it anyway. Well, instincts were right. I used this seriously (not even half the bottle). I kept noticing sensitivity which I never suffer from. My next visit to the dentist I have multiple new cavities. Could it be this product? Tampered with? My advice would be always buy things like this in store. You just never know. Threw it away. I find crest brilliance whitening toothpaste be a good wash.",
+                        "Beware. Buyer beware, I been using ACT for years but never bought from Amazon. I decided to add a bottle to my order and when I tried it I could tell something was off immediately. Smelled and tasted more like Jack Daniels than mouthwash which is weird since it's supposed to be alcohol free. EXP date says the bottle is still good but something isn't right.",
+                        "Got this by recommendation of my dentist since I was asking for sensitive-teeth-friendly mouthwashes, used for about 2 months and I donât feel a difference in sensitivity AND it doesnât absolutely nothing for bad breath. I have a bad habit of chewing the insides of my cheeks so Iâve been using mouthwash to help, but this one fades within literal minutes.",
+                        "This product has a reduced by half the % of sodium fluoride. If you are following Dr Ellie's protocol it is not recommended to use per one of her videos on YouTube. I was still able to find it in a local pharmacy."
+                    ]
+                }
+            },
+            {
+                "period": "2025-03",
+                "reviews": 54,
+                "average_rating": 4.167,
+                "average_sentiment": 0.792,
+                "cluster_distribution": {
+                    "3": 0.63,
+                    "0": 0.241,
+                    "1": 0.037,
+                    "5": 0.037,
+                    "4": 0.019,
+                    "2": 0.019,
+                    "8": 0.019
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Iâm so glad I found ACT Kids Anticavity Fluoride Toothpaste in Wild Watermelon flavor! My kids absolutely love it. It has the perfect balance of sweetness without being overpowering, which makes brushing their teeth a lot easier. They actually look forward to brushing now, and thatâs a huge win in my book. What I love about this toothpaste is that itâs both fun and effective. Itâs specifically designed for kids, with the fluoride they need to help prevent cavities, and I feel confident knowing itâs giving their teeth the protection they need while still tasting great. The 4.6 oz size is perfect for daily use and lasts a good amount of time, even with three kids using it. Iâve also noticed that it leaves their mouths feeling fresh without being too harsh, which is great for their sensitive mouths. The watermelon flavor is a hit with my kids, and I havenât had any issues with them not wanting to brush. Overall, I highly recommend this toothpaste for anyone with kids. It combines great taste with the dental care they need, and it makes brushing a much more enjoyable experience for them.",
+                        "ACT: why do u feel the need to categorize this as for \"kids\"?? i can understand marketing it that way, but i don't see why u need to be so fundamentalist about it. i'm 75. some of ur loyal product users are grandparents, & it serves nobody to try to make people believe this is \"JUST FOR CHILDREN\". what about LGBTQ+?? is it ok with ur company if queer folk & transgender peeps use this flavor of ur toothpaste? or is it just for LGBTQ+ children? OPEN UR MINDS, PEOPLE. these attitudes and messages are genuine examples of age-ism! and \"gender fluid\" is real and intelligent, and it's about time that \"flavor fluid\" followed suit. loosen up, folks.",
+                        "I love this product, my daughter uses daily. We have already tried the grape flavor too from the same brand and both of them are great! My daughter likes how it tastes (and me too). Itâs worth the price. And their release (for the liquid) is good too because comes out only the right amount to be used.",
+                        "I donât know how effective this product is, but I give them an A+++ for package design. It dispenses a perfect measured amount for each rinse. Just remove the cap, squeeze the bottle until the liquid rises to the fill line. There is no need for a cup. The cup is part of the bottle design.",
+                        "I prefer the cool mint (blue) version of ACT Restoring because the mint burst burns my tongue a little bit. I still give it five stars. This is a good product and I recommend it."
+                    ],
+                    "negative_reviews": [
+                        "Terrible. I ran out of toothpaste and I used my kids toothpaste which was this one and I woke up the next day and my mouth tasted like crap. I knew I brushed and flossed and the only way my mouth could be nasty, stinky and full of bacteria was if I ate sugar and went to sleep. So I go and look at the ingredients and this thing is full of artificial sweeteners. I threw it away so quick and will never get it again. This will cause you to get cavities. I do not recommend.",
+                        "The manufacturer either lied or changed formula because this is not bubblegum. A waste of time and money. I have a mint allergy so this ruined the rest of my morning. The only good thing is they take returns on open tubes but it's still annoying to have to return it.",
+                        "Taste completely awful! When I use mouthwash I want my mouth to feel fresh, not like I was just done doing something naughty. Seriously this taste so gross!",
+                        "I had to take some time to write this review as I should have learned from others. Trying to open this bottle is ridiculously difficult and I never did even after ripping skin trying to get the cap off. It wasnât worth the return for me. I noticed similar reviews regarding this matter have mysteriously disappeared.",
+                        "Received a bottle that was dented at the bottom on one side. There was mouthwash underneath the plastic that keeps the cap on. Disappointing. The box it came in was not damaged at all."
+                    ]
+                }
+            },
+            {
+                "period": "2025-04",
+                "reviews": 119,
+                "average_rating": 4.034,
+                "average_sentiment": 0.758,
+                "cluster_distribution": {
+                    "3": 0.706,
+                    "0": 0.118,
+                    "5": 0.076,
+                    "2": 0.067,
+                    "7": 0.017,
+                    "6": 0.017
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I have SjÃ¶grenâs and have tried every dry mouth rinse I can find. My dentist recommended this one because it also has fluoride (most do not), but I think the biggest benefit is that itâs not gross to swish. This is one of those IYKYK things. Some dry mouth rinses are truly gross. This one is very easy to incorporate into your oral hygiene routine. In terms of efficacy, I think all of these rinses are âjust okayâ but it does seem to help out some, especially at night. I can never find this one in stores, so default to purchasing from Amazon.",
+                        "My six year old is obsessed with this mouthwash! He looks forward to using it every night. When you squeeze it, the mouthwash fills up the little cup. Extra mouthwash falls back into the bottle. He does it all by himself. He loves the flavor of it as well. It fits on the counter right next to my adult mouthwash. Last night, he had a piece of popcorn stuck in his teeth that I couldn't get out with floss. Luckily this mouthwash got it out. He rinses for about thirty seconds and then spits. Highly recommend for little ones!",
+                        "Great lasting flavor. Easy to chew and chew for a long time. Doesnât stick to my bridge. Warning: donât drink even water the first few minutes of chewing as youâll have brain freeze. And that is my only heads up. The size is perfect for those quick times you need to discreetly place between cheek and gum.",
+                        "This stuff is great. At my last appointment, my dentist specifically noted that my mouth looked healthier and it's all because of this mouthwash. I use it a few times a day and not only does it freshen breath, it also kills bacteria and helps with my dry mouth. Can't recommend it enough.",
+                        "This mouthwash was recommended to me by my dentist as I have been dealing with dry mouth causing issues with cavities and since using this twice a day the improvements have been most impressive. This is an alcohol free mouth wash as well. A great mouthwash from a great company!"
+                    ],
+                    "negative_reviews": [
+                        "This \"Restoring\" version of ACT has a ph of 5.6. That is way too acidic to leave in your mouth. It is also why so many people find it burns their mouths. I was using a prior version of ACT after rinsing with Listerine, a very acidic mouthwash. The ACT was used to neutralize the acidity as well for the fluoride benefit. My H and I noticed the difference right away, and here we bought 3 large bottles. (Sigh!) I will be returning the two unopened and search for a neutral (preferably ph 7) fluoride rinse.",
+                        "The lid broke off after only 2 or 3 uses. The toothpaste hardened (at least at the top of the tube) even with the lid on. In an attempt to squeeze some out, toothpaste came shooting out the opposite end. We had to throw it away, it was such a waste. We ended up going with a different brand.",
+                        "I bought this because I don't like MINT toothpastes. Guess what? There's mint in it. It doesn't taste bad IF you don't mind a splash of mint flavor, but I do. The mint is not overpowering, but I do think they could cut back on the artificial sweeteners.",
+                        "Contains poloxamer 407 which is a known toxin to internal organsâ¦ didnât notice it contained this till I used it. Waste of my money.",
+                        "I ordered 3 boxes and one had been opened and missing content. So didn't get my money's worth. Won't be ordering again."
+                    ]
+                }
+            },
+            {
+                "period": "2025-05",
+                "reviews": 21,
+                "average_rating": 4.0,
+                "average_sentiment": 0.75,
+                "cluster_distribution": {
+                    "3": 0.619,
+                    "2": 0.238,
+                    "0": 0.143
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I donât even know where to start. This mouthwash is a staple in my house due tp the fact that it cleans and refreshes us on a daily. Thai product is perfect after you completed brushing your teeth. It keeps you feeling refreshed and hygienic. Would definitely recommend.",
+                        "Perfect for fixing alot of small mouth issues. Great taste, nice mint flavor that isn't overwhelming. Been using this for years and will keep doing so.",
+                        "ACT Kids Anticavity Fluoride Toothpaste in Bubble Gum Blowout flavor is a total win in our household. My kids actually want to brush their teeth now, thanks to the fun and tasty bubble gum flavor. Itâs not overpowering or too sweetâjust the right balance to keep them brushing without complaints. The fluoride protection gives me peace of mind knowing their teeth are getting the cavity-fighting care they need. The 4.6 oz. tube is a good size and lasts a while even with daily use. It foams well, leaves their breath fresh, and the twist cap is easy for little hands to manage. Iâve definitely noticed fewer complaints at the dentist since we switched to ACT. Great flavor, great resultsâthis is our go-to kidsâ toothpaste.",
+                        "Does seem to help with Dryness. Also the Fluoride is important - the dryer your mouth the more cavities you get!"
+                    ],
+                    "negative_reviews": [
+                        "ACT Kids Anticavity Fluoride Toothpaste in Bubble Gum Blowout flavor is a total win in our household. My kids actually want to brush their teeth now, thanks to the fun and tasty bubble gum flavor. Itâs not overpowering or too sweetâjust the right balance to keep them brushing without complaints. The fluoride protection gives me peace of mind knowing their teeth are getting the cavity-fighting care they need. The 4.6 oz. tube is a good size and lasts a while even with daily use. It foams well, leaves their breath fresh, and the twist cap is easy for little hands to manage. Iâve definitely noticed fewer complaints at the dentist since we switched to ACT. Great flavor, great resultsâthis is our go-to kidsâ toothpaste.",
+                        "Does seem to help with Dryness. Also the Fluoride is important - the dryer your mouth the more cavities you get!",
+                        "I donât even know where to start. This mouthwash is a staple in my house due tp the fact that it cleans and refreshes us on a daily. Thai product is perfect after you completed brushing your teeth. It keeps you feeling refreshed and hygienic. Would definitely recommend.",
+                        "Perfect for fixing alot of small mouth issues. Great taste, nice mint flavor that isn't overwhelming. Been using this for years and will keep doing so."
+                    ]
+                }
+            },
+            {
+                "period": "2025-06",
+                "reviews": 133,
+                "average_rating": 4.398,
+                "average_sentiment": 0.85,
+                "cluster_distribution": {
+                    "3": 0.88,
+                    "5": 0.06,
+                    "2": 0.06
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "My son LOVES this Toothepaste! He gets excited to brush his teeth now because he loves brushing with âbubbleyumâ. For reference, heâs 3 and weâd been using another brand that had a strawberry flavor. He liked that one, but he LOVES this one. Dentist wife AND son approved.",
+                        "My 6 & 8 year olds love this toothpaste. Theyâve both been using it for years and they like to alternate between bumble gum and watermelon flavor. They also use the act kids mouth wash. They like both flavors- bubblegum and watermelon.",
+                        "I buy this for my daughter who at a very young age refused to use any kind of mint toothpaste. She is now almost 13 and still likes this kind. Is a great alternative for kids that donât like mint like her.",
+                        "size is too small for me, good for the kids. kids like the color so do I. easy to apply to small toothbrush. good quality. kids like the taste too. package color is attractive so kids like to use it.",
+                        "My kid wouldn't brush teeth, but than upon learning about watermelon flavor tooth paste, it's been a real win. Includes anti cavity protection and fluoride. Definitely the way to go to train your children to brush teeth regularly."
+                    ],
+                    "negative_reviews": [
+                        "This tastes absolutely vile! Vaguely bubblegum but with a strong bitter, chemical aftertaste. If I was a child, I think I'd be crying and refusing to brush my teeth ever again. It also has sucralose. I used the matching ACT fluoride afterwards, and it made everything taste even worse with a numbing sensation to boot. What the heck???",
+                        "Literally separated on the top. Both of mine did. The plastic seems to crack easily. Not worth getting if itâs just going to cause a mess.",
+                        "My kids love this toothpaste, especially the taste. It is a great value for the price. The toothpaste seems to be effective and good quality. The texture is nice and the taste is just right, not overpowering.",
+                        "This product is great! My son has autism and struggles with brushing his teeth and has an aversion to mint, so the bubblegum flavor made brushing his teeth more appetizing. Thank you Amazon.",
+                        "Kids enjoy the falvor of this toothpaste. It leaves their breath smelling nice and I haven't had any cavity issues with them while using this."
+                    ]
+                }
+            },
+            {
+                "period": "2025-07",
+                "reviews": 248,
+                "average_rating": 4.347,
+                "average_sentiment": 0.837,
+                "cluster_distribution": {
+                    "3": 0.766,
+                    "0": 0.125,
+                    "6": 0.04,
+                    "5": 0.04,
+                    "1": 0.008,
+                    "2": 0.008,
+                    "4": 0.008,
+                    "7": 0.004
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Oh, brace yourself for a review that'll make your teeth gleam with excitement! Let's talk about ACT Kids Anticavity Fluoride Toothpaste â the dental dazzler that turns brushing into a sparkling adventure. First off, the flavor â it's like a party for your taste buds! My kid insists that brushing time is now officially the best part of the day, thanks to ACT. The bubblegum blast is so intense; I'm convinced they secretly bottled the essence of a candy shop. I half expect my toothpaste to burst into confetti and play a little tune every time I open it. But it's not just about the taste; it's about the fight against cavities, and ACT Kids takes that mission seriously. It's like having a tiny superhero army armed with fluoride, swooping in to defend your enamel from the evil forces of decay. I can almost hear the superhero theme music when my kid squeezes that magical toothpaste onto their brush. Now, let's address the foam factor. It's not just toothpaste; it's a dental foam party! My bathroom has never felt more like a nightclub for teeth. I wouldn't be surprised if there's a disco ball hidden in the cap. The foam is so fluffy; I'm considering using it as a substitute for whipped cream on my coffee â multi-purpose dental decadence! And the packaging â oh, the packaging! It's like they hired a team of professional toy designers to create a toothpaste tube. The colors, the characters â it's practically a collector's item. Move over, action figures; we've got ACT Kids toothpaste tubes taking center stage in the bathroom. But here's the real kicker â my kid actually looks forward to brushing now. I never thought I'd see the day when bedtime dental hygiene would be met with cheers instead of protests. It's like ACT Kids has cracked the code to making brushing as enjoyable as a trip to the amusement park. In conclusion, ACT Kids Anticavity Fluoride Toothpaste isn't just toothpaste; it's a dental fiesta. It's the secret weapon against cavities, the flavor explosion your taste buds deserve, and the foam party your bathroom didn't know it needed. So, put on your dental capes and join the adventure â your teeth will thank you!",
+                        "I've recently incorporated liquid fluoride into my dental care routine, and the difference it has made is remarkable. Initially, I wasn't very familiar with liquid fluoride, but after my dentist suggested it as an additional measure to protect my teeth, I decided to give it a shot. One of the most significant benefits I've noticed is the enhanced protection against cavities. Despite regular brushing and flossing, I used to get the occasional cavity, which was frustrating. However, since starting with liquid fluoride, I haven't had a single new cavity. It feels like an added shield for my teeth. The application process is straightforward. I use it once a day, usually at night after brushing and flossing. The liquid fluoride I use comes with a small measuring cup, making it easy to pour out the correct amount. I swish it around in my mouth for about a minute and then spit it out. There's no rinsing afterward, which means the fluoride can work its magic overnight. Another positive aspect is the reduction in tooth sensitivity. I occasionally experienced discomfort when eating very hot or cold foods, but this has significantly decreased since I started using liquid fluoride. It seems to be strengthening my enamel and making my teeth more resilient. Overall, I'm thrilled with the results of using liquid fluoride. It has become an essential part of my dental care routine, and I feel more confident about the health of my teeth. If you're looking for an effective way to boost your oral hygiene and protect against cavities, I highly recommend giving liquid fluoride a try. Based on my experience, it's a simple yet powerful addition that delivers noticeable results.",
+                        "As a parent, Iâm always looking for ways to make oral hygiene easier and more enjoyable for my child, and introducing a kid-friendly mouthwash has been a surprisingly helpful addition to our routine. We chose a brand specifically made for kids â alcohol-free, gentle, and with a mild flavor. My son actually likes using it (which is half the battle), and the fun flavor options like bubble gum or mild mint make it feel more like a treat than a chore. Itâs now a regular part of his bedtime routine, right after brushing. What I like most is that it helps reach the spots brushing might miss, especially at this age when technique isnât always perfect. It gives me peace of mind knowing heâs getting extra protection against cavities, especially since heâs still learning the ropes of consistent brushing and flossing. The measuring cap is easy to use, and the label is clear about age recommendations and how much to use. I also appreciate that it doesnât contain harsh ingredients or artificial dyes. Overall, I highly recommend adding a kid-safe mouthwash to your childâs oral care routine. Itâs boosted my sonâs confidence about having âfresh breathâ and made hygiene time a little more fun.",
+                        "This was our very first time trying a mouthwash for kids, and Iâm so glad we chose this one. The bubble gum flavor is a big hit with my daughter â she says it tastes great and never complains about using it. But what really makes it stand out is the design of the bottle. She loves squeezing it until the liquid fills the cap to the line. It makes the process fun and mess-free, and she's completely taken ownership of it. What I didnât expect is how much she enjoys the routine. Using this mouthwash has made her more excited about her overall mouth care. Itâs become a habit she looks forward to every day, which as a parent, is a huge win. I also appreciate that it contains fluoride for cavity protection and is gentle enough for young kids. If youâre starting out with mouthwash for your child, I highly recommend this one. Itâs a great way to build healthy habits with a product theyâll actually enjoy using.",
+                        "My 11-year-old uses this ACT Kids Anticavity Fluoride Mouthwash every single nightâand thatâs saying something! Weâve tried other brands and flavors in the past, but this is the only one she genuinely likes. The Bubble Gum Blowout flavor is a big hit with her, and I appreciate that itâs sugar-free and alcohol-free. As a parent, it gives me peace of mind knowing sheâs strengthening her teeth without any harsh ingredients. Itâs a rare product that makes both the kid and the parent happy, but this one is definitely a win-win in our household. Pros: â¢ Kid-friendly bubble gum flavor that encourages consistent use â¢ Alcohol-free and sugar-freeâgentle and safe for kids â¢ Contains fluoride to help strengthen teeth â¢ Trusted brand with a great reputation â¢ Easy-to-use bottle with a no-mess cap Cons: â¢ Flavor might be too sweet for some parentsâ preferences â¢ Bottle design isnât travel-friendly (wish they made a smaller size) Highly recommended if youâre trying to build a solid oral care routine with your child!"
+                    ],
+                    "negative_reviews": [
+                        "The kids love it BUT, if they get it down the sink like my favorite four year old did it WILL clog it up. How bad? I actually has to use Drano max gel down the drain twice before that crap finally broke lose. A hair clog is far easier to get rid of than this still is. He'd also squeezed some into his toothbrush cup. It sets up like rubber. Seriously won't give this to children!!! Instead maybe use to to clog up any holes you have.",
+                        "Has alcohol and kids can't handle this. It even says No Alcohol but the majority of the ingredients is Benzyl Alcohol... is this FDA Mislabeling?? I previously bought the pineapple and the watermelon...both did not have alcohol..yet this bubblegum and grape that I bought together were too much for the kids saying it's spicy...horrible...all the formulas should be the same except for flavor! Super disappointed...I plan to return both [if I can as kids used grape twice already]. Look at pics for comparison",
+                        "I am a fan of the minty ACT Restoring rinse. One rinse with this, however, after using the ACT bubblegum toothpaste, and I was left with a very unpleasant bitter, chemical aftertaste. My tongue went partially numb as well. Kinda scary.",
+                        "This is the worse gum I have ever tried to chew. I like to never got all the gum off that stuck on my teeth. I wished I could give it a -0",
+                        "i should have read the small print. didn't notice there's aspartame in this. They should be required to place a very obvious warning in big bold letters."
+                    ]
+                }
+            },
+            {
+                "period": "2025-08",
+                "reviews": 112,
+                "average_rating": 4.42,
+                "average_sentiment": 0.855,
+                "cluster_distribution": {
+                    "3": 0.804,
+                    "0": 0.143,
+                    "5": 0.027,
+                    "1": 0.018,
+                    "8": 0.009
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "This bundle, which includes ACT Kids Anticavity Fluoride Rinse in Wild Watermelon, is a fantastic find! My kids simply love the flavor, which has transformed teeth brushing into an enjoyable activity rather than a chore. The fun Wild Watermelon taste of the rinse complements their routine, encouraging them to brush and rinse longer, ensuring their teeth stay clean and healthy. I appreciate that it comes with everything we need, making it a great value for our family. Not only does it make dental hygiene fun for the little ones, but it also gives me peace of mind knowing they're taking care of their teeth. If you're looking for a way to make brushing and rinsing an exciting part of your children's routine, I highly recommend this bundleâitâs a total win!",
+                        "I use toothpaste and then I use Act!!! My dentist told me that If I never wanted another cavity to always use ACT after brushing and I believe it! I always have 2 back-up bottles and get anxious if by back up bottles get down to two!!! I highly encourage everyone I know to use this fantastic ACT!!!!!",
+                        "I started buying ACT bubblegum flavor for my son years ago, he will not stray from it...he loves the flavor and it doesn't have a strong taste. He also enjoys filling up the pour spout. I use it too...I have a sensitive mouth and it doesn't irritate or burn like other mouthwashes.",
+                        "I really swear by this product Act Dental Rinse(restoring) I have been using it for about six years, it really works, I have not experienced any further tooth decay since I began use. I doesn't burn, freshen breath, I use this product after each brush, worth the effort and price.",
+                        "current move to ban fluoride is ridiculous - I can agree with elimination of water fluoridation as a personal rights issue but this make products such as ACT essential for kids in ortho tx and other high risk individuals. Bubble gum is best flavor"
+                    ],
+                    "negative_reviews": [
+                        "Can barely get the product out of the bottle. The plastic stick in the middle recents the liquid from distributing.",
+                        "Ordered pack of 6 - only 1 received. The \"product support\" is no help at all. Very disappointing. I'll be cancelling the transaction on my credit card.",
+                        "I got this product because my dental hygienist recommended it. I tend to have a lot of plaque buildup. The first bottle I got arrived dented where it wouldnât even stand up straight. Boo on Amazon for doing a poor job packaging. They replaced with no issues. As for the product itself Itâs OK when I swish it around in my mouth, but about 10 minutes after I use it. It always leaves a bad aftertaste in my mouth. It doesnât seem logical to me, but itâs the case. You arenât supposed to eat or drink anything for 30 minutes after using it so Iâm kind of stuck. I do feel that there is less plaque buildup, but I donât know that I will continue to use this product after the bottle is empty.",
+                        "Flouride yes? Cheapest mouthwash on the market? Also yes . . . . You're better off swishing water with calcium carbonate",
+                        "I like ACT products and the Wild Watermelon flavor is great. However, this one comes as a gel instead of a paste. The gel dissolves so quickly that it feels like brushing with water, and I prefer the thicker texture of a paste. If you like gel toothpastes, this might work for youâbut it wasnât the right fit for me."
+                    ]
+                }
+            },
+            {
+                "period": "2025-09",
+                "reviews": 319,
+                "average_rating": 4.376,
+                "average_sentiment": 0.844,
+                "cluster_distribution": {
+                    "3": 0.809,
+                    "0": 0.1,
+                    "5": 0.05,
+                    "2": 0.019,
+                    "6": 0.016,
+                    "8": 0.003,
+                    "1": 0.003
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "This Act mouth rinse works super well, and is not nasty flavored like Listerine. No burn. It has a nice bottle feature where you squeeze the bottle to dispense some fluid in the top part, and then you can pour that amount into the cap and then into your mouth. This seems complicated, but its kinda nice. No alcohol is also good. Some people say this is not needed, its just for taste but in reality swishing with this before brushing, or after brushing and before flossing helps to remove particles of food and fine film on the teeth beneath the gum line, You can feel it moving all around, its really great. I use this every day, 2-3 times per day. I have an entire routine and my mouth health has never been better. Water pick, sonic care toothbrush, Listerine, floss, Act mouthrinse, and I even use Clo Sys. Different steps based on morning vs after lunch vs night time routine before bed, but the Act blue and green with sodium fluoride 0.05% are both great and I will continue to use them.",
+                        "A friend recommended that I use ACT Anticavity, as she discovered this product in YouTube videos by a respected dentist. I have been using it once a day (nightly) for more than a year and I have not had a single cavity during this time. Prior to using ACT, my dentist identified several cavities which required several visits for fillings. Of course, I cannot \"prove\" that ACT was definitively responsible for the cavity-free visits to the dentist during the past year, but I have done nothing different so far as I can tell. In any case, I continue to order ACT from Amazon which I have obtained for significantly less than it costs in local drug stores. The product is inexpensive enough to try as an experiment for six months. I recommend it.",
+                        "I have never used mouthwash to any great degree. The ones I've used in the past were very strong and some even affected my sensitive teeth. Even the basic Act mouthwash was too strong for me. When I developed Sjogren's Disease, though, I thought that it might benefit me. This mouthwash really doesn't burn my mouth. It seems I now wake up in the middle of the night with a dry mouth on those nights that I forget to use it. If you have a similar problem, I would highly recommend it although if you wake up due to post-nasal drip, I don't think it would help you. I also like that it has fluoride in it and our town gets its water from a well, so it doesn't contain fluoride.",
+                        "Hi Amanda, ACT Anticavity Fluoride Rinse Cinnamon 18 oz . I was so glad to receive this product as I had tried a couple of times. Yours arrived quite some time after I ordered it, but the order was correct. This flavored fluoride rinse is the only one that I can tolerate the flavor. One can't go to the drugstore anymore to buy this flavor as I used to do. I have been using this product for about 10 years. Thanks so much for carrying it and for finally getting it to me. I hope that Amazon allow you to continue advertizing and selling your product asI don't where I would go to get it next time. Thanks again.",
+                        "At a recent dentist visit, the dental hygienist told me that using a fluoride mouthwash at home daily was superior to only doing the gel one they'll do in office once every 6months. I told her how i just couldn't stand how harsh and disgusting mouthwash tasted, so i never really use it even if I buy a bottle of it. She gave me a great PRO TIP and told me to buy a kind with zero alcohol in it, as those weren't nearly as harsh. She was def right. Plus I like this one because its higher strength means you only have to use it 1x/day, as opposed to 2x with many other options."
+                    ],
+                    "negative_reviews": [
+                        "I ordered this as a refill. Watched Dr. Ellie on YouTube and she recommends 1 minute with Closys mouth wash, 1-2 min with crest toothpaste, 1 min with Listerine and last step 1 minute with act mouthwash. I started using this system 2 weeks ago, I have not used fluoride products since about 10 years ago. The past two weeks I have been itching all over and covered in hives. I googled allergic reactions to fluoride. Rare but can happen. What ever goes into your mouth will get into your blood stream, everything is connected. So even though the fluoride is in your mouth for a couple of minutes twice a day is getting into your blood stream.",
+                        "Contains cetylpyridinium chloride (CPC), an ingredient known to stain teeth in approx 3% of the population. The ADA, NIH, and other professionals recommend against using CPC if you are prone to staining. Good to know, although WHY put it in here in the first place? Trying to find a fluoride rinse w/o CPC is next to impossible -- add in the dyes and flavors and preservatives and other toxic ingredients, and I give up!",
+                        "Warning. After about a week of use (2x day) my teeth started to get brown stains that won't go away. The culprit is apparently cetylpyridinium chloride (CPC), the rinse's active ingredient. \"CPC is an effective antibacterial that binds to a bacterium's membrane and ruptures it. The debris from the dead bacteria can cause staining of the teeth.\" Now I need an expensive professional dental cleanup!",
+                        "I had been using this as the last step of Dr. Ellie Phillips Mouthcare System but it no longer will work because they quietly snuck Cetylperidinium Chloride into the ingredient list. Even an alternative product Walgreens carried contains CPC now. Works against her system now.",
+                        "LOVE the mouthwash itself but the bottle sucks. Hate the topâ¦ as you use the mouthwash itâs hard to get out because the straw has to actually be inside the mouthwash. I kept using my finger to manipulate the strawâs position"
+                    ]
+                }
+            },
+            {
+                "period": "2025-10",
+                "reviews": 118,
+                "average_rating": 4.364,
+                "average_sentiment": 0.841,
+                "cluster_distribution": {
+                    "3": 0.839,
+                    "0": 0.136,
+                    "5": 0.025
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Our kids' dentist recently recommended that we have them use mouthwash at night, and this mouthwash was the recommended one for kids. Needless to say, it has been worth every penny! Our kids are 4 and 6 years old, and they listen to us well, so we explained the importance of not swallowing the mouthwash. They've been doing a great job with it. My daughter is now up to rinsing for 15 seconds, and my son has made it to 30 seconds. The mouthwash we chose has no alcohol and tastes good, so they have no issues rinsing. One feature I absolutely love is the bottle design â you can squeeze it, and it fills up to the needed amount. This makes it so much easier, as we don't have to second-guess whether we gave too much or too little. Our kids even help us with measuring the mouthwash, which gets them into the routine of doing this every day. We are so pleased with how it's going that we've decided to buy it with the Subscribe and Save option going forward.",
+                        "Most effective to use per directions. This mouthwash was recommended by my dentist some years back and I've had no reason to change mouthwash brands. My personal preference is for the green color but I'm not particular with the various benefit combinations that are sold. I usually buy a large bottle and refill a smaller one that had come with a dosing chamber at the top. The directions state to use once a day BUT you're supposed to actively rinse for a full minute. When I started to pay attention to the time I found that a minute standing over the sink was too painfully boring so now I straighten up the bathroom or some other easy nearby chore while getting the full minute rinse. Since my dental hygenist recommended tongue scraping afte brushing, I now also rinse a half portion in the morning but also for one minute. I do the full rinse after the evening brushing for the most benefit.",
+                        "My child actually looks forward to using this mouthwash, which is a big win in my house. The bubble gum flavor makes it feel more like a treat than a chore, so I donât have to remind him as often. Iâve noticed that his dentist visits have been smoother since we started adding this to his routine, and I feel better knowing the fluoride gives him extra cavity protection. The little dosing cup built into the bottle makes it simple for him to measure the right amount without spilling, and since itâs alcohol-free, I donât have to worry about it stinging his mouth. For the price, the bottle lasts a good while, and it gives me peace of mind knowing it helps strengthen his teeth beyond brushing alone.",
+                        "Iâm really pleased with the ACT Restoring Zero Alcohol Fluoride Mouthwash! The mint flavor is refreshing but not overpowering, and it leaves my mouth feeling clean and fresh for hours. I love that itâs alcohol-free, so itâs gentle on my mouth and doesnât cause any burning sensation. Using it regularly has made me feel more confident about my oral health, and I like that it strengthens my tooth enamel while helping prevent cavities. The large 33.8 fl. oz. bottle is very convenient and lasts a long time. Overall, this mouthwash is effective, gentle, and pleasant to use. I really like it and would definitely recommend it to anyone looking to maintain strong and healthy teeth.",
+                        "I always buy Act restoring mouthwash because I was having a cold and hot sensitivity to my teeth and my dentist suggested using this and since I started using it, I have not had any sensitivity to heater cold. This particular one is the push-up, but I definitely prefer the open bottle pour! I have been using this for 10+ years."
+                    ],
+                    "negative_reviews": [
+                        "The flavor of this gum just doesnât last very long and does less for my dry mouth than a regular stick of Extra gum",
+                        "I got this because I don't like the alcohol \"burn\" in other mouthwashes. It has something in it that leave an even worse aftertaste. Instructions say not to rinse it out or drink anything for a while, but it's too strong, I had to rinse it out immediately.",
+                        "It foams up while youâre swishing it in your mouth which I donât like, and most likely wonât buy again just for that reason but other than that it does the job.",
+                        "This gum definitely works with dry mouth! Great product! Will buy again. I did buy again. But my request to deliver to my back door was not followed. They set it on my front porch so everyone could see it.",
+                        "I highly recommend you. I should really buy it. You guys would really like it. Itâs just what you guys The past itâs just so good but itâs just not that good because after itâs like one or two it goes really bad so you guys wouldnât like it so I highly recommend you should buy it but now I recommend after that that thing"
+                    ]
+                }
+            },
+            {
+                "period": "2025-11",
+                "reviews": 1511,
+                "average_rating": 4.228,
+                "average_sentiment": 0.807,
+                "cluster_distribution": {
+                    "3": 0.708,
+                    "0": 0.172,
+                    "6": 0.038,
+                    "5": 0.036,
+                    "2": 0.019,
+                    "8": 0.011,
+                    "1": 0.009,
+                    "4": 0.005,
+                    "7": 0.003
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I bought this ACT Kids Anticavity Mouthwash thinking, âSure, my kid will probably hate itâ¦ and Iâll end up gargling it myself just to finish the bottle.â Nope. Miracle in a bottle. Why This Mouthwash Deserves a Gold Tooth Medal: Sugar & Alcohol Free = No Tiny Tantrums: My 7-year-old actually asked for it. I didnât think that was possible unless Iâd accidentally bought candy disguised as mouthwash. Fluoride Power: Iâm pretty sure this is single-handedly preventing cavities in our house. I can hear my kid saying, âTake that, plaque!â like a tiny dental avenger. Kid-Friendly Taste: Mild, not minty-nuclear like adult mouthwash. No coughing, gagging, or dramatic collapse onto the floor. Big win. Teeth-Strengthening Magic: My dentist will probably start sending me thank-you cards for saving his sanityâ¦ or at least the emergency cavity visits. Tiny Quibbles (Because Perfection is Scary): Spill Hazard: My child tried to pour it like a potion and somehow managed to flood the bathroom counter. Minor clean-up, major magic vibes. Superpower Overload: My kid now insists on rinsing morning and night â sometimes twice. I feel like I accidentally created a tiny dental drill sergeant. Bottom Line: If you want a mouthwash that keeps kids happy, teeth strong, and parents smug, this ACT Kids Anticavity Fluoride Rinse is basically bottled superhero juice. Warning: may cause spontaneous declarations of âI love brushing!â",
+                        "I went through a period in which I was getting one cavity after another, despite the fact that I do not eat sweets very much. After sitting in the dentist's chair one too many times I resolved to step up my efforts to prevent more cavities. Front and center was ACT Anticavity oral rinse. I liked that it had no alcohol and that I only had to use it once a day. For the past year and a half I have used the rinse nightly after brushing. The formula is a mild mint that doesn't make me want to spit it out the instant I begin to swish. Best of all are the reports I have received from my dentist during this entire period: no cavities! I credit ACT with this recurring good news. ACT is an inexpensive and effective way to prevent tooth decay.",
+                        "This mouthwash is excellent. I used to be loyal to Listerine, but ACT contains a higher concentration of flouride that I think actually protects my teeth more effectively. I also appreciate the self measuring bottle; love that I can get perfectly measured rinses every time I brush my teeth. But if ACT is reading this, why oh why did you add a child-proof cap on the bottle?? The new lid design seems to be of recent vintage, because I have received bottles before that all came with a standard screw cap. Now they include one that makes opening your mouthwash akin to opening a pill bottle. Please stop with the unnecessary safety features and go back to the old cap design.",
+                        "I got this mouth wash from my dentistâs recommendation. She recommended this for my daughter who was at risk of developing cavities in certain spots. This mouth wash is for prevention purposes, cleans and keeps your teeth strong. There has been a significant change in my teeth ever since Iâve used it. It is visibly cleaner and has that smooth and fresh feel you get right after the dentist. I had 0 cavities when I went to get a dental checkup. I follow the instructions and donât drink or eat anything before the 30 minutes are up and I use this once a day.",
+                        "ACT Whitening has been a great addition to my routine. I started noticing a real difference in just a few days, and the whitening effect kept improving the longer I used it. What I appreciate most is how gentle it feels. Some whitening products can be a bit harsh, but this one gets the job done without any irritation. The mint flavor is clean and refreshing without being too strong, which makes it easy to stick with. Overall, it delivers quick, noticeable results and is genuinely pleasant to use. I definitely recommend giving it a try."
+                    ],
+                    "negative_reviews": [
+                        "BEWARE!!! I recently started using this toothpaste for my 4 year old son in September. From September to now, heâs had two outbreaks of canker sores. I kept trying to think if he ate something different than usual to be causing the repeated outbreaks but then after some research I found that SLS in toothpaste could cause frequent outbreaks and come to find out this toothpaste is the one thing thatâs new to my son and contains SLS.",
+                        "This listing has long been a pack of three bottles for a pretty reasonable price. The seller recently switched it to one bottle for the three-pack price, so now it's nearly 3x the price of other listings for the same product. The mouthwash is good. This listing is deceptive. I've canceled my subscription for it.",
+                        "I have been using Act restore for years (dentist recommended). Now they have changed the formula and it is like rinsing with sugar water, not the same clean feeling as before. I know that use Listerene and it not as good as the old Act Restore but its better than the new one.",
+                        "I received 1 bottle of mouthwash for $27.56 which came in flimsy, damaged packaging. I thought I was getting 3 bottles for that price as I have in the future. I was also charged $6.00 to return it. For that price next time Iâm opting for Tic Tacs",
+                        "I'.ve used this product for years but always purchased at my local pharmacy. I think it is a great product and has protected my teeth from decay.... no cavities in years! The problem is my order never came... VERY DISAPPOINTED!"
+                    ]
+                }
+            },
+            {
+                "period": "2025-12",
+                "reviews": 156,
+                "average_rating": 4.128,
+                "average_sentiment": 0.782,
+                "cluster_distribution": {
+                    "3": 0.635,
+                    "0": 0.218,
+                    "6": 0.045,
+                    "5": 0.045,
+                    "1": 0.026,
+                    "8": 0.013,
+                    "7": 0.013,
+                    "2": 0.006
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I've been using ACT mouthwash for years and will continue to do so in the future. The Cool Mint flavor has a great taste, but has been difficult to find as of late. I've tried different flavors of ACT mouthwash, but none of them compare to Cool Mint! My last dentist visit was cavity-free, so ACT mouthwash is still doing a great job at protecting my teeth!",
+                        "this mouthwash works really well. It burns like Listerine, even without the alcohol. In my personal opinion, the burning makes me feel like itâs really working. It does leave behind a mild bitter taste. But my breath smells very fresh and my mouth feels very clean. Just as good as regular Listerine, and better than alcohol free Listerine.",
+                        "This mouthwash is good to bring along on a trip. It is compact enough to bring along easily and works to bring along through the TSA. The mouthwash tasted like the ACT from the bigger bottles so what you would expect from the brand.",
+                        "This is the only toothpaste my daughter enjoys. She likes the bubble gum flavor. We don't have fluoride in our water, so I like that this toothpaste provides it. The price is reasonable and you can get it via surscribe and save.",
+                        "This is the relief I was looking for!!! So glad I purchased this to help with the side effects from my medicine, it has relieved the dry mouth very quickly and it is tasty!! The quality and value is phenomenal!!"
+                    ],
+                    "negative_reviews": [
+                        "This is absolutely awful :( I bought this since the usual \"blue mint\" version was out of stock. Tastes awful, and after a few days use i developed \"black hairy tongue\" (Google it). Took me a while to realize this is what was causing the black tongue. Stopped, returned and recovered in about 3 days. Definitely skip ... unless your dentist specifically asked for the hydrogen peroxide mouthwash. I wish they would add a warning on the label.",
+                        "Quite possibly the worst mouthwash I've ever used. It's the mouthwash equivalent of expanding foam that you used to fill gaps in walls. You take a swig of it, swish it around in your throat, and then second later it expands and fills your mouth with a slimy foamy paste that you cannot get rid of without washing it out with water. When I gargled this my gag reflex went crazy. Awful.",
+                        "I like this, and the cinnamon flavor act, but was hoping the company would stop adding the unhealthy and unnecessary colors. Won't be reordering it until they do..",
+                        "I used to love these, until I realized they were what was causing my awful, worsening GI issues--gas, bloating, cramping, diarrhea, you name it. And if you look up dry-mouth lozenges on here, all of them have xylitol, the artificial sweetener that causes these issues. Really disappointed that I can't use these anymore and looking desperately for another product.",
+                        "Pay attention to it being travel size. Thought I was getting full size. Not worth the price for the small size"
+                    ]
+                }
+            },
+            {
+                "period": "2026-01",
+                "reviews": 105,
+                "average_rating": 4.895,
+                "average_sentiment": 0.974,
+                "cluster_distribution": {
+                    "3": 0.886,
+                    "0": 0.076,
+                    "6": 0.038
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "My kids actually enjoy brushing with this toothpaste, the bubblegum flavor is sweet without being too strong, and makes their brushing routine much easier. It contains fluoride to help protect against cavities and strengthen their teeth, and most parents report itâs gentle on young gums while still cleaning well. A couple of small things to note are that the tube can be a bit hard to squeeze at first, and the flavor might not be every childâs favorite â but overall my family loves it and it has become our go-to daily toothpaste. This toothpaste improves the whitening effect while also enhancing the texture and appearance of teeth. Would definitely recommend for kids who struggle with regular minty toothpaste! ð",
+                        "This is hands down the best option if you want cavity protection but can't stand the painful sting of alcohol-based rinses. The Mint Burst flavor is very mild and pleasant, tasting more like sweet gum than a harsh antiseptic. The standout feature is the bottle design itself; you simply squeeze the sides to fill the built-in dosing cup at the top, which ensures you get the exact amount needed without wasting a drop. My teeth feel less sensitive after a week of use, and I love that I can swish for the full minute without my eyes watering.",
+                        "Since my son was a toddler, he is now 11. This is the only toothpaste that he will use the watermelon toothpaste is the only absolute toothpaste will use in the only place I can get it is on here and Iâm so thankful that I can keep his teeth, nice and healthy that one cavity is his whole life and I love that and Iâm glad that he found a toothpaste that he actually likes",
+                        "My daughter did not like any other toothpaste flavor I tried (and I tried all of themâ¦. I wasted a fortune in toothpaste trial) Sadly none of the stores close to me sell this so I always have to order on Amazon. If you got a picky kid I suggest you give it a try.",
+                        "These actually really are not a mint. They're like a lozenge that you might suck on and then eventually chew to moisten your mouth. They don't have any sugar in them. They've got xylitol. You get several of them in a pack. They do taste good."
+                    ],
+                    "negative_reviews": [
+                        "Itâs a wonderful product: seems to deliver the fluoride and bacteria control but without the terrible taste of listerine. But especially this 1L size, itâs very hard to pour: the bottle is sloshy when full and hard to pour into the small cap/measure. But it is also EXTREMELY slippery when wet at all. It would take two hands to pour it securely into the tiny cap, almost impossible for me without spilling. All ACT has to do is change from this slick plastic label to good old fashioned paper/ composite paper labels and we would have a perfect grip.",
+                        "Kids like the flavor. It's a touch runny so when the kids squeeze it out oftentimes it makes quite a mess, compared to thicker toothpastes like Crest or Colgate.",
+                        "Taste is good. Doesn't really sting. I missed the alcohol ingredient when trying to look for mouthwash without. Price is good.",
+                        "My kids actually enjoy brushing with this toothpaste, the bubblegum flavor is sweet without being too strong, and makes their brushing routine much easier. It contains fluoride to help protect against cavities and strengthen their teeth, and most parents report itâs gentle on young gums while still cleaning well. A couple of small things to note are that the tube can be a bit hard to squeeze at first, and the flavor might not be every childâs favorite â but overall my family loves it and it has become our go-to daily toothpaste. This toothpaste improves the whitening effect while also enhancing the texture and appearance of teeth. Would definitely recommend for kids who struggle with regular minty toothpaste! ð",
+                        "This is hands down the best option if you want cavity protection but can't stand the painful sting of alcohol-based rinses. The Mint Burst flavor is very mild and pleasant, tasting more like sweet gum than a harsh antiseptic. The standout feature is the bottle design itself; you simply squeeze the sides to fill the built-in dosing cup at the top, which ensures you get the exact amount needed without wasting a drop. My teeth feel less sensitive after a week of use, and I love that I can swish for the full minute without my eyes watering."
+                    ]
+                }
+            },
+            {
+                "period": "2026-02",
+                "reviews": 891,
+                "average_rating": 4.351,
+                "average_sentiment": 0.838,
+                "cluster_distribution": {
+                    "3": 0.86,
+                    "0": 0.067,
+                    "2": 0.029,
+                    "5": 0.012,
+                    "6": 0.01,
+                    "1": 0.007,
+                    "9": 0.004,
+                    "4": 0.004,
+                    "8": 0.003,
+                    "7": 0.002
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "I purchased this ACT Kids mouthwash for my grandson, and the fact that he actually uses it consistently is a win in itself! Taste Appeal: He loves the Wild Watermelon taste, which is the key reason he uses it regularly. Getting kids to rinse with mouthwash can be a battle, but the appealing flavor makes it easy - he actually wants to use it. Performance: It freshens his breath effectively and provides the fluoride he needs for cavity protection. The alcohol-free formula is perfect for kids and doesnât have that harsh burn of adult mouthwashes. Practical Features: The accurate dosing cup helps ensure heâs using the right amount each time, which is helpful for proper fluoride delivery and not wasting product. Value Consideration: It is a little expensive compared to some other kidsâ mouthwashes, but if it means your child will actually use it consistently, itâs worth the extra cost. Pros: â¢ Wild Watermelon taste kids love â¢ Encourages consistent use â¢ Alcohol-free formula â¢ Provides needed fluoride protection â¢ Freshens breath â¢ Accurate dosing cup included â¢ Anticavity protection Cons: â¢ A bit pricey Bottom Line: If getting your child or grandchild to use mouthwash is a struggle, the taste of this product can make all the difference. Yes, itâs slightly expensive, but a product that actually gets used is worth more than a cheaper one that sits on the shelf. Recommended for kids who need fluoride rinse.",
+                        "Listen, before this toothpaste entered our lives, brushing time was basically a nightly reenactment of trying to bathe a caffeinated raccoon. Iâve spent more time negotiating with a five-year-old than a high-stakes hostage mediator. But then came the Bubble Gum Blowout. The Highlights: The Flavor: I donât know what kind of sorcery they put in this 4.6-ounce tube, but my kids now treat the bathroom like a 5-star candy shop. It smells so much like actual bubble gum that Iâve caught myself double-checking the label to make sure Iâm not accidentally frosting a cupcake with it. The Motivation: For the first time in recorded history, I didnât have to use a bribe, a threat, or a choreographed dance to get them to the sink. They actually want to brush. The Sciencey Stuff: As much as they love the taste, I love that itâs packing fluoride to strengthen their teeth and prevent cavities. Itâs the ultimate parental \"gotcha\"âthey think theyâre getting a treat, but Iâm actually winning the war against sugar bugs. The Verdict: If youâre tired of the \"mint is too spicy!\" complaints and want a dentist-recommended win, get the Bubble Gum Blowout. My kidsâ teeth are protected, and my blood pressure has never been lower. Warning: May cause kids to stay in the bathroom longer than usual. Use the extra time to scroll on your phone in peace. Youâve earned it.",
+                        "As a parent, Iâm always looking for ways to make oral hygiene easier and more enjoyable for my child, and introducing a kid-friendly mouthwash has been a surprisingly helpful addition to our routine. We chose a brand specifically made for kids â alcohol-free, gentle, and with a mild flavor. My son actually likes using it (which is half the battle), and the fun flavor options like bubble gum or mild mint make it feel more like a treat than a chore. Itâs now a regular part of his bedtime routine, right after brushing. What I like most is that it helps reach the spots brushing might miss, especially at this age when technique isnât always perfect. It gives me peace of mind knowing heâs getting extra protection against cavities, especially since heâs still learning the ropes of consistent brushing and flossing. The measuring cap is easy to use, and the label is clear about age recommendations and how much to use. I also appreciate that it doesnât contain harsh ingredients or artificial dyes. Overall, I highly recommend adding a kid-safe mouthwash to your childâs oral care routine. Itâs boosted my sonâs confidence about having âfresh breathâ and made hygiene time a little more fun.",
+                        "Weâve been using this ACT Kids mouthwash for over three years now, and not to be dramatic, but I might cry if they ever stop making it. Both my boys use it daily, and neither of them has had a single cavity since we added it to their routine. Thatâs not luck. Thatâs watermelon-flavored science. The flavor is a total hit! Fun and fruity without that fake aftertaste some kid rinses have. Itâs also alcohol-free, which makes me feel better about them using it daily, and the built-in dosing cup makes it easy for them to measure it out without help (huge win for those chaotic school mornings). As a parent, this is one of those small but powerful tools I swear by. Their dentist is always impressed, and I give all the credit to this rinse for helping us stay cavity-free, even through phases of questionable brushing enthusiasm ð Iâve recommended this to other moms more times than I can count. If your kids hate mint or strong flavors, this one is a game-changer.",
+                        "This was our very first time trying a mouthwash for kids, and Iâm so glad we chose this one. The bubble gum flavor is a big hit with my daughter â she says it tastes great and never complains about using it. But what really makes it stand out is the design of the bottle. She loves squeezing it until the liquid fills the cap to the line. It makes the process fun and mess-free, and she's completely taken ownership of it. What I didnât expect is how much she enjoys the routine. Using this mouthwash has made her more excited about her overall mouth care. Itâs become a habit she looks forward to every day, which as a parent, is a huge win. I also appreciate that it contains fluoride for cavity protection and is gentle enough for young kids. If youâre starting out with mouthwash for your child, I highly recommend this one. Itâs a great way to build healthy habits with a product theyâll actually enjoy using."
+                    ],
+                    "negative_reviews": [
+                        "This \"Restoring\" version of ACT has a ph of 5.6. That is way too acidic to leave in your mouth. It is also why so many people find it burns their mouths. I was using a prior version of ACT after rinsing with Listerine, a very acidic mouthwash. The ACT was used to neutralize the acidity as well for the fluoride benefit. My H and I noticed the difference right away, and here we bought 3 large bottles. (Sigh!) I will be returning the two unopened and search for a neutral (preferably ph 7) fluoride rinse.",
+                        "I bought rinse of this brand before ( buble gum taste) and it was good. Thatâs why I purchased 3 bottles of this product but with pineapple punch taste. But the smell of this product is disgusting even for adults. My daughter vomited after using it. I wanted to return this product, I was told I have to contact manufacturer and I tried (they have some form on their site but I couldnât send filled form, it doesnât go through).",
+                        "Beware. Buyer beware, I been using ACT for years but never bought from Amazon. I decided to add a bottle to my order and when I tried it I could tell something was off immediately. Smelled and tasted more like Jack Daniels than mouthwash which is weird since it's supposed to be alcohol free. EXP date says the bottle is still good but something isn't right.",
+                        "Flavor is nasty. My 7 yo didnât like the taste. I thought she was being picky so I tried it. It barely tasted like grape. I mean, kinda hard to make grape taste bad! Try bubble gum instead itâs the only act mouthwash worth buying.",
+                        "Order this mouthwash for my daughter she wanted to try a new flavor, and she did not like it. I tried it myself to see how bad it was and it is a weird taste and leaves you with a bitter taste in your mouth."
+                    ]
+                }
+            },
+            {
+                "period": "2026-03",
+                "reviews": 655,
+                "average_rating": 4.637,
+                "average_sentiment": 0.909,
+                "cluster_distribution": {
+                    "3": 0.739,
+                    "0": 0.162,
+                    "5": 0.046,
+                    "2": 0.017,
+                    "8": 0.012,
+                    "7": 0.009,
+                    "1": 0.008,
+                    "6": 0.008
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "It took me decades to finally realize that using something as simple and cheap as a Fluoride mouthwash daily can make a huge difference in your dental health. For the first few years, I used a popular whitening fluoride mouthwash before my dental hygienist told me her research showed ACT Anticavity Fluoride Mouthwash was better. I researched it and agreed. So I switched to ACT. My favorite thing about ACT is that the bottle will \"dispense\" exactly 10ml of the liquid into the top chamber if you squeeze the bottle with the cap off, until the liquid reaches the top of the \"Fill Line\" (see my video). When I first tried this, I was blown away! I had never seen anything like this. I like precision and to me this is the ultimate in mouthwash dispensing! (I never thought I'd be writing a sentence like that :o) The active ingredient is Sodium Fluoride at 0.05%, which it turns out is higher than the whitening fluoride mouthwash I used to use. It's important to follow the directions and to not eat or drink anything for 30 minutes after using this. That includes rinsing with water afterwards. There's no reason to do that and it would reduce the effectiveness of the fluoride. I discovered after decades of rinsing with water after brushing my teeth, that the same principal applies to brushing. According to Google, you should not rinse with water after brushing your teeth either, because it washes away some of the fluoride from the toothpaste. It's easiest to just make rinsing with ACT your final um.....\"act\" before going to sleep. I wish I had discovered all of this many years ago. Fortunately it's not too late for me. Unless you wear a full set of dentures it's not too late for you either!",
+                        "I am a person with connective tissue disorder which has caused tons of dental issues, and have had thousands of dollars in dentistry done recently, - but not before an important change first. My dentist explained was that healthy teeth cannot live in unhealthy gums. I had been dealing with painful, inflammed, red gums. Because of this, it was very difficult to effectively and efficiently brush and get through my daily mouth routines. The dentist wouldn't even repair/restoration for me until I started a new home cleaning routine and started healing my gums. So I started by switching from a regular mouthwash to this product. It has really, truly made a HUGE difference. After about a week, the inflammation came down. Then, the redness faded. I could finally brush without pain and bleeding. That was literally the only change I made. Two weeks later, I went back for a re-check and she was shocked by the improvement. As was I. This stuff is the real deal. In my opinion, it does not have an overpowering flavor, & for me it has not caused any burning or stinging. I got my entire family on board with using it, and we are all happy. It lasts a good amount of time, and the price really can't be beat. Especially for how effective the product is. As far as shipping, which I have received many orders, I have never had an issue with leaking or broken bottles. If you need a change of mouthwash, you will be doing yourself a big favor giving this product a try!",
+                        "Works amazing and is easy for 2 of my family with different individual needs to use. I have a very dry and sensitive mouth that is very prone to cavities due to limited saliva. My pre teen son is very sensitive to mouthwash or mint toothpaste and strongly dislikes the \"kid\" flavors too. While he doesn't have my dry mouth, it has also been difficult for us to find a toothpaste that has fluoride and is not a stong flavor that he will use without resistance. He is good about brushing his teeth, but his sensory processes make the flavor of most toothpaste hard for him. ACT fluoride rinse has been gamechanging for us both. My son can use an unflavored toothpaste and then use this for fluoride for his teeth. I use in in additon to my prescription toothpaste and it makes me feel more confident that I am getting fluoride protection in-between my teeth where the toothpaste is not able to sit and reach. It is easy and works!! The dispensing cup is wonderful. We know how much to use, can use it correctly and it is not anything we need to \"steel our nerves\" to do. And.... not having to brace to use a mouthwash and/or toothpaste for fluoride has made morning and night routines much easier and therefore more consistent for dental hygiene.",
+                        "The ACT Anticavity Zero Alcohol Fluoride Mouthwash is a long-standing favorite for a reason. Designed for daily use, it offers a gentle yet highly effective way to strengthen enamel and prevent tooth decay without the harsh burn of traditional alcohol-based rinses. Why Itâs a Consistent Top Performer Zero Alcohol Formula: Because it contains 0% alcohol, it is perfect for individuals with sensitive mouths or dry mouth symptoms, providing a comfortable rinse that \"works great\" every time. Accurate Dosing Cup: The built-in dosing cup is one of its best features, ensuring you get the exact 10ml dose needed to be effective, which also helps the 18 fl. oz. bottle last longer. Maximum Strength Fluoride: It provides the maximum level of fluoride available without a prescription, helping to remineralize soft spots and reduce cavities up to 40% more than brushing alone. Refreshing Mint Flavor: The Mint scent is crisp and clean, providing immediate breath-freshening benefits that linger without an artificial aftertaste. Trusted Dental Care This mouthwash is the #1 dentist-recommended fluoride brand, making it a \"no-brainer\" for those who have been using it for years to maintain their oral health. It is ADA-accepted and safe for adults and children ages 6 and older.",
+                        "I've been using ACT Anticavity Fluoride Mouthwash for about three months now, and I honestly can't imagine my oral care routine without it. The alcohol-free formula is a total game-changer â no more that harsh, burning sensation that makes you feel like your mouth is on fire. It's gentle enough to use every day without any irritation, which is especially great for anyone with sensitive gums. The mint flavor is refreshing without being overpowering, and my breath genuinely stays fresh for hours after rinsing. My dentist even commented at my last checkup that my enamel is looking stronger, which I fully credit to this mouthwash alongside regular brushing. The 2-pack of 18 fl. oz. bottles is an incredible value â this stuff lasts forever, and buying in bulk means I never run out at an inconvenient time. The flip-top cap makes it easy to pour the right amount without any mess. If you're looking for a reliable, dentist-recommended fluoride rinse that actually delivers on its promises without the alcohol burn, look no further. This is the one. Highly recommend to anyone serious about protecting their teeth! ð¦·"
+                    ],
+                    "negative_reviews": [
+                        "I ordered this as a refill. Watched Dr. Ellie on YouTube and she recommends 1 minute with Closys mouth wash, 1-2 min with crest toothpaste, 1 min with Listerine and last step 1 minute with act mouthwash. I started using this system 2 weeks ago, I have not used fluoride products since about 10 years ago. The past two weeks I have been itching all over and covered in hives. I googled allergic reactions to fluoride. Rare but can happen. What ever goes into your mouth will get into your blood stream, everything is connected. So even though the fluoride is in your mouth for a couple of minutes twice a day is getting into your blood stream.",
+                        "I love ACT mouthwash but this bottle design, ugh! 22 cents per FL oz versus 19 cents/oz for the 32 oz bottles and this uses the stupidest 'squeeze to fill' top design in the world. You remove the lid, squeeze the bottle and the tube inside pumps fluid into the top of the bottle, 'just the right' amount for you to rinse/gargle with. Yuck. More wasted plastic and it becomes difficult to use when it gets low on fluid. I tried to pull the squirter out, probably requires pliers or more. Terrible idea, I bought by accident.",
+                        "Contains cetylpyridinium chloride (CPC), an ingredient known to stain teeth in approx 3% of the population. The ADA, NIH, and other professionals recommend against using CPC if you are prone to staining. Good to know, although WHY put it in here in the first place? Trying to find a fluoride rinse w/o CPC is next to impossible -- add in the dyes and flavors and preservatives and other toxic ingredients, and I give up!",
+                        "Warning. After about a week of use (2x day) my teeth started to get brown stains that won't go away. The culprit is apparently cetylpyridinium chloride (CPC), the rinse's active ingredient. \"CPC is an effective antibacterial that binds to a bacterium's membrane and ruptures it. The debris from the dead bacteria can cause staining of the teeth.\" Now I need an expensive professional dental cleanup!",
+                        "I had been using this as the last step of Dr. Ellie Phillips Mouthcare System but it no longer will work because they quietly snuck Cetylperidinium Chloride into the ingredient list. Even an alternative product Walgreens carried contains CPC now. Works against her system now."
+                    ]
+                }
+            },
+            {
+                "period": "2026-04",
+                "reviews": 479,
+                "average_rating": 4.737,
+                "average_sentiment": 0.934,
+                "cluster_distribution": {
+                    "3": 0.864,
+                    "0": 0.084,
+                    "2": 0.013,
+                    "8": 0.013,
+                    "6": 0.01,
+                    "4": 0.008,
+                    "5": 0.008
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "Iâve been really happy with this ACT Kids Anticavity Fluoride Rinse. Getting kids to stick with dental routines can be a challenge, but this rinse makes it much easier. The flavor is kid-friendly without being overpoweringly sweet, and it leaves a clean, fresh feeling without the harsh burn you sometimes get from adult rinses. The dosing cup design is simple and helps avoid waste or overpouring, which is a nice practical touch for daily use. Itâs easy to add into a nighttime brushing routine, and it feels like an extra layer of protection, especially for kids who are still perfecting their brushing technique. I also appreciate that the bottle lasts a while even with regular use, so it feels like good value for the size. The packaging is sturdy, and the cap seals well, which helps prevent leaks if it gets knocked over in a busy bathroom. â Pros Kid-friendly taste (no strong alcohol burn) Easy-to-use dosing cup system Helps reinforce daily oral care routine Good value for amount you get Trusted brand in oral care â ï¸ Cons Some kids may still need reminders not to swallow Flavor options may vary depending on availability Requires supervision for younger children Overall, this is a solid, reliable addition to a kidâs oral care routine. If youâre looking for a fluoride rinse that kids are more likely to actually use consistently, this is a great option.",
+                        "My dentist uses this - he has me rinse my mouth for a minute before starting to work on my mouth - cleaning, whatever. I have used Listerine for many years but lately have been reading articles about not using the stronger mouthwashes so much, as they could be killing off good bacteria along with any bad. I don't know if that's the case, but I figured it wouldn't hurt to give this Act no alcohol whitening mouthwash a try. It has a slight foaming quality. You are to swish it for about a minute, then they suggest not rinsing your mouth or drinking water for 30 minutes -- sometimes I do this and sometimes I do not. I don't find the taste to be off-putting. And there's no 'burn' to my mouth like when I used the stronger alcohol mouthwash. But my mouth still feels clean and fresh.",
+                        "Iâve been using this mouthwash consistently for a while now and itâs easily my go-to. What I like most is that itâs gentle â it doesnât have that harsh, burning feeling a lot of mouthwashes do â but it still leaves my mouth feeling really clean and fresh afterward. Itâs one of the few I can use every day without my mouth feeling irritated or dry. This was actually recommended to me by my dentist, and it ended up being one of those rare recommendations that I immediately understood after trying it. It just feels like a solid part of my routine: swish, rinse, done, and my mouth feels refreshed without any weird aftertaste. If youâre someone who avoids mouthwash because you hate the sting, or you want something that feels effective but not intense, Iâd definitely recommend giving this one a try.",
+                        "Finding a mouthwash my daughter actually likes has been a challenge, especially since she used to complain about the alcohol or even low-alcohol formulas in other products. Enter ACT Kids Anticavity Fluoride Rinse Groovy Grape, and problem solved! The grape flavor reminds her of chewing gum, making it fun and enjoyable to use. No more complaints or resistanceâitâs truly kid-friendly! The fact that itâs alcohol-free is a huge bonus, as itâs gentle and doesnât cause any burning sensation. The accurate dosing cup is a smart addition, helping to avoid messes and ensuring she uses the right amount every time. Iâm happy knowing itâs not just fun for her but also effective in protecting her teeth. Highly recommend this for parents looking for a mouthwash their kids will actually love to use!",
+                        "I bought this for my daughter to get her into the practice of good oral hygiene habits and it worked like a charm. She loves the watermelon flavor and uses it every day without having to be reminded. I love that it does not have a separate cap and that you can squeeze the perfect amount into the the reservoir cup attached at the top. The bottle is small enough for a child to hold and drink from the cup at the same time without struggling, and it reduces spills that would come with a mouthwash that has a separate cup. This design does cater specifically to individual use as opposed to being shared, but I only have one child so that works perfectly for us. 10/10 would recommend."
+                    ],
+                    "negative_reviews": [
+                        "I got this for myself because I was looking for an alcohol-free mouthwash without mint flavor because my tongue is always irritated, plus the mint is so strong it kills tastebuds. Anyway, this grape mouthwash doesn't taste at all like grape. It doesn't taste like real grapes and it doesn't taste like artificial grape. It tastes like despair. It doesn't taste like grape cough medicine either. I'd actually accept grape cough medicine flavor. This mouthwash tastes like someone took a mystery flavor Gatorade that had been sitting out for several years and injected it with literal poison. It also leaves your mouth feeling oddly sweet and sour. I'm not picky about things and I'll try to use this up, but, my God. Why is it so bad?",
+                        "I bought this for my youngest who gives us a hard time with brushing his teeth. We bought this hoping it will help with his routine and wanting to brush his teeth. He hated this flavor, I would have returned it, but it was open and used once. I guess we'll be sticking with the bubble gum flavored one.",
+                        "Groovy grape is disgusting. I thought I had let my toothbrush get mold on it. Nope this mouthwash tasted nasty. Now the watermelon is fantastic.",
+                        "It taste awful. Taste like nyquil. I will never get Groovy Grape flavor again. I do not recommend this flavor.",
+                        "Item appeared to have been opened already. There was no safety seal around the cap or inside sealing the contents. I requested a return immediately."
+                    ]
+                }
+            },
+            {
+                "period": "2026-05",
+                "reviews": 303,
+                "average_rating": 4.792,
+                "average_sentiment": 0.948,
+                "cluster_distribution": {
+                    "3": 0.911,
+                    "0": 0.053,
+                    "1": 0.013,
+                    "2": 0.013,
+                    "5": 0.01
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "This mouthwash is great. I have naturally really sensitive teeth/thin enamel. I used to avoid fluoride because I heard it was bad and it is toxic to humans. Fluoride has been studied and there are results showing that it does cause brain damage. However, most anti-fluoride sites only focus on the toxicity fluoride has on the brain. They also dismiss fluoride as not even beneficial for your teeth. Many sites I have read state something about how the use of fluoride is based on weak studies that weren't done correctly. However, I am a researcher and I have access to all sorts of research databases. I found 100s of studies that have shown regular use of fluoride to heal small caries and reduce the overall number of cavities. So, I began using fluoride to protect my teeth. I make sure to rinse after usage so I don't ingest any of the toxic substance. After a month of usage, my teeth have gotten a lot less sensitive. I am happy the enamel is starting to harden to help reduce pain associated with hot and colds. I am confident this is helping protect my teeth! PROS Alcohol Free = no burn Contains highest amount of over the counter fluoride = Cavity protection Taste is minty, isn't too overwhelming CONS The highest percentage of fluoride only comes in the smaller bottle. I would like to buy a larger version.",
+                        "I have always struggled with traditional mouthwashes because that intense alcohol burn makes it almost impossible to swish for the full minute. Switching to the ACT Total Care Zero Alcohol version has been a total game changer for my morning and nightly routine. It gives me that clean, crisp Fresh Mint feeling but without the stinging sensation that usually makes my eyes water. What really stands out is that it actually feels like itâs doing something for my teeth rather than just masking breath. Knowing it has fluoride to help strengthen enamel and prevent cavities gives me a bit more peace of mind between dentist visits. Since there is no alcohol, it doesn't leave my mouth feeling parched or dry ten minutes later, which Iâve noticed helps keep my breath fresh for much longer throughout the day. The 33.8 ounce bottle is massive and definitely lasts a while, so you aren't constantly running back to the store. The flavor is pleasant and mild enough that it isn't overpowering, but it still leaves everything feeling polished and clean. If you want a mouthwash that is effective but doesn't feel like a chore to use, this is easily the best option Iâve come across. It is a simple, affordable upgrade to a daily habit that actually feels good to use.",
+                        "Overall I really do like this mouthwash. I use it every night as the last step in my routine because Iâm always looking for ways to up my oral hygiene, and this has really helped with that. I had been googling which mouthwash to use and this was the one that was suggested, and overall I do like it. I also loved that itâs really affordable â I think it was almost $4 when I bought it. I was a little worried about using mouthwash right after brushing since youâre basically rinsing away the good stuff from toothpaste. But since this has fluoride, Iâm okay with letting it sit on my teeth. It feels like Iâm still getting those benefits. Iâve only been using it for about a week now, but I really like the feature where you just squeeze the bottle and it gives you the perfect amount to the fill line. The taste is okay. I like it minty and fresh, and this does that without the burn since itâs zero alcohol. Iâll update if I notice anything else with my hygiene, but for the price + fluoride + easy dispenser, Iâm a fan.",
+                        "Weâve been using this ACT Kids mouthwash for over three years now, and not to be dramatic, but I might cry if they ever stop making it. Both my boys use it daily, and neither of them has had a single cavity since we added it to their routine. Thatâs not luck. Thatâs watermelon-flavored science. The flavor is a total hit! Fun and fruity without that fake aftertaste some kid rinses have. Itâs also alcohol-free, which makes me feel better about them using it daily, and the built-in dosing cup makes it easy for them to measure it out without help (huge win for those chaotic school mornings). As a parent, this is one of those small but powerful tools I swear by. Their dentist is always impressed, and I give all the credit to this rinse for helping us stay cavity-free, even through phases of questionable brushing enthusiasm ð Iâve recommended this to other moms more times than I can count. If your kids hate mint or strong flavors, this one is a game-changer.",
+                        "I haven't used ACT or thought of ACT since I was a kid. I remember the Red color and definitely remember the single serving dispenser. They must be doing something right to still be around, it was the 80s. This makes using mouthwash EASY. No more too big mouthfuls, no more mouthwash left in the cup being tossed. This dispenses the perfect amount and the taste, nice. Yes, I said it. This mouthwash tastes good. No alcohol means no burn afterwards. I didn't think about it being Alcohol free when I saw it, I just needed mouthwash and remembered the dispenser. But this is now my favorite mouthwash. I can't speak to its cavity fighting formula, (can any user, really?) but its the number one brand recommended by dentists. I just know it leaves my mouth feeling fresh and clean every time I use it. Now If I could go back and tell little me using this mouthwash in the 80s I'd be writing this review 40+ yrs I'm sure he's be amazed."
+                    ],
+                    "negative_reviews": [
+                        "Item appeared to have been opened already. There was no safety seal around the cap or inside sealing the contents. I requested a return immediately.",
+                        "Iâve been using this mouthwash for a while because back when i bought it i absolutely COULD NOT handle mint. It works pretty good but now it only helps with bad breath for about a few hoursâ¦ it tastes too sweet for me now and I have gingivitis so Iâve tried to use it to âswish away the bad stuffâ but it doesnât work. It doesnât kill any bacteria and its BARELY substantial in general. So much for âpreventing cavitiesâ tl;dr: barley does anything, doesnât kill bacteria or bad particles and if it does itâs not strong enough to be substantial for long term periods of time. Itâs also too sweet and I forgot to mention this earlier but it feels HORRIBLE when you put it in your mouth too the point where itâs better to swallow it because of how horrible it feels.",
+                        "These are ok. Leaves an after taste. I bought because you get more for your money compared to biotene. But biotene has a great light minty taste. No after taste. Will stick to biotene.",
+                        "Works well enough for a dry mouth; however, I wish I would have bought the smaller bottle. I have a hard time with the taste. The minty smell and taste are both very mild with no burning feeling in my mouth, but there is an aftertaste that reminds me of the paste we used in elementary school! It is horrible! Mind you, I was not a paste eater, but I did taste it once after watching \"that kid\" eat it. You know him; he was the one who ate a bug or worm or basically anything gross, and no, I was not that kid. Thankfully, I didn't try eating a worm then. (I did do it once in my mid 20s, but that would be reviewing a different product.) Anyway, I do use this product and the toothpaste every night and it helps more than somewhat, but not well for me. I still keep some water on my nightstand every night. I have severe dry mouth due to medication, which would be way worse without the rinse. I have been using it for about two years. I usually buy the green label but I couldn't find any so I bought this blue label off of Amazon. Overall, I do recommend this product, I just don't like the aftertaste.",
+                        "Iâve been using this ACT Restoring Anti-cavity Fluoride Mouthwash and overall itâs a solid product. It does a great job of leaving my mouth feeling clean and fresh, and I like knowing itâs a dentist recommended brand. That said my fiancÃ© and I personally prefer a more âintenseâ fresh feeling and stronger flavor/tingle sensation. This oneâs definitely on the milder side l, which actually makes it a great option for those that have sensitive teeth or donât enjoy a strong flavor or tingling sensation. It still does a good job, just in a gentler way than what we usually go for. Overall Iâd give it 4 stars. Itâs a nice, reliable mouthwash- just depends on your preference for intensity."
+                    ]
+                }
+            },
+            {
+                "period": "2026-06",
+                "reviews": 1044,
+                "average_rating": 4.6,
+                "average_sentiment": 0.9,
+                "cluster_distribution": {
+                    "3": 0.814,
+                    "0": 0.134,
+                    "5": 0.022,
+                    "2": 0.017,
+                    "6": 0.007,
+                    "1": 0.002,
+                    "4": 0.002,
+                    "8": 0.002
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "My best friend is in his final year as a dental student. He recommended to me these following products: 1. Crest Pro-Health Whitening Toothpaste, 4.2-Ounce Carton (Pack of 6), 2. ACT Restoring Mouthwash, Cool Splash Mint, 18-Ounce Bottle (Pack of 4) 3. Crest Pro-health Multi-Protection Alcohol Free Clear/Clean Mint, 1-liter Bottles (Pack of 3). 4. Reach unwaxed dental floss by Johnson & Johnson 5. Oral-B Triumph Professional Care Electric Toothbrush. This is the regiment he advised me to follow: 1. Use the toothpaste morning and evening. 2. Use the Act mouthwash in the morning because it has a really potent amount of fluoride in it and it's the best time of day for using fluoride. 3. Use the Crest mouthwash at night because it has a protective film it leaves on your teeth to prevent plaque from building at night. 4. Use the Un Waxed floss once per day at night prior to the mouthwash. The un waxed floss scrubs the teeth way better than waxed floss and especially better than Glide. The reason is the Glide \"glides\" right past the plaque and food build up leaving the teeth unclean. The un waxed floss is not for the faint of heart and will take a few weeks to get used to. It is harder to use because it \"grips\" the teeth and you do have to use a sawing left to right motion to get it between some close teeth. But, it's way worth the effort. After months of using the un waxed, I don't even think about it! 5. I used to use the Sonicare for years but my friend convinced me that the Oral-B Triumph cleans better and it does if you do the research. This model also has a handy 4 stage 30 second prompt so you don't have to wonder \"did I brush good enough\". It tells you when you are done! CONCLUSION: My dentist friend says that if you follow this routine, you will probably never have a cavity again! I have read a lot of criticism about some of the products on this list but, they seem to be from people who have poor dental hygiene. I use the tooth paste with the electric toothbrush on high and have had no problems whatever. My teeth are clean and gums healthy. Once you get through \"the tunnel\" using this type of regiment, your gums will never bleed and you will have great oral care! I wish you happy, healthy teeth!",
+                        "My dentist recommended ACT fluoride rinse as part of my home care routine for periodontal health, specifically mentioning its remineralizing benefits for teeth. Based on her advice, I decided to try this the mint flavor of this mouthwash. I've been using it consistently, twice a day, for over six months now. Honestly, the biggest change I've noticed is with my tooth sensitivity. Before using this, it felt like my entire mouth was sensitive â even just eating crunchy foods could be uncomfortable. It was pretty persistent. Now, after using ACT twice daily for over six months, that sensitivity is almost completely gone. Once in a while, something really cold might cause a brief twinge on a tooth or two, but it's a massive improvement compared to before. My dentist recommended it for remineralization, and based on this huge reduction in sensitivity, I'd say it's definitely helping. Beyond the effectiveness, it's very user-friendly. The mint flavor is pleasant and not harsh. The bottle design is fantastic, featuring an accurate dosing cup that dispenses the exact 10mL needed with a simple squeeze â no mess, no measuring needed. While the zero-alcohol aspect wasn't a deciding factor for me personally, it's nice that it doesn't have the burn some other mouthwashes do. Value-wise, buying the 4-pack makes the price per bottle incredibly reasonable, which is great for long-term use. My only minor points are things not directly related to the product's quality: having to buy four bottles at once means finding storage space, and like any fluoride rinse, you need to wait 30 minutes after use before eating or drinking. That's just standard procedure for fluoride to be effective, though. Overall, I highly recommend this ACT mouthwash. It delivers what my dentist suggested it would, has dramatically improved my comfort by reducing sensitivity, is easy to use, tastes good, and offers great value. It's become a staple in my routine.",
+                        "I am a person with connective tissue disorder which has caused tons of dental issues, and have had thousands of dollars in dentistry done recently, - but not before an important change first. My dentist explained was that healthy teeth cannot live in unhealthy gums. I had been dealing with painful, inflammed, red gums. Because of this, it was very difficult to effectively and efficiently brush and get through my daily mouth routines. The dentist wouldn't even repair/restoration for me until I started a new home cleaning routine and started healing my gums. So I started by switching from a regular mouthwash to this product. It has really, truly made a HUGE difference. After about a week, the inflammation came down. Then, the redness faded. I could finally brush without pain and bleeding. That was literally the only change I made. Two weeks later, I went back for a re-check and she was shocked by the improvement. As was I. This stuff is the real deal. In my opinion, it does not have an overpowering flavor, & for me it has not caused any burning or stinging. I got my entire family on board with using it, and we are all happy. It lasts a good amount of time, and the price really can't be beat. Especially for how effective the product is. As far as shipping, which I have received many orders, I have never had an issue with leaking or broken bottles. If you need a change of mouthwash, you will be doing yourself a big favor giving this product a try!",
+                        "I bought this ACT Kids Anticavity Mouthwash thinking, âSure, my kid will probably hate itâ¦ and Iâll end up gargling it myself just to finish the bottle.â Nope. Miracle in a bottle. Why This Mouthwash Deserves a Gold Tooth Medal: Sugar & Alcohol Free = No Tiny Tantrums: My 7-year-old actually asked for it. I didnât think that was possible unless Iâd accidentally bought candy disguised as mouthwash. Fluoride Power: Iâm pretty sure this is single-handedly preventing cavities in our house. I can hear my kid saying, âTake that, plaque!â like a tiny dental avenger. Kid-Friendly Taste: Mild, not minty-nuclear like adult mouthwash. No coughing, gagging, or dramatic collapse onto the floor. Big win. Teeth-Strengthening Magic: My dentist will probably start sending me thank-you cards for saving his sanityâ¦ or at least the emergency cavity visits. Tiny Quibbles (Because Perfection is Scary): Spill Hazard: My child tried to pour it like a potion and somehow managed to flood the bathroom counter. Minor clean-up, major magic vibes. Superpower Overload: My kid now insists on rinsing morning and night â sometimes twice. I feel like I accidentally created a tiny dental drill sergeant. Bottom Line: If you want a mouthwash that keeps kids happy, teeth strong, and parents smug, this ACT Kids Anticavity Fluoride Rinse is basically bottled superhero juice. Warning: may cause spontaneous declarations of âI love brushing!â",
+                        "As a parent, Iâm always looking for ways to make oral hygiene easier and more enjoyable for my child, and introducing a kid-friendly mouthwash has been a surprisingly helpful addition to our routine. We chose a brand specifically made for kids â alcohol-free, gentle, and with a mild flavor. My son actually likes using it (which is half the battle), and the fun flavor options like bubble gum or mild mint make it feel more like a treat than a chore. Itâs now a regular part of his bedtime routine, right after brushing. What I like most is that it helps reach the spots brushing might miss, especially at this age when technique isnât always perfect. It gives me peace of mind knowing heâs getting extra protection against cavities, especially since heâs still learning the ropes of consistent brushing and flossing. The measuring cap is easy to use, and the label is clear about age recommendations and how much to use. I also appreciate that it doesnât contain harsh ingredients or artificial dyes. Overall, I highly recommend adding a kid-safe mouthwash to your childâs oral care routine. Itâs boosted my sonâs confidence about having âfresh breathâ and made hygiene time a little more fun."
+                    ],
+                    "negative_reviews": [
+                        "I ordered this as a refill. Watched Dr. Ellie on YouTube and she recommends 1 minute with Closys mouth wash, 1-2 min with crest toothpaste, 1 min with Listerine and last step 1 minute with act mouthwash. I started using this system 2 weeks ago, I have not used fluoride products since about 10 years ago. The past two weeks I have been itching all over and covered in hives. I googled allergic reactions to fluoride. Rare but can happen. What ever goes into your mouth will get into your blood stream, everything is connected. So even though the fluoride is in your mouth for a couple of minutes twice a day is getting into your blood stream.",
+                        "Has alcohol and kids can't handle this. It even says No Alcohol but the majority of the ingredients is Benzyl Alcohol... is this FDA Mislabeling?? I previously bought the pineapple and the watermelon...both did not have alcohol..yet this bubblegum and grape that I bought together were too much for the kids saying it's spicy...horrible...all the formulas should be the same except for flavor! Super disappointed...I plan to return both [if I can as kids used grape twice already]. Look at pics for comparison",
+                        "Contains cetylpyridinium chloride (CPC), an ingredient known to stain teeth in approx 3% of the population. The ADA, NIH, and other professionals recommend against using CPC if you are prone to staining. Good to know, although WHY put it in here in the first place? Trying to find a fluoride rinse w/o CPC is next to impossible -- add in the dyes and flavors and preservatives and other toxic ingredients, and I give up!",
+                        "This is my favorite mouth wash and it really does keep teeth from cavities purchased it 3 times before but I was not happy this time purchasing it this time it has a chemical taste to it and did not taste like the last time I purchase I would send it back but I just don't feel like it hopefully once I purchase again it doesn't have that problem throwing this batch away",
+                        "Ok, the mouthwash is fine. It is the bottle nozzle design that is weird and even potentially a danger. Could it pop out into someone's throat? And, it quits allowing mouthwash flow at about halfway. It never worked well, even when full. It is a potentially dangerous design. I did complain and am returning it. The mouthwash itself is fine. 5 for the mouthwash fluid but the bottle nozzle design is really awful."
+                    ]
+                }
+            },
+            {
+                "period": "2026-07",
+                "reviews": 133,
+                "average_rating": 4.609,
+                "average_sentiment": 0.902,
+                "cluster_distribution": {
+                    "3": 0.842,
+                    "0": 0.083,
+                    "5": 0.053,
+                    "1": 0.015,
+                    "2": 0.008
+                },
+                "representative_reviews": {
+                    "positive_reviews": [
+                        "It'd been a long time since my wife and I had used mouth wash, but our dentist recommended it and gave specifics about the bottle needing to have \"Fluoride\" or \"Anticavity\" in the title, so it worked out that this ACT product had both. We bought the six bottles for $32, which isn't the best bargain I've had on Amazon, but I figured they would last a while and would not go bad. We have used it for at least a week now, and I must say there are at least three great things about it: 1. The bottle design is really innovative. You squeeze the bottle and liquid squirts out into the top from two little spigots and then sits there for you to pour into your mouth from the bottle. I'm probably not describing it well, but it's smart, simple, and effective. It saves the need to pour into a cap or a separate cup. There is also a fill line drawn near the top of the bottle, so you just squeeze until the liquid hits that mark. 2. There is no alcohol in the product so the burn factor is limited. I remember mouth wash being kind of painful. This still burns a little, but not nearly as much as the traditional product. 3. Great taste. It's hard to go wrong with mint, but it's still something to be appreciated. Good stuff!",
+                        "My dentist recommended a fluoride mouthwash to help rebuild enamel on a tooth with a sensitive root. I had been using an alcohol-based mouthwash which did a great job helping keep plaque under control and made my teeth feel really clean. Unfortunately, I gave it up due to concerns raised by recent studies as far as links to oral cancer. So, I switched to ACT, a non-alcohol mouthwash. It seems to work well and has a really clever built-in measuring system. It doesn't leave my teeth feeling quite as clean but the nerve sensitivity in my tooth has gone away...I'm assuming (but have no proof) that it is due to the fluoride in the ACT. It's worth noting that, despite the fact that my local water system uses fluoride, we have a lot of minerals in the water that give it an off taste so I drink and cook with water processed using reverse osmosis which removes the fluoride (among many other things). So, I've gone over 20 years without any regular fluoride exposure that the ACT helps correct.",
+                        "We've used ACT Rinse for years, at our dentist's suggestion. Right before bed, after brushing, swish a mouthful around for a minute and spit - you'll be coating your clean teeth in fluoride protection. It helps protect against cavities by restoring the enamel on your teeth. It has a mild minty flavor, not nearly as strong as Scope, and also come in Bubble Gum flavor for kids. There is a slight saccharine aftertaste but nothing too unpleasant - especially for the protection this product gives. We have un-fluoridated well water at our house, so adding the extra fluoride protection is important for our kids' developing teeth. So far none of our kids has ever had a cavity, so I'm crediting our success to good brushing habits, limiting sodas and sugary foods, and ACT Rinse. With Amazon's Super Saver shipping, this 6-pack is a great buy.",
+                        "ACT Restoring Mouthwash, Cool Splash Mint , 33.8-Ounce Bottles (Pack of 3); Same stuff your dentist uses to treat your teeth after a cleaning where u have to wait half an hour before you eat. These containers are also cheaper then buying the same product in smaller contains for the same volume. I now only purchase this mouth wash in bulk and online unless i am stuffing a stocking. I also tend to have sensitive teeth due to a major sour/sweet tooth. between this product and sensodyn toothpaste I have not had to have eny dental work done in the six years i have been using both daily.",
+                        "The taste it great if you like cool mint. It starts cutting very dry mouth in seconds but lasts for about 20 minute, and the dryness starts coming back. Due to how long it lasts, it's to costly. But don't let this deture you. You need to try it because everyone is different. P.S. IF YOU SMOKE CANNABIS. THIS IS A VERY GOOD FOR CUTTING COTTON MOUTH FOR AWHILE."
+                    ],
+                    "negative_reviews": [
+                        "Trying to resolve the issue with this order. It was advertised as 3 items for $30.00 of mouthwash. I only received one bottle. I am not paying $30 for something I can purchase for less than $10 per bottle. If you forward me the other two bottles ,I will be good with that. Otherwise, I will be sending this one bottle back for a refill. Marva Swanson",
+                        "We received children's Spongbob ACT mouthwash which isn't minty at all. Very disappointed as we now have a case of if.",
+                        "Was sold as a pack of 4 tubes, I got 1. The one I got had a hole in it.",
+                        "Description photo clearly says pack of six (6) six pack for $22. But - shipped only one 1 one! Reported. Don't buy.",
+                        "A mis niÃ±os les encanto, lo triste es que compre un kit de 4 pastas dentales y solo le llegÃ³ 1â¦ cuidado con las promociones del artÃ­culo ya que tomando en cuenta la entrega es mejor pagar por una crema (esa segura si llega)"
+                    ]
+                }
+            }
+        ],
+        "review_volume": {
+            "current": 1177,
+            "previous": 782,
+            "change_pct": 50.51
+        },
+        "rating": {
+            "current": 4.601,
+            "previous": 4.758,
+            "change": -0.157
+        },
+        "sentiment": {
+            "current": 0.9,
+            "previous": 0.939,
+            "change": -0.039
+        },
+        "emerging_clusters": [
+            {
+                "cluster": 0,
+                "share": 0.108,
+                "change": 0.04
+            },
+            {
+                "cluster": 5,
+                "share": 0.037,
+                "change": 0.028
+            },
+            {
+                "cluster": 1,
+                "share": 0.008,
+                "change": 0.002
+            },
+            {
+                "cluster": 2,
+                "share": 0.012,
+                "change": -0.001
+            },
+            {
+                "cluster": 6,
+                "share": 0.003,
+                "change": -0.002
+            }
+        ],
+        "declining_clusters": [
+            {
+                "cluster": 3,
+                "share": 0.828,
+                "change": -0.06
+            },
+            {
+                "cluster": 8,
+                "share": 0.001,
+                "change": -0.006
+            },
+            {
+                "cluster": 4,
+                "share": 0.001,
+                "change": -0.003
+            },
+            {
+                "cluster": 6,
+                "share": 0.003,
+                "change": -0.002
+            },
+            {
+                "cluster": 2,
+                "share": 0.012,
+                "change": -0.001
+            }
+        ]
+    }
+}

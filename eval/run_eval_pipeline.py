@@ -1,0 +1,3 @@
+from clustering.eval_clustering import generate_cluster_baseline
+
+generate_cluster_baseline()
